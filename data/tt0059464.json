@@ -1,0 +1,327 @@
+{
+    "imDbId": "tt0059464",
+    "title": "Monster a Go-Go",
+    "fullTitle": "Monster a Go-Go (1965)",
+    "type": "Movie",
+    "year": "1965",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0714215",
+                "name": "Bill Rebane",
+                "description": ""
+            },
+            {
+                "id": "nm0504496",
+                "name": "Herschell Gordon Lewis",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0808657",
+                "name": "Jeff Smith",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm1074683",
+                "name": "Dok Stanford",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0714215",
+                "name": "Bill Rebane",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0504496",
+                "name": "Herschell Gordon Lewis",
+                "description": "(additional dialogue) (as Sheldon Seymour)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0608068",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Philip Morton",
+            "asCharacter": "Col. Steve Connors (as Phil Morton)"
+        },
+        {
+            "id": "nm0871403",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmM5ZDY0NjYtYmQ4OS00NjExLWJhYzMtNDZkNjE1NTZjMjMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "June Travis",
+            "asCharacter": "Ruth Logan"
+        },
+        {
+            "id": "nm0675079",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Perry",
+            "asCharacter": "Dr. Brent"
+        },
+        {
+            "id": "nm0112118",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lois Brooks",
+            "asCharacter": "Nora Kramer"
+        },
+        {
+            "id": "nm0828746",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rork Stevens",
+            "asCharacter": "Tom Logan"
+        },
+        {
+            "id": "nm0860597",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter M. Thompson",
+            "asCharacter": "Dr. Chris Manning (as Peter Thompson)"
+        },
+        {
+            "id": "nm0800732",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Simons",
+            "asCharacter": "Henry Schwartz"
+        },
+        {
+            "id": "nm0394113",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barry Hopkins",
+            "asCharacter": "Frank Logan"
+        },
+        {
+            "id": "nm0852481",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "J. Stewart Taylor",
+            "asCharacter": "Truck Driver (as Stu Taylor)"
+        },
+        {
+            "id": "nm0675177",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lorri Perry",
+            "asCharacter": "Girl at Dance"
+        },
+        {
+            "id": "nm0163854",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Del Clark",
+            "asCharacter": "Guy at Dance"
+        },
+        {
+            "id": "nm0778853",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Art Scott",
+            "asCharacter": "Karl"
+        },
+        {
+            "id": "nm0312518",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leonard Gelstein",
+            "asCharacter": "Military Officer"
+        },
+        {
+            "id": "nm0186303",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aviva Crane",
+            "asCharacter": "Convertible Driver"
+        },
+        {
+            "id": "nm0866979",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dean Tompis",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0060293",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Bassler",
+            "asCharacter": "Jimmy"
+        },
+        {
+            "id": "nm0666967",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rick Paul",
+            "asCharacter": "Helicopter Pilot"
+        },
+        {
+            "id": "nm0386926",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Henry Hite",
+            "asCharacter": "Frank Douglas / Monster"
+        },
+        {
+            "id": "nm0504496",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQxNDY2MDkwMl5BMl5BanBnXkFtZTgwNDU3MTUxMDI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Herschell Gordon Lewis",
+            "asCharacter": "Radio Announcer (voice) (uncredited)"
+        },
+        {
+            "id": "nm0714215",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Rebane",
+            "asCharacter": "Boyfriend at Dance / Narrator (voice) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0389767",
+                    "name": "Jeffrey C. Hogue",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0504496",
+                    "name": "Herschell Gordon Lewis",
+                    "description": "producer (as Sheldon S. Seymour)"
+                },
+                {
+                    "id": "nm0550569",
+                    "name": "Henry Marsh",
+                    "description": "assistant producer"
+                },
+                {
+                    "id": "nm0714215",
+                    "name": "Bill Rebane",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0679415",
+                    "name": "Frank Pfeiffer",
+                    "description": "director of cinematography"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0504496",
+                    "name": "Herschell Gordon Lewis",
+                    "description": "(as Seymour Sheldon)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0869343",
+                    "name": "Lillian Toth",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm1060165",
+                    "name": "William Johnson",
+                    "description": "second unit manager"
+                },
+                {
+                    "id": "nm0738973",
+                    "name": "Andy Romanoff",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0852481",
+                    "name": "J. Stewart Taylor",
+                    "description": "assistant director (as Stu Taylor)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0020888",
+                    "name": "Paul Allen",
+                    "description": "chief sound engineer"
+                },
+                {
+                    "id": "nm0876940",
+                    "name": "George Turek",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0912855",
+                    "name": "Howard Warren",
+                    "description": "sound mixer"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0603666",
+                    "name": "Merigail Moreland",
+                    "description": "wardrobe"
+                },
+                {
+                    "id": "nm0714214",
+                    "name": "Barbara J. Rebane",
+                    "description": "wardrobe (as Barbara Rebane)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0024633",
+                    "name": "Alex Ameri",
+                    "description": "editorial supervisor (as Peter Guilfhoyle)"
+                },
+                {
+                    "id": "nm0143552",
+                    "name": "Thomas Casey",
+                    "description": "editorial supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1734474",
+                    "name": "Ray Foster",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0293354",
+                    "name": "David F. Friedman",
+                    "description": "production assistant (as Seymour Zolotareff)"
+                },
+                {
+                    "id": "nm0312518",
+                    "name": "Leonard Gelstein",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0893742",
+                    "name": "Bobby Vercruse",
+                    "description": "crew chief (as Robert Vercruse)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

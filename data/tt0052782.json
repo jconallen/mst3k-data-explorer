@@ -1,0 +1,642 @@
+{
+    "imDbId": "tt0052782",
+    "title": "Hercules Unchained",
+    "fullTitle": "Hercules Unchained (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0290371",
+                "name": "Pietro Francisci",
+                "description": ""
+            },
+            {
+                "id": "nm0000878",
+                "name": "Mario Bava",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0290371",
+                "name": "Pietro Francisci",
+                "description": "(story) and"
+            },
+            {
+                "id": "nm0814668",
+                "name": "Sophocles",
+                "description": "(story based on: play \"Oedipus at Colonus\") &"
+            },
+            {
+                "id": "nm0012634",
+                "name": "Aeschylus",
+                "description": "(story based on: play \"The Seven Against Thebes\")"
+            },
+            {
+                "id": "nm0208086",
+                "name": "Ennio De Concini",
+                "description": "(screenplay) and"
+            },
+            {
+                "id": "nm0290371",
+                "name": "Pietro Francisci",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0716302",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk1NzQwMzE4MF5BMl5BanBnXkFtZTcwOTY3MzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steve Reeves",
+            "asCharacter": "Hercules"
+        },
+        {
+            "id": "nm0466977",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTU1ODIzMTg2N15BMl5BanBnXkFtZTcwODI3NzE0NA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Sylva Koscina",
+            "asCharacter": "Iole"
+        },
+        {
+            "id": "nm0031355",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gabriele Antonini",
+            "asCharacter": "Ulysses - Son of Laertes"
+        },
+        {
+            "id": "nm0217387",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrizia Della Rovere",
+            "asCharacter": "Penelope"
+        },
+        {
+            "id": "nm0266949",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIzMDMzNTQwNl5BMl5BanBnXkFtZTcwNTI3NzE0NA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Sergio Fantoni",
+            "asCharacter": "Eteocles"
+        },
+        {
+            "id": "nm0290546",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fulvia Franco",
+            "asCharacter": "Anticlea - Mother of Ulysses"
+        },
+        {
+            "id": "nm0195258",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTFjNmVkYjMtYjRiOC00MTMwLTlkODItMWNkNTI1ZjBmNjg4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Carlo D'Angelo",
+            "asCharacter": "Creonte - High Priest of Thebes"
+        },
+        {
+            "id": "nm0884130",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marisa Valenti",
+            "asCharacter": "Ulysses' Bride"
+        },
+        {
+            "id": "nm0658051",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTdhZGVmODgtMjIxMy00ZGVlLWE3ZTQtY2MzNjdlYzZlMzBlXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mimmo Palmara",
+            "asCharacter": "Polinices"
+        },
+        {
+            "id": "nm0851333",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQyNjA1MTMwNl5BMl5BanBnXkFtZTgwMDM5NDI0MjE@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Elda Tattoli",
+            "asCharacter": "Altmea - Mother of Ulisses' Girlfriend"
+        },
+        {
+            "id": "nm0889708",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWY5MjE3MWUtODA2MC00YjI4LWI1NjgtOWM4OWQ0MWU0MjFhXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Daniele Vargas",
+            "asCharacter": "Anfiarao (as Daniele Varga)"
+        },
+        {
+            "id": "nm0266885",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrea Fantasia",
+            "asCharacter": "Laertes - King of Ithaca"
+        },
+        {
+            "id": "nm0559818",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gino Mattera",
+            "asCharacter": "Orpheo"
+        },
+        {
+            "id": "nm0278495",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aldo Fiorelli",
+            "asCharacter": "Argos - the Shipbuilder"
+        },
+        {
+            "id": "nm0521463",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gianni Loti",
+            "asCharacter": "Sandone - Captain of the Lidian Guard"
+        },
+        {
+            "id": "nm0266945",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cesare Fantoni",
+            "asCharacter": "Oedipus - King of Thebes"
+        },
+        {
+            "id": "nm0033982",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ugo Sasso",
+            "asCharacter": "Polinice's Officer"
+        },
+        {
+            "id": "nm0953091",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Angelo Zanolli",
+            "asCharacter": "Admeo"
+        },
+        {
+            "id": "nm0716313",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDBiN2ViYzUtZGY0ZS00YTNiLTkyNjMtYmEzMDAyZmJhZGUxXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Sergio Ciani",
+            "asCharacter": "Megreo - Officer Eating Apple (as Alan Steel)"
+        },
+        {
+            "id": "nm0684266",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aldo Pini",
+            "asCharacter": "Tifi - Pilot of the Argos"
+        },
+        {
+            "id": "nm0173020",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Willi Colombini",
+            "asCharacter": "Castor - Laertes' Assistant (as Willy Colombini)"
+        },
+        {
+            "id": "nm0139996",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fulvio Carrara",
+            "asCharacter": "Pollux"
+        },
+        {
+            "id": "nm0162030",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nando Cicero",
+            "asCharacter": "Lastene"
+        },
+        {
+            "id": "nm0335694",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Walter Grant",
+            "asCharacter": "Aesculapio"
+        },
+        {
+            "id": "nm0138712",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWExZDg1NGMtOTUxNS00ZGYzLWE4MGUtMTI2MWQwM2U3ZDgzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Primo Carnera",
+            "asCharacter": "Anteo - the Giant"
+        },
+        {
+            "id": "nm0520211",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTZjMjRmYTAtMjg4MS00NzIzLWFjZmQtMTZmNWQzMDRjOTU5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Sylvia Lopez",
+            "asCharacter": "Queen Omphale"
+        },
+        {
+            "id": "nm1256523",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Colleen Bennet",
+            "asCharacter": "Ballerina at Omphale's Palace"
+        },
+        {
+            "id": "nm0312575",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2M4ZTAwNmItNDYzZC00Njk4LTkzOWMtMjRjNzM2Y2QxNzkxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Giuliano Gemma",
+            "asCharacter": "Melanippo (uncredited)"
+        },
+        {
+            "id": "nm0545579",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nino Marchetti",
+            "asCharacter": "Fossore (uncredited)"
+        },
+        {
+            "id": "nm0591860",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjg2M2Q4NDQtNzNiMi00OTA5LTgxYjctNzUzZDAwN2IyMTEyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Fabrizio Mioni",
+            "asCharacter": "Jason (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0210142",
+                    "name": "Ferruccio De Martino",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0883213",
+                    "name": "Bruno Vailati",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0556280",
+                    "name": "Enzo Masetti",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0000878",
+                    "name": "Mario Bava",
+                    "description": "(lighting director)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0004531",
+                    "name": "Mario Serandrei",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0851671",
+                    "name": "Massimo Tavazzi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0056395",
+                    "name": "Maria Baroni",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0269349",
+                    "name": "Otello Fava",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0584030",
+                    "name": "Maria Miccinilli",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm5801709",
+                    "name": "Rochetti",
+                    "description": "wigs"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0637721",
+                    "name": "Pietro Nuccorini",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0000878",
+                    "name": "Mario Bava",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0195013",
+                    "name": "Gianni D'Aloisio",
+                    "description": "assistant architect"
+                },
+                {
+                    "id": "nm0320523",
+                    "name": "Giorgio Giovannini",
+                    "description": "assistant architect"
+                },
+                {
+                    "id": "nm0595752",
+                    "name": "Flavio Mogherini",
+                    "description": "architect"
+                },
+                {
+                    "id": "nm13506129",
+                    "name": "Mario Piovano",
+                    "description": "poster artist"
+                },
+                {
+                    "id": "nm0709403",
+                    "name": "E. Rancati",
+                    "description": "weapons and props (as Rancati)"
+                },
+                {
+                    "id": "nm0849421",
+                    "name": "Tani",
+                    "description": "set dresser"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0128305",
+                    "name": "Renato Cadueri",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0450537",
+                    "name": "Paolo Ketoff",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0846568",
+                    "name": "Giulio Tagliacozzo",
+                    "description": "sound technician"
+                },
+                {
+                    "id": "nm0953086",
+                    "name": "Bruno Zanoli",
+                    "description": "microphone technician"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0000878",
+                    "name": "Mario Bava",
+                    "description": "special effects director"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0820670",
+                    "name": "Nazzareno Zamperla",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0161836",
+                    "name": "Giovanni Cianfriglia",
+                    "description": "stunt double: Steve Reeves (uncredited)"
+                },
+                {
+                    "id": "nm0293614",
+                    "name": "Mario Novelli",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0000878",
+                    "name": "Mario Bava",
+                    "description": "special lighting director"
+                },
+                {
+                    "id": "nm0221231",
+                    "name": "Danilo Desideri",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm1259406",
+                    "name": "Aldo Galfano",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm8390939",
+                    "name": "Mario Mancini",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm8338116",
+                    "name": "Domenico Parrello",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0856170",
+                    "name": "Ubaldo Terzano",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0727350",
+                    "name": "Antonio Rinaldi",
+                    "description": "gaffer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0494013",
+                    "name": "Assunto Lazzazzera",
+                    "description": "dress maker (as Assunta Lazzazera)"
+                },
+                {
+                    "id": "nm0647229",
+                    "name": "Mimma Olivieri",
+                    "description": "dress maker"
+                },
+                {
+                    "id": "nm1284098",
+                    "name": "Pompei",
+                    "description": "footwear"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm1257193",
+                    "name": "Misa Gabrini",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm0796409",
+                    "name": "Salvatore Siciliano",
+                    "description": "location sets (as Ture Siciliano)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006274",
+                    "name": "Carlo Savina",
+                    "description": "musical director"
+                },
+                {
+                    "id": "nm0215554",
+                    "name": "Marisa Del Frate",
+                    "description": "singing voice: Sylva Koscina (uncredited)"
+                },
+                {
+                    "id": "nm0885115",
+                    "name": "June Valli",
+                    "description": "singing voice: Sylva Koscina (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0123954",
+                    "name": "Barbara Fusch",
+                    "description": "continuity"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1256573",
+                    "name": "Johnny Blysdeal",
+                    "description": "choreographer"
+                },
+                {
+                    "id": "nm0109528",
+                    "name": "Dante Brini",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0176610",
+                    "name": "Spartaco Conversi",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0211160",
+                    "name": "Massimo De Rita",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0505854",
+                    "name": "Joseph E. Levine",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0337449",
+                    "name": "Enzo Musumeci Greco",
+                    "description": "fencing master (as Enzo Musumeci)"
+                },
+                {
+                    "id": "nm1106808",
+                    "name": "Gianfranco Bellini",
+                    "description": "voice dubbing: Aldo Fiorell (uncredited)"
+                },
+                {
+                    "id": "nm0076005",
+                    "name": "Clelia Bernacchi",
+                    "description": "voice dubbing: Fulvia Franco (uncredited)"
+                },
+                {
+                    "id": "nm0134993",
+                    "name": "Giorgio Capecchi",
+                    "description": "voice dubbing: Primo Carnera (uncredited)"
+                },
+                {
+                    "id": "nm0162242",
+                    "name": "Emilio Cigoli",
+                    "description": "voice dubbing: Steve Reeves (uncredited)"
+                },
+                {
+                    "id": "nm0207068",
+                    "name": "Gualtiero De Angelis",
+                    "description": "voice dubbing: Andrea Fantasia (uncredited)"
+                },
+                {
+                    "id": "nm0224078",
+                    "name": "Maria Pia Di Meo",
+                    "description": "voice dubbing: Sylva Koscina (uncredited)"
+                },
+                {
+                    "id": "nm0269977",
+                    "name": "Vittoria Febbi",
+                    "description": "voice dubbing: Patrizia Della Rovere (uncredited)"
+                },
+                {
+                    "id": "nm0307995",
+                    "name": "Ivo Garrani",
+                    "description": "voice dubbing: Cesare Fantoni (uncredited)"
+                },
+                {
+                    "id": "nm0311165",
+                    "name": "Lauro Gazzolo",
+                    "description": "voice dubbing: Walter Grant (uncredited)"
+                },
+                {
+                    "id": "nm0656512",
+                    "name": "Andreina Pagnani",
+                    "description": "voice dubbing: Sylvia Lopez (uncredited)"
+                },
+                {
+                    "id": "nm0659484",
+                    "name": "Giulio Panicali",
+                    "description": "voice dubbing: Carlo D'Angelo (uncredited)"
+                },
+                {
+                    "id": "nm1403175",
+                    "name": "Bruno Persa",
+                    "description": "voice dubbing: Daniele Vargas (uncredited)"
+                },
+                {
+                    "id": "nm0876938",
+                    "name": "Massimo Turci",
+                    "description": "voice dubbing: Gabriele Antonini (uncredited)"
+                },
+                {
+                    "id": "nm0877093",
+                    "name": "Renato Turi",
+                    "description": "voice dubbing: Mimmo Palmara (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

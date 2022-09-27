@@ -1,0 +1,164 @@
+{
+    "imDbId": "tt0128224",
+    "title": "Fugitive Alien",
+    "fullTitle": "Fugitive Alien (1986)",
+    "type": "Movie",
+    "year": "1986",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0437124",
+                "name": "Minoru Kanaya",
+                "description": ""
+            },
+            {
+                "id": "nm0476729",
+                "name": "Kiyosumi Kuzakawa",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0008350",
+                "name": "Keiichi Abe",
+                "description": ""
+            },
+            {
+                "id": "nm0906740",
+                "name": "Bunzô Wakatsuki",
+                "description": "(as Bunzou Wakatsuki) &"
+            },
+            {
+                "id": "nm0032905",
+                "name": "Yoshihisa Araki",
+                "description": ""
+            },
+            {
+                "id": "nm0945517",
+                "name": "Hiroyasu Yamaura",
+                "description": ""
+            },
+            {
+                "id": "nm1618273",
+                "name": "Hideyoshi Nagasaki",
+                "description": "(as Hideyoshi Nagasaka) &"
+            },
+            {
+                "id": "nm0029331",
+                "name": "Toyohiro Andô",
+                "description": "(as Toyohiro Andou)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0044462",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tatsuya Azuma",
+            "asCharacter": "Ken"
+        },
+        {
+            "id": "nm0849461",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miyuki Tanigawa",
+            "asCharacter": "Tammy"
+        },
+        {
+            "id": "nm0794425",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTY1MDQyN15BMl5BanBnXkFtZTcwNTc3NzE5Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jô Shishido",
+            "asCharacter": "Captain Joe (as Joe Shishido)"
+        },
+        {
+            "id": "nm0847110",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chôei Takahashi",
+            "asCharacter": "Rocky"
+        },
+        {
+            "id": "nm0950801",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tsutomu Yukawa",
+            "asCharacter": "Dan"
+        },
+        {
+            "id": "nm0851229",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiro Tateyama",
+            "asCharacter": "Biri"
+        },
+        {
+            "id": "nm0386284",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDg5YjRmYmMtMjIyYS00MTM1LTkxMTAtNjRjYTNhYTRjN2Y5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Akihiko Hirata",
+            "asCharacter": "Alien (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "executive producer (English language version)"
+                },
+                {
+                    "id": "nm0762952",
+                    "name": "Jushichi Sano",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0875211",
+                    "name": "Akira Tsuburaya",
+                    "description": "producer (as Akiri Tsuburaya)"
+                },
+                {
+                    "id": "nm0875215",
+                    "name": "Noboru Tsuburaya",
+                    "description": "producer (as Noburu Tsuburaya)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0535344",
+                    "name": "Norio Maeda",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0177828",
+                    "name": "William L. Cooper Jr.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0177828",
+                    "name": "William L. Cooper Jr.",
+                    "description": "feature concept (as William L Cooper Jr)"
+                },
+                {
+                    "id": "nm0900912",
+                    "name": "Jesse Vogel",
+                    "description": "dialogue director (as Jessie Vogel)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

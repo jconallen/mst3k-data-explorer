@@ -1,0 +1,430 @@
+{
+    "imDbId": "tt0055408",
+    "title": "Santo vs. the Vampire Women",
+    "fullTitle": "Santo vs. the Vampire Women (1962)",
+    "type": "Movie",
+    "year": "1962",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0086466",
+                "name": "Alfonso Corona Blake",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0649650",
+                "name": "Antonio Orellana",
+                "description": "(story) &"
+            },
+            {
+                "id": "nm0652679",
+                "name": "Fernando Osés",
+                "description": "(story) and"
+            },
+            {
+                "id": "nm0305885",
+                "name": "Rafael García Travesi",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0305885",
+                "name": "Rafael García Travesi",
+                "description": "(adaptation)"
+            },
+            {
+                "id": "nm0086466",
+                "name": "Alfonso Corona Blake",
+                "description": "(scenario consultant)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0763803",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjc0YzcyZDUtMTc4Ni00MzA3LWJjNTQtYjUxNjYwOGMyNDdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Santo",
+            "asCharacter": "El Enmascarado de Plata"
+        },
+        {
+            "id": "nm0892816",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjQ1ZTM1OWItODFkZi00ZjAxLWE5ZWMtNDBmN2ZkMzJlZGQ4XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lorena Velázquez",
+            "asCharacter": "Zorina, queen of the vampires"
+        },
+        {
+            "id": "nm0245065",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTY0ZTI0NTEtMWYzYy00NjRlLWJkYjMtZGI4NGE4M2I3ZTZkXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio1.1818_AL_.jpg",
+            "name": "María Duval",
+            "asCharacter": "Diana Orlof"
+        },
+        {
+            "id": "nm0272979",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWQ0ZmFkZTUtYTlmNy00MTcyLTk1ODQtZDk0YzQ3YjIzMjMxXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jaime Fernández",
+            "asCharacter": "Insp. Carlos"
+        },
+        {
+            "id": "nm0070748",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjBhODAwNzQtZTc4Mi00ODQwLThkN2ItZTQ3OWUxZDNlMDdjXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Augusto Benedico",
+            "asCharacter": "Prof. Orlof"
+        },
+        {
+            "id": "nm0523453",
+            "image": "https://m.media-amazon.com/images/M/MV5BODU4NmVlZmYtOTNiMS00NGUwLWE1YTctOTllOWVmM2Y2OWY1XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Xavier Loyá",
+            "asCharacter": "Jorge - Diana's fiance (as Javier Loya)"
+        },
+        {
+            "id": "nm0599621",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDU2NjQ3MF5BMl5BanBnXkFtZTcwOTg4MTM5Ng@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Ofelia Montesco",
+            "asCharacter": "Tundra, vampire priestess"
+        },
+        {
+            "id": "nm0652679",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmUxMmMxMWEtZDk4ZS00N2E0LTg0MWQtYWQ4MGZhMWZjYmU2XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Fernando Osés",
+            "asCharacter": "Vampire"
+        },
+        {
+            "id": "nm0379958",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Guillermo Hernández",
+            "asCharacter": "Vampire"
+        },
+        {
+            "id": "nm0291284",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWQzNDVhYTYtNmZmNC00Y2I0LWE5ZmMtOGEwZDYxNDgwNWZjXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nathanael León",
+            "asCharacter": "Vampire (as Leon Moreno)"
+        },
+        {
+            "id": "nm0010502",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ricardo Adalid",
+            "asCharacter": "Detective at Party"
+        },
+        {
+            "id": "nm0302148",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cavernario Galindo",
+            "asCharacter": "Cavernario"
+        },
+        {
+            "id": "nm0579354",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ray Mendoza",
+            "asCharacter": "El Indio"
+        },
+        {
+            "id": "nm0190232",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alejandro Cruz",
+            "asCharacter": "Black Shadow"
+        },
+        {
+            "id": "nm0093729",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDNjOGU2NWUtZGMxNy00NjdkLWEyMGMtZTRlNmQ4YmYxOTU0XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bobby Bonales",
+            "asCharacter": "Self"
+        },
+        {
+            "id": "nm0093690",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eduardo Bonada",
+            "asCharacter": "Self"
+        },
+        {
+            "id": "nm2441524",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Javier Samperio",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0038185",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marco Antonio Arzate",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0306140",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gonzalo García",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0526058",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margarito Luna",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2440201",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "José Chávez Agundes",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0056911",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "René Barrera",
+            "asCharacter": "Detective at Main Gate"
+        },
+        {
+            "id": "nm0142926",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jorge Casanova",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2440098",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miguel Tejeda Santillana",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0868401",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pedro de la Torre",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0340566",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fabian Grey",
+            "asCharacter": "Interpretada por: 'Sonata de Amor'"
+        },
+        {
+            "id": "nm0010162",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Armando Acosta",
+            "asCharacter": "Waiter (uncredited)"
+        },
+        {
+            "id": "nm0058229",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alfredo Wally Barrón",
+            "asCharacter": "Santo's 'Second' (uncredited)"
+        },
+        {
+            "id": "nm0549828",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laura Marquetti",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0655688",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Antonio Padilla 'Pícoro'",
+            "asCharacter": "Ring Announcer (uncredited)"
+        },
+        {
+            "id": "nm0733302",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY4NTM5MzkwNF5BMl5BanBnXkFtZTcwMjE0MjUzMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Carlos Robles Gil",
+            "asCharacter": "Orlof's Butler (uncredited)"
+        },
+        {
+            "id": "nm0736740",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMmM3MmYtNjlmNy00N2Q2LWEwNTctNTU2Zjk3NjQ5ZjEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Bill Rogers",
+            "asCharacter": "Prof. Orloff (uncredited)"
+        },
+        {
+            "id": "nm0892837",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Víctor Velázquez",
+            "asCharacter": "Coroner (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0529994",
+                    "name": "Alberto López",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0651051",
+                    "name": "José Ortiz Ramos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm1804426",
+                    "name": "José W. Bustos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0798502",
+                    "name": "Roberto Silva",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0140038",
+                    "name": "Ernesto Carrasco",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0433372",
+                    "name": "Román Juárez",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0845184",
+                    "name": "Teresa Sánchez",
+                    "description": "hair stylist (as Ma. Teresa Sanchez)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0136414",
+                    "name": "Jorge Cardeña",
+                    "description": "production chief"
+                },
+                {
+                    "id": "nm0305624",
+                    "name": "Luis García de León",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0898030",
+                    "name": "Ignacio Villareal",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0558282",
+                    "name": "Javier Mateos",
+                    "description": "dialogue recordist"
+                },
+                {
+                    "id": "nm0760635",
+                    "name": "Manuel San Fernando",
+                    "description": "dubbing supervisor (English-language version)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0616337",
+                    "name": "Juan Muñoz Ravelo",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0306437",
+                    "name": "Rafael García",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0328324",
+                    "name": "Manuel González",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0530059",
+                    "name": "Daniel López",
+                    "description": "lighting technician"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0692416",
+                    "name": "Raúl Portillo",
+                    "description": "synchronization editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006165",
+                    "name": "Raúl Lavista",
+                    "description": "musical director"
+                },
+                {
+                    "id": "nm0760077",
+                    "name": "Galdino R. Samperio",
+                    "description": "music recordist (as Galdino Samperio 'Cruci')"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm1888614",
+                    "name": "Humberto Gavaldón",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1737932",
+                    "name": "Eduardo Mendoza",
+                    "description": "titles (as Eduardo Mendoza H.)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

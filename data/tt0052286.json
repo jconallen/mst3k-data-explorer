@@ -1,0 +1,273 @@
+{
+    "imDbId": "tt0052286",
+    "title": "Terror from the Year 5000",
+    "fullTitle": "Terror from the Year 5000 (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0348673",
+                "name": "Robert J. Gurney Jr.",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0348673",
+                "name": "Robert J. Gurney Jr.",
+                "description": "(written by)"
+            },
+            {
+                "id": "nm0805748",
+                "name": "Henry Slesar",
+                "description": "(story \"Bottle Baby\") (uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0182626",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ward Costello",
+            "asCharacter": "Dr. Robert Hedges"
+        },
+        {
+            "id": "nm0390215",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWViY2E1ZjUtMDZmNy00N2ZkLTg5ODctYjAyMWM5M2YxMDJkXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joyce Holden",
+            "asCharacter": "Claire Erling"
+        },
+        {
+            "id": "nm0236178",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2I4MzVlNWYtYjE4NC00MzFmLTljMzgtNDE5NDdkM2Y4ODNmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frederic Downs",
+            "asCharacter": "Prof. Howard Erling"
+        },
+        {
+            "id": "nm2122105",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Stratton",
+            "asCharacter": "Victor"
+        },
+        {
+            "id": "nm0421300",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTYwYzZkNzAtZTZhNy00OTg5LThlMDUtOWFlZTE5OTNkN2MyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Salome Jens",
+            "asCharacter": "Future Woman / Nurse"
+        },
+        {
+            "id": "nm0380601",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fred Herrick",
+            "asCharacter": "Angelo"
+        },
+        {
+            "id": "nm0298841",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Beatrice Furdeaux",
+            "asCharacter": "Miss Blake"
+        },
+        {
+            "id": "nm11620634",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Diamond",
+            "asCharacter": "First Lab Technician"
+        },
+        {
+            "id": "nm2156174",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fred Taylor",
+            "asCharacter": "Second Lab Technician"
+        },
+        {
+            "id": "nm0236155",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Downs",
+            "asCharacter": "Dr. Blair"
+        },
+        {
+            "id": "nm0182032",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Cost",
+            "asCharacter": "Joe the Bartender"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0348673",
+                    "name": "Robert J. Gurney Jr.",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0780670",
+                    "name": "Gene Searchinger",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm1125770",
+                    "name": "Richard DuPage",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0283073",
+                    "name": "Arthur Florman",
+                    "description": "(photographed by)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0020441",
+                    "name": "Dede Allen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0514306",
+                    "name": "Rudolph Liszt",
+                    "description": "makeup artist (as Rudolph Listz)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0345964",
+                    "name": "Beatrice Guerney",
+                    "description": "production supervisor (as Beatrice Gurney)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm11620634",
+                    "name": "Jack Diamond",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0110744",
+                    "name": "Henderson 'Gus' Bockway",
+                    "description": "properties (as Gus Bockway)"
+                },
+                {
+                    "id": "nm0388825",
+                    "name": "Bill Hoffman",
+                    "description": "scenic designer"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0368899",
+                    "name": "Robert Hathaway",
+                    "description": "sound engineer (as Bob Hathaway)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0908686",
+                    "name": "Jack Wallace",
+                    "description": "head grip"
+                },
+                {
+                    "id": "nm4787083",
+                    "name": "Richard Gable",
+                    "description": "gaffer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0128248",
+                    "name": "Emil Cadkin",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0974829",
+                    "name": "Paul Csonka",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0368859",
+                    "name": "Anita Hathaway",
+                    "description": "script clerk"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0360221",
+                    "name": "Mark Hanna",
+                    "description": "production coordinator"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "presenter"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,313 @@
+{
+    "imDbId": "tt0052646",
+    "title": "The Brain That Wouldn't Die",
+    "fullTitle": "The Brain That Wouldn't Die (1962)",
+    "type": "Movie",
+    "year": "1962",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0338018",
+                "name": "Joseph Green",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0338018",
+                "name": "Joseph Green",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0138223",
+                "name": "Rex Carlton",
+                "description": "(original story) and"
+            },
+            {
+                "id": "nm0338018",
+                "name": "Joseph Green",
+                "description": "(original story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0263645",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjcxYTI2MDYtNDQyNS00NGJiLThhZDMtNzU4MGMyOGFjNTgyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Jason Evers",
+            "asCharacter": "Dr. Bill Cortner (as Herb Evers)"
+        },
+        {
+            "id": "nm0500702",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGU3ODM4ZjUtZmFlZi00MWNiLWI1MTItMDI5YjFlMGEwNzJhXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Virginia Leith",
+            "asCharacter": "Jan Compton / Jan in the Pan"
+        },
+        {
+            "id": "nm0200012",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony La Penna",
+            "asCharacter": "Kurt (as Leslie Daniel)"
+        },
+        {
+            "id": "nm0483641",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adele Lamont",
+            "asCharacter": "Doris Powell"
+        },
+        {
+            "id": "nm0788771",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bonnie Sharie",
+            "asCharacter": "Blonde Stripper"
+        },
+        {
+            "id": "nm0561128",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paula Morris",
+            "asCharacter": "Brunet Stripper"
+        },
+        {
+            "id": "nm0360516",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjY3ZGQyNTYtNDcwOC00M2VlLTg0ZmYtN2VlNTRlNDA1YTgxXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Marilyn Hanold",
+            "asCharacter": "Peggy Howard (as Marlyn Hanold)"
+        },
+        {
+            "id": "nm0109217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce Brighton",
+            "asCharacter": "Dr. Cortner"
+        },
+        {
+            "id": "nm0293291",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arny Freeman",
+            "asCharacter": "Photographer"
+        },
+        {
+            "id": "nm0552299",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fred Martin",
+            "asCharacter": "Medical Assistant"
+        },
+        {
+            "id": "nm0556820",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lola Mason",
+            "asCharacter": "Donna Williams"
+        },
+        {
+            "id": "nm0107570",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Doris Brent",
+            "asCharacter": "Nurse"
+        },
+        {
+            "id": "nm0449657",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmEyMDIwOWYtMzA3Ni00MDRkLWJkNmUtNTBjZjRkYzJhYWU2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bruce Kerr",
+            "asCharacter": "Beauty Contest M.C."
+        },
+        {
+            "id": "nm0222351",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Audrey Devereau",
+            "asCharacter": "Jeannie Reynolds"
+        },
+        {
+            "id": "nm0138350",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eddie Carmel",
+            "asCharacter": "Monster"
+        },
+        {
+            "id": "nm0678016",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGVlYzc0MTYtZTZhNi00ZjEwLThmZjUtNmVkYWMwN2I1ZGM2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Sammy Petrillo",
+            "asCharacter": "Art (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0138223",
+                    "name": "Rex Carlton",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0484511",
+                    "name": "Mort Landberg",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0354518",
+                    "name": "Stephen Hajnal",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0027120",
+                    "name": "Marc Anderson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0266836",
+                    "name": "Paul Fanning",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0275562",
+                    "name": "George Fiala",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0504385",
+                    "name": "Alfred H. Lessner",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0478702",
+                    "name": "Tony LaMarca",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0687542",
+                    "name": "Walter Pluff Jr.",
+                    "description": "propertyman"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0464118",
+                    "name": "Emil Kolisch",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0504392",
+                    "name": "Robert E. Lessner",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0046332",
+                    "name": "Byron Baer",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0216353",
+                    "name": "Vincent Delaney",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0369434",
+                    "name": "John Haupt Jr.",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0005837",
+                    "name": "Jack Priestley",
+                    "description": "camera operator (as John S. Priestley)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0027075",
+                    "name": "Leonard Anderson",
+                    "description": "supervising film editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0086246",
+                    "name": "Eva Blair",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0107570",
+                    "name": "Doris Brent",
+                    "description": "additional dialogue"
+                },
+                {
+                    "id": "nm0107588",
+                    "name": "Linda Brent",
+                    "description": "assistant to producer"
+                },
+                {
+                    "id": "nm0311226",
+                    "name": "Jim Geallis",
+                    "description": "assistant to producer (as James Gealis)"
+                },
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

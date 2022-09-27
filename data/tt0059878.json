@@ -1,0 +1,463 @@
+{
+    "imDbId": "tt0059878",
+    "title": "Village of the Giants",
+    "fullTitle": "Village of the Giants (1965)",
+    "type": "Movie",
+    "year": "1965",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0920229",
+                "name": "H.G. Wells",
+                "description": "(novel)"
+            },
+            {
+                "id": "nm0128845",
+                "name": "Alan Caillou",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": "(screen story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0456565",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTkzNDAwMF5BMl5BanBnXkFtZTcwMTAzOTI2OQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tommy Kirk",
+            "asCharacter": "Mike"
+        },
+        {
+            "id": "nm0186844",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzNlYmEwYTktMjA2Zi00Y2Q3LThlZTItN2NjMmFiYWFhMTM2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Johnny Crawford",
+            "asCharacter": "Horsey"
+        },
+        {
+            "id": "nm0000977",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA5MTY4NzEzOF5BMl5BanBnXkFtZTYwNjgyNTIz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Beau Bridges",
+            "asCharacter": "Fred"
+        },
+        {
+            "id": "nm0000165",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ron Howard",
+            "asCharacter": "Genius (as Ronny Howard)"
+        },
+        {
+            "id": "nm0363518",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxMzIxNDk0MF5BMl5BanBnXkFtZTcwODg1NjAxOA@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Joy Harmon",
+            "asCharacter": "Merrie"
+        },
+        {
+            "id": "nm0709947",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTcxMzBjNGEtMDI3Zi00YmEwLWEyMzEtZjRlYjlmYTViOGVhXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Random",
+            "asCharacter": "Rick (as Bob Random)"
+        },
+        {
+            "id": "nm0827594",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxNjQ1MjExMV5BMl5BanBnXkFtZTgwMTQ5ODEzMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Tisha Sterling",
+            "asCharacter": "Jean"
+        },
+        {
+            "id": "nm0230542",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzM5NmU0ZDItNTM0Yy00OTM4LWI0MDItMzBmYTMyMmNlNWI0XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Charla Doherty",
+            "asCharacter": "Nancy"
+        },
+        {
+            "id": "nm0740362",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTJiNWJkYmMtNjk2Ni00NTYxLThjMTYtNDNjYmUzYjkzZmQ0XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Tim Rooney",
+            "asCharacter": "Pete"
+        },
+        {
+            "id": "nm0641915",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kevin O'Neal",
+            "asCharacter": "Harry"
+        },
+        {
+            "id": "nm0319522",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gail Gilmore",
+            "asCharacter": "Elsa"
+        },
+        {
+            "id": "nm0059844",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTI3ODQ4MzExOF5BMl5BanBnXkFtZTYwMDI1NjA1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Toni Basil",
+            "asCharacter": "Red"
+        },
+        {
+            "id": "nm0428191",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTE2ODYxOV5BMl5BanBnXkFtZTcwMzU5MDAzMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Hank Jones",
+            "asCharacter": "Chuck"
+        },
+        {
+            "id": "nm0066719",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDJmNGNkZTItNjhkMy00OTE4LWJiOTItMTk4NjgzODU1YzA2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jim Begg",
+            "asCharacter": "Fatso"
+        },
+        {
+            "id": "nm0518795",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vicki London",
+            "asCharacter": "Georgette"
+        },
+        {
+            "id": "nm0877185",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM0Njk5MTk4Ml5BMl5BanBnXkFtZTcwODk4NDIwNA@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Joe Turkel",
+            "asCharacter": "Sheriff (as Joseph Turkel)"
+        },
+        {
+            "id": "nm1064853",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTIzMDIzMjctNjNkOS00Y2VkLTkyYzgtMDM1ODZmZmVjYzMwXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0000_AL_.jpg",
+            "name": "The Beau Brummels",
+            "asCharacter": "Themselves / Singers"
+        },
+        {
+            "id": "nm0254615",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Elliott",
+            "asCharacter": "Self (as The Beau Brummels)"
+        },
+        {
+            "id": "nm0575115",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Meagher",
+            "asCharacter": "Self (as The Beau Brummels)"
+        },
+        {
+            "id": "nm0612294",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Declan Mulligan",
+            "asCharacter": "Self (as The Beau Brummels)"
+        },
+        {
+            "id": "nm0677223",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Peterson",
+            "asCharacter": "Self (as The Beau Brummels)"
+        },
+        {
+            "id": "nm0884389",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sal Valentino",
+            "asCharacter": "Self (as The Beau Brummels)"
+        },
+        {
+            "id": "nm0134194",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Freddie Cannon",
+            "asCharacter": "Singer (as Freddy Cannon)"
+        },
+        {
+            "id": "nm0166667",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Clifford",
+            "asCharacter": "Singer"
+        },
+        {
+            "id": "nm0832554",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Debi Storm",
+            "asCharacter": "Cora"
+        },
+        {
+            "id": "nm0397555",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQwNTY0NTc2Nl5BMl5BanBnXkFtZTcwNzk0NDQyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rance Howard",
+            "asCharacter": "Deputy"
+        },
+        {
+            "id": "nm1372235",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjAwODM2OTM3M15BMl5BanBnXkFtZTcwNDA1NTYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Higgins",
+            "asCharacter": "Wolf the pet dog (uncredited)"
+        },
+        {
+            "id": "nm0448483",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDlmNTA0MGMtZWU2Ni00ZGQ5LTllYzAtOGNjN2E1YWQ3ZWVlXkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_Ratio1.2727_AL_.jpg",
+            "name": "June Kenney",
+            "asCharacter": "Basement Girl (uncredited)"
+        },
+        {
+            "id": "nm0469567",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jonathan Kramer",
+            "asCharacter": "Man Dancing Brown Sweater (uncredited)"
+        },
+        {
+            "id": "nm1248838",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI5ODE5MDM3NF5BMl5BanBnXkFtZTcwNjQ3MDgyMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Orangey",
+            "asCharacter": "Giant Cat (uncredited)"
+        },
+        {
+            "id": "nm0727849",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christopher Riordan",
+            "asCharacter": "Go-Go Dancer (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0330026",
+                    "name": "Bert I. Gordon",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006217",
+                    "name": "Jack Nitzsche",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0900944",
+                    "name": "Paul Vogel",
+                    "description": "director of photography (as Paul C. Vogel)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0124253",
+                    "name": "John A. Bushelman",
+                    "description": "(as John Bushelman)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0045414",
+                    "name": "Franz Bachelin",
+                    "description": ""
+                },
+                {
+                    "id": "nm0673134",
+                    "name": "Hal Pereira",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0072960",
+                    "name": "Robert R. Benton",
+                    "description": "(as Bob Benton)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0542596",
+                    "name": "Nellie Manley",
+                    "description": "hair styles supervisor"
+                },
+                {
+                    "id": "nm0922885",
+                    "name": "Wally Westmore",
+                    "description": "makeup supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0128430",
+                    "name": "Frank Caffey",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm0585280",
+                    "name": "Curtis Mick",
+                    "description": "assistant production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0742362",
+                    "name": "James A. Rosenberger",
+                    "description": "assistant director (as Jim Rosenberger)"
+                },
+                {
+                    "id": "nm0745793",
+                    "name": "Carl 'Major' Roup",
+                    "description": "second assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0923651",
+                    "name": "Ross Wheat",
+                    "description": "special prop constructor"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0141728",
+                    "name": "John R. Carter",
+                    "description": "sound recordist (as John Carter)"
+                },
+                {
+                    "id": "nm0180100",
+                    "name": "Arthur Cornell",
+                    "description": "sound effects (as Jack Cornall)"
+                },
+                {
+                    "id": "nm0340311",
+                    "name": "Charles Grenzbach",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0870234",
+                    "name": "Herman E. Townsley",
+                    "description": "special effects (as Herman Townsley)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0249643",
+                    "name": "Farciot Edouart",
+                    "description": "process photography"
+                },
+                {
+                    "id": "nm0330026",
+                    "name": "Bert I. Gordon",
+                    "description": "special visual effects"
+                },
+                {
+                    "id": "nm0330187",
+                    "name": "Flora M. Gordon",
+                    "description": "special visual effects (as Flora Gordon)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0606972",
+                    "name": "Thomas Morris",
+                    "description": "camera operator (as Tom Morris)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0722479",
+                    "name": "Leah Rhodes",
+                    "description": "costumer"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006217",
+                    "name": "Jack Nitzsche",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm0657609",
+                    "name": "Charles Paley",
+                    "description": "music editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0951177",
+                    "name": "Dorothy Yutzi",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0059844",
+                    "name": "Toni Basil",
+                    "description": "choreographer"
+                },
+                {
+                    "id": "nm0505854",
+                    "name": "Joseph E. Levine",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0656731",
+                    "name": "Marvin Paige",
+                    "description": "talent coordinator"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

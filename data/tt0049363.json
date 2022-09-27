@@ -1,0 +1,243 @@
+{
+    "imDbId": "tt0049363",
+    "title": "Indestructible Man",
+    "fullTitle": "Indestructible Man (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0689565",
+                "name": "Jack Pollexfen",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0751500",
+                "name": "Vy Russell",
+                "description": "(original screenplay) and"
+            },
+            {
+                "id": "nm0103084",
+                "name": "Sue Dwiggins",
+                "description": "(original screenplay) (as Sue Bradford)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0001033",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgzMTM4NTkxMV5BMl5BanBnXkFtZTYwNjI1MjI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Lon Chaney Jr.",
+            "asCharacter": "Charles Benton (as Lon Chaney)"
+        },
+        {
+            "id": "nm0795289",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk4NzY3MDc4N15BMl5BanBnXkFtZTcwMzk5MzkxOA@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Max Showalter",
+            "asCharacter": "Lt. Dick Chasen (as Casey Adams)"
+        },
+        {
+            "id": "nm0139792",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2YyNDQwZjItY2E0MS00NGFhLTk1NTgtMWVhMjk5NWYzZDY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marian Carr",
+            "asCharacter": "Eva Martin (as Marion Carr)"
+        },
+        {
+            "id": "nm0254616",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTRhOTY3NzAtYjc2OS00YjYyLTgwZTItNDlmMTE0NzY2OTdmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ross Elliott",
+            "asCharacter": "Paul Lowe"
+        },
+        {
+            "id": "nm0709695",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUyOTk2NDY2NV5BMl5BanBnXkFtZTgwNzMxNDY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Stuart Randall",
+            "asCharacter": "Capt. John Lauder"
+        },
+        {
+            "id": "nm0855827",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWUxZDQ3MzktZTUzMy00ZWNmLWFhZDItMGM2YTI5ODM0ODVmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ken Terrell",
+            "asCharacter": "Joe Marcellia (as Kenneth Terrell)"
+        },
+        {
+            "id": "nm0822994",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTYyZTljMGUtNzkyYS00MjI3LThiMGItYTQ2YzM0NzZmODgzXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Marjorie Stapp",
+            "asCharacter": "Hysterical Young Woman"
+        },
+        {
+            "id": "nm0790171",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA5MTk1ODg2OV5BMl5BanBnXkFtZTgwNTg5NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Shayne",
+            "asCharacter": "Prof. Bradshaw"
+        },
+        {
+            "id": "nm0539439",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY1NWRjMzYtNzFjOS00YTc5LTk4N2ItZDJiNzc4Y2IzNWVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Peggy Maley",
+            "asCharacter": "Francine"
+        },
+        {
+            "id": "nm0288311",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDA2MDE3NWUtZTRhYS00YWI2LThmMjgtYmVjMDkxYmM3YzU4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Robert Foulk",
+            "asCharacter": "Harry"
+        },
+        {
+            "id": "nm0338259",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reita Green",
+            "asCharacter": "Carney's Bait (as Rita Green)"
+        },
+        {
+            "id": "nm0257140",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjA4YWQ2NDctOTc2NC00NmNlLThkZGItOTBjZmJlNWYyMGUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Roy Engel",
+            "asCharacter": "Desk Sergeant (as Roy Engle)"
+        },
+        {
+            "id": "nm0166490",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Madge Cleveland",
+            "asCharacter": "Screaming Woman"
+        },
+        {
+            "id": "nm0104585",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTM2MGRhNmUtNjAxMC00MTQ4LWIxODAtYWYzNGVhNTJkMzRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Chet Brandenburg",
+            "asCharacter": "Police Officer with Flamethrower (uncredited)"
+        },
+        {
+            "id": "nm0193802",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Russell Custer",
+            "asCharacter": "Police Officer (uncredited)"
+        },
+        {
+            "id": "nm0283499",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA3MDUxNTMxMV5BMl5BanBnXkFtZTcwNzA4MjcxOA@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Joe Flynn",
+            "asCharacter": "Bradshaw's Assistant (uncredited)"
+        },
+        {
+            "id": "nm0285620",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMwNThmNmQtYzRiYi00NGI1LTlmOGItYWYyYmRkODVlMGY1XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Dorothy Ford",
+            "asCharacter": "Tall Stripper (uncredited)"
+        },
+        {
+            "id": "nm0490027",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTY3NTdmNTYtZGVmMS00NDZjLWIyNzUtMDBjZDMwZjQ2NDU1XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lyle Latell",
+            "asCharacter": "Police Sergeant (uncredited)"
+        },
+        {
+            "id": "nm0549979",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWU3YWE1ZWYtMWUwZi00MmE0LWFmMDItOTQzZTBkZTYwOGY5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.5455_AL_.jpg",
+            "name": "Eddie Marr",
+            "asCharacter": "Carney (uncredited)"
+        },
+        {
+            "id": "nm0254974",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marvin Press",
+            "asCharacter": "Squeamy Ellis (uncredited)"
+        },
+        {
+            "id": "nm0710941",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjA0NDVjZmMtNTBmYi00ODYyLWI0NjQtYzkxODk4YzM1Yzg3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Fred Rapport",
+            "asCharacter": "Observer at Crime Scene (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0689565",
+                    "name": "Jack Pollexfen",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005852",
+                    "name": "John L. Russell",
+                    "description": "(as John Russell Jr.) (photography)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0270808",
+                    "name": "Fred R. Feitshans Jr.",
+                    "description": "(as Fred Feitshans Jr.)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0392284",
+                    "name": "Theobold Holsopple",
+                    "description": "(as Ted Holsopple)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0079601",
+                    "name": "Chris Beute",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0855827",
+                    "name": "Ken Terrell",
+                    "description": "stunt double (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0507390",
+                    "name": "Joseph H. Lewis",
+                    "description": "supervising editor (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

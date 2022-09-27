@@ -1,0 +1,470 @@
+{
+    "imDbId": "tt0042897",
+    "title": "Rocketship X-M",
+    "fullTitle": "Rocketship X-M (1950)",
+    "type": "Movie",
+    "year": "1950",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0627087",
+                "name": "Kurt Neumann",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0359034",
+                "name": "Orville H. Hampton",
+                "description": "(additional dialogue) (as Orville Hampton)"
+            },
+            {
+                "id": "nm0627087",
+                "name": "Kurt Neumann",
+                "description": "(written by)"
+            },
+            {
+                "id": "nm0874308",
+                "name": "Dalton Trumbo",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000978",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIzNjM5NTQ4MV5BMl5BanBnXkFtZTYwMzgwMTM2._V1_Ratio0.8182_AL_.jpg",
+            "name": "Lloyd Bridges",
+            "asCharacter": "Col. Floyd Graham"
+        },
+        {
+            "id": "nm0535169",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM5NDQ3NTY5NV5BMl5BanBnXkFtZTYwNzQ4NjQ2._V1_Ratio1.3182_AL_.jpg",
+            "name": "Osa Massen",
+            "asCharacter": "Dr. Lisa Van Horn"
+        },
+        {
+            "id": "nm0256305",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmUxZDhjOTgtMzMwYS00NDdlLTk3MmQtY2ZiNTdjNWY1MTU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Emery",
+            "asCharacter": "Dr. Karl Eckstrom"
+        },
+        {
+            "id": "nm0000890",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQwOTM2MTA2OF5BMl5BanBnXkFtZTYwNDQzOTE2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Noah Beery Jr.",
+            "asCharacter": "Maj. William Corrigan"
+        },
+        {
+            "id": "nm0639385",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI1NjYxNzMxMF5BMl5BanBnXkFtZTcwNTAxNTgxMw@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Hugh O'Brian",
+            "asCharacter": "Harry Chamberlain / Voice on Loudspeaker"
+        },
+        {
+            "id": "nm0030194",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTIyZjM1ZDItNjNhZS00ZDgxLWExMmUtM2FmZTg5ZDYyZjhhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Morris Ankrum",
+            "asCharacter": "Dr. Ralph Fleming"
+        },
+        {
+            "id": "nm0013934",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrick Aherne",
+            "asCharacter": "Reporter #1 (as Patrick Ahern)"
+        },
+        {
+            "id": "nm0603672",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sherry Moreland",
+            "asCharacter": "Martian Girl"
+        },
+        {
+            "id": "nm0244828",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Dutra",
+            "asCharacter": "Physician"
+        },
+        {
+            "id": "nm0549296",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kathy Marlowe",
+            "asCharacter": "Reporter (as Katherine Marlowe)"
+        },
+        {
+            "id": "nm0171236",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Coleman",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm0174188",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Conaty",
+            "asCharacter": "Doctor Taking Lisa's Blood Pressure (uncredited)"
+        },
+        {
+            "id": "nm0365039",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWM4OTUyMTgtMmNlNS00ZDk5LWI2YWMtNTg2YTI0ODRjYTZiXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Sam Harris",
+            "asCharacter": "Reporter at Press Briefing (uncredited)"
+        },
+        {
+            "id": "nm0390372",
+            "image": "https://m.media-amazon.com/images/M/MV5BODI0NzFhOGItNGE1Ni00ZTg0LWJmNzQtMGQzOTAxMjgyNDEzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Judd Holdren",
+            "asCharacter": "Reporter #3 (uncredited)"
+        },
+        {
+            "id": "nm0392059",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzVmNmY0MTUtZDU1Ny00YTIzLTkyMWMtZmE3ZWFjMWQ1NzA0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Stuart Holmes",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm0636161",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjExOTMxNzE5OV5BMl5BanBnXkFtZTgwNTgzODE1MzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Barry Norton",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm0764972",
+            "image": "https://m.media-amazon.com/images/M/MV5BODllNDEwODYtZDk2Mi00NTM3LTg5MTQtYjBhZjY4Y2U3OGZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Cosmo Sardo",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm0828260",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmE1NzMyZjgtMTA2OC00MTc3LWIwZjktNGRlMjBhYjQzYzRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bert Stevens",
+            "asCharacter": "Reporter (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm1861965",
+                    "name": "Murray Lerner",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0627087",
+                    "name": "Kurt Neumann",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0342928",
+                    "name": "Ferde Grofé Sr.",
+                    "description": "(as Ferde Grofé)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0835365",
+                    "name": "Karl Struss",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0314899",
+                    "name": "Harry Gerstad",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0392284",
+                    "name": "Theobold Holsopple",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0392284",
+                    "name": "Theobold Holsopple",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0824842",
+                    "name": "Clarence Steensen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0143587",
+                    "name": "Don L. Cash",
+                    "description": "makeup artist (as Don Cash)"
+                },
+                {
+                    "id": "nm0804738",
+                    "name": "Robert Skotak",
+                    "description": "special makeup: new footage (1979 revised version) (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0801577",
+                    "name": "Betty Sinclair",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0372645",
+                    "name": "Frank Heath",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0038881",
+                    "name": "Lou Asher",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0483320",
+                    "name": "Tom Lambert",
+                    "description": "sound engineer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm3551967",
+                    "name": "Don Stewart",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0771081",
+                    "name": "Tom Scherman",
+                    "description": "special props: new footage (1979 revised version) (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0088726",
+                    "name": "Irving Block",
+                    "description": "matte painter (as I.A. Block)"
+                },
+                {
+                    "id": "nm0704896",
+                    "name": "Jack Rabin",
+                    "description": "special photographic effects creator"
+                },
+                {
+                    "id": "nm0122591",
+                    "name": "Bob Burns",
+                    "description": "editor: rocket effects (1979 revised version) (uncredited) / miniatures: rocket effects (1979 revised version) (uncredited) / production manager: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm1072011",
+                    "name": "Kathy Burns",
+                    "description": "production assistant: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0559172",
+                    "name": "Mike Matney",
+                    "description": "production assistant: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0587130",
+                    "name": "Hal Miles",
+                    "description": "camera operator assistant: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0591579",
+                    "name": "Michael Minor",
+                    "description": "effects artist: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0613830",
+                    "name": "Dennis Muren",
+                    "description": "technical consultant: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0771081",
+                    "name": "Tom Scherman",
+                    "description": "designer: rocket effects (1979 revised version) (uncredited) / miniatures: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0780879",
+                    "name": "Ron Seawright",
+                    "description": "producer: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0830501",
+                    "name": "David Stipes",
+                    "description": "effects cameraman: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0910520",
+                    "name": "Harry Walton",
+                    "description": "effects cameraman: rocket effects (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm0931897",
+                    "name": "Wade Williams",
+                    "description": "executive producer: rocket effects (1979 revised version) (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm1632306",
+                    "name": "Calvin Spencer",
+                    "description": "stunt coordinator (uncredited) / stunt double: Lloyd Bridges (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0198370",
+                    "name": "Walter Dalton",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm0461428",
+                    "name": "James Knott",
+                    "description": "camera operator (uncredited)"
+                },
+                {
+                    "id": "nm0497568",
+                    "name": "John M. Lee",
+                    "description": "gaffer (uncredited)"
+                },
+                {
+                    "id": "nm0519518",
+                    "name": "Buddy Longworth",
+                    "description": "still photographer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0823865",
+                    "name": "Richard Staub",
+                    "description": "wardrobe supervisor"
+                },
+                {
+                    "id": "nm0122591",
+                    "name": "Bob Burns",
+                    "description": "costumes: new footage (1979 revised version) (uncredited)"
+                },
+                {
+                    "id": "nm1072011",
+                    "name": "Kathy Burns",
+                    "description": "costume coordinator: new footage (1979 revised version) (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": "musical director / orchestrator (uncredited)"
+                },
+                {
+                    "id": "nm0388867",
+                    "name": "Samuel Hoffman",
+                    "description": "musician: theremin (uncredited)"
+                },
+                {
+                    "id": "nm1003274",
+                    "name": "Kerry O'Quinn",
+                    "description": "music producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0149542",
+                    "name": "Mary Chaffee",
+                    "description": "set continuity"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0513621",
+                    "name": "Robert L. Lippert",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0548788",
+                    "name": "Clarence Marks",
+                    "description": "dialogue director"
+                },
+                {
+                    "id": "nm0591579",
+                    "name": "Michael Minor",
+                    "description": "title designer: new titles (1979 revised version) (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

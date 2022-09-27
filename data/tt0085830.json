@@ -1,0 +1,252 @@
+{
+    "imDbId": "tt0085830",
+    "title": "Kyôryû kaichô no densetsu",
+    "fullTitle": "Kyôryû kaichô no densetsu (1977)",
+    "type": "Movie",
+    "year": "1977",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0475595",
+                "name": "Junji Kurata",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0407008",
+                "name": "Masaru Igami",
+                "description": ""
+            },
+            {
+                "id": "nm1171065",
+                "name": "Isao Matsumoto",
+                "description": ""
+            },
+            {
+                "id": "nm1213687",
+                "name": "Ichirô Ôtsu",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0913912",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tsunehiko Watase",
+            "asCharacter": "Takashi Ashizawa"
+        },
+        {
+            "id": "nm0767973",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nobiko Sawa",
+            "asCharacter": "Akiko Osano"
+        },
+        {
+            "id": "nm0370655",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shôtarô Hayashi",
+            "asCharacter": "Akira Taniki"
+        },
+        {
+            "id": "nm0457962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tomoko Kiyoshima",
+            "asCharacter": "Junko Sonoda"
+        },
+        {
+            "id": "nm0538569",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fuyukichi Maki",
+            "asCharacter": "Shohei Muku"
+        },
+        {
+            "id": "nm1047331",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Freedman",
+            "asCharacter": "Harold Tucker"
+        },
+        {
+            "id": "nm0668790",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Maureen Peacock",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0490649",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Catherine Laub",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0623162",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWZiNTFkZDgtODZiOC00NTA0LTllODItN2EwMDk1NTMwMDRkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Hiroshi Nawa",
+            "asCharacter": "Masahiko Miyawaki"
+        },
+        {
+            "id": "nm0620133",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ginji Nakamura",
+            "asCharacter": "Hideyuki Sakai"
+        },
+        {
+            "id": "nm0412587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masataka Iwao",
+            "asCharacter": "Shimada"
+        },
+        {
+            "id": "nm0645618",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gorô Ôki",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0875361",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yûsuke Tsukasa",
+            "asCharacter": "Susumu Hirano"
+        },
+        {
+            "id": "nm0594346",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yukio Miyagi",
+            "asCharacter": "Kobayashi"
+        },
+        {
+            "id": "nm0606040",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Moroguchi",
+            "asCharacter": "The disc jockey"
+        },
+        {
+            "id": "nm1366376",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masaharu Arikawa",
+            "asCharacter": "Seitaro Shintaku"
+        },
+        {
+            "id": "nm1370708",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tetsuo Fujisawa",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1627809",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Minken Karasawa",
+            "asCharacter": "Uemura"
+        },
+        {
+            "id": "nm1371394",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mineko Maruhira",
+            "asCharacter": "Yuki Segawa"
+        },
+        {
+            "id": "nm7100654",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yukari Miyamae",
+            "asCharacter": "Hiroko Takami"
+        },
+        {
+            "id": "nm1371540",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Satoru Nabe",
+            "asCharacter": "Hiroshi Sugiyama"
+        },
+        {
+            "id": "nm1166684",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Takashi Noguchi",
+            "asCharacter": "Yuasa"
+        },
+        {
+            "id": "nm3281467",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sô Takizawa",
+            "asCharacter": "Jiro Shimamoto"
+        },
+        {
+            "id": "nm1372267",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toshio Tomogane",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1372496",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshiaki Yamashita",
+            "asCharacter": "Inoue"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0368053",
+                    "name": "Keiichi Hashimoto",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0944904",
+                    "name": "Masao Yagi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0015118",
+                    "name": "Shigeru Akatsuka",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm1834768",
+                    "name": "Christian Alexander Morán",
+                    "description": "post-production manager (restored version) (as Christian Alexander Moran)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0743918",
+                    "name": "William Ross",
+                    "description": "English dubbing"
+                },
+                {
+                    "id": "nm0644957",
+                    "name": "Fuminori Ôhashi",
+                    "description": "special technical advisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

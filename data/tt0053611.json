@@ -1,0 +1,245 @@
+{
+    "imDbId": "tt0053611",
+    "title": "Attack of the Giant Leeches",
+    "fullTitle": "Attack of the Giant Leeches (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0468609",
+                "name": "Bernard L. Kowalski",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0330388",
+                "name": "Leo Gordon",
+                "description": "(original story by)"
+            },
+            {
+                "id": "nm0330388",
+                "name": "Leo Gordon",
+                "description": "(screenplay by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0164153",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTRlOTg0MTUtZmU2OS00NDRkLTliNDktYTM0Mzg2OGExMGVmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Ken Clark",
+            "asCharacter": "Steve Benton"
+        },
+        {
+            "id": "nm0896035",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTI0Njg4NTQ5NV5BMl5BanBnXkFtZTcwOTQ0MDUxNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Yvette Vickers",
+            "asCharacter": "Liz Walker"
+        },
+        {
+            "id": "nm0791629",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDE4MWUwN2ItYTJkMy00ZDM4LTk5MjAtYWJmMDJhMzUxMDgwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jan Shepard",
+            "asCharacter": "Nan Greyson"
+        },
+        {
+            "id": "nm0256523",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2E1ODYzNzUtOTRjNy00MDA5LWIwYzUtY2Y1NWY5Zjg2YmU4XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Michael Emmet",
+            "asCharacter": "Cal Moulton"
+        },
+        {
+            "id": "nm0574712",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tyler McVey",
+            "asCharacter": "Doc Greyson"
+        },
+        {
+            "id": "nm0895259",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzAxMTEyNzItMzkzNy00YjIyLWJkYzItMjU5Yjc4OTFhNGI0XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Bruno VeSota",
+            "asCharacter": "Dave Walker"
+        },
+        {
+            "id": "nm0744841",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTIxYWQzOWUtNTkwZC00ZjMyLWEyNjgtNDZiOTYwY2QyNGIwXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gene Roth",
+            "asCharacter": "Sheriff Kovis"
+        },
+        {
+            "id": "nm0924643",
+            "image": "https://m.media-amazon.com/images/M/MV5BODlhYzY4YTUtOTA3MS00MmZmLTgwYjUtMWY2N2U3NzBiM2FmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Dan White",
+            "asCharacter": "Porky Reed (as Daniel White)"
+        },
+        {
+            "id": "nm0149204",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTgzZDA4MmYtZTBiMi00Y2E5LTk5MzgtYjdkM2M0N2ViMDg3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Cisar",
+            "asCharacter": "Lem Sawyer"
+        },
+        {
+            "id": "nm0117914",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Guy Buccola",
+            "asCharacter": "Giant Leech (uncredited)"
+        },
+        {
+            "id": "nm0357975",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTdjYzBjZTItODRmNi00YWUwLTk5NGUtNjM0YWM0NGNkNDQ1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Joseph Hamilton",
+            "asCharacter": "Old Sam Peters (uncredited)"
+        },
+        {
+            "id": "nm0446011",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Walter Kelley",
+            "asCharacter": "Mike (uncredited)"
+        },
+        {
+            "id": "nm0836392",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ross Sturlin",
+            "asCharacter": "Giant Leech (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0180020",
+                    "name": "Gene Corman",
+                    "description": "producer (produced by)"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0489967",
+                    "name": "Alexander Laszlo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0630077",
+                    "name": "John M. Nickolaus Jr.",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0517044",
+                    "name": "Carlo Lodato",
+                    "description": "(edited by)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0356396",
+                    "name": "Daniel Haller",
+                    "description": "(as Dan Haller)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0092176",
+                    "name": "Jack Bohrer",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0161086",
+                    "name": "John C. Chulay",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm4780820",
+                    "name": "John Cengia",
+                    "description": "props"
+                },
+                {
+                    "id": "nm0748042",
+                    "name": "Richard M. Rubin",
+                    "description": "property master (as Dick Rubin)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0653931",
+                    "name": "Al Overton",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0005848",
+                    "name": "Charles Rosher Jr.",
+                    "description": "first assistant camera"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0536514",
+                    "name": "Anthony Magro",
+                    "description": "associate editor (as Tony Magro)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0955122",
+                    "name": "Kinta Zertuche",
+                    "description": "production secretary"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,440 @@
+{
+    "imDbId": "tt0051570",
+    "title": "The Spider",
+    "fullTitle": "The Spider (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0351444",
+                "name": "László Görög",
+                "description": "(screenplay) (as Laszlo Gorog) and"
+            },
+            {
+                "id": "nm0946753",
+                "name": "George Worthing Yates",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0447220",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzRlZDNjMDktMWRmNi00ODhjLTk1NTUtN2EwNGEyMTM0NTIyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ed Kemmer",
+            "asCharacter": "Professor Art Kingman"
+        },
+        {
+            "id": "nm0448483",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDlmNTA0MGMtZWU2Ni00ZGQ5LTllYzAtOGNjN2E1YWQ3ZWVlXkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_Ratio1.2727_AL_.jpg",
+            "name": "June Kenney",
+            "asCharacter": "Carol Flynn"
+        },
+        {
+            "id": "nm0675580",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTFiOGExNGUtOTVhZS00YmM2LWJlMjgtZjY3Y2Q3MTgwMTdkXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Eugene Persson",
+            "asCharacter": "Mike Simpson (as Gene Persson)"
+        },
+        {
+            "id": "nm0744841",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTIxYWQzOWUtNTkwZC00ZjMyLWEyNjgtNDZiOTYwY2QyNGIwXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gene Roth",
+            "asCharacter": "Sheriff Cagle"
+        },
+        {
+            "id": "nm0867963",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hal Torey",
+            "asCharacter": "Mr. Simpson"
+        },
+        {
+            "id": "nm0423444",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "June Jocelyn",
+            "asCharacter": "Mrs. Jack Flynn"
+        },
+        {
+            "id": "nm0278152",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWRhZTZjNWMtNDVjNi00YThiLWExYmEtZGNiYzAxY2U1YWQwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Mickey Finn",
+            "asCharacter": "Sam Haskel"
+        },
+        {
+            "id": "nm0292229",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTA5NjI3YjMtMWFkNS00NzdmLWIyY2YtOWYzOTRiNWYzYjFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sally Fraser",
+            "asCharacter": "Mrs. Helen Kingman"
+        },
+        {
+            "id": "nm0666439",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Troy Patterson",
+            "asCharacter": "Joe"
+        },
+        {
+            "id": "nm0950069",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg3ODYyNDE4NV5BMl5BanBnXkFtZTgwNDc4Mjg5MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Skip Young",
+            "asCharacter": "Sam the Bass Player"
+        },
+        {
+            "id": "nm0397301",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjY2OTU4MmItM2Q5Ny00ZDg2LThlNGMtZjU2YjhhOGU1NDc0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Howard Wright",
+            "asCharacter": "Jake"
+        },
+        {
+            "id": "nm0320417",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Giorgio",
+            "asCharacter": "Deputy Sheriff Pete Sanders"
+        },
+        {
+            "id": "nm0666230",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM0MTQ5NDcwNF5BMl5BanBnXkFtZTgwMzUxMDY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Hank Patterson",
+            "asCharacter": "Hugo the Janitor"
+        },
+        {
+            "id": "nm0467302",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDAyZmM4NmUtNWQzOS00ZDhkLWFhM2ItOGQ1NzNmNTBjYmM4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Jack Kosslyn",
+            "asCharacter": "Mr. Fraser"
+        },
+        {
+            "id": "nm0307785",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Garnet",
+            "asCharacter": "Pest Control Man"
+        },
+        {
+            "id": "nm0266481",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shirley Falls",
+            "asCharacter": "Switchboard Operator"
+        },
+        {
+            "id": "nm0856554",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Tetrick",
+            "asCharacter": "Deputy Sheriff Dave (as Bob Tetrick)"
+        },
+        {
+            "id": "nm0453025",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nancy Kilgas",
+            "asCharacter": "Dancer"
+        },
+        {
+            "id": "nm0822482",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Stanley",
+            "asCharacter": "Man in Cavern"
+        },
+        {
+            "id": "nm0866341",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Tomack",
+            "asCharacter": "Power Line Foreman"
+        },
+        {
+            "id": "nm0832047",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Merritt Stone",
+            "asCharacter": "Jack Flynn"
+        },
+        {
+            "id": "nm0123604",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2NTcxNjMzMV5BMl5BanBnXkFtZTcwODgwMzc1MQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "James Burton",
+            "asCharacter": "Teenager in Band (uncredited)"
+        },
+        {
+            "id": "nm0223627",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dick D'Agostin",
+            "asCharacter": "Pianist (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0330026",
+                    "name": "Bert I. Gordon",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0775075",
+                    "name": "Henry Schrage",
+                    "description": "assistant producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005785",
+                    "name": "Jack A. Marta",
+                    "description": "director of photography (as Jack Marta)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0130844",
+                    "name": "William F. Calvert",
+                    "description": "(as Bill Calvert)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0790302",
+                    "name": "Kay Shea",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0811398",
+                    "name": "Allan Snyder",
+                    "description": "makeup artist (as Allen Snyder)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0609035",
+                    "name": "Marty Moss",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0609035",
+                    "name": "Marty Moss",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0736974",
+                    "name": "John W. Rogers",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0364798",
+                    "name": "James Harris",
+                    "description": "property master (as Jim Harris)"
+                },
+                {
+                    "id": "nm0445790",
+                    "name": "Walter E. Keller",
+                    "description": "set designer (as Walter Keller)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0653931",
+                    "name": "Al Overton",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0774463",
+                    "name": "Bruce Schoengarth",
+                    "description": "sound effects editor"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0330026",
+                    "name": "Bert I. Gordon",
+                    "description": "special technical effects"
+                },
+                {
+                    "id": "nm0330187",
+                    "name": "Flora M. Gordon",
+                    "description": "assistant technical effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm2749425",
+                    "name": "Calvin A. Maehl",
+                    "description": "chief set electrician (as Cal Maehl)"
+                },
+                {
+                    "id": "nm0633825",
+                    "name": "Del Nodine",
+                    "description": "key grip"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0181156",
+                    "name": "Marjorie Corso",
+                    "description": "costumer (as Marge Corso)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0801721",
+                    "name": "Ronald Sinclair",
+                    "description": "editorial supervisor"
+                },
+                {
+                    "id": "nm0936994",
+                    "name": "Paul Wittenberg",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm1876240",
+                    "name": "Israel Baker",
+                    "description": "musician: violin (uncredited)"
+                },
+                {
+                    "id": "nm0130457",
+                    "name": "George 'Red' Callender",
+                    "description": "musician: bass (uncredited)"
+                },
+                {
+                    "id": "nm0166069",
+                    "name": "Charles Clement",
+                    "description": "music editor (uncredited)"
+                },
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": "orchestrator (uncredited)"
+                },
+                {
+                    "id": "nm0388867",
+                    "name": "Samuel Hoffman",
+                    "description": "musician: theremin (uncredited)"
+                },
+                {
+                    "id": "nm2149152",
+                    "name": "Richard Nash",
+                    "description": "musician: trombone (uncredited)"
+                },
+                {
+                    "id": "nm4409540",
+                    "name": "Pinky Savitt",
+                    "description": "musician: trumpet (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0307788",
+                    "name": "Elayne Garnet",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0086424",
+                    "name": "Jackie Blaisdell",
+                    "description": "special designer"
+                },
+                {
+                    "id": "nm0086428",
+                    "name": "Paul Blaisdell",
+                    "description": "special designer"
+                },
+                {
+                    "id": "nm0200364",
+                    "name": "Jim Dannaldson",
+                    "description": "spider handler"
+                },
+                {
+                    "id": "nm0800795",
+                    "name": "Thol Simonson",
+                    "description": "special devices"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,488 @@
+{
+    "imDbId": "tt0092297",
+    "title": "Zombie Nightmare",
+    "fullTitle": "Zombie Nightmare (1987)",
+    "type": "Movie",
+    "year": "1987",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0063851",
+                "name": "Jack Bravman",
+                "description": ""
+            },
+            {
+                "id": "nm0004591",
+                "name": "John Fasano",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0004591",
+                "name": "John Fasano",
+                "description": "(as John M. Fasano)"
+            },
+            {
+                "id": "nm0920001",
+                "name": "David Wellington",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0001842",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjY0OTQxMTI3OV5BMl5BanBnXkFtZTYwNTA5MzM2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Adam West",
+            "asCharacter": "Capt. Tom Churchman"
+        },
+        {
+            "id": "nm0861155",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGNiZGY3ZjItZTcxNS00YjIwLTkxZWQtY2VmM2NkNzg2NjcxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Jon Mikl Thor",
+            "asCharacter": "Tony Washington"
+        },
+        {
+            "id": "nm0000119",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmM3OTgxOGYtYTA2Yy00ZGFlLWIyZjEtMjViYTJhY2E1ZGI3XkEyXkFqcGdeQXVyMjM0NjAyNjU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tia Carrere",
+            "asCharacter": "Amy"
+        },
+        {
+            "id": "nm0726550",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Manuska Rigaud",
+            "asCharacter": "Molly Mokembe"
+        },
+        {
+            "id": "nm0226328",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDBmNjI3NTAtNjU3ZS00NGU4LTg1NzgtNmFkNmJiMWI4NTM2XkEyXkFqcGdeQXVyMDI3MzM2NQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Frank Dietz",
+            "asCharacter": "Frank Sorrell"
+        },
+        {
+            "id": "nm0801989",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Linda Singer",
+            "asCharacter": "Maggie"
+        },
+        {
+            "id": "nm0087892",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Blauer",
+            "asCharacter": "Teenager"
+        },
+        {
+            "id": "nm0474543",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mark Kulik",
+            "asCharacter": "Teenager"
+        },
+        {
+            "id": "nm0004591",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTczMjUwMDc2NF5BMl5BanBnXkFtZTgwOTE1MjQwMjE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "John Fasano",
+            "asCharacter": "William Washington"
+        },
+        {
+            "id": "nm0093686",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Francesca Bonacorsa",
+            "asCharacter": "Louise Washington"
+        },
+        {
+            "id": "nm0195275",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzM0ZWJhMWEtZTMyZi00MmM4LWE3NDYtZDJjYjUxZDEzNzFjXkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jesse D'Angelo",
+            "asCharacter": "Young Tony Washington"
+        },
+        {
+            "id": "nm0081160",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tracy Biddle",
+            "asCharacter": "Young Molly Mokembe"
+        },
+        {
+            "id": "nm0279366",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Fisler",
+            "asCharacter": "Bob (as Allan Fisher)"
+        },
+        {
+            "id": "nm0568604",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA0NjUxODkzOV5BMl5BanBnXkFtZTcwNTM2MTI0Ng@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Hamish McEwan",
+            "asCharacter": "Peter"
+        },
+        {
+            "id": "nm0876883",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Manon E. Turbide",
+            "asCharacter": "Susie"
+        },
+        {
+            "id": "nm0506613",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTkyNjk4MTM0NF5BMl5BanBnXkFtZTcwNTA4MTQ5Mw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Shawn Levy",
+            "asCharacter": "Jim Batten"
+        },
+        {
+            "id": "nm0696559",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Philip Pretten",
+            "asCharacter": "Man At Disco"
+        },
+        {
+            "id": "nm1470849",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI3NWVmYmYtYjlmZi00ZjdiLWIzYjktMDU1MjcwNmI4ZDhmXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio0.7273_AL_.jpg",
+            "name": "Linda E. Smith",
+            "asCharacter": "Man's Date (as Linda Smith)"
+        },
+        {
+            "id": "nm0195150",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzk1OWFmODYtMjQ1ZC00ODFlLTk2MTgtOTYzZWFiYjg5NjU0XkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael D'Amico",
+            "asCharacter": "Bouncer"
+        },
+        {
+            "id": "nm0557355",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQ1MzUyMDgtOGQ1Mi00YTBkLTliYjktZjhhM2ZmYTJmODk4XkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio0.7273_AL_.jpg",
+            "name": "Walter Massey",
+            "asCharacter": "Mr. Peters"
+        },
+        {
+            "id": "nm0307309",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gayle Garfinkle",
+            "asCharacter": "Mary Batten"
+        },
+        {
+            "id": "nm0706017",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGM2NjJlMzMtY2M1Yi00MTA0LTlhOTMtYzY1YjQ1NDFhYmFlXkEyXkFqcGdeQXVyMDcwMjQ1NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Rae",
+            "asCharacter": "Fred Batten"
+        },
+        {
+            "id": "nm0081131",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Biddle Sr.",
+            "asCharacter": "Janitor Joe (as Charly Biddle)"
+        },
+        {
+            "id": "nm0332900",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Gow",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0767448",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "André Savard",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0674553",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gaston Perreault",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0092458",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jay Boivin",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0353810",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dean Hagopian",
+            "asCharacter": "Medical Examiner"
+        },
+        {
+            "id": "nm0117753",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWM2NmJkOGItNjE0OS00NDg4LTllZjMtYjNlNDcxMmZmY2IwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Tony Bua",
+            "asCharacter": "Punk"
+        },
+        {
+            "id": "nm0342561",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yvon Grise",
+            "asCharacter": "Punk"
+        },
+        {
+            "id": "nm0682201",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUwNzE2ODI2NF5BMl5BanBnXkFtZTcwMjY0MzM2OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peewee Piemonte",
+            "asCharacter": "Zombie Tony (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0063851",
+                    "name": "Jack Bravman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0326325",
+                    "name": "Sheldon S. Goldstein",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0973223",
+                    "name": "Pierre Grisé",
+                    "description": "producer (uncredited)"
+                },
+                {
+                    "id": "nm0385192",
+                    "name": "Eleanor Hilowitz",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0832650",
+                    "name": "Charles Storms",
+                    "description": "associate producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0861155",
+                    "name": "Jon Mikl Thor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0705182",
+                    "name": "Roger Racine",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0290527",
+                    "name": "David Franco",
+                    "description": "(as David Franko)"
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0195129",
+                    "name": "Ginette D'Amico",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0087044",
+                    "name": "David Blanchard",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0430706",
+                    "name": "Terry Joseph",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0117753",
+                    "name": "Tony Bua",
+                    "description": "special makeup effects (as Anthony C. Bua)"
+                },
+                {
+                    "id": "nm0166066",
+                    "name": "Andy Clement",
+                    "description": "special makeup effects artist"
+                },
+                {
+                    "id": "nm0170213",
+                    "name": "Macha Colas",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0268647",
+                    "name": "Felicia Fasano",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0004591",
+                    "name": "John Fasano",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0350561",
+                    "name": "Michael Gyzelek",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0483813",
+                    "name": "Roger Lamoureux",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm6698438",
+                    "name": "Rick Ways",
+                    "description": "sound engineer"
+                },
+                {
+                    "id": "nm6698437",
+                    "name": "Ed Wilson",
+                    "description": "sound engineer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0117753",
+                    "name": "Tony Bua",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm6698432",
+                    "name": "Jean Berthiaumb",
+                    "description": "chief electrician"
+                },
+                {
+                    "id": "nm6698434",
+                    "name": "Alain Bourdeau",
+                    "description": "assistant electrician"
+                },
+                {
+                    "id": "nm0197288",
+                    "name": "François Daignault",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0290527",
+                    "name": "David Franco",
+                    "description": "assistant camera (as David Franko)"
+                },
+                {
+                    "id": "nm6698431",
+                    "name": "Christopher Kondek",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm6698435",
+                    "name": "Alain Mabbé",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0705167",
+                    "name": "Christian Racine",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm6698433",
+                    "name": "Dany Schwartzberg",
+                    "description": "assistant electrician"
+                },
+                {
+                    "id": "nm0884750",
+                    "name": "Esther Valiquette",
+                    "description": "perch"
+                },
+                {
+                    "id": "nm6698436",
+                    "name": "Daniel Weysbow",
+                    "description": "gaffer"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm2801111",
+                    "name": "Andrea Duncan",
+                    "description": "musician: special guest"
+                },
+                {
+                    "id": "nm0303082",
+                    "name": "Phil Gallo",
+                    "description": "composer: additional incidental music (as Philip Gallo)"
+                },
+                {
+                    "id": "nm8192649",
+                    "name": "Don Garbutt",
+                    "description": "musician: special guest"
+                },
+                {
+                    "id": "nm0358145",
+                    "name": "Rusty Hamilton",
+                    "description": "musician: special guest"
+                },
+                {
+                    "id": "nm0539617",
+                    "name": "Adam Malin",
+                    "description": "composer: additional incidental music"
+                },
+                {
+                    "id": "nm0861155",
+                    "name": "Jon Mikl Thor",
+                    "description": "music producer"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0575411",
+                    "name": "Mona Medawar",
+                    "description": "script girl"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

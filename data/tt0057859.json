@@ -1,0 +1,281 @@
+{
+    "imDbId": "tt0057859",
+    "title": "Monstrosity",
+    "fullTitle": "Monstrosity (1963)",
+    "type": "Movie",
+    "year": "1963",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0556140",
+                "name": "Joseph V. Mascelli",
+                "description": "(as Joseph Mascelli)"
+            },
+            {
+                "id": "nm0689565",
+                "name": "Jack Pollexfen",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0751500",
+                "name": "Vy Russell",
+                "description": "(original screen play by) &"
+            },
+            {
+                "id": "nm0103084",
+                "name": "Sue Dwiggins",
+                "description": "(original screen play by) and"
+            },
+            {
+                "id": "nm0226946",
+                "name": "Dean Dillman Jr.",
+                "description": "(original screen play by)"
+            },
+            {
+                "id": "nm0689565",
+                "name": "Jack Pollexfen",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0247856",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2YzNTNlNjYtNWE1Yy00M2QwLTliZDctOWQ0ZmQ4OGM3NjdhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Marjorie Eaton",
+            "asCharacter": "Mrs. March"
+        },
+        {
+            "id": "nm0314947",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzOGYwNDAtYmQxMi00ZmMyLWI3MzUtZDAxYTk2NmM0ZTQxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Frank Gerstle",
+            "asCharacter": "Dr. Frank"
+        },
+        {
+            "id": "nm0288705",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Fowler",
+            "asCharacter": "Victor"
+        },
+        {
+            "id": "nm0460408",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWI4Mzk0MGYtOGYwNi00Mzg4LWJmNjEtYWUxODljMDM1OWIxL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Erika Peters",
+            "asCharacter": "Nina"
+        },
+        {
+            "id": "nm0051398",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmM2NmMyY2QtZjI0My00NDY0LTk1N2UtNDJkYmFhN2E5MTdkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Judy Bamber",
+            "asCharacter": "Bea"
+        },
+        {
+            "id": "nm0485831",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Lang",
+            "asCharacter": "Anita"
+        },
+        {
+            "id": "nm1950257",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Xerxes",
+            "asCharacter": "Xerxes the Cat"
+        },
+        {
+            "id": "nm0226947",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQ0MjI4NzQyOF5BMl5BanBnXkFtZTcwNDM2NTgwOA@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bradford Dillman",
+            "asCharacter": "Narrator (voice) (uncredited)"
+        },
+        {
+            "id": "nm0279230",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margie Fisco",
+            "asCharacter": "The Walking Corpse (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0226946",
+                    "name": "Dean Dillman Jr.",
+                    "description": "producer (produced by)"
+                },
+                {
+                    "id": "nm0103084",
+                    "name": "Sue Dwiggins",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0689565",
+                    "name": "Jack Pollexfen",
+                    "description": "producer (produced by)"
+                },
+                {
+                    "id": "nm0751500",
+                    "name": "Vy Russell",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0441991",
+                    "name": "Gene Kauer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0851941",
+                    "name": "Alfred Taylor",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0321578",
+                    "name": "Owen C. Gladden",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0946783",
+                    "name": "Lou Yates",
+                    "description": "special makeup effects"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0103084",
+                    "name": "Sue Dwiggins",
+                    "description": "props (uncredited)"
+                },
+                {
+                    "id": "nm0751500",
+                    "name": "Vy Russell",
+                    "description": "props (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0460837",
+                    "name": "Charles T. Knight",
+                    "description": "sound (as Charles Knight)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0834349",
+                    "name": "Ken Strickfaden",
+                    "description": "electrical effects (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm1956226",
+                    "name": "Ove Sehested",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0103084",
+                    "name": "Sue Dwiggins",
+                    "description": "assistant camera (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0103084",
+                    "name": "Sue Dwiggins",
+                    "description": "wardrobe (uncredited)"
+                },
+                {
+                    "id": "nm0751500",
+                    "name": "Vy Russell",
+                    "description": "wardrobe (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm1957256",
+                    "name": "Lucille Snyder",
+                    "description": "location manager"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0441991",
+                    "name": "Gene Kauer",
+                    "description": "conductor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0103084",
+                    "name": "Sue Dwiggins",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1955005",
+                    "name": "Bill Ashley",
+                    "description": "dialogue director"
+                },
+                {
+                    "id": "nm0633133",
+                    "name": "Kemp Niver",
+                    "description": "production coordinator"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

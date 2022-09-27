@@ -1,0 +1,113 @@
+{
+    "imDbId": "tt0131028",
+    "title": "Star Force: Fugitive Alien II",
+    "fullTitle": "Star Force: Fugitive Alien II (1987)",
+    "type": "Movie",
+    "year": "1987",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0437124",
+                "name": "Minoru Kanaya",
+                "description": ""
+            },
+            {
+                "id": "nm0476729",
+                "name": "Kiyosumi Kuzakawa",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0008350",
+                "name": "Keiichi Abe",
+                "description": ""
+            },
+            {
+                "id": "nm0906740",
+                "name": "Bunzô Wakatsuki",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0794425",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTY1MDQyN15BMl5BanBnXkFtZTcwNTc3NzE5Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jô Shishido",
+            "asCharacter": "Captain Joe"
+        },
+        {
+            "id": "nm0044462",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tatsuya Azuma",
+            "asCharacter": "Ken Shinsei (Starwolf)"
+        },
+        {
+            "id": "nm0849461",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miyuki Tanigawa",
+            "asCharacter": "Tammy"
+        },
+        {
+            "id": "nm0847110",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chôei Takahashi",
+            "asCharacter": "Rocky"
+        },
+        {
+            "id": "nm0950801",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tsutomu Yukawa",
+            "asCharacter": "Dan"
+        },
+        {
+            "id": "nm0851229",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiro Tateyama",
+            "asCharacter": "Biri"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "producer (English language version)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0177828",
+                    "name": "William L. Cooper Jr.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0571181",
+                    "name": "Kathy McKee",
+                    "description": "talent coordinator"
+                },
+                {
+                    "id": "nm0900912",
+                    "name": "Jesse Vogel",
+                    "description": "dialogue director (as Jessie Vogel)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

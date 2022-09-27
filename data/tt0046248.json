@@ -1,0 +1,265 @@
+{
+    "imDbId": "tt0046248",
+    "title": "Robot Monster",
+    "fullTitle": "Robot Monster (1953)",
+    "type": "Movie",
+    "year": "1953",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0875973",
+                "name": "Phil Tucker",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0649560",
+                "name": "Wyott Ordung",
+                "description": "(original screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0618865",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI4MTA0OTE1N15BMl5BanBnXkFtZTcwMTYyNTEwOQ@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "George Nader",
+            "asCharacter": "Roy"
+        },
+        {
+            "id": "nm0057092",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzA4ZTY0Y2ItYmE0Mi00MmZiLThjMDYtYjA1M2ZlZWUzMGQzXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Claudia Barrett",
+            "asCharacter": "Alice"
+        },
+        {
+            "id": "nm0747413",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWJkZDY1OTQtNDlhMC00MTRmLWI4NTctNzdjOWYzZWQ1Y2JmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Selena Royle",
+            "asCharacter": "Mother (as Selena Royale)"
+        },
+        {
+            "id": "nm0617050",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQ3OTI0MjYtZTBhZi00YzcyLTk3ZGItMzZmNDBlNDFhNWU0XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Mylong",
+            "asCharacter": "The Professor"
+        },
+        {
+            "id": "nm0595635",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gregory Moffett",
+            "asCharacter": "Johnny"
+        },
+        {
+            "id": "nm0667358",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pamela Paulson",
+            "asCharacter": "Carla"
+        },
+        {
+            "id": "nm0057887",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGQwNGQzOTgtNjJlMS00MjI0LWE0MzEtZWY3OTNlOGQ1N2FmXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "George Barrows",
+            "asCharacter": "Ro-Man the Monster / Great Guidance"
+        },
+        {
+            "id": "nm0113876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Brown",
+            "asCharacter": "Ro-Man / Great Guidance (voice)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0875973",
+                    "name": "Phil Tucker",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0935560",
+                    "name": "Alan Winston",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0956545",
+                    "name": "Al Zimbalist",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0000930",
+                    "name": "Elmer Bernstein",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005728",
+                    "name": "Jack Greenhalgh",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0925212",
+                    "name": "Merrill G. White",
+                    "description": "(as Merrill White)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0132862",
+                    "name": "Stanley E. Campbell",
+                    "description": "makeup artist (as Stan Campbell)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0262382",
+                    "name": "Clarence Eurist",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0055755",
+                    "name": "Robert E. Barnes",
+                    "description": "assistant director (as Robert Barnes)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0649998",
+                    "name": "John Orlando",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm1661446",
+                    "name": "Ben Coleman",
+                    "description": "stereo technician"
+                },
+                {
+                    "id": "nm0929858",
+                    "name": "Lyle Willey",
+                    "description": "sound director (as Lyle E. Willey)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0173893",
+                    "name": "David Commons",
+                    "description": "special photographic effects"
+                },
+                {
+                    "id": "nm0704896",
+                    "name": "Jack Rabin",
+                    "description": "special photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0780880",
+                    "name": "Roy Seawright",
+                    "description": "dinosaur sequences (archive footage) (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0922097",
+                    "name": "Henry West",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0774463",
+                    "name": "Bruce Schoengarth",
+                    "description": "associate editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0000930",
+                    "name": "Elmer Bernstein",
+                    "description": "music director"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0771761",
+                    "name": "Ted Schilz",
+                    "description": "script supervisor (as Teddy Schilz)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0503615",
+                    "name": "Irving Lerner",
+                    "description": "production associate"
+                },
+                {
+                    "id": "nm0525178",
+                    "name": "Herbert G. Luft",
+                    "description": "assistant to producer (as Herbert Luft)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

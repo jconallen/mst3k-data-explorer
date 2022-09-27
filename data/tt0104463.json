@@ -1,0 +1,257 @@
+{
+    "imDbId": "tt0104463",
+    "title": "Humanoids from Atlantis",
+    "fullTitle": "Humanoids from Atlantis (1992)",
+    "type": "Movie",
+    "year": "1992",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0006931",
+                "name": "J.R. Bookwalter",
+                "description": "(as Lance Randas)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0006931",
+                "name": "J.R. Bookwalter",
+                "description": "(story) (as Lance Randas)"
+            },
+            {
+                "id": "nm0877721",
+                "name": "Lloyd Turner",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0250070",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James L. Edwards",
+            "asCharacter": "Ken Adams"
+        },
+        {
+            "id": "nm0943464",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sandra Wurzer",
+            "asCharacter": "Julie Simpson"
+        },
+        {
+            "id": "nm0607106",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christine Morrison",
+            "asCharacter": "Dr. Fredericka O. Ray"
+        },
+        {
+            "id": "nm0607082",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Morrison",
+            "asCharacter": "Stoner"
+        },
+        {
+            "id": "nm3496346",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeff Fincham",
+            "asCharacter": "Stoner"
+        },
+        {
+            "id": "nm0393931",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Hoover",
+            "asCharacter": "Sheriff Blake"
+        },
+        {
+            "id": "nm0165497",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arvin Clay",
+            "asCharacter": "The Humanoid (as Arvin A. Clay)"
+        },
+        {
+            "id": "nm0006931",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "J.R. Bookwalter",
+            "asCharacter": "Shemp Movie Director"
+        },
+        {
+            "id": "nm0493477",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shannon Lay",
+            "asCharacter": "Shemp Movie Makeup Artist"
+        },
+        {
+            "id": "nm2512081",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeffrey Fincham",
+            "asCharacter": "Stoner"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0006931",
+                    "name": "J.R. Bookwalter",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0213983",
+                    "name": "David DeCoteau",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm9349278",
+                    "name": "Donald Logan Keith",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0006931",
+                    "name": "J.R. Bookwalter",
+                    "description": "director of photography (as Lance Randas)"
+                },
+                {
+                    "id": "nm0393136",
+                    "name": "Todd Hone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0006931",
+                    "name": "J.R. Bookwalter",
+                    "description": "(as Darryl Squatmpump)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0393136",
+                    "name": "Todd Hone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm1418678",
+                    "name": "Ernest Prell",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0607106",
+                    "name": "Christine Morrison",
+                    "description": "props"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0393136",
+                    "name": "Todd Hone",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0393136",
+                    "name": "Todd Hone",
+                    "description": "creature designer"
+                },
+                {
+                    "id": "nm0607082",
+                    "name": "Bill Morrison",
+                    "description": "creature designer"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0607106",
+                    "name": "Christine Morrison",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm9349341",
+                    "name": "Kenna U. Earit",
+                    "description": "music mixer"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0095431",
+                    "name": "Tina M. Bookwalter",
+                    "description": "script supervisor"
+                },
+                {
+                    "id": "nm0165497",
+                    "name": "Arvin Clay",
+                    "description": "script supervisor"
+                },
+                {
+                    "id": "nm0607106",
+                    "name": "Christine Morrison",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm0095431",
+                    "name": "Tina M. Bookwalter",
+                    "description": "love apologies and special thanks"
+                },
+                {
+                    "id": "nm0915938",
+                    "name": "Ric Weaver",
+                    "description": "love apologies and special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

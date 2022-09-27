@@ -1,0 +1,218 @@
+{
+    "imDbId": "tt0048256",
+    "title": "King Dinosaur",
+    "fullTitle": "King Dinosaur (1955)",
+    "type": "Movie",
+    "year": "1955",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0330026",
+                "name": "Bert I. Gordon",
+                "description": "(original story: \"Beast from Outer Space\") and"
+            },
+            {
+                "id": "nm0956545",
+                "name": "Al Zimbalist",
+                "description": "(original story: \"Beast from Outer Space\")"
+            },
+            {
+                "id": "nm0340981",
+                "name": "Tom Gries",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0117252",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjQzOTQwMTgtYTJjMy00NzZhLWJjNDYtNDdjNTJjNDFmYzc4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "William Bryant",
+            "asCharacter": "Dr. Ralph Martin (as Bill Bryant)"
+        },
+        {
+            "id": "nm0193545",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wanda Curtis",
+            "asCharacter": "Dr. Patricia Bennett"
+        },
+        {
+            "id": "nm0376415",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Douglas Henderson",
+            "asCharacter": "Dr. Richard Gordon"
+        },
+        {
+            "id": "nm0302469",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patti Gallagher",
+            "asCharacter": "Nora Pierce"
+        },
+        {
+            "id": "nm0588922",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzQ3MDQzYjktYTJmYS00ZTQ4LTljMDAtNDVhN2MzNDcyZGFlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Marvin Miller",
+            "asCharacter": "Narrator (voice)"
+        },
+        {
+            "id": "nm12511516",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Little Joe",
+            "asCharacter": "The Honey Bear (as Little Joe the Honey Bear)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0124253",
+                    "name": "John A. Bushelman",
+                    "description": "assistant producer (as John Bushelman)"
+                },
+                {
+                    "id": "nm0330026",
+                    "name": "Bert I. Gordon",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0375046",
+                    "name": "Ralph Helfer",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0956545",
+                    "name": "Al Zimbalist",
+                    "description": "executive producer / producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0657356",
+                    "name": "Louis Palange",
+                    "description": ""
+                },
+                {
+                    "id": "nm0307240",
+                    "name": "Gene Garf",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0043138",
+                    "name": "Gordon Avil",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0180100",
+                    "name": "Arthur Cornell",
+                    "description": "(as Jack Cornell)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0013149",
+                    "name": "Robert Agnew",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0213836",
+                    "name": "Elmer Decker",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm1707038",
+                    "name": "Tom Shaw",
+                    "description": "property master (as Thomas Shaw)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0840397",
+                    "name": "Rod Sutton",
+                    "description": "sound supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0330187",
+                    "name": "Flora M. Gordon",
+                    "description": "wardrobe (as Flora Lang)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0290395",
+                    "name": "Michael Terr",
+                    "description": "musical director (as Mischa Terr)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0375046",
+                    "name": "Ralph Helfer",
+                    "description": "animal supervisor: Nature's Haven Wild Animal Rental Co."
+                },
+                {
+                    "id": "nm0383334",
+                    "name": "Bernice Higgins",
+                    "description": "researcher"
+                },
+                {
+                    "id": "nm0907190",
+                    "name": "Henry H. Waldman",
+                    "description": "technical advisor"
+                },
+                {
+                    "id": "nm0956546",
+                    "name": "Donald Zimbalist",
+                    "description": "executive assistant"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

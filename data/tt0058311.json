@@ -1,0 +1,385 @@
+{
+    "imDbId": "tt0058311",
+    "title": "Hercules Against the Moon Men",
+    "fullTitle": "Hercules Against the Moon Men (1964)",
+    "type": "Movie",
+    "year": "1964",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0313124",
+                "name": "Giacomo Gentilomo",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0220383",
+                "name": "Arpad DeRiso",
+                "description": "(story) and"
+            },
+            {
+                "id": "nm0778644",
+                "name": "Giovanni Scolaro",
+                "description": "(story) (as Nino Scolaro) and"
+            },
+            {
+                "id": "nm0313124",
+                "name": "Giacomo Gentilomo",
+                "description": "(story) and"
+            },
+            {
+                "id": "nm0762679",
+                "name": "Angelo Sangermano",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0220383",
+                "name": "Arpad DeRiso",
+                "description": "(screenplay) and"
+            },
+            {
+                "id": "nm0778644",
+                "name": "Giovanni Scolaro",
+                "description": "(screenplay) (as Nino Scolaro)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0716313",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDBiN2ViYzUtZGY0ZS00YTNiLTkyNjMtYmEzMDAyZmJhZGUxXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Sergio Ciani",
+            "asCharacter": "Maciste / Hercules (as Alan Steel)"
+        },
+        {
+            "id": "nm0163209",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTYyMzAxNzctZjZiNy00MWI2LWE4ZmYtZTgyYWI2OTcwMGE4XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jany Clair",
+            "asCharacter": "Queen Samara"
+        },
+        {
+            "id": "nm0688864",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Maria Polani",
+            "asCharacter": "Agar"
+        },
+        {
+            "id": "nm0848547",
+            "image": "https://m.media-amazon.com/images/M/MV5BODRkN2E1NWYtNDZjZC00ODAzLWJhMTItZGRlYjdhMDZmY2JhXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nando Tamberlani",
+            "asCharacter": "Chancellor Gladius"
+        },
+        {
+            "id": "nm0194934",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Delia D'Alberti",
+            "asCharacter": "Princess Billis / Selene (as Delia d'Alberti)"
+        },
+        {
+            "id": "nm0402231",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIxZjcwNzMtMDVhMC00OWY0LThhOGEtMzU1N2ExNzQxMDcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.6818_AL_.jpg",
+            "name": "Goffredo Unger",
+            "asCharacter": "Remar"
+        },
+        {
+            "id": "nm6679001",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Maria Dionisio",
+            "asCharacter": "Taris - Tirteo's Wife"
+        },
+        {
+            "id": "nm0685913",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paola Pitti",
+            "asCharacter": "Tirteo's Daughter (as Paola Piretti)"
+        },
+        {
+            "id": "nm0706207",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGFjYzRmMWItMzViYS00MWUyLWExZWUtNTI5ZDFjMzJkNmY1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Giuliano Raffaelli",
+            "asCharacter": "Tirteo - Innkeeper"
+        },
+        {
+            "id": "nm1711398",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stefano Carletti",
+            "asCharacter": "Mogol"
+        },
+        {
+            "id": "nm0147557",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roberto Ceccacci",
+            "asCharacter": "Rudolphis"
+        },
+        {
+            "id": "nm0234581",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjFjNDMyZmEtYmRkNi00ODkzLWFkYTktY2YzZGI1ZWIxZTcxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Attilio Dottesio",
+            "asCharacter": "Xelon"
+        },
+        {
+            "id": "nm0605398",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franco Moruzzi",
+            "asCharacter": "Timor (as Franco Morici)"
+        },
+        {
+            "id": "nm0393396",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jean-Pierre Honoré",
+            "asCharacter": "Prince Darix"
+        },
+        {
+            "id": "nm0750968",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWU0NmQ0YjQtZjhiNy00YTAxLTg3MmQtMTY0OTMyMjljYWM0XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Tony Russel",
+            "asCharacter": "Tirteo (voice)"
+        },
+        {
+            "id": "nm0096613",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2IxYThmNzktYjFkNy00ZDljLTg4MTMtZTZkMzYxYzVlNzMyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Sal Borgese",
+            "asCharacter": "Leader of Ambush Against Maciste (uncredited)"
+        },
+        {
+            "id": "nm0179762",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Antonio Corevi",
+            "asCharacter": "Rubio - Palace Guard Officer (uncredited)"
+        },
+        {
+            "id": "nm0762679",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Angelo Sangermano",
+            "asCharacter": "Man at the Inn (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0076837",
+                    "name": "Marcello Berni",
+                    "description": "secretary of production"
+                },
+                {
+                    "id": "nm0626438",
+                    "name": "Robert de Nesle",
+                    "description": "co-producer (uncredited)"
+                },
+                {
+                    "id": "nm0230980",
+                    "name": "Augusto Dolfi",
+                    "description": "supervising producer"
+                },
+                {
+                    "id": "nm0597732",
+                    "name": "Luigi Mondello",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0729957",
+                    "name": "Renato Rizzuto",
+                    "description": "assistant producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0290002",
+                    "name": "Carlo Franci",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0873359",
+                    "name": "Oberdan Troiani",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0271219",
+                    "name": "Beatrice Felici",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0578099",
+                    "name": "Amedeo Mellone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0379254",
+                    "name": "Giorgio Hermann",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0659102",
+                    "name": "Maria Luisa Panaro",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0547659",
+                    "name": "Antonio Marini",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0547673",
+                    "name": "Italia Marini",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0076837",
+                    "name": "Marcello Berni",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0230980",
+                    "name": "Augusto Dolfi",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0762679",
+                    "name": "Angelo Sangermano",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0700873",
+                    "name": "Luigi Puri",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0023814",
+                    "name": "Ugo Amadoro",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0595278",
+                    "name": "Antonio Modica",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0763527",
+                    "name": "Pier Luigi Santi",
+                    "description": "assistant camera (as Pierluigi Santi)"
+                },
+                {
+                    "id": "nm0873356",
+                    "name": "Luigi Troiani",
+                    "description": "assistant camera (as Luigi Trojani)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm3842245",
+                    "name": "E. Pompei",
+                    "description": "footwear"
+                },
+                {
+                    "id": "nm5786172",
+                    "name": "G. Rochetti",
+                    "description": "wigs"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0271219",
+                    "name": "Beatrice Felici",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0729957",
+                    "name": "Renato Rizzuto",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0208403",
+                    "name": "Carolyn De Fonseca",
+                    "description": "voice dubbing: Jany Clair (english version) (uncredited)"
+                },
+                {
+                    "id": "nm0750968",
+                    "name": "Tony Russel",
+                    "description": "voice dubbing: Tirteo (US version) (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

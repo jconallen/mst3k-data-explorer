@@ -1,0 +1,276 @@
+{
+    "imDbId": "tt0075862",
+    "title": "Code Name: Diamond Head",
+    "fullTitle": "Code Name: Diamond Head (1977)",
+    "type": "Movie",
+    "year": "1977",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0844358",
+                "name": "Jeannot Szwarc",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0455126",
+                "name": "Paul King",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0858186",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjExMDQxNzQ0MV5BMl5BanBnXkFtZTYwMjQzOTU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Roy Thinnes",
+            "asCharacter": "Johnny Paul"
+        },
+        {
+            "id": "nm0638395",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjYwNzQzOTY0M15BMl5BanBnXkFtZTcwMzExOTIyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "France Nuyen",
+            "asCharacter": "Tso-Tsing"
+        },
+        {
+            "id": "nm0958602",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU4MTY3MDczMl5BMl5BanBnXkFtZTgwNTMzMTY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Zulu",
+            "asCharacter": "Zulu"
+        },
+        {
+            "id": "nm0182626",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ward Costello",
+            "asCharacter": "Captain Macintosh"
+        },
+        {
+            "id": "nm0460878",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU3MDM0NDM1NV5BMl5BanBnXkFtZTcwOTcyMTM3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don Knight",
+            "asCharacter": "H.K. Muldoon"
+        },
+        {
+            "id": "nm0574534",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjg5NDg3OTQtYzMyYS00YjhhLTk2NmEtZTExNGViYTczZTU2XkEyXkFqcGdeQXVyMTU1MTU2MDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ian McShane",
+            "asCharacter": "Sean Donovan / Father Horton / Colonel Millard Butler"
+        },
+        {
+            "id": "nm0000967",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIwNDE2MTU4NF5BMl5BanBnXkFtZTcwMDg4OTMwOA@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Eric Braeden",
+            "asCharacter": "Ernest Graeber"
+        },
+        {
+            "id": "nm0665838",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTczMTc1Mjg4OF5BMl5BanBnXkFtZTcwNTE1NTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dennis Patrick",
+            "asCharacter": "Commander Yarnell"
+        },
+        {
+            "id": "nm0378261",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGJmZjZiZmUtNjM3NS00ZDI1LWJkNjItODNkNjVjNjM0OWVmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alex Henteloff",
+            "asCharacter": "Dr. Edward Sherman"
+        },
+        {
+            "id": "nm0490518",
+            "image": "https://m.media-amazon.com/images/M/MV5BYThjYzVjNjktMDc1My00ZjY0LTlmMmQtNDhlMDVhYTYxZjIzXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Frank Michael Liu",
+            "asCharacter": "Hikaru Sakai"
+        },
+        {
+            "id": "nm0160452",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTczMTgyNzEwMV5BMl5BanBnXkFtZTYwODIxNTc2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Eric Christmas",
+            "asCharacter": "Father Murphy"
+        },
+        {
+            "id": "nm0361719",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWUwOTU5ZWUtMDkyNi00NWZhLTk3MzItNGQzNDBlYmYzNWE4XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ernest Harada",
+            "asCharacter": "Hero Yamamoto"
+        },
+        {
+            "id": "nm0256858",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDI3Y2NlZTUtODI1ZS00NDc1LThhZjEtNTQwNTNkOWRiZjQ5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harry Endo",
+            "asCharacter": "Dr. En-Ping"
+        },
+        {
+            "id": "nm0828077",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lee Stetson",
+            "asCharacter": "Tanner (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0441794",
+                    "name": "Marty Katz",
+                    "description": "executive in charge of production"
+                },
+                {
+                    "id": "nm0455126",
+                    "name": "Paul King",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0552918",
+                    "name": "Quinn Martin",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0004022",
+                    "name": "Morton Stevens",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0926146",
+                    "name": "Jack Whitman",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0343401",
+                    "name": "Jim Gross",
+                    "description": "(as James Gross)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0150905",
+                    "name": "George B. Chan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0625388",
+                    "name": "George R. Nelson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0257994",
+                    "name": "Robert Enrietto",
+                    "description": "unit production manager"
+                },
+                {
+                    "id": "nm0302686",
+                    "name": "Dick Gallegly",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm2883170",
+                    "name": "Don Hall",
+                    "description": "post-production supervisor"
+                },
+                {
+                    "id": "nm0853867",
+                    "name": "Edward Teets",
+                    "description": "executive production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0257994",
+                    "name": "Robert Enrietto",
+                    "description": "first assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0051375",
+                    "name": "Alex Bamattre",
+                    "description": "sound editor"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0110748",
+                    "name": "Richard K. Brockway",
+                    "description": "executive editorial supervisor (as Richard Brockway)"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm0816816",
+                    "name": "Stephanie Spangler",
+                    "description": "location manager (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0253759",
+                    "name": "John Elizalde",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0523327",
+                    "name": "Jack Lowry",
+                    "description": "music editor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0176807",
+                    "name": "John Conwell",
+                    "description": "in charge of talent"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

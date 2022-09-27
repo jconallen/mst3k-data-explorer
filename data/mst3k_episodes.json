@@ -1,0 +1,1360 @@
+{
+    "tt0128273": {
+        "tconst": "tt0128273",
+        "season": "0",
+        "episode": "K01",
+        "title": "Invaders from the Deep",
+        "host": "Joel"
+    },
+    "tt1272026": {
+        "tconst": "tt1272026",
+        "season": "0",
+        "episode": "K02",
+        "title": "Revenge of the Mysterons from Mars",
+        "host": "Joel"
+    },
+    "tt0131028": {
+        "tconst": "tt0131028",
+        "season": "0",
+        "episode": "K03,318",
+        "title": "Star Force: Fugitive Alien II",
+        "host": "Joel"
+    },
+    "tt0060446": {
+        "tconst": "tt0060446",
+        "season": "0",
+        "episode": "K04,304",
+        "title": "Gamera vs. Barugon",
+        "host": "Joel"
+    },
+    "tt5176968": {
+        "tconst": "tt5176968",
+        "season": "0",
+        "episode": "K05",
+        "title": "Gamera",
+        "host": "Joel"
+    },
+    "tt0064360": {
+        "tconst": "tt0064360",
+        "season": "0",
+        "episode": "K06,312",
+        "title": "Gamera vs. Gaos",
+        "host": "Joel"
+    },
+    "tt0067123": {
+        "tconst": "tt0067123",
+        "season": "0",
+        "episode": "K07,316",
+        "title": "Gamera vs. Zigra",
+        "host": "Joel"
+    },
+    "tt0061695": {
+        "tconst": "tt0061695",
+        "season": "0",
+        "episode": "K08,308",
+        "title": "Gamera vs. Guiron",
+        "host": "Joel"
+    },
+    "tt0070531": {
+        "tconst": "tt0070531",
+        "season": "0",
+        "episode": "K09",
+        "title": "Phase IV",
+        "host": "Joel"
+    },
+    "tt0074350": {
+        "tconst": "tt0074350",
+        "season": "0",
+        "episode": "K10",
+        "title": "Cosmic Princess",
+        "host": "Joel"
+    },
+    "tt0104463": {
+        "tconst": "tt0104463",
+        "season": "0",
+        "episode": "K11",
+        "title": "Humanoid Woman",
+        "host": "Joel"
+    },
+    "tt0128224": {
+        "tconst": "tt0128224",
+        "season": "0",
+        "episode": "K12,310",
+        "title": "Fugitive Alien",
+        "host": "Joel"
+    },
+    "tt0076650": {
+        "tconst": "tt0076650",
+        "season": "0",
+        "episode": "K13",
+        "title": "SST: Death Flight",
+        "host": "Joel"
+    },
+    "tt0062582": {
+        "tconst": "tt0062582",
+        "season": "0",
+        "episode": "K14",
+        "title": "Mighty Jack",
+        "host": "Joel"
+    },
+    "tt0078345": {
+        "tconst": "tt0078345",
+        "season": "0",
+        "episode": "K15",
+        "title": "Superdome",
+        "host": "Joel"
+    },
+    "tt0078976": {
+        "tconst": "tt0078976",
+        "season": "0",
+        "episode": "K16",
+        "title": "City on Fire",
+        "host": "Joel"
+    },
+    "tt0094153": {
+        "tconst": "tt0094153",
+        "season": "0",
+        "episode": "K17,306",
+        "title": "Time of the Apes",
+        "host": "Joel"
+    },
+    "tt0061976": {
+        "tconst": "tt0061976",
+        "season": "0",
+        "episode": "K18",
+        "title": "The Million Eyes of Sumuru",
+        "host": "Joel"
+    },
+    "tt0080836": {
+        "tconst": "tt0080836",
+        "season": "0",
+        "episode": "K19",
+        "title": "Hangar 18",
+        "host": "Joel"
+    },
+    "tt0082642": {
+        "tconst": "tt0082642",
+        "season": "0",
+        "episode": "K20",
+        "title": "The Last Chase",
+        "host": "Joel"
+    },
+    "tt0085830": {
+        "tconst": "tt0085830",
+        "season": "0",
+        "episode": "K21",
+        "title": "The \"Legend of Dinosaurs\"",
+        "host": "Joel"
+    },
+    "tt0052320": {
+        "tconst": "tt0052320",
+        "season": "1",
+        "episode": "101",
+        "title": "The Crawling Eye",
+        "host": "Joel"
+    },
+    "tt0050717": {
+        "tconst": "tt0050717",
+        "season": "1",
+        "episode": "102",
+        "title": "The Robot vs. The Aztec Mummy",
+        "host": "Joel"
+    },
+    "tt0035009": {
+        "tconst": "tt0035009",
+        "season": "1",
+        "episode": "103",
+        "title": "The Mad Monster",
+        "host": "Joel"
+    },
+    "tt0061203": {
+        "tconst": "tt0061203",
+        "season": "1",
+        "episode": "104",
+        "title": "Women of the Prehistoric Planet",
+        "host": "Joel"
+    },
+    "tt0034613": {
+        "tconst": "tt0034613",
+        "season": "1",
+        "episode": "105",
+        "title": "The Corpse Vanishes",
+        "host": "Joel"
+    },
+    "tt0056961": {
+        "tconst": "tt0056961",
+        "season": "1",
+        "episode": "106",
+        "title": "The Crawling Hand",
+        "host": "Joel"
+    },
+    "tt0046248": {
+        "tconst": "tt0046248",
+        "season": "1",
+        "episode": "107",
+        "title": "Robot Monster",
+        "host": "Joel"
+    },
+    "tt0056499": {
+        "tconst": "tt0056499",
+        "season": "1",
+        "episode": "108",
+        "title": "The Slime People",
+        "host": "Joel"
+    },
+    "tt0046213": {
+        "tconst": "tt0046213",
+        "season": "1",
+        "episode": "109",
+        "title": "Project Moonbase",
+        "host": "Joel"
+    },
+    "tt0093872": {
+        "tconst": "tt0093872",
+        "season": "1",
+        "episode": "110",
+        "title": "Robot Holocaust",
+        "host": "Joel"
+    },
+    "tt0064691": {
+        "tconst": "tt0064691",
+        "season": "1",
+        "episode": "111",
+        "title": "Moon Zero Two",
+        "host": "Joel"
+    },
+    "tt0051139": {
+        "tconst": "tt0051139",
+        "season": "1",
+        "episode": "112",
+        "title": "Untamed Youth",
+        "host": "Joel"
+    },
+    "tt0050197": {
+        "tconst": "tt0050197",
+        "season": "1",
+        "episode": "113",
+        "title": "The Black Scorpion",
+        "host": "Joel"
+    },
+    "tt0042897": {
+        "tconst": "tt0042897",
+        "season": "2",
+        "episode": "201",
+        "title": "Rocketship X-M",
+        "host": "Joel"
+    },
+    "tt0061671": {
+        "tconst": "tt0061671",
+        "season": "2",
+        "episode": "202",
+        "title": "The Sidehackers",
+        "host": "Joel"
+    },
+    "tt0040500": {
+        "tconst": "tt0040500",
+        "season": "2",
+        "episode": "203",
+        "title": "Jungle Goddess",
+        "host": "Joel"
+    },
+    "tt0061456": {
+        "tconst": "tt0061456",
+        "season": "2",
+        "episode": "204",
+        "title": "Catalina Caper",
+        "host": "Joel"
+    },
+    "tt0055380": {
+        "tconst": "tt0055380",
+        "season": "2",
+        "episode": "205",
+        "title": "Rocket Attack U.S.A.",
+        "host": "Joel"
+    },
+    "tt0056415": {
+        "tconst": "tt0056415",
+        "season": "2",
+        "episode": "206",
+        "title": "Ring of Terror",
+        "host": "Joel"
+    },
+    "tt0062493": {
+        "tconst": "tt0062493",
+        "season": "2",
+        "episode": "207",
+        "title": "Wild Rebels",
+        "host": "Joel"
+    },
+    "tt0043757": {
+        "tconst": "tt0043757",
+        "season": "2",
+        "episode": "208",
+        "title": "Lost Continent",
+        "host": "Joel"
+    },
+    "tt0061759": {
+        "tconst": "tt0061759",
+        "season": "2",
+        "episode": "209",
+        "title": "The Hellcats",
+        "host": "Joel"
+    },
+    "tt0048256": {
+        "tconst": "tt0048256",
+        "season": "2",
+        "episode": "210",
+        "title": "King Dinosaur",
+        "host": "Joel"
+    },
+    "tt0053250": {
+        "tconst": "tt0053250",
+        "season": "2",
+        "episode": "211",
+        "title": "First Spaceship on Venus",
+        "host": "Joel"
+    },
+    "tt0070122": {
+        "tconst": "tt0070122",
+        "season": "2",
+        "episode": "212",
+        "title": "Godzilla vs. Megalon",
+        "host": "Joel"
+    },
+    "tt0060464": {
+        "tconst": "tt0060464",
+        "season": "2",
+        "episode": "213",
+        "title": "Godzilla vs. the Sea Monster",
+        "host": "Joel"
+    },
+    "tt0086972": {
+        "tconst": "tt0086972",
+        "season": "3",
+        "episode": "301",
+        "title": "Cave Dwellers",
+        "host": "Joel"
+    },
+    "tt0059080": {
+        "tconst": "tt0059080",
+        "season": "3",
+        "episode": "302",
+        "title": "Gamera",
+        "host": "Joel"
+    },
+    "tt0086026": {
+        "tconst": "tt0086026",
+        "season": "3",
+        "episode": "303",
+        "title": "Pod People",
+        "host": "Joel"
+    },
+    "tt0070742": {
+        "tconst": "tt0070742",
+        "season": "3",
+        "episode": "305",
+        "title": "Stranded in Space",
+        "host": "Joel"
+    },
+    "tt0052719": {
+        "tconst": "tt0052719",
+        "season": "3",
+        "episode": "307",
+        "title": "Daddy-O",
+        "host": "Joel"
+    },
+    "tt0050118": {
+        "tconst": "tt0050118",
+        "season": "3",
+        "episode": "309",
+        "title": "The Amazing Colossal Man",
+        "host": "Joel"
+    },
+    "tt0049370": {
+        "tconst": "tt0049370",
+        "season": "3",
+        "episode": "311",
+        "title": "It Conquered the World",
+        "host": "Joel"
+    },
+    "tt0051570": {
+        "tconst": "tt0051570",
+        "season": "3",
+        "episode": "313",
+        "title": "Earth vs. the Spider",
+        "host": "Joel"
+    },
+    "tt0063300": {
+        "tconst": "tt0063300",
+        "season": "3",
+        "episode": "314",
+        "title": "Mighty Jack",
+        "host": "Joel"
+    },
+    "tt0052279": {
+        "tconst": "tt0052279",
+        "season": "3",
+        "episode": "315",
+        "title": "Teenage Cave Man",
+        "host": "Joel"
+    },
+    "tt0052156": {
+        "tconst": "tt0052156",
+        "season": "3",
+        "episode": "317",
+        "title": "Viking Women and the Sea Serpent",
+        "host": "Joel"
+    },
+    "tt0052378": {
+        "tconst": "tt0052378",
+        "season": "3",
+        "episode": "319",
+        "title": "War of the Colossal Beast",
+        "host": "Joel"
+    },
+    "tt0051134": {
+        "tconst": "tt0051134",
+        "season": "3",
+        "episode": "320",
+        "title": "The Unearthly",
+        "host": "Joel"
+    },
+    "tt0058548": {
+        "tconst": "tt0058548",
+        "season": "3",
+        "episode": "321",
+        "title": "Santa Claus Conquers the Martians",
+        "host": "Joel"
+    },
+    "tt0643072": {
+        "tconst": "tt0643072",
+        "season": "3",
+        "episode": "322a",
+        "title": "Master Ninja I-a",
+        "host": "Joel"
+    },
+    "tt0643073": {
+        "tconst": "tt0643073",
+        "season": "3",
+        "episode": "322b",
+        "title": "Master Ninja I-b",
+        "host": "Joel"
+    },
+    "tt0064338": {
+        "tconst": "tt0064338",
+        "season": "3",
+        "episode": "323",
+        "title": "The Castle of Fu Manchu",
+        "host": "Joel"
+    },
+    "tt0643075": {
+        "tconst": "tt0643075",
+        "season": "3",
+        "episode": "324a",
+        "title": "Master Ninja II-a",
+        "host": "Joel"
+    },
+    "tt0643069": {
+        "tconst": "tt0643069",
+        "season": "3",
+        "episode": "324b",
+        "title": "Master Ninja II-b",
+        "host": "Joel"
+    },
+    "tt0064639": {
+        "tconst": "tt0064639",
+        "season": "4",
+        "episode": "401",
+        "title": "Space Travelers",
+        "host": "Joel"
+    },
+    "tt0052846": {
+        "tconst": "tt0052846",
+        "season": "4",
+        "episode": "402",
+        "title": "The Giant Gila Monster",
+        "host": "Joel"
+    },
+    "tt0088925": {
+        "tconst": "tt0088925",
+        "season": "4",
+        "episode": "403",
+        "title": "City Limits",
+        "host": "Joel"
+    },
+    "tt0053337": {
+        "tconst": "tt0053337",
+        "season": "4",
+        "episode": "404",
+        "title": "Teenagers from Outer Space",
+        "host": "Joel"
+    },
+    "tt0084796": {
+        "tconst": "tt0084796",
+        "season": "4",
+        "episode": "405",
+        "title": "Being from Another Planet",
+        "host": "Joel"
+    },
+    "tt0053611": {
+        "tconst": "tt0053611",
+        "season": "4",
+        "episode": "406",
+        "title": "Attack of the Giant Leeches",
+        "host": "Joel"
+    },
+    "tt0052969": {
+        "tconst": "tt0052969",
+        "season": "4",
+        "episode": "407",
+        "title": "The Killer Shrews",
+        "host": "Joel"
+    },
+    "tt0052782": {
+        "tconst": "tt0052782",
+        "season": "4",
+        "episode": "408",
+        "title": "Hercules Unchained",
+        "host": "Joel"
+    },
+    "tt0049363": {
+        "tconst": "tt0049363",
+        "season": "4",
+        "episode": "409",
+        "title": "Indestructible Man",
+        "host": "Joel"
+    },
+    "tt0058311": {
+        "tconst": "tt0058311",
+        "season": "4",
+        "episode": "410",
+        "title": "Hercules Against the Moon Men",
+        "host": "Joel"
+    },
+    "tt0056211": {
+        "tconst": "tt0056211",
+        "season": "4",
+        "episode": "411",
+        "title": "The Magic Sword",
+        "host": "Joel"
+    },
+    "tt0054851": {
+        "tconst": "tt0054851",
+        "season": "4",
+        "episode": "412",
+        "title": "Hercules and the Captive Women",
+        "host": "Joel"
+    },
+    "tt0047211": {
+        "tconst": "tt0047211",
+        "season": "4",
+        "episode": "413",
+        "title": "Manhunt in Space",
+        "host": "Joel"
+    },
+    "tt0054393": {
+        "tconst": "tt0054393",
+        "season": "4",
+        "episode": "414",
+        "title": "Tormented",
+        "host": "Joel"
+    },
+    "tt0053640": {
+        "tconst": "tt0053640",
+        "season": "4",
+        "episode": "415",
+        "title": "The Beatniks",
+        "host": "Joel"
+    },
+    "tt0046977": {
+        "tconst": "tt0046977",
+        "season": "4",
+        "episode": "416",
+        "title": "Fire Maidens of Outer Space",
+        "host": "Joel"
+    },
+    "tt0045655": {
+        "tconst": "tt0045655",
+        "season": "4",
+        "episode": "417",
+        "title": "Crash of Moons",
+        "host": "Joel"
+    },
+    "tt0059161": {
+        "tconst": "tt0059161",
+        "season": "4",
+        "episode": "418",
+        "title": "Attack of the The Eye Creatures",
+        "host": "Joel"
+    },
+    "tt0053213": {
+        "tconst": "tt0053213",
+        "season": "4",
+        "episode": "419",
+        "title": "The Rebel Set",
+        "host": "Joel"
+    },
+    "tt0059290": {
+        "tconst": "tt0059290",
+        "season": "4",
+        "episode": "420",
+        "title": "The Human Duplicators",
+        "host": "Joel"
+    },
+    "tt0059464": {
+        "tconst": "tt0059464",
+        "season": "4",
+        "episode": "421",
+        "title": "Monster a Go-Go",
+        "host": "Joel"
+    },
+    "tt0053240": {
+        "tconst": "tt0053240",
+        "season": "4",
+        "episode": "422",
+        "title": "The Day the Earth Froze",
+        "host": "Joel"
+    },
+    "tt0047898": {
+        "tconst": "tt0047898",
+        "season": "4",
+        "episode": "423",
+        "title": "Bride of the Monster",
+        "host": "Joel"
+    },
+    "tt0060666": {
+        "tconst": "tt0060666",
+        "season": "4",
+        "episode": "424",
+        "title": "Manos: The Hands of Fate",
+        "host": "Joel"
+    },
+    "tt0088380": {
+        "tconst": "tt0088380",
+        "season": "5",
+        "episode": "501",
+        "title": "Warrior of the Lost World",
+        "host": "Joel"
+    },
+    "tt0050381": {
+        "tconst": "tt0050381",
+        "season": "5",
+        "episode": "502",
+        "title": "Hercules",
+        "host": "Joel"
+    },
+    "tt0048682": {
+        "tconst": "tt0048682",
+        "season": "5",
+        "episode": "503",
+        "title": "Swamp Diamonds",
+        "host": "Joel"
+    },
+    "tt0060956": {
+        "tconst": "tt0060956",
+        "season": "5",
+        "episode": "504",
+        "title": "Secret Agent Super Dragon",
+        "host": "Joel"
+    },
+    "tt0046264": {
+        "tconst": "tt0046264",
+        "season": "5",
+        "episode": "505",
+        "title": "The Magic Voyage of Sinbad",
+        "host": "Joel"
+    },
+    "tt0055946": {
+        "tconst": "tt0055946",
+        "season": "5",
+        "episode": "506",
+        "title": "Eegah",
+        "host": "Joel"
+    },
+    "tt0037798": {
+        "tconst": "tt0037798",
+        "season": "5",
+        "episode": "507",
+        "title": "I Accuse My Parents",
+        "host": "Joel"
+    },
+    "tt0062078": {
+        "tconst": "tt0062078",
+        "season": "5",
+        "episode": "508",
+        "title": "Operation Double 007",
+        "host": "Joel"
+    },
+    "tt0052849": {
+        "tconst": "tt0052849",
+        "season": "5",
+        "episode": "509",
+        "title": "The Girl in Lovers Lane",
+        "host": "Joel"
+    },
+    "tt0043895": {
+        "tconst": "tt0043895",
+        "season": "5",
+        "episode": "510",
+        "title": "The Painted Hills",
+        "host": "Joel"
+    },
+    "tt0049287": {
+        "tconst": "tt0049287",
+        "season": "5",
+        "episode": "511",
+        "title": "Gunslinger",
+        "host": "Joel"
+    },
+    "tt0073396": {
+        "tconst": "tt0073396",
+        "season": "5",
+        "episode": "512",
+        "title": "Mitchell",
+        "host": "Joel"
+    },
+    "tt0052646": {
+        "tconst": "tt0052646",
+        "season": "5",
+        "episode": "513",
+        "title": "The Brain That Wouldn't Die",
+        "host": "Mike"
+    },
+    "tt0059786": {
+        "tconst": "tt0059786",
+        "season": "5",
+        "episode": "514",
+        "title": "Teen-Age Strangler",
+        "host": "Mike"
+    },
+    "tt0061191": {
+        "tconst": "tt0061191",
+        "season": "5",
+        "episode": "515",
+        "title": "The Wild Wild World of Batwoman",
+        "host": "Mike"
+    },
+    "tt0092532": {
+        "tconst": "tt0092532",
+        "season": "5",
+        "episode": "516",
+        "title": "Alien from L.A.",
+        "host": "Mike"
+    },
+    "tt0050177": {
+        "tconst": "tt0050177",
+        "season": "5",
+        "episode": "517",
+        "title": "Beginning of the End",
+        "host": "Mike"
+    },
+    "tt0057859": {
+        "tconst": "tt0057859",
+        "season": "5",
+        "episode": "518",
+        "title": "The Atomic Brain",
+        "host": "Mike"
+    },
+    "tt0098048": {
+        "tconst": "tt0098048",
+        "season": "5",
+        "episode": "519",
+        "title": "Outlaw",
+        "host": "Mike"
+    },
+    "tt0042874": {
+        "tconst": "tt0042874",
+        "season": "5",
+        "episode": "520",
+        "title": "Radar Secret Service",
+        "host": "Mike"
+    },
+    "tt0053241": {
+        "tconst": "tt0053241",
+        "season": "5",
+        "episode": "521",
+        "title": "Santa Claus",
+        "host": "Mike"
+    },
+    "tt0048701": {
+        "tconst": "tt0048701",
+        "season": "5",
+        "episode": "522",
+        "title": "Teen-Age Crime Wave",
+        "host": "Mike"
+    },
+    "tt0059878": {
+        "tconst": "tt0059878",
+        "season": "5",
+        "episode": "523",
+        "title": "Village of the Giants",
+        "host": "Mike"
+    },
+    "tt0054415": {
+        "tconst": "tt0054415",
+        "season": "5",
+        "episode": "524",
+        "title": "12 to the Moon",
+        "host": "Mike"
+    },
+    "tt0052850": {
+        "tconst": "tt0052850",
+        "season": "6",
+        "episode": "601",
+        "title": "Girls Town",
+        "host": "Mike"
+    },
+    "tt0044750": {
+        "tconst": "tt0044750",
+        "season": "6",
+        "episode": "602",
+        "title": "Invasion U.S.A.",
+        "host": "Mike"
+    },
+    "tt0106682": {
+        "tconst": "tt0106682",
+        "season": "6",
+        "episode": "603",
+        "title": "The Dead Talk Back",
+        "host": "Mike"
+    },
+    "tt0092297": {
+        "tconst": "tt0092297",
+        "season": "6",
+        "episode": "604",
+        "title": "Zombie Nightmare",
+        "host": "Mike"
+    },
+    "tt0056207": {
+        "tconst": "tt0056207",
+        "season": "6",
+        "episode": "605",
+        "title": "Colossus and the Headhunters",
+        "host": "Mike"
+    },
+    "tt0057970": {
+        "tconst": "tt0057970",
+        "season": "6",
+        "episode": "606",
+        "title": "The Creeping Terror",
+        "host": "Mike"
+    },
+    "tt0054691": {
+        "tconst": "tt0054691",
+        "season": "6",
+        "episode": "607",
+        "title": "Bloodlust!",
+        "host": "Mike"
+    },
+    "tt0075862": {
+        "tconst": "tt0075862",
+        "season": "6",
+        "episode": "608",
+        "title": "Code Name: Diamond Head",
+        "host": "Mike"
+    },
+    "tt0057507": {
+        "tconst": "tt0057507",
+        "season": "6",
+        "episode": "609",
+        "title": "The Skydivers",
+        "host": "Mike"
+    },
+    "tt0049922": {
+        "tconst": "tt0049922",
+        "season": "6",
+        "episode": "610",
+        "title": "The Violent Years",
+        "host": "Mike"
+    },
+    "tt0040530": {
+        "tconst": "tt0040530",
+        "season": "6",
+        "episode": "611",
+        "title": "Last of the Wild Horses",
+        "host": "Mike"
+    },
+    "tt0058615": {
+        "tconst": "tt0058615",
+        "season": "6",
+        "episode": "612",
+        "title": "The Starfighters",
+        "host": "Mike"
+    },
+    "tt0055452": {
+        "tconst": "tt0055452",
+        "season": "6",
+        "episode": "613",
+        "title": "The Sinister Urge",
+        "host": "Mike"
+    },
+    "tt0065343": {
+        "tconst": "tt0065343",
+        "season": "6",
+        "episode": "614",
+        "title": "San Francisco International",
+        "host": "Mike"
+    },
+    "tt0058267": {
+        "tconst": "tt0058267",
+        "season": "6",
+        "episode": "615",
+        "title": "Kitten with a Whip",
+        "host": "Mike"
+    },
+    "tt0043954": {
+        "tconst": "tt0043954",
+        "season": "6",
+        "episode": "616",
+        "title": "Racket Girls",
+        "host": "Mike"
+    },
+    "tt0049358": {
+        "tconst": "tt0049358",
+        "season": "6",
+        "episode": "617",
+        "title": "The Sword and the Dragon",
+        "host": "Mike"
+    },
+    "tt0052891": {
+        "tconst": "tt0052891",
+        "season": "6",
+        "episode": "618",
+        "title": "High School Big Shot",
+        "host": "Mike"
+    },
+    "tt0060753": {
+        "tconst": "tt0060753",
+        "season": "6",
+        "episode": "619",
+        "title": "Red Zone Cuba",
+        "host": "Mike"
+    },
+    "tt0062035": {
+        "tconst": "tt0062035",
+        "season": "6",
+        "episode": "620",
+        "title": "Danger!! Death Ray",
+        "host": "Mike"
+    },
+    "tt0054673": {
+        "tconst": "tt0054673",
+        "season": "6",
+        "episode": "621",
+        "title": "The Beast of Yucca Flats",
+        "host": "Mike"
+    },
+    "tt0078778": {
+        "tconst": "tt0078778",
+        "season": "6",
+        "episode": "622",
+        "title": "Angels Revenge",
+        "host": "Mike"
+    },
+    "tt0053593": {
+        "tconst": "tt0053593",
+        "season": "6",
+        "episode": "623",
+        "title": "The Amazing Transparent Man",
+        "host": "Mike"
+    },
+    "tt0055408": {
+        "tconst": "tt0055408",
+        "season": "6",
+        "episode": "624",
+        "title": "Samson vs. the Vampire Women",
+        "host": "Mike"
+    },
+    "tt0047577": {
+        "tconst": "tt0047577",
+        "season": "",
+        "episode": "M01",
+        "title": "This Island Earth",
+        "host": "Mike"
+    },
+    "tt0051993": {
+        "tconst": "tt0051993",
+        "season": "7",
+        "episode": "701",
+        "title": "Night of the Blood Beast",
+        "host": "Mike"
+    },
+    "tt0038387": {
+        "tconst": "tt0038387",
+        "season": "7",
+        "episode": "702",
+        "title": "The Brute Man",
+        "host": "Mike"
+    },
+    "tt0097174": {
+        "tconst": "tt0097174",
+        "season": "7",
+        "episode": "703",
+        "title": "Deathstalker and the Warriors from Hell",
+        "host": "Mike"
+    },
+    "tt0076191": {
+        "tconst": "tt0076191",
+        "season": "7",
+        "episode": "704",
+        "title": "The Incredible Melting Man",
+        "host": "Mike"
+    },
+    "tt0089104": {
+        "tconst": "tt0089104",
+        "season": "7",
+        "episode": "705",
+        "title": "Escape 2000",
+        "host": "Mike"
+    },
+    "tt0077834": {
+        "tconst": "tt0077834",
+        "season": "7",
+        "episode": "706",
+        "title": "Laserblast",
+        "host": "Mike"
+    },
+    "tt0048554": {
+        "tconst": "tt0048554",
+        "season": "8",
+        "episode": "801",
+        "title": "Revenge of the Creature",
+        "host": "Mike"
+    },
+    "tt0054020": {
+        "tconst": "tt0054020",
+        "season": "8",
+        "episode": "802",
+        "title": "The Leech Woman",
+        "host": "Mike"
+    },
+    "tt0049516": {
+        "tconst": "tt0049516",
+        "season": "8",
+        "episode": "803",
+        "title": "The Mole People",
+        "host": "Mike"
+    },
+    "tt0050294": {
+        "tconst": "tt0050294",
+        "season": "8",
+        "episode": "804",
+        "title": "The Deadly Mantis",
+        "host": "Mike"
+    },
+    "tt0052289": {
+        "tconst": "tt0052289",
+        "season": "8",
+        "episode": "805",
+        "title": "The Thing That Couldn't Die",
+        "host": "Mike"
+    },
+    "tt0051128": {
+        "tconst": "tt0051128",
+        "season": "8",
+        "episode": "806",
+        "title": "The Undead",
+        "host": "Mike"
+    },
+    "tt0052286": {
+        "tconst": "tt0052286",
+        "season": "8",
+        "episode": "807",
+        "title": "Terror from the Year 5000",
+        "host": "Mike"
+    },
+    "tt0050957": {
+        "tconst": "tt0050957",
+        "season": "8",
+        "episode": "808",
+        "title": "The She-Creature",
+        "host": "Mike"
+    },
+    "tt0050530": {
+        "tconst": "tt0050530",
+        "season": "8",
+        "episode": "809",
+        "title": "I Was a Teenage Werewolf",
+        "host": "Mike"
+    },
+    "tt0073043": {
+        "tconst": "tt0073043",
+        "season": "8",
+        "episode": "810",
+        "title": "The Giant Spider Invasion",
+        "host": "Mike"
+    },
+    "tt0078062": {
+        "tconst": "tt0078062",
+        "season": "8",
+        "episode": "811",
+        "title": "Parts: The Clonus Horror",
+        "host": "Mike"
+    },
+    "tt0057181": {
+        "tconst": "tt0057181",
+        "season": "8",
+        "episode": "812",
+        "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies",
+        "host": "Mike"
+    },
+    "tt0058374": {
+        "tconst": "tt0058374",
+        "season": "8",
+        "episode": "813",
+        "title": "Jack Frost",
+        "host": "Mike"
+    },
+    "tt0074568": {
+        "tconst": "tt0074568",
+        "season": "8",
+        "episode": "814a",
+        "title": "Riding with Death-a",
+        "host": "Mike"
+    },
+    "tt0586012": {
+        "tconst": "tt0586012",
+        "season": "8",
+        "episode": "814b",
+        "title": "Riding with Death-b",
+        "host": "Mike"
+    },
+    "tt0060074": {
+        "tconst": "tt0060074",
+        "season": "8",
+        "episode": "815",
+        "title": "Agent for H.A.R.M.",
+        "host": "Mike"
+    },
+    "tt0053464": {
+        "tconst": "tt0053464",
+        "season": "8",
+        "episode": "816",
+        "title": "Prince of Space",
+        "host": "Mike"
+    },
+    "tt0058208": {
+        "tconst": "tt0058208",
+        "season": "8",
+        "episode": "817",
+        "title": "The Horror of Party Beach",
+        "host": "Mike"
+    },
+    "tt0058007": {
+        "tconst": "tt0058007",
+        "season": "8",
+        "episode": "818",
+        "title": "Devil Doll",
+        "host": "Mike"
+    },
+    "tt0055562": {
+        "tconst": "tt0055562",
+        "season": "8",
+        "episode": "819",
+        "title": "Invasion of the Neptune Men",
+        "host": "Mike"
+    },
+    "tt0096149": {
+        "tconst": "tt0096149",
+        "season": "8",
+        "episode": "820",
+        "title": "Space Mutiny",
+        "host": "Mike"
+    },
+    "tt0145529": {
+        "tconst": "tt0145529",
+        "season": "8",
+        "episode": "821",
+        "title": "Time Chasers",
+        "host": "Mike"
+    },
+    "tt0089759": {
+        "tconst": "tt0089759",
+        "season": "8",
+        "episode": "822",
+        "title": "Overdrawn at the Memory Bank",
+        "host": "Mike"
+    },
+    "tt0062159": {
+        "tconst": "tt0062159",
+        "season": "9",
+        "episode": "901",
+        "title": "The Projected Man",
+        "host": "Mike"
+    },
+    "tt0055294": {
+        "tconst": "tt0055294",
+        "season": "9",
+        "episode": "902",
+        "title": "The Phantom Planet",
+        "host": "Mike"
+    },
+    "tt0081693": {
+        "tconst": "tt0081693",
+        "season": "9",
+        "episode": "903",
+        "title": "The Pumaman",
+        "host": "Mike"
+    },
+    "tt0118137": {
+        "tconst": "tt0118137",
+        "season": "9",
+        "episode": "904",
+        "title": "Werewolf",
+        "host": "Mike"
+    },
+    "tt0061557": {
+        "tconst": "tt0061557",
+        "season": "9",
+        "episode": "905",
+        "title": "The Deadly Bees",
+        "host": "Mike"
+    },
+    "tt0052227": {
+        "tconst": "tt0052227",
+        "season": "9",
+        "episode": "906",
+        "title": "The Space Children",
+        "host": "Mike"
+    },
+    "tt0089280": {
+        "tconst": "tt0089280",
+        "season": "9",
+        "episode": "907",
+        "title": "Hobgoblins",
+        "host": "Mike"
+    },
+    "tt0066476": {
+        "tconst": "tt0066476",
+        "season": "9",
+        "episode": "908",
+        "title": "The Touch of Satan",
+        "host": "Mike"
+    },
+    "tt0054938": {
+        "tconst": "tt0054938",
+        "season": "9",
+        "episode": "909",
+        "title": "Gorgo",
+        "host": "Mike"
+    },
+    "tt0131550": {
+        "tconst": "tt0131550",
+        "season": "9",
+        "episode": "910",
+        "title": "The Final Sacrifice",
+        "host": "Mike"
+    },
+    "tt0088100": {
+        "tconst": "tt0088100",
+        "season": "9",
+        "episode": "911",
+        "title": "Devil Fish",
+        "host": "Mike"
+    },
+    "tt0052169": {
+        "tconst": "tt0052169",
+        "season": "9",
+        "episode": "912",
+        "title": "The Screaming Skull",
+        "host": "Mike"
+    },
+    "tt0107910": {
+        "tconst": "tt0107910",
+        "season": "9",
+        "episode": "913",
+        "title": "Quest of the Delta Knights",
+        "host": "Mike"
+    },
+    "tt0100665": {
+        "tconst": "tt0100665",
+        "season": "10",
+        "episode": "1001",
+        "title": "Soultaker",
+        "host": "Mike"
+    },
+    "tt0174685": {
+        "tconst": "tt0174685",
+        "season": "10",
+        "episode": "1002",
+        "title": "Girl in Gold Boots",
+        "host": "Mike"
+    },
+    "tt0174917": {
+        "tconst": "tt0174917",
+        "season": "10",
+        "episode": "1003",
+        "title": "Merlin's Shop of Mystical Wonders",
+        "host": "Mike"
+    },
+    "tt0113135": {
+        "tconst": "tt0113135",
+        "season": "10",
+        "episode": "1004",
+        "title": "Future War",
+        "host": "Mike"
+    },
+    "tt0072666": {
+        "tconst": "tt0072666",
+        "season": "10",
+        "episode": "1005",
+        "title": "Blood Waters of Dr. Z",
+        "host": "Mike"
+    },
+    "tt0088772": {
+        "tconst": "tt0088772",
+        "season": "10",
+        "episode": "1006",
+        "title": "Boggy Creek II: And the Legend Continues",
+        "host": "Mike"
+    },
+    "tt0075343": {
+        "tconst": "tt0075343",
+        "season": "10",
+        "episode": "1007",
+        "title": "Track of the Moon Beast",
+        "host": "Mike"
+    },
+    "tt0087258": {
+        "tconst": "tt0087258",
+        "season": "10",
+        "episode": "1008",
+        "title": "Final Justice",
+        "host": "Mike"
+    },
+    "tt0053888": {
+        "tconst": "tt0053888",
+        "season": "10",
+        "episode": "1009",
+        "title": "Hamlet",
+        "host": "Mike"
+    },
+    "tt0071198": {
+        "tconst": "tt0071198",
+        "season": "10",
+        "episode": "1010",
+        "title": "It Lives By Night",
+        "host": "Mike"
+    },
+    "tt0054333": {
+        "tconst": "tt0054333",
+        "season": "10",
+        "episode": "1011",
+        "title": "Horrors of Spider Island",
+        "host": "Mike"
+    },
+    "tt0075261": {
+        "tconst": "tt0075261",
+        "season": "10",
+        "episode": "1012",
+        "title": "Squirm",
+        "host": "Mike"
+    },
+    "tt0062861": {
+        "tconst": "tt0062861",
+        "season": "10",
+        "episode": "1013",
+        "title": "Diabolik",
+        "host": "Mike"
+    }
+}

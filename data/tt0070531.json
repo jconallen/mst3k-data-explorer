@@ -1,0 +1,374 @@
+{
+    "imDbId": "tt0070531",
+    "title": "Phase IV",
+    "fullTitle": "Phase IV (1974)",
+    "type": "Movie",
+    "year": "1974",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000866",
+                "name": "Saul Bass",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0800294",
+                "name": "Mayo Simon",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0202638",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU4MDg3NTAyNF5BMl5BanBnXkFtZTcwNTg4MzA3NA@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Nigel Davenport",
+            "asCharacter": "Dr. Ernest D. Hubbs"
+        },
+        {
+            "id": "nm0614526",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2QzODRiMTMtZGEzZC00YTk3LTkxMzktNmFmYWQ3YjhjNGJlXkEyXkFqcGdeQXVyNTUxODY0MDA@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Michael Murphy",
+            "asCharacter": "James R. Lesko"
+        },
+        {
+            "id": "nm0292802",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2M0NTkwYTktZDgxYS00ZmFiLTkwM2UtOWViZTg0ZDRmYzdhXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Lynne Frederick",
+            "asCharacter": "Kendra Eldridge"
+        },
+        {
+            "id": "nm0317506",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzcwNjAyYTMtZmNlMC00ZWVjLThiYmMtZGE0ZDA5MTZiODQyXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Alan Gifford",
+            "asCharacter": "Mr. Eldridge"
+        },
+        {
+            "id": "nm0376580",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzkwODVjZGMtZGM3OC00NzM4LWE4ZjQtMTBjODVkZjQ4ZmFlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.2727_AL_.jpg",
+            "name": "Robert Henderson",
+            "asCharacter": "Clete"
+        },
+        {
+            "id": "nm0395600",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQxOTRlMTUtYzI1ZS00MDZkLTlhNzItOTg5MmVhMDVkOGZkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.9091_AL_.jpg",
+            "name": "Helen Horton",
+            "asCharacter": "Mildred Eldridge"
+        },
+        {
+            "id": "nm0372242",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWI1MzA0NTMtMDY1NC00MzYwLThlMDUtNDczMmVhODY5OGU1XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "David Healy",
+            "asCharacter": "Radio Announcer (voice) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0705620",
+                    "name": "Paul B. Radin",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0309057",
+                    "name": "Brian Gascoigne",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0124117",
+                    "name": "Dick Bush",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0447470",
+                    "name": "Willy Kemplen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0058045",
+                    "name": "John Barry",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0171247",
+                    "name": "Verena Coleman",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0321896",
+                    "name": "Betty Glasow",
+                    "description": "hairdresser"
+                },
+                {
+                    "id": "nm0932031",
+                    "name": "Freddie Williamson",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0598294",
+                    "name": "Eva Monley",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0142081",
+                    "name": "William P. Cartlidge",
+                    "description": "assistant director (as Bill Cartlidge)"
+                },
+                {
+                    "id": "nm0161408",
+                    "name": "Terence Churcher",
+                    "description": "second assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0721888",
+                    "name": "Norman Reynolds",
+                    "description": "assistant art director"
+                },
+                {
+                    "id": "nm0919513",
+                    "name": "Bill Welch",
+                    "description": "construction manager"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0093068",
+                    "name": "Norman Bolland",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0427590",
+                    "name": "Bob Jones",
+                    "description": "dubbing mixer"
+                },
+                {
+                    "id": "nm0694713",
+                    "name": "John Poyner",
+                    "description": "dubbing editor"
+                },
+                {
+                    "id": "nm0875957",
+                    "name": "Mike Tucker",
+                    "description": "boom operator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0724624",
+                    "name": "John Richardson",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0627472",
+                    "name": "Rex Neville",
+                    "description": "opticals"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0359101",
+                    "name": "Keith Hamshere",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0005773",
+                    "name": "Dennis C. Lewiston",
+                    "description": "camera operator (as Denis Lewiston)"
+                },
+                {
+                    "id": "nm1131656",
+                    "name": "Jack Mills",
+                    "description": "camera operator: second unit"
+                },
+                {
+                    "id": "nm0841592",
+                    "name": "John Swan",
+                    "description": "electrical supervisor"
+                },
+                {
+                    "id": "nm0172288",
+                    "name": "Eddie Collins",
+                    "description": "focus puller (uncredited)"
+                },
+                {
+                    "id": "nm1661360",
+                    "name": "Brian Rose",
+                    "description": "clapper loader: studios (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0123296",
+                    "name": "Rosemary Burrows",
+                    "description": "wardrobe supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0039420",
+                    "name": "Campbell Askew",
+                    "description": "second assistant editor (uncredited)"
+                },
+                {
+                    "id": "nm0203896",
+                    "name": "Peter Davies",
+                    "description": "first assistant editor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm0631459",
+                    "name": "Ivo Nightingale",
+                    "description": "location manager"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0109789",
+                    "name": "Desmond Briscoe",
+                    "description": "composer: additional electronic music"
+                },
+                {
+                    "id": "nm0309057",
+                    "name": "Brian Gascoigne",
+                    "description": "conductor / electronic music realisation"
+                },
+                {
+                    "id": "nm0903448",
+                    "name": "David Vorhaus",
+                    "description": "electronic music realisation"
+                },
+                {
+                    "id": "nm0945648",
+                    "name": "Stomu Yamashta",
+                    "description": "composer: montage music (as Stomu Yamash'Ta)"
+                },
+                {
+                    "id": "nm1161586",
+                    "name": "Dan Goldwasser",
+                    "description": "soundtrack producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0138220",
+                    "name": "Pamela Carlton",
+                    "description": "continuity (as Pam Carlton)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0036341",
+                    "name": "Alan Arnold",
+                    "description": "publicist"
+                },
+                {
+                    "id": "nm0000866",
+                    "name": "Saul Bass",
+                    "description": "title designer"
+                },
+                {
+                    "id": "nm0585453",
+                    "name": "Ken Middleham",
+                    "description": "insect sequences"
+                },
+                {
+                    "id": "nm0681047",
+                    "name": "Ron Phipps",
+                    "description": "production accountant"
+                },
+                {
+                    "id": "nm0741435",
+                    "name": "Iris Rose",
+                    "description": "production secretary"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

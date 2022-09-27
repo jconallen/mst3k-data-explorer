@@ -1,0 +1,512 @@
+{
+    "imDbId": "tt0050294",
+    "title": "The Deadly Mantis",
+    "fullTitle": "The Deadly Mantis (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0432846",
+                "name": "Nathan Juran",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0075344",
+                "name": "Martin Berkeley",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0020041",
+                "name": "William Alland",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0301887",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjVkZmIyY2ItMDM2ZS00ZWNlLWI3NjctYTQ0MDE2MmU0OGUxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Craig Stevens",
+            "asCharacter": "Col. Joe Parkman"
+        },
+        {
+            "id": "nm0394438",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMzODE2NTM5Ml5BMl5BanBnXkFtZTcwNDc0MjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "William Hopper",
+            "asCharacter": "Dr. Nedrick Jackson"
+        },
+        {
+            "id": "nm0848315",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDIyODYwNmYtNzdhYy00ZThlLThjN2UtM2VlYjM1MTkxZDQyXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Alix Talton",
+            "asCharacter": "Marge Blaine"
+        },
+        {
+            "id": "nm0709893",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWM2ODdhM2QtMGU1NS00Yzc1LWJiYWEtMGQ4OGE1YzUyYmJhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Donald Randolph",
+            "asCharacter": "Maj. Gen. Mark Ford"
+        },
+        {
+            "id": "nm0176754",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTNhZmRkYWYtMzVmYS00OGE2LWE4YzAtNDgxNWQ1ZTBjMTM4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Pat Conway",
+            "asCharacter": "Sgt. Pete Allen"
+        },
+        {
+            "id": "nm0024700",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmQxOTg5MzYtOWIzMi00NzYxLTgzOGYtNWFlMTI0ODFmZDIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Florenz Ames",
+            "asCharacter": "Prof. Anton Gunther"
+        },
+        {
+            "id": "nm0807188",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDliNjFmYzEtM2U5ZS00YzU3LWFlYjQtOTdjZTY2MTRmMTgxXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Paul Smith",
+            "asCharacter": "Corporal"
+        },
+        {
+            "id": "nm0367677",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM4MmRkNzktM2RjZC00ZDU4LWIwZGUtNzYyMjI0ODMwZGQ4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Phil Harvey",
+            "asCharacter": "Lou"
+        },
+        {
+            "id": "nm0799754",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTMxYTBiY2MtZDk3NC00YTc2LWE3YzYtZWQyYzA1ODQ3ODFmXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Floyd Simmons",
+            "asCharacter": "Army Sergeant"
+        },
+        {
+            "id": "nm0132770",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Campbell",
+            "asCharacter": "Lt. Fred Pizar"
+        },
+        {
+            "id": "nm0419593",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Helen Jay",
+            "asCharacter": "Mrs. Farley"
+        },
+        {
+            "id": "nm0017685",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keith Aldrich",
+            "asCharacter": "Jerry - C47 Co-Pilot (uncredited)"
+        },
+        {
+            "id": "nm0026058",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Anders",
+            "asCharacter": "Sergeant - Archer Control (uncredited)"
+        },
+        {
+            "id": "nm0048448",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDIyOWI4Y2EtZmY4OS00ZTY0LWE5NmEtZjQxOGI4NjFjYjQyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Frank Baker",
+            "asCharacter": "Professor (uncredited)"
+        },
+        {
+            "id": "nm0593554",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Madelon Baker",
+            "asCharacter": "Mother (uncredited)"
+        },
+        {
+            "id": "nm0104585",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTM2MGRhNmUtNjAxMC00MTQ4LWIxODAtYWYzNGVhNTJkMzRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Chet Brandenburg",
+            "asCharacter": "Bus Disaster Observer (uncredited)"
+        },
+        {
+            "id": "nm0115766",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjI0NGFmZGQtNDA0OS00MzE5LWI2NmYtMzNkN2RjODBjMGNhXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Bruggeman",
+            "asCharacter": "Bus Disaster Observer (uncredited)"
+        },
+        {
+            "id": "nm0116985",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marvin Bryan",
+            "asCharacter": "Machine-Gunner (uncredited)"
+        },
+        {
+            "id": "nm0122948",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Burnside",
+            "asCharacter": "Bus Disaster Observer (uncredited)"
+        },
+        {
+            "id": "nm0167089",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmI5ZWE2ZWUtYjViYy00YjNiLTg4NGUtYzNlMDdhODNhYTg5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Close",
+            "asCharacter": "Engineer (uncredited)"
+        },
+        {
+            "id": "nm0170106",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bud Cokes",
+            "asCharacter": "Military Officer (uncredited)"
+        },
+        {
+            "id": "nm0183577",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Cound",
+            "asCharacter": "Group Capt. Hawkins (uncredited)"
+        },
+        {
+            "id": "nm0227243",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTg5OTE2YjktZjYyMS00ZDMzLThkZTktNDRjZGNhNjgyYjdkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jimmy Dime",
+            "asCharacter": "Boat Navigator (uncredited)"
+        },
+        {
+            "id": "nm0148061",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTcyODIxMl5BMl5BanBnXkFtZTcwMDM5MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Forest",
+            "asCharacter": "Photographer (uncredited)"
+        },
+        {
+            "id": "nm0286176",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William A. Forester",
+            "asCharacter": "Announcer (uncredited)"
+        },
+        {
+            "id": "nm0314510",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rudy Germane",
+            "asCharacter": "Military Officer (uncredited)"
+        },
+        {
+            "id": "nm0339281",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Greenway",
+            "asCharacter": "Second Reporter (uncredited)"
+        },
+        {
+            "id": "nm0357764",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDE4MGEyYzQtOWQ4OC00NDUyLWI1YjgtMmEwYWNlN2E0ZTI0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Chuck Hamilton",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm0368164",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James R. Haskin",
+            "asCharacter": "Civilian Announcer (uncredited)"
+        },
+        {
+            "id": "nm0456724",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjdlNmZjNzEtNzFlMi00ZDY2LTk2ODktMDAwNGFmMjczY2RkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jess Kirkpatrick",
+            "asCharacter": "Father (uncredited)"
+        },
+        {
+            "id": "nm0487036",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGE2ZWVkNDYtZThmZC00ZjdiLTk5YWMtOTk1ZmE3ZGQwNDVlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "James Lanphier",
+            "asCharacter": "Col. Harvey (uncredited)"
+        },
+        {
+            "id": "nm0494267",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ned Le Fevre",
+            "asCharacter": "Announcer (uncredited)"
+        },
+        {
+            "id": "nm0497368",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harold Lee",
+            "asCharacter": "Greenland Eskimo Chief (uncredited)"
+        },
+        {
+            "id": "nm0528685",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDZkMmJmYjQtZmU4Yy00ZDhmLWE4MzQtMmQxZmQyZmY4ODhhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "George Lynn",
+            "asCharacter": "Bus Driver (uncredited)"
+        },
+        {
+            "id": "nm0558448",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Mather",
+            "asCharacter": "Officer (uncredited)"
+        },
+        {
+            "id": "nm0573005",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDE2MzI4NV5BMl5BanBnXkFtZTYwMDkzNTgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "David McMahon",
+            "asCharacter": "Capt. Frank Carver (uncredited)"
+        },
+        {
+            "id": "nm0573595",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Edward McNally",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm0588922",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzQ3MDQzYjktYTJmYS00ZTQ4LTljMDAtNDVhN2MzNDcyZGFlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Marvin Miller",
+            "asCharacter": "Narrator (voice) (uncredited)"
+        },
+        {
+            "id": "nm0596828",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ernesto Molinari",
+            "asCharacter": "Italian Fisherman (uncredited)"
+        },
+        {
+            "id": "nm0668113",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dick Paxton",
+            "asCharacter": "Plotter (uncredited)"
+        },
+        {
+            "id": "nm0721582",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzUzMzI1NTQtYzQ1OS00NzQ1LWJmNWYtMWM3N2YwOGE4ZTg4XkEyXkFqcGdeQXVyNjQzNjEwNTg@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Alan Reynolds",
+            "asCharacter": "Guard Outside Washington Monument (uncredited)"
+        },
+        {
+            "id": "nm0747069",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDJhZjMzMmItMWU1NC00ZjNmLWI5OTktYzJhZmQ0MTY3ODI2XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Roy",
+            "asCharacter": "Military Officer (uncredited)"
+        },
+        {
+            "id": "nm0751032",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg2NTg0MDI4N15BMl5BanBnXkFtZTcwNzIyOTgxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bing Russell",
+            "asCharacter": "State Trooper at Train & Bus Wrecks (uncredited)"
+        },
+        {
+            "id": "nm0878826",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI3OTMyNjU0Nl5BMl5BanBnXkFtZTgwNzE0MTg3MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Harry Tyler",
+            "asCharacter": "Manhattan Tunnel Spectator (uncredited)"
+        },
+        {
+            "id": "nm0931749",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjUwZTAyYzEtNDNhNy00YjE4LWJlZTItMjg0NDRmMTVkYzA3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sumner Williams",
+            "asCharacter": "Lt. Walter Kane - C47 Pilot (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0020041",
+                    "name": "William Alland",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006098",
+                    "name": "Irving Gertz",
+                    "description": "(uncredited)"
+                },
+                {
+                    "id": "nm0006163",
+                    "name": "William Lava",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0141608",
+                    "name": "Ellis W. Carter",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0769692",
+                    "name": "Chester W. Schaeffer",
+                    "description": "(as Chester Schaeffer)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0165197",
+                    "name": "Robert Clatworthy",
+                    "description": ""
+                },
+                {
+                    "id": "nm0326529",
+                    "name": "Alexander Golitzen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0256272",
+                    "name": "Oliver Emert",
+                    "description": ""
+                },
+                {
+                    "id": "nm0310199",
+                    "name": "Russell A. Gausman",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0605858",
+                    "name": "Jay A. Morley Jr.",
+                    "description": "(gowns)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0922863",
+                    "name": "Bud Westmore",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0390859",
+                    "name": "William Holland",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm4921752",
+                    "name": "Eddie Case",
+                    "description": "props (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0136989",
+                    "name": "Leslie I. Carey",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0502499",
+                    "name": "Leon M. Leon",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0048321",
+                    "name": "Cleo E. Baker",
+                    "description": "special effects (uncredited)"
+                },
+                {
+                    "id": "nm0461397",
+                    "name": "Fred Knoth",
+                    "description": "special effects (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0830411",
+                    "name": "Clifford Stine",
+                    "description": "special photography"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0830411",
+                    "name": "Clifford Stine",
+                    "description": "special photographer"
+                },
+                {
+                    "id": "nm0567034",
+                    "name": "Tom McCrory",
+                    "description": "process photographer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0314829",
+                    "name": "Joseph Gershenson",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0038711",
+                    "name": "Harris Ashburn",
+                    "description": "music supervisor (uncredited)"
+                },
+                {
+                    "id": "nm0000049",
+                    "name": "Henry Mancini",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm5948860",
+                    "name": "Ethmer Roten",
+                    "description": "musician: flute (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

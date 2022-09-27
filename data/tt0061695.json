@@ -1,0 +1,259 @@
+{
+    "imDbId": "tt0061695",
+    "title": "Gamera vs. Gyaos",
+    "fullTitle": "Gamera vs. Gyaos (1967)",
+    "type": "Movie",
+    "year": "1967",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0950633",
+                "name": "Noriaki Yuasa",
+                "description": ""
+            },
+            {
+                "id": "nm0849060",
+                "name": "Shigeo Tanaka",
+                "description": "(earlier film clips) (uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0847177",
+                "name": "Niisan Takahashi",
+                "description": "(as Nisan Takahashi)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0393291",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDY3ODMxNDctOTNkMi00ZTJkLTk3OGUtM2ViMmViNzA1NDg3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Kôjirô Hongô",
+            "asCharacter": "Foreman Shiro Tsutsumi"
+        },
+        {
+            "id": "nm0879918",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjk1MmQyZjEtZWU2Zi00NGQ5LWE4ZWItZjc2NGExODE1ZDYzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Kichijirô Ueda",
+            "asCharacter": "Tatsuemon Kanamura"
+        },
+        {
+            "id": "nm0440381",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reiko Kasahara",
+            "asCharacter": "Sumiko Kanamura"
+        },
+        {
+            "id": "nm0008367",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Naoyuki Abe",
+            "asCharacter": "Eiichi Kanamura"
+        },
+        {
+            "id": "nm0555394",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTlhZmU2N2MtMjBmZS00MTJhLTgwMDgtYTg0YjBlOGU2NmIzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Tarô Marui",
+            "asCharacter": "Mite-no-Tetsu"
+        },
+        {
+            "id": "nm0396213",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yukitarô Hotaru",
+            "asCharacter": "Hachiko"
+        },
+        {
+            "id": "nm0457526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshirô Kitahara",
+            "asCharacter": "Dr. Aoki"
+        },
+        {
+            "id": "nm0622408",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shô Natsuki",
+            "asCharacter": "Self-Defense Force General"
+        },
+        {
+            "id": "nm0654627",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenji Ôyama",
+            "asCharacter": "District Police Commissioner"
+        },
+        {
+            "id": "nm0613457",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fujio Murakami",
+            "asCharacter": "Dr. Murakami"
+        },
+        {
+            "id": "nm0411715",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kôichi Itô",
+            "asCharacter": "Road Company Chairman"
+        },
+        {
+            "id": "nm0256874",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teppei Endô",
+            "asCharacter": "Road Company Local Affairs Director"
+        },
+        {
+            "id": "nm1235384",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shin Minatsu",
+            "asCharacter": "Okabe the Photographer"
+        },
+        {
+            "id": "nm2760419",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teruo Aragaki",
+            "asCharacter": "Gamera"
+        },
+        {
+            "id": "nm0434600",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yukie Kagawa",
+            "asCharacter": "Road Company Chairman's Secretary (as Hiroko Nishi)"
+        },
+        {
+            "id": "nm1801608",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mitsuko Takesato",
+            "asCharacter": "Kanamura's Old Maid"
+        },
+        {
+            "id": "nm2736876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gai Harada",
+            "asCharacter": "(uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0115959",
+                    "name": "Alois Brummer",
+                    "description": "distribution producer (german dubbed version) (uncredited)"
+                },
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0619207",
+                    "name": "Hidemasa Nagata",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0619208",
+                    "name": "Hideo Nagata",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0945676",
+                    "name": "Tadashi Yamauchi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0879941",
+                    "name": "Akira Uehara",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0620316",
+                    "name": "Tatsuji Nakashizu",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm2829357",
+                    "name": "Akira Inoue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0297716",
+                    "name": "Kazufumi Fujii",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0437536",
+                    "name": "Yuzo Kaneko",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0613566",
+                    "name": "Keizô Murase",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm10615771",
+                    "name": "Tôru Suzuki",
+                    "description": "special effects assistant"
+                },
+                {
+                    "id": "nm0950633",
+                    "name": "Noriaki Yuasa",
+                    "description": "director of special effects"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm6869976",
+                    "name": "Michael Kaye",
+                    "description": "voice dubbing (English version) (uncredited)"
+                },
+                {
+                    "id": "nm7274655",
+                    "name": "Warren Rooke",
+                    "description": "voice dubbing (English version) (uncredited)"
+                },
+                {
+                    "id": "nm0750871",
+                    "name": "Ted Rusoff",
+                    "description": "voice dubbing (English version) (uncredited)"
+                },
+                {
+                    "id": "nm3989715",
+                    "name": "Ted Thomas",
+                    "description": "voice dubbing (English version) (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

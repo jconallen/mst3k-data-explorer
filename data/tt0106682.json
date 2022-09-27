@@ -1,0 +1,206 @@
+{
+    "imDbId": "tt0106682",
+    "title": "The Dead Talk Back",
+    "fullTitle": "The Dead Talk Back (1994)",
+    "type": "Movie",
+    "year": "1994",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0332448",
+                "name": "Merle S. Gould",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0332448",
+                "name": "Merle S. Gould",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0267839",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aldo Farnese",
+            "asCharacter": "Henry Krasker"
+        },
+        {
+            "id": "nm0235245",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Douglas",
+            "asCharacter": "Lieutenant Lewis"
+        },
+        {
+            "id": "nm0110605",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laura Brock",
+            "asCharacter": "Renee Coliveil"
+        },
+        {
+            "id": "nm0762308",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Earl Sands",
+            "asCharacter": "Harry"
+        },
+        {
+            "id": "nm0622452",
+            "image": "https://imdb-api.com/images/original/MV5BMDU4ZTg2OTYtYWViMS00Zjg4LThiMjYtMmU0MGI2ODkwNzA4XkEyXkFqcGdeQXVyMjExNDU3ODA@._V1_Ratio1.1364_AL_.jpg",
+            "name": "Myron Natwick",
+            "asCharacter": "Raymond Milburn"
+        },
+        {
+            "id": "nm0822771",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kyle Stanton",
+            "asCharacter": "Christy Mattling"
+        },
+        {
+            "id": "nm0712993",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sammy Ray",
+            "asCharacter": "Tony Pettini"
+        },
+        {
+            "id": "nm0730965",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Curtis Roberts",
+            "asCharacter": "Frits Kreuger"
+        },
+        {
+            "id": "nm0662208",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Parker",
+            "asCharacter": "Don Harris"
+        },
+        {
+            "id": "nm0698037",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janeanna Pritchard",
+            "asCharacter": "Hope Byington"
+        },
+        {
+            "id": "nm0331118",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rose Gorman",
+            "asCharacter": "Alice Corman"
+        },
+        {
+            "id": "nm0751901",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Betty Ruth",
+            "asCharacter": "Sarah Sthoil"
+        },
+        {
+            "id": "nm0544747",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mat Maracco",
+            "asCharacter": "Harold Yonger"
+        },
+        {
+            "id": "nm0235165",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lyn Douglas",
+            "asCharacter": "First Photo Receptionist"
+        },
+        {
+            "id": "nm0495383",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eileen Leavitt",
+            "asCharacter": "Second Photo Receptionist"
+        },
+        {
+            "id": "nm0332359",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dennis Gould",
+            "asCharacter": "Denny Sthoil"
+        },
+        {
+            "id": "nm0332485",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ronnie Gould",
+            "asCharacter": "Ronnie Sthoil"
+        },
+        {
+            "id": "nm0935392",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Betty Winnick",
+            "asCharacter": "Photo Customer"
+        },
+        {
+            "id": "nm0703851",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Grace Quinn",
+            "asCharacter": "Photographer's Model"
+        },
+        {
+            "id": "nm0552340",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gil Martin",
+            "asCharacter": "Policeman"
+        },
+        {
+            "id": "nm0785051",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "J.S. Serfozo",
+            "asCharacter": "Policeman"
+        },
+        {
+            "id": "nm0154876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Cheek",
+            "asCharacter": "Bongo Player (uncredited)"
+        },
+        {
+            "id": "nm0722363",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Rhoden",
+            "asCharacter": "Bongo Player (uncredited)"
+        },
+        {
+            "id": "nm0808619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janice Smith",
+            "asCharacter": "Singer (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0332448",
+                    "name": "Merle S. Gould",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0154876",
+                    "name": "Don Cheek",
+                    "description": "musician: bongo drums"
+                },
+                {
+                    "id": "nm0722363",
+                    "name": "George Rhoden",
+                    "description": "musician: bongo drums"
+                },
+                {
+                    "id": "nm0680863",
+                    "name": "Van Phillips",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

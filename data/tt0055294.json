@@ -1,0 +1,429 @@
+{
+    "imDbId": "tt0055294",
+    "title": "The Phantom Planet",
+    "fullTitle": "The Phantom Planet (1961)",
+    "type": "Movie",
+    "year": "1961",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0550777",
+                "name": "William Marshall",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0854278",
+                "name": "William Telaak",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0208605",
+                "name": "Fred De Gorter",
+                "description": "(screenplay) and"
+            },
+            {
+                "id": "nm0311374",
+                "name": "Fred Gebhardt",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0311374",
+                "name": "Fred Gebhardt",
+                "description": "(original story)"
+            },
+            {
+                "id": "nm0550777",
+                "name": "William Marshall",
+                "description": "(additional dialogue)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0292841",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjU4Njg5MV5BMl5BanBnXkFtZTcwNzgwMjE2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dean Fredericks",
+            "asCharacter": "Capt. Frank Chapman"
+        },
+        {
+            "id": "nm0336531",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM1NzI3Mjk4NF5BMl5BanBnXkFtZTcwODgxMjAxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Coleen Gray",
+            "asCharacter": "Liara"
+        },
+        {
+            "id": "nm0186045",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGZiNGI3ZGUtZTg4MS00YmY4LWIzZDUtODI4NDA2ZDFjYmFiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Anthony Dexter",
+            "asCharacter": "Herron (as Tony Dexter)"
+        },
+        {
+            "id": "nm0124279",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA0MTgwMjYyNl5BMl5BanBnXkFtZTYwMjU4NzM2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Francis X. Bushman",
+            "asCharacter": "Sessom"
+        },
+        {
+            "id": "nm0916732",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard Weber",
+            "asCharacter": "Lt. Ray Makonnen"
+        },
+        {
+            "id": "nm0419028",
+            "image": "https://m.media-amazon.com/images/M/MV5BODQ2NzFmMWMtNWM3OC00NzMwLTk0NjktMzk5N2EwOTcwNTA5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Al Jarvis",
+            "asCharacter": "Judge Eden"
+        },
+        {
+            "id": "nm0371441",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU0ODQ1MTQ2NF5BMl5BanBnXkFtZTgwNzMxODg3MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Dick Haynes",
+            "asCharacter": "Col. Lansfield"
+        },
+        {
+            "id": "nm0567449",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Earl McDaniel",
+            "asCharacter": "Capt. Leonard"
+        },
+        {
+            "id": "nm0551062",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Marshall",
+            "asCharacter": "Lt. White (as Michael Marshall)"
+        },
+        {
+            "id": "nm0380638",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Herrin",
+            "asCharacter": "Capt. Beecher"
+        },
+        {
+            "id": "nm0193453",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mel Curtis",
+            "asCharacter": "Lt. Cutler"
+        },
+        {
+            "id": "nm0919729",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jimmy Weldon",
+            "asCharacter": "Lt. Webb"
+        },
+        {
+            "id": "nm0849422",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akemi Tani",
+            "asCharacter": "Communications Officer"
+        },
+        {
+            "id": "nm0529115",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lori Lyons",
+            "asCharacter": "Radar Officer"
+        },
+        {
+            "id": "nm0001423",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI4MjI0NTA5OV5BMl5BanBnXkFtZTYwOTMzMTEz._V1_Ratio0.7727_AL_.jpg",
+            "name": "Richard Kiel",
+            "asCharacter": "The Solarite"
+        },
+        {
+            "id": "nm0148211",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Susan Cembrowska",
+            "asCharacter": "Juror"
+        },
+        {
+            "id": "nm0558507",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marissa Mathes",
+            "asCharacter": "Juror (as Merissa Mathes)"
+        },
+        {
+            "id": "nm0603657",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gloria Moreland",
+            "asCharacter": "Juror"
+        },
+        {
+            "id": "nm0259073",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Judy Erickson",
+            "asCharacter": "Juror"
+        },
+        {
+            "id": "nm0141804",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sally Carter-Ihnat",
+            "asCharacter": "Juror (as Marya Carter)"
+        },
+        {
+            "id": "nm0024672",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Allyson Ames",
+            "asCharacter": "Juror"
+        },
+        {
+            "id": "nm0860455",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDA0MDkwMzctZTkxMC00YmQ2LWI5NGYtYjA0YWQyMjBkMjcwXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Marion Thompson",
+            "asCharacter": "Juror"
+        },
+        {
+            "id": "nm0265697",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTE5YTkyMmEtMDAwNS00NjI1LWEyZTctZjc3Y2Q4YzAwYmYzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dolores Faith",
+            "asCharacter": "Zetha"
+        },
+        {
+            "id": "nm0588922",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzQ3MDQzYjktYTJmYS00ZTQ4LTljMDAtNDVhN2MzNDcyZGFlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Marvin Miller",
+            "asCharacter": "Introductory Narrator (voice)"
+        },
+        {
+            "id": "nm0783680",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leon Selznick",
+            "asCharacter": "Narrator (voice) (as Leon D. Selznick)"
+        },
+        {
+            "id": "nm0653067",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTQ3MWJlNzItYTFkNy00MzM0LTlmNGQtYzBjYWMyZTNjYzQxXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Warrene Ott",
+            "asCharacter": "Ipsalata (uncredited)"
+        },
+        {
+            "id": "nm0678821",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc0MDAwNzM0OV5BMl5BanBnXkFtZTcwNjA5OTcxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Angelique Pettyjohn",
+            "asCharacter": "Juror (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0311374",
+                    "name": "Fred Gebhardt",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0342120",
+                    "name": "Hugo Grimaldi",
+                    "description": "assistant producer"
+                },
+                {
+                    "id": "nm0359513",
+                    "name": "Leo A. Handel",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0455845",
+                    "name": "Robert Kinoshita",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0629815",
+                    "name": "Elwood J. Nicholson",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0455845",
+                    "name": "Robert Kinoshita",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0457184",
+                    "name": "Joseph Kish",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0627789",
+                    "name": "David Newell",
+                    "description": "makeup artist (as Dave Newell)"
+                },
+                {
+                    "id": "nm0922893",
+                    "name": "Mary Westmoreland",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0882851",
+                    "name": "Maurice Vaccarino",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm1174571",
+                    "name": "Lindsley Parsons Jr.",
+                    "description": "second assistant director"
+                },
+                {
+                    "id": "nm0882851",
+                    "name": "Maurice Vaccarino",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0225296",
+                    "name": "Walter Dick",
+                    "description": "interplanetary sound effects"
+                },
+                {
+                    "id": "nm0653931",
+                    "name": "Al Overton",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm0656393",
+                    "name": "Hayes Pagel",
+                    "description": "interplanetary sound effects"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0241931",
+                    "name": "Charles Duncan",
+                    "description": "special effects (as Charles R. Duncan)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0223221",
+                    "name": "Louis DeWitt",
+                    "description": "director of photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0202635",
+                    "name": "Ned Davenport",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0185949",
+                    "name": "Marla Craig",
+                    "description": "costume supervisor"
+                },
+                {
+                    "id": "nm0735461",
+                    "name": "Oscar Rodriguez",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0342120",
+                    "name": "Hugo Grimaldi",
+                    "description": "supervising film editor"
+                },
+                {
+                    "id": "nm0938029",
+                    "name": "Donald Wolfe",
+                    "description": "assistant film editor (as Don Wolfe)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0731614",
+                    "name": "Ted Roberts",
+                    "description": "music editor"
+                },
+                {
+                    "id": "nm0951973",
+                    "name": "Gordon Zahler",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0006302",
+                    "name": "Leith Stevens",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0355638",
+                    "name": "Hazel W. Hall",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0054133",
+                    "name": "Ben Bard",
+                    "description": "dialogue director"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,454 @@
+{
+    "imDbId": "tt0038387",
+    "title": "The Brute Man",
+    "fullTitle": "The Brute Man (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0946391",
+                "name": "Jean Yarbrough",
+                "description": "(directed by)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0108579",
+                "name": "George Bricker",
+                "description": "(screenplay by) and"
+            },
+            {
+                "id": "nm0916956",
+                "name": "M. Coates Webster",
+                "description": "(screenplay by)"
+            },
+            {
+                "id": "nm0044831",
+                "name": "Dwight V. Babcock",
+                "description": "(original story by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0369061",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDdkNGEwOTAtMDc4ZC00MGM3LTlmNjktODk4MzIyM2U5MDIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Rondo Hatton",
+            "asCharacter": "Hal Moffat AKA 'The Creeper'"
+        },
+        {
+            "id": "nm0623684",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGZmMmMzNzQtZjg3OC00MGI5LTg3YzEtZTMwMzRmODA4MmY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Tom Neal",
+            "asCharacter": "Clifford Scott"
+        },
+        {
+            "id": "nm0928844",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTc1YWFiYTEtNjIzZi00ZDgwLWE1ZGEtMDhlY2VkNWVjYzIxXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jan Wiley",
+            "asCharacter": "Virginia Rogers Scott"
+        },
+        {
+            "id": "nm0011037",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM0NTk1MTczNl5BMl5BanBnXkFtZTcwNDkxMzcyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jane Adams",
+            "asCharacter": "Helen Paige"
+        },
+        {
+            "id": "nm0531385",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTkzYmIyNjMtOTI5YS00ODc2LTkwMTktOWQzMWJiYTY3N2ZkXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Donald MacBride",
+            "asCharacter": "Police Captain M. J. Donelly"
+        },
+        {
+            "id": "nm0926338",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjE4MGU3OTktNDYwZC00M2FjLThiN2MtZmVlYWRjNjIxNDA4XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Whitney",
+            "asCharacter": "Police Lieutenant Gates"
+        },
+        {
+            "id": "nm0168032",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWRlZDFlZjQtMDBmMC00M2MzLWFiN2QtNzUyODc4ZjE2NmNkXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Fred Coby",
+            "asCharacter": "Young Hal Moffat"
+        },
+        {
+            "id": "nm0424423",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janelle Johnson Dolenz",
+            "asCharacter": "Joan Bemis (as Ja Nelle Johnson)"
+        },
+        {
+            "id": "nm7208984",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carl Anders",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm0068493",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rodney Bell",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0108584",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mary Ann Bricker",
+            "asCharacter": "Mary Ann Obringer (uncredited)"
+        },
+        {
+            "id": "nm0164090",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jimmy Clark",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm0168939",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjEzZGRjOTctMzZjNC00YWQxLWFlMjYtYjg2YzMxMTBlOGFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Tristram Coffin",
+            "asCharacter": "Police Lieutenant / voice of radio announcer (uncredited)"
+        },
+        {
+            "id": "nm0176592",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peggy Converse",
+            "asCharacter": "Mrs. Obringer (uncredited)"
+        },
+        {
+            "id": "nm0182600",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Costello",
+            "asCharacter": "Car 22 Patrolman (uncredited)"
+        },
+        {
+            "id": "nm0003277",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjBiM2M0ZmEtMDA0MS00OTQ0LTk0MDItNDVkN2RlNzEyMDFhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joseph Crehan",
+            "asCharacter": "Police Commissioner Salisbury (uncredited)"
+        },
+        {
+            "id": "nm0287668",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Foster",
+            "asCharacter": "Jeweler (uncredited)"
+        },
+        {
+            "id": "nm0302664",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGZkZGY2YjYtOTg1ZC00Y2RmLTk4NWQtZDc5NWIyYTVkMTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Gallaudet",
+            "asCharacter": "Police Guard (uncredited)"
+        },
+        {
+            "id": "nm0306831",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjczZDJjZmYtODkyNS00MTU5LWJkNTMtYzg1YTBmMjJlYjdkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Arthur Gardner",
+            "asCharacter": "Dancer (uncredited)"
+        },
+        {
+            "id": "nm2190042",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Norma Gilchrist",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm7208983",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paula Gray",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm0357963",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA4NzY5NjMyM15BMl5BanBnXkFtZTgwNTc5NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Hamilton",
+            "asCharacter": "Professor Cushman (uncredited)"
+        },
+        {
+            "id": "nm0389013",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margaret Hoffman",
+            "asCharacter": "Customer (uncredited)"
+        },
+        {
+            "id": "nm0413410",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Danny Jackson",
+            "asCharacter": "Newsboy (uncredited)"
+        },
+        {
+            "id": "nm0414139",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Warren Jackson",
+            "asCharacter": "Jeweler (uncredited)"
+        },
+        {
+            "id": "nm0460970",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Karen Knight",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0490951",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Perc Launders",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0574686",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrick McVey",
+            "asCharacter": "Detective at Helen's Apartment (uncredited)"
+        },
+        {
+            "id": "nm0634278",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmJhMmY1OGEtNjkyMi00NTUxLTk4NDYtNjQwNWM0NmM2MGUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "James Nolan",
+            "asCharacter": "Police Dispatcher (uncredited)"
+        },
+        {
+            "id": "nm0175410",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2M0ZjRlMzMtNDVjMy00YmJlLTljOTUtMzczZTM1ODYxNzdhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frank O'Connor",
+            "asCharacter": "Policeman at Helen's Apartment (uncredited)"
+        },
+        {
+            "id": "nm0642679",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTg3Y2EwMTUtMjM4MC00YWFjLTk0MWUtMDg5MzAzOTRhMTY2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Oscar O'Shea",
+            "asCharacter": "Mr. Haskins - Grocer (uncredited)"
+        },
+        {
+            "id": "nm8621193",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Parker",
+            "asCharacter": "Jimmy - Delivery Boy (uncredited)"
+        },
+        {
+            "id": "nm0707527",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lorin Raker",
+            "asCharacter": "Mr. Parkington - Mayor's Secretary (uncredited)"
+        },
+        {
+            "id": "nm0730849",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzU0YTllMjAtNWM1Yi00MjQyLTlhYzMtOWM4NmQ0YzEyMzExXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Beatrice Roberts",
+            "asCharacter": "Nurse (uncredited)"
+        },
+        {
+            "id": "nm0733943",
+            "image": "https://m.media-amazon.com/images/M/MV5BODEzNWUxZGQtZWZjNC00OWQ3LWJjODktODMzNzJlZGFmYzZmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Roche",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0749518",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Ruhl",
+            "asCharacter": "Policeman at Helen's Apartment (uncredited)"
+        },
+        {
+            "id": "nm0771822",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzdmNzE4YjUtMDZhOC00OWQ3LThiMjktMmFhMmVlYmYyNzhlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Cy Schindell",
+            "asCharacter": "Crowd Control Policeman (uncredited)"
+        },
+        {
+            "id": "nm7208986",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Martin Skelly",
+            "asCharacter": "Taxicab Driver (uncredited)"
+        },
+        {
+            "id": "nm7208985",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joyce Stuart",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm0905688",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmU4NWRjNTktOTI3Zi00MjU1LTg2ODctMzhkYjdlMmY4MDY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Charles Wagenheim",
+            "asCharacter": "Pawnbroker (uncredited)"
+        },
+        {
+            "id": "nm0934784",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gabrielle Windsor",
+            "asCharacter": "Student (uncredited)"
+        },
+        {
+            "id": "nm7208982",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larry Wyle",
+            "asCharacter": "Student (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0686089",
+                    "name": "Ben Pivar",
+                    "description": "producer (produced by)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0314993",
+                    "name": "Maury Gertsman",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0128724",
+                    "name": "Philip Cahn",
+                    "description": "film editor"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0329129",
+                    "name": "John B. Goodman",
+                    "description": ""
+                },
+                {
+                    "id": "nm0343603",
+                    "name": "Abraham Grossman",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0310199",
+                    "name": "Russell A. Gausman",
+                    "description": ""
+                },
+                {
+                    "id": "nm0732589",
+                    "name": "Edward R. Robinson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0228188",
+                    "name": "Carmen Dirigo",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0682370",
+                    "name": "Jack P. Pierce",
+                    "description": "makeup director"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0806193",
+                    "name": "Ralph Slosser",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0113094",
+                    "name": "Bernard B. Brown",
+                    "description": "director of sound"
+                },
+                {
+                    "id": "nm0487596",
+                    "name": "Joe Lapis",
+                    "description": "sound technician"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm2153996",
+                    "name": "Max Wolk",
+                    "description": "camera crew member (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0922382",
+                    "name": "Vera West",
+                    "description": "gowns supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006163",
+                    "name": "William Lava",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0006239",
+                    "name": "Charles Previn",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0006270",
+                    "name": "Hans J. Salter",
+                    "description": "composer: stock music (uncredited) / musical director (uncredited)"
+                },
+                {
+                    "id": "nm0006275",
+                    "name": "Paul Sawtell",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0804244",
+                    "name": "Frank Skinner",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0450377",
+                    "name": "Raymond Kessler",
+                    "description": "dialogue director"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

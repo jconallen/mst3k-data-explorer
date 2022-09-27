@@ -1,0 +1,298 @@
+{
+    "imDbId": "tt0052156",
+    "title": "The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent",
+    "fullTitle": "The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000339",
+                "name": "Roger Corman",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0325825",
+                "name": "Lawrence L. Goldman",
+                "description": "(screenplay) (as Lawrence Louis Goldman)"
+            },
+            {
+                "id": "nm0088726",
+                "name": "Irving Block",
+                "description": "(from a story by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0198231",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgzNzcwODc0NV5BMl5BanBnXkFtZTgwNTQ2MzU2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Abby Dalton",
+            "asCharacter": "Desir"
+        },
+        {
+            "id": "nm0127693",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjMzMjJjZmQtMmViZC00MGZjLWEyOWMtZGY1MWY1MDk2MjY1XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Susan Cabot",
+            "asCharacter": "Enger"
+        },
+        {
+            "id": "nm0413317",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTJlMGJkNmMtYzY3OS00NDA3LWEwYzItYmE3YjY5ZThhMGNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bradford Jackson",
+            "asCharacter": "Vedric (as Brad Jackson)"
+        },
+        {
+            "id": "nm0448483",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDlmNTA0MGMtZWU2Ni00ZGQ5LTllYzAtOGNjN2E1YWQ3ZWVlXkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_Ratio1.2727_AL_.jpg",
+            "name": "June Kenney",
+            "asCharacter": "Asmild"
+        },
+        {
+            "id": "nm0222878",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTFjZTNmZjQtYTU4My00YzM0LWJjYzUtNjEyMjQ0NTliOWY1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Richard Devon",
+            "asCharacter": "Stark"
+        },
+        {
+            "id": "nm0429506",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2ViZDQzYTYtZTM1MC00ZjFiLWExZTItOTVmMTQ3NGJkNjkyXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Betsy Jones-Moreland",
+            "asCharacter": "Thyra"
+        },
+        {
+            "id": "nm0371918",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWM0ZjYyNjAtYzNkMC00NjAyLWEyMDctM2I2MTdlYWQ0MmZmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jonathan Haze",
+            "asCharacter": "Ottar"
+        },
+        {
+            "id": "nm0768448",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jay Sayer",
+            "asCharacter": "Senya"
+        },
+        {
+            "id": "nm0076595",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lynette Bernay",
+            "asCharacter": "Dagda (as Lynn Bernay)"
+        },
+        {
+            "id": "nm0865279",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sally Todd",
+            "asCharacter": "Sanda"
+        },
+        {
+            "id": "nm0176684",
+            "image": "https://m.media-amazon.com/images/M/MV5BODRlODg0ODktYWVhYS00MTgzLTkwM2EtZTVmNzI5MzVlYTZhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gary Conway",
+            "asCharacter": "Jarl"
+        },
+        {
+            "id": "nm0148061",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTcyODIxMl5BMl5BanBnXkFtZTcwMDM5MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Forest",
+            "asCharacter": "Zarko (as Mike Forrest)"
+        },
+        {
+            "id": "nm0853331",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDkwZmJhMWMtOGIzOS00MjQyLWJlMmEtNDZkNWJlYWZlZmQ4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Wilda Taylor",
+            "asCharacter": "Grimolt Dancer"
+        },
+        {
+            "id": "nm0352368",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWMwODM4N2YtNDJmZi00NmVkLThjYmEtY2RhODlmYmY0NTAyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Herman Hack",
+            "asCharacter": "Grimault Rider (uncredited)"
+        },
+        {
+            "id": "nm4006077",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Signe Hack",
+            "asCharacter": "Grimault Woman (uncredited)"
+        },
+        {
+            "id": "nm0836392",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ross Sturlin",
+            "asCharacter": "Gimault Warrior (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006100",
+                    "name": "Albert Glasser",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0039477",
+                    "name": "Monroe P. Askins",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0801721",
+                    "name": "Ronald Sinclair",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0455845",
+                    "name": "Robert Kinoshita",
+                    "description": "(as Bob Kinoshita)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0743449",
+                    "name": "Harry Ross",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0686339",
+                    "name": "Lionel C. Place",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0092176",
+                    "name": "Jack Bohrer",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0104042",
+                    "name": "Karl Brainard",
+                    "description": "props (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0507266",
+                    "name": "Herman Lewis",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0088726",
+                    "name": "Irving Block",
+                    "description": "special photographic effects creator"
+                },
+                {
+                    "id": "nm0223221",
+                    "name": "Louis DeWitt",
+                    "description": "special photographic effects creator"
+                },
+                {
+                    "id": "nm0704896",
+                    "name": "Jack Rabin",
+                    "description": "special photographic effects creator"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0360358",
+                    "name": "Charles Hannawalt",
+                    "description": "key grip (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0280161",
+                    "name": "Gwen Fitzer",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0853331",
+                    "name": "Wilda Taylor",
+                    "description": "choreographer"
+                },
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

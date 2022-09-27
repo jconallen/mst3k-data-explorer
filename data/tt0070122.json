@@ -1,0 +1,345 @@
+{
+    "imDbId": "tt0070122",
+    "title": "Godzilla vs. Megalon",
+    "fullTitle": "Godzilla vs. Megalon (1973)",
+    "type": "Movie",
+    "year": "1973",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0297974",
+                "name": "Jun Fukuda",
+                "description": ""
+            },
+            {
+                "id": "nm0052419",
+                "name": "Yoshimitsu Banno",
+                "description": "(earlier film clips) (uncredited)"
+            },
+            {
+                "id": "nm0393094",
+                "name": "Ishirô Honda",
+                "description": "(earlier film clips) (uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0297974",
+                "name": "Jun Fukuda",
+                "description": "(writer)"
+            },
+            {
+                "id": "nm0454119",
+                "name": "Takeshi Kimura",
+                "description": "(story \"Gojira tai Uchu Kaijû\")"
+            },
+            {
+                "id": "nm0782883",
+                "name": "Shin'ichi Sekizawa",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0765789",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTRiNTgzNTctNTQxOS00YjdmLTljZTMtMGNlZjYwZDBkMzdkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Katsuhiko Sasaki",
+            "asCharacter": "Inventor Goro Ibuki"
+        },
+        {
+            "id": "nm0442904",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDIwMGI4NjctMzU0MC00OTdkLWFjNzMtM2NkYTFlNDYxNmUzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Hiroyuki Kawase",
+            "asCharacter": "Rokuro 'Roku-chan' Ibuki"
+        },
+        {
+            "id": "nm0370672",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEwN2RlMmYtNmRjNi00MzY3LWIwY2UtNGRhNmNkMWVjNjFhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Yutaka Hayashi",
+            "asCharacter": "Hiroshi Jinkawa"
+        },
+        {
+            "id": "nm0242290",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTg0YzEwYmMtMWExOS00ZWJjLTgzOWYtY2QyYWM5MThhMDRiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Robert Dunham",
+            "asCharacter": "Emperor Antonio of Seatopia / Motorcycle assailant"
+        },
+        {
+            "id": "nm0866728",
+            "image": "https://m.media-amazon.com/images/M/MV5BODcyNDM5NjMtZDkxYy00Y2Q5LTkzZDYtMWMxMTU2N2U1YzBiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Kôtarô Tomita",
+            "asCharacter": "Lead Seatopian Agent"
+        },
+        {
+            "id": "nm0653005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ulf Ôtsuki",
+            "asCharacter": "Seatopian Agent"
+        },
+        {
+            "id": "nm1039086",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gentaro Nakajima",
+            "asCharacter": "Truck Driver (as Gen Nakajima)"
+        },
+        {
+            "id": "nm1040907",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sakyo Mikami",
+            "asCharacter": "Truck Driver's Assistant"
+        },
+        {
+            "id": "nm0407420",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fumiyo Ikeda",
+            "asCharacter": "Man from Unit 1"
+        },
+        {
+            "id": "nm1040967",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kanta Mori",
+            "asCharacter": "Japan Special Defense Forces Chief"
+        },
+        {
+            "id": "nm0847081",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shinji Takagi",
+            "asCharacter": "Gojira"
+        },
+        {
+            "id": "nm0643883",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hideto Odachi",
+            "asCharacter": "Megaro"
+        },
+        {
+            "id": "nm0464511",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tsugutoshi Komada",
+            "asCharacter": "Jetto Jagâ"
+        },
+        {
+            "id": "nm0766368",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzgwNzM4NjQ5N15BMl5BanBnXkFtZTgwMTYyNzU5MTE@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Kenpachirô Satsuma",
+            "asCharacter": "Gaigan (as Kengo Nakayama)"
+        },
+        {
+            "id": "nm1375414",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ralph Jesser",
+            "asCharacter": "Antonio's Aide (Radio Operator in White) (as Rolf Jessup)"
+        },
+        {
+            "id": "nm0620274",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eisuke Nakanishi",
+            "asCharacter": "Asuka Island Nuclear Test (Narrator) (voice)"
+        },
+        {
+            "id": "nm0631412",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teruo Nigaki",
+            "asCharacter": "Radon (archive footage)"
+        },
+        {
+            "id": "nm0782876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yû Sekita",
+            "asCharacter": "Angirasu (archive footage)"
+        },
+        {
+            "id": "nm0648423",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kôetsu Ômiya",
+            "asCharacter": "Angirasu"
+        },
+        {
+            "id": "nm0385233",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chris Hilton",
+            "asCharacter": "Inventor Goro Ibuki (voice) (uncredited)"
+        },
+        {
+            "id": "nm0620032",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NzE2NDg0MV5BMl5BanBnXkFtZTgwNTAyMjc0MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Haruo Nakajima",
+            "asCharacter": "Gojira / Gaira (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm7274655",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Warren Rooke",
+            "asCharacter": "Hiroshi Jinkawa (voice) (uncredited)"
+        },
+        {
+            "id": "nm3989715",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ted Thomas",
+            "asCharacter": "Emperor Antonio of Seatopia / Narrator / Radio Announcer (voice) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm1008137",
+                    "name": "John Sirabella",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0849083",
+                    "name": "Tomoyuki Tanaka",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0541240",
+                    "name": "Riichirô Manabe",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0014938",
+                    "name": "Yuzuru Aizawa",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0407438",
+                    "name": "Michiko Ikeda",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0393115",
+                    "name": "Yoshifumi Honda",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm1834768",
+                    "name": "Christian Alexander Morán",
+                    "description": "post-production manager (restored version) (as Christian Alexander Moran)"
+                },
+                {
+                    "id": "nm0793986",
+                    "name": "Keisuke Shinodo",
+                    "description": "unit production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0632696",
+                    "name": "Tsunesaburo Nishikawa",
+                    "description": "chief assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm1044333",
+                    "name": "Teishiro Hayashi",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0038270",
+                    "name": "Eiichi Asada",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0620317",
+                    "name": "Teruyoshi Nakano",
+                    "description": "director of special effects"
+                },
+                {
+                    "id": "nm0645544",
+                    "name": "Shôji Okawa",
+                    "description": "special effects wire work"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0866715",
+                    "name": "Sokei Tomioka",
+                    "description": "special effects cameraman"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0242290",
+                    "name": "Robert Dunham",
+                    "description": "motorcycle stunt"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0221756",
+                    "name": "Umberto Dessena",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0605472",
+                    "name": "Masakuni Morimoto",
+                    "description": "lighting technician"
+                }
+            ]
+        },
+        {
+            "job": "Transportation Department",
+            "items": [
+                {
+                    "id": "nm0242290",
+                    "name": "Robert Dunham",
+                    "description": "car hire (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

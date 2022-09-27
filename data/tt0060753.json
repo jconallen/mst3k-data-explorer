@@ -1,0 +1,359 @@
+{
+    "imDbId": "tt0060753",
+    "title": "Red Zone Cuba",
+    "fullTitle": "Red Zone Cuba (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0290118",
+                "name": "Coleman Francis",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0290118",
+                "name": "Coleman Francis",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0290118",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Coleman Francis",
+            "asCharacter": "Griffin / Narrator"
+        },
+        {
+            "id": "nm0136707",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony Cardoza",
+            "asCharacter": "Landis / Fidel Castro (as Tony Cardoza)"
+        },
+        {
+            "id": "nm0766814",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harold Saunders",
+            "asCharacter": "Cook"
+        },
+        {
+            "id": "nm0001017",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2MDcyMjkzOV5BMl5BanBnXkFtZTYwNzY1MzI2._V1_Ratio1.4545_AL_.jpg",
+            "name": "John Carradine",
+            "asCharacter": "Mr. Wilson"
+        },
+        {
+            "id": "nm0607194",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Morrison",
+            "asCharacter": "Joe"
+        },
+        {
+            "id": "nm0697654",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Prince",
+            "asCharacter": "Cherokee Jack"
+        },
+        {
+            "id": "nm0361388",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzk2MThlZmEtZTU5Yy00MDVlLWJiM2MtNGIzNDkxMDkxNzg5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Tom Hanson",
+            "asCharacter": "Bailey Chastain (as Tom Hansen)"
+        },
+        {
+            "id": "nm0128271",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lanell Cado",
+            "asCharacter": "Ruby Chastain"
+        },
+        {
+            "id": "nm0366656",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles F. Harter",
+            "asCharacter": "Cliff Weismeyer"
+        },
+        {
+            "id": "nm0048615",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julian Baker",
+            "asCharacter": "Sheriff"
+        },
+        {
+            "id": "nm0316773",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elaine Gifford",
+            "asCharacter": "Cliff Weismeyer's Daughter"
+        },
+        {
+            "id": "nm0236178",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2I4MzVlNWYtYjE4NC00MzFmLTljMzgtNDE5NDdkM2Y4ODNmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frederic Downs",
+            "asCharacter": "Tinsley (as Fredric Downs)"
+        },
+        {
+            "id": "nm0751202",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James H. Russell",
+            "asCharacter": "Kelly (as Jamie Russell)"
+        },
+        {
+            "id": "nm1160446",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Stout",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1273067",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Avilio Silva",
+            "asCharacter": "Cuban"
+        },
+        {
+            "id": "nm1157866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Cruz",
+            "asCharacter": "Juan Cruz / Cuban Guard Griffin Kills"
+        },
+        {
+            "id": "nm0484211",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard Lance",
+            "asCharacter": "Father Gonzalez"
+        },
+        {
+            "id": "nm1272604",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tad Murray",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0907634",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clarence Walker",
+            "asCharacter": "Policeman"
+        },
+        {
+            "id": "nm0713339",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nick Raymond",
+            "asCharacter": "1st Highway Patrolman"
+        },
+        {
+            "id": "nm0522285",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce Love",
+            "asCharacter": "Jim Benton"
+        },
+        {
+            "id": "nm1157921",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ed Moran",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1158523",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Candy Brougham",
+            "asCharacter": "Junkyard Owner's Daughter"
+        },
+        {
+            "id": "nm1157862",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Carpenter",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1271380",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Brougham",
+            "asCharacter": "Junkyard Owner"
+        },
+        {
+            "id": "nm1273127",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Stockham",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7162750",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Niva",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1382217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dave Monahan",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1270802",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Lucas",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2941097",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Mason",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1273591",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Burnett",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1270830",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Russo",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1270829",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Russo",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0937606",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nick Wolcuff",
+            "asCharacter": "2nd Highway Patrolman"
+        },
+        {
+            "id": "nm0425531",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Johnson",
+            "asCharacter": "Ken - Kelly's Agent"
+        },
+        {
+            "id": "nm1273688",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steve Gideon",
+            "asCharacter": "Steve - Kelly's Agent (as Steve Gidos)"
+        },
+        {
+            "id": "nm3744555",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Avilio Silva Jr.",
+            "asCharacter": "Avilio"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0136707",
+                    "name": "Anthony Cardoza",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0290118",
+                    "name": "Coleman Francis",
+                    "description": "producer (uncredited)"
+                },
+                {
+                    "id": "nm0366656",
+                    "name": "Charles F. Harter",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0061078",
+                    "name": "John Bath",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0731159",
+                    "name": "Herb Roberts",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0751202",
+                    "name": "James H. Russell",
+                    "description": "(as James Russell)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0048615",
+                    "name": "Julian Baker",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0316773",
+                    "name": "Elaine Gifford",
+                    "description": "composer: special music"
+                },
+                {
+                    "id": "nm0519771",
+                    "name": "William Loose",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0006301",
+                    "name": "Fred Steiner",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm2931191",
+                    "name": "Bette Sharp",
+                    "description": "script girl"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0243883",
+                    "name": "Ted Durant",
+                    "description": "public relations"
+                },
+                {
+                    "id": "nm1273067",
+                    "name": "Avilio Silva",
+                    "description": "assistant to producer"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

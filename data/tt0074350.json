@@ -1,0 +1,550 @@
+{
+    "imDbId": "tt0074350",
+    "title": "Cosmic Princess",
+    "fullTitle": "Cosmic Princess (1982)",
+    "type": "Movie",
+    "year": "1982",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0187769",
+                "name": "Charles Crichton",
+                "description": ""
+            },
+            {
+                "id": "nm0575389",
+                "name": "Peter Medak",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0026755",
+                "name": "Gerry Anderson",
+                "description": "(creator) (uncredited)"
+            },
+            {
+                "id": "nm0027487",
+                "name": "Sylvia Anderson",
+                "description": "(creator) (uncredited)"
+            },
+            {
+                "id": "nm0126210",
+                "name": "Johnny Byrne",
+                "description": ""
+            },
+            {
+                "id": "nm0293750",
+                "name": "Fred Freiberger",
+                "description": "(as Charles Woodgrove)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0001445",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI0MzkxNzg0OF5BMl5BanBnXkFtZTcwNDUzOTc5MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Martin Landau",
+            "asCharacter": "Commander John Koenig"
+        },
+        {
+            "id": "nm0000828",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkzODg4NjI0N15BMl5BanBnXkFtZTYwNzUxNDI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Barbara Bain",
+            "asCharacter": "Dr. Helena Russell"
+        },
+        {
+            "id": "nm0770711",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk5NTQzNjczMV5BMl5BanBnXkFtZTcwNDE5MTIyOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Catherine Schell",
+            "asCharacter": "Maya"
+        },
+        {
+            "id": "nm0030022",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTYyMjY2NTE4MF5BMl5BanBnXkFtZTgwNzYyNTM0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Tony Anholt",
+            "asCharacter": "Tony Verdeschi"
+        },
+        {
+            "id": "nm0851182",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY4NTY4NDAzNF5BMl5BanBnXkFtZTcwODA4ODI5NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick Tate",
+            "asCharacter": "Alan Carter"
+        },
+        {
+            "id": "nm0581617",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzQ0NzkzNV5BMl5BanBnXkFtZTgwMDc1MzI2NjM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Zienia Merton",
+            "asCharacter": "Sandra Benes"
+        },
+        {
+            "id": "nm0000306",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ0Njc1ODQ5MV5BMl5BanBnXkFtZTcwODg5MjIzMQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Brian Blessed",
+            "asCharacter": "Mentor"
+        },
+        {
+            "id": "nm0376138",
+            "image": "https://m.media-amazon.com/images/M/MV5BODQzMzAyNTQtMjIwMi00YzI5LWIxYWMtNzk3YWZlMmI2NzFkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Anouska Hempel",
+            "asCharacter": "Annette Fraser"
+        },
+        {
+            "id": "nm0457436",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYyNjU2MjIwMV5BMl5BanBnXkFtZTgwMDYyNzQzNDE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jeffery Kissoon",
+            "asCharacter": "Dr. Ben Vincent"
+        },
+        {
+            "id": "nm0692007",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Porteous",
+            "asCharacter": "Petrov"
+        },
+        {
+            "id": "nm0652150",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA4Njc4OTc4Nl5BMl5BanBnXkFtZTcwNjU4NTQ0MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tony Osoba",
+            "asCharacter": "1st Security Guard"
+        },
+        {
+            "id": "nm0431851",
+            "image": "https://m.media-amazon.com/images/M/MV5BODliZWE5ZDktOTFlNC00YWMyLWI5NjEtOGVlOGQ4MTgwYzFmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6818_AL_.jpg",
+            "name": "John Judd",
+            "asCharacter": "2nd Security Guard"
+        },
+        {
+            "id": "nm0859607",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Trevor Thomas",
+            "asCharacter": "Refuel Eagle Pilot"
+        },
+        {
+            "id": "nm0517080",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andrew Lodge",
+            "asCharacter": "Grasshopper"
+        },
+        {
+            "id": "nm0400319",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQwNTc4NTEyM15BMl5BanBnXkFtZTgwODMyNTM0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Hug",
+            "asCharacter": "Bill Fraser"
+        },
+        {
+            "id": "nm0660778",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gerard Paquis",
+            "asCharacter": "Lew Picard"
+        },
+        {
+            "id": "nm0003818",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQxNDgwMDI2Nl5BMl5BanBnXkFtZTcwNzYxNTMzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick Brimble",
+            "asCharacter": "Ray Torens"
+        },
+        {
+            "id": "nm0680216",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anton Phillips",
+            "asCharacter": "Dr. Bob Mathias"
+        },
+        {
+            "id": "nm0120052",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sarah Bullen",
+            "asCharacter": "Kate - Command Center Operative (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0178059",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGYzYmJlODktNTExOC00N2IyLTk2OGEtYjdmYmQzOTg5Y2U1XkEyXkFqcGdeQXVyMTIxODMyMDA3._V1_Ratio1.3182_AL_.jpg",
+            "name": "George Lane Cooper",
+            "asCharacter": "1st Overseer (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0228881",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Dixon",
+            "asCharacter": "Small Alien (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0276541",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTVhZmQxZWQtYTEwMC00N2YxLThhMmUtNjY3YzViODZmYjI2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Christopher Figg",
+            "asCharacter": "Alphan (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0387614",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTU5NzMzMDA4N15BMl5BanBnXkFtZTcwNzkzMDU1NA@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Nick Hobbs",
+            "asCharacter": "5th Security Guard (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0426996",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWJhZDMwNTEtM2VhMS00NDVmLTkxZjQtNmQ1NTBhOGE2NWJjXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Alf Joint",
+            "asCharacter": "2nd Overseer (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0458161",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmU1YzdjMTUtZjQ4My00Yjc5LTk1ZjgtMzUxNjIwZmY4ZTg5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Jack Klaff",
+            "asCharacter": "4th Security Guard (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0552947",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reuben Martin",
+            "asCharacter": "Gorilla (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0565482",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjM3OGQzZWEtMzhhOS00NTI0LTg4MTQtYTkyZTdmZDVlOTJiXkEyXkFqcGdeQXVyMzI3MTU0OQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Neil McCaul",
+            "asCharacter": "Zombie Alien (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0600619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Geoffrey Moon",
+            "asCharacter": "Short Alien (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0607579",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY4OTQyMjMyMV5BMl5BanBnXkFtZTgwMzU2OTEyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Barry Morse",
+            "asCharacter": "Prof. Victor Bergman (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0682652",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Quentin Pierre",
+            "asCharacter": "3rd Security Guard (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0741598",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pam Rose",
+            "asCharacter": "Command Center Operative (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0829796",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2FjZTdkNDItNDBiYy00NWY2LTg3ZmQtNzczOTBlYzI3OTY2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Roy Stewart",
+            "asCharacter": "Tall Alien (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0909882",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Terry Walsh",
+            "asCharacter": "Technician (archive footage) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0026755",
+                    "name": "Gerry Anderson",
+                    "description": "producer (uncredited)"
+                },
+                {
+                    "id": "nm0293750",
+                    "name": "Fred Freiberger",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0337836",
+                    "name": "F. Sherwin Green",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0336460",
+                    "name": "Barry Gray",
+                    "description": ""
+                },
+                {
+                    "id": "nm0905618",
+                    "name": "Derek Wadsworth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0132735",
+                    "name": "Mike Campbell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0210956",
+                    "name": "Lesley De Pettit",
+                    "description": "(as Lesley de Pettitt)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0933693",
+                    "name": "Keith Wilson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0285785",
+                    "name": "Michael Ford",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0692364",
+                    "name": "Emma Porteous",
+                    "description": ""
+                },
+                {
+                    "id": "nm0314648",
+                    "name": "Rudi Gernreich",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0028688",
+                    "name": "Jan Dorman",
+                    "description": "hairdresser"
+                },
+                {
+                    "id": "nm0293434",
+                    "name": "Jeanette Freeman",
+                    "description": "hairdresser (as Jeannette Freeman)"
+                },
+                {
+                    "id": "nm0335597",
+                    "name": "Patrick Grant",
+                    "description": "hairdresser"
+                },
+                {
+                    "id": "nm0627596",
+                    "name": "Basil Newall",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0716105",
+                    "name": "Connie Reeve",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0867035",
+                    "name": "Donald Toms",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0048643",
+                    "name": "Ken Baker",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0907287",
+                    "name": "Bill Waldron",
+                    "description": "construction manager"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0048888",
+                    "name": "Roy Baker",
+                    "description": "sound supervisor"
+                },
+                {
+                    "id": "nm0386856",
+                    "name": "Claude Hitchcock",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0460938",
+                    "name": "Jack T. Knight",
+                    "description": "sound editor (as Jack Knight)"
+                },
+                {
+                    "id": "nm0550784",
+                    "name": "Brian Marshall",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0672065",
+                    "name": "Peter Pennell",
+                    "description": "sound editor"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0020158",
+                    "name": "Nick Allder",
+                    "description": "lighting cameraman"
+                },
+                {
+                    "id": "nm1227391",
+                    "name": "Michael S.E. Downing",
+                    "description": "electronics"
+                },
+                {
+                    "id": "nm0424644",
+                    "name": "Brian Johnson",
+                    "description": "special effects designer / special effects director"
+                },
+                {
+                    "id": "nm0514330",
+                    "name": "David Litchfield",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0083064",
+                    "name": "Neil Binney",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0915145",
+                    "name": "Frank Watts",
+                    "description": "lighting camera"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0838054",
+                    "name": "Eileen Sullivan",
+                    "description": "wardrobe"
+                },
+                {
+                    "id": "nm0932850",
+                    "name": "Masada Wilmot",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0322881",
+                    "name": "Gunter Glinka",
+                    "description": "post-production editor"
+                },
+                {
+                    "id": "nm1219619",
+                    "name": "Robert Mandell",
+                    "description": "post-production coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0905618",
+                    "name": "Derek Wadsworth",
+                    "description": "music"
+                },
+                {
+                    "id": "nm0932263",
+                    "name": "Alan Willis",
+                    "description": "music editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0326071",
+                    "name": "Gladys Goldsmith",
+                    "description": "continuity"
+                },
+                {
+                    "id": "nm0805955",
+                    "name": "Doreen Soan",
+                    "description": "continuity"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm3082328",
+                    "name": "Terence Connors",
+                    "description": "financial director"
+                },
+                {
+                    "id": "nm0384593",
+                    "name": "Reg Hill",
+                    "description": "production executive"
+                },
+                {
+                    "id": "nm0485298",
+                    "name": "David Lane",
+                    "description": "technical director"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,301 @@
+{
+    "imDbId": "tt0050717",
+    "title": "The Robot vs. The Aztec Mummy",
+    "fullTitle": "The Robot vs. The Aztec Mummy (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0692414",
+                "name": "Rafael Portillo",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0129602",
+                "name": "Guillermo Calderón",
+                "description": "(original story) (as Guillermo Calderón S.) and"
+            },
+            {
+                "id": "nm0757667",
+                "name": "Alfredo Salazar",
+                "description": "(original story)"
+            },
+            {
+                "id": "nm0757667",
+                "name": "Alfredo Salazar",
+                "description": "(adaptation)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0310804",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDE3MmQ1MTUtYzFmZi00N2NlLWFiZjgtMTIzNzdmZGZhMzUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ramón Gay",
+            "asCharacter": "Dr. Eduardo Almada"
+        },
+        {
+            "id": "nm0034301",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDI0YzQxM2UtNzg0Yi00YzEzLWFlMWItMTliYTY5NjAwZTFmXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rosita Arenas",
+            "asCharacter": "Flor Almada / Xochitl"
+        },
+        {
+            "id": "nm0023140",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTBhODUwOGItMmY2Zi00N2RhLWExMjItOWNlM2YzMzkzMDYxXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Crox Alvarado",
+            "asCharacter": "Pinacate"
+        },
+        {
+            "id": "nm0009735",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTZhNGYyN2YtMWRlZC00MWZkLTgxNDMtMWY1ZjgzN2UxNWQzXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Luis Aceves Castañeda",
+            "asCharacter": "Dr. Krupp"
+        },
+        {
+            "id": "nm0597796",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jorge Mondragón",
+            "asCharacter": "Dr. Sepúlveda (archive footage)"
+        },
+        {
+            "id": "nm0555005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arturo Martínez",
+            "asCharacter": "Tierno"
+        },
+        {
+            "id": "nm0738139",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWQwOTM2NTUtNDc5MS00Y2Y3LTk0NzUtMDdkOWI5MTkxZmI3XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Emma Roldán",
+            "asCharacter": "Maria, the housekeeper"
+        },
+        {
+            "id": "nm0580746",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julián de Meriche",
+            "asCharacter": "Comandante (as Julien de Meriche)"
+        },
+        {
+            "id": "nm0523621",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Salvador Lozano",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0327980",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jaime González Quiñones",
+            "asCharacter": "Pepe Almada (as Jaime Quiñones)"
+        },
+        {
+            "id": "nm0195676",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ángel Di Stefani",
+            "asCharacter": "Popoca, the Mummy (as Angelo De Steffani)"
+        },
+        {
+            "id": "nm1998427",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adolfo Rojas",
+            "asCharacter": "The Human Robot"
+        },
+        {
+            "id": "nm0892810",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jesús Murcielago Velázquez",
+            "asCharacter": "El Murciélago (as Murcielago Velazquez)"
+        },
+        {
+            "id": "nm0951280",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enrique Yáñez",
+            "asCharacter": "Esbirro del Murciélago"
+        },
+        {
+            "id": "nm0379958",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Guillermo Hernández",
+            "asCharacter": "Esbirro del Murciélago (as Lobo Negro)"
+        },
+        {
+            "id": "nm0951276",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alberto Yáñez",
+            "asCharacter": "Esbirro del Murciélago"
+        },
+        {
+            "id": "nm1160296",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Firpo Segura",
+            "asCharacter": "Esbirro del Murciélago"
+        },
+        {
+            "id": "nm1518274",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sergio Yañez",
+            "asCharacter": "Esbirro del Murciélago (as Sergio Yáñez)"
+        },
+        {
+            "id": "nm0408494",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDI2MjlmMTAtNjg1NS00NGQyLWI4MGMtZDJlODczM2UyOTg4XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Estela Inda",
+            "asCharacter": "Aztec Chanteuse (as Stella Inda)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0129602",
+                    "name": "Guillermo Calderón",
+                    "description": "producer (as Guillermo Calderon S.)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006054",
+                    "name": "Antonio Díaz Conde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0908629",
+                    "name": "Enrique Wallace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0003375",
+                    "name": "Jorge Busto",
+                    "description": "(as Jorge Bustos)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0868538",
+                    "name": "Javier Torres Torija",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0658736",
+                    "name": "Carmen Palomino",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm1341573",
+                    "name": "José Alcalde",
+                    "description": "unit production manager"
+                },
+                {
+                    "id": "nm0305624",
+                    "name": "Luis García de León",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0217040",
+                    "name": "Moisés Delgado",
+                    "description": "assistant director (as Moises M. Delgado)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0702218",
+                    "name": "José de Pérez",
+                    "description": "re-recording mixer"
+                },
+                {
+                    "id": "nm0273621",
+                    "name": "Luis Fernández",
+                    "description": "dialogue recordist"
+                },
+                {
+                    "id": "nm0692417",
+                    "name": "Reynaldo P. Portillo",
+                    "description": "sound editor"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0508582",
+                    "name": "José Li-ho",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0702218",
+                    "name": "José de Pérez",
+                    "description": "music recordist"
+                },
+                {
+                    "id": "nm0006054",
+                    "name": "Antonio Díaz Conde",
+                    "description": "musical director"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0408494",
+                    "name": "Estela Inda",
+                    "description": "Aztec dances (as Stella Inda y su conjunto)"
+                },
+                {
+                    "id": "nm0749100",
+                    "name": "Nicolás Rueda hijo",
+                    "description": "title designer (as Nicolás Rueda Jr.)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

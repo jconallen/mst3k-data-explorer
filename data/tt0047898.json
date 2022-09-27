@@ -1,0 +1,317 @@
+{
+    "imDbId": "tt0047898",
+    "title": "Bride of the Monster",
+    "fullTitle": "Bride of the Monster (1955)",
+    "type": "Movie",
+    "year": "1955",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000248",
+                "name": "Edward D. Wood Jr.",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0000248",
+                "name": "Edward D. Wood Jr.",
+                "description": "(original story and screenplay) and"
+            },
+            {
+                "id": "nm0329966",
+                "name": "Alex Gordon",
+                "description": "(original story and screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000509",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg0Mjc4MTE2N15BMl5BanBnXkFtZTYwNjUyMDI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bela Lugosi",
+            "asCharacter": "Dr. Eric Vornoff"
+        },
+        {
+            "id": "nm0426363",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTIxMDc4NDE3M15BMl5BanBnXkFtZTgwNDI5NzMwNjM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Tor Johnson",
+            "asCharacter": "Lobo"
+        },
+        {
+            "id": "nm0566815",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony McCoy",
+            "asCharacter": "Lt. Dick Craig"
+        },
+        {
+            "id": "nm0455010",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Loretta King",
+            "asCharacter": "Janet Lawton"
+        },
+        {
+            "id": "nm0242587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harvey B. Dunn",
+            "asCharacter": "Capt. Robbins"
+        },
+        {
+            "id": "nm0065922",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Becwar",
+            "asCharacter": "Prof. Strowski"
+        },
+        {
+            "id": "nm0545803",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTQ1NDc5YjItM2ZhYi00ZjA0LWI2ZTctMThhZjFlMGYwYWM3XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Paul Marco",
+            "asCharacter": "Kelton"
+        },
+        {
+            "id": "nm0619265",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Nagel",
+            "asCharacter": "Martin (as Don Nagle)"
+        },
+        {
+            "id": "nm0651627",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDdhZGM5NGQtYTVjMy00NzUwLTgwNGEtMDEyMDczYjVlZTVjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bud Osborne",
+            "asCharacter": "Mac"
+        },
+        {
+            "id": "nm0912888",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Warren",
+            "asCharacter": "Jake"
+        },
+        {
+            "id": "nm0932884",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ann Wilner",
+            "asCharacter": "Tillie"
+        },
+        {
+            "id": "nm0298215",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjUyNDQ5Nl5BMl5BanBnXkFtZTYwNzk3OTg4._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dolores Fuller",
+            "asCharacter": "Margie"
+        },
+        {
+            "id": "nm0070827",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjYyNzVmZGItMWFlYi00ZmI0LWExN2MtM2FhNmM3YmM4NzA1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "William 'Billy' Benedict",
+            "asCharacter": "Newsboy (as William Benedict)"
+        },
+        {
+            "id": "nm0296370",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ben Frommer",
+            "asCharacter": "Drunk"
+        },
+        {
+            "id": "nm0111926",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Conrad Brooks",
+            "asCharacter": "Suspect Outside Office (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0566727",
+                    "name": "Donald E. McCoy",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0566815",
+                    "name": "Tony McCoy",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0000248",
+                    "name": "Edward D. Wood Jr.",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0911913",
+                    "name": "Frank Worth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0020023",
+                    "name": "Ted Allan",
+                    "description": "director of photography"
+                },
+                {
+                    "id": "nm0860847",
+                    "name": "William C. Thompson",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0011430",
+                    "name": "Warren Adams",
+                    "description": "(as Mike Adams)"
+                },
+                {
+                    "id": "nm0437901",
+                    "name": "Igo Kantor",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0717537",
+                    "name": "Harry Reif",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0368667",
+                    "name": "Louis Haszillo",
+                    "description": "makeup artist (as Louis J. Haszillo)"
+                },
+                {
+                    "id": "nm0782412",
+                    "name": "Maurice Seiderman",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0267265",
+                    "name": "Robert Farfan",
+                    "description": "assistant director (as Bob Farfan)"
+                },
+                {
+                    "id": "nm0634524",
+                    "name": "William L. Nolte",
+                    "description": "assistant director (as William Nolte)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0046944",
+                    "name": "George Bahr",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0460854",
+                    "name": "Dale Knight",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0689682",
+                    "name": "Marshall Pollock",
+                    "description": "sound effects editor (as Mike Pollock)"
+                },
+                {
+                    "id": "nm0929858",
+                    "name": "Lyle Willey",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0227632",
+                    "name": "Pat Dinga",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0662219",
+                    "name": "Eddie Parker",
+                    "description": "stunt double: Bela Lugosi (uncredited)"
+                },
+                {
+                    "id": "nm0713982",
+                    "name": "Red Reagan",
+                    "description": "stunt double: Bela Lugosi (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0175363",
+                    "name": "Thomas J. Connolly",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0471279",
+                    "name": "Louis Kriger",
+                    "description": "electrician"
+                },
+                {
+                    "id": "nm0794068",
+                    "name": "Bert Shipman",
+                    "description": "camera operator (as Bert Shipham)"
+                },
+                {
+                    "id": "nm0809038",
+                    "name": "Larry Smith",
+                    "description": "still photographer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0437901",
+                    "name": "Igo Kantor",
+                    "description": "technical supervisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

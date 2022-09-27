@@ -1,0 +1,204 @@
+{
+    "imDbId": "tt0051993",
+    "title": "Night of the Blood Beast",
+    "fullTitle": "Night of the Blood Beast (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0468609",
+                "name": "Bernard L. Kowalski",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0180020",
+                "name": "Gene Corman",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0890130",
+                "name": "Martin Varno",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0256523",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2E1ODYzNzUtOTRjNy00MDA5LWIwYzUtY2Y1NWY5Zjg2YmU4XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Michael Emmet",
+            "asCharacter": "Maj. John Corcoran"
+        },
+        {
+            "id": "nm0338664",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWU3NWVmNjktOTJjOS00MGM0LWIyMGMtOTU1OGZmZWRkMzI1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Angela Greene",
+            "asCharacter": "Dr. Julie Benson"
+        },
+        {
+            "id": "nm0046359",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjM4ZDIzYzgtNjgyMC00M2Y1LTgzZDItNzMwYjRmZjFhNDBhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.1818_AL_.jpg",
+            "name": "John Baer",
+            "asCharacter": "Steve Dunlap"
+        },
+        {
+            "id": "nm0625343",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzQ4NjUzOF5BMl5BanBnXkFtZTcwNDk2NDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ed Nelson",
+            "asCharacter": "Dave Randall"
+        },
+        {
+            "id": "nm0574712",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tyler McVey",
+            "asCharacter": "Dr. Alex Wyman"
+        },
+        {
+            "id": "nm0141636",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Georgianna Carter",
+            "asCharacter": "Donna Bixby"
+        },
+        {
+            "id": "nm0836392",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ross Sturlin",
+            "asCharacter": "The Creature"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0180020",
+                    "name": "Gene Corman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0489967",
+                    "name": "Alexander Laszlo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0630077",
+                    "name": "John M. Nickolaus Jr.",
+                    "description": "(as John Nickolaus Jr.)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0178578",
+                    "name": "Jodie Copelan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0356396",
+                    "name": "Daniel Haller",
+                    "description": "(as Dan Haller)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0858903",
+                    "name": "Harry Thomas",
+                    "description": "makeup artist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0092176",
+                    "name": "Jack Bohrer",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0924534",
+                    "name": "Bob White",
+                    "description": "assistant director (as Robert White)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0104042",
+                    "name": "Karl Brainard",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0507266",
+                    "name": "Herman Lewis",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0193015",
+                    "name": "Richard C. Currier",
+                    "description": "supervising editor (as Dick Currier)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0551980",
+                    "name": "Bill Martin",
+                    "description": "title designer"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

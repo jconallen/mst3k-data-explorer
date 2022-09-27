@@ -1,0 +1,820 @@
+{
+    "imDbId": "tt0145529",
+    "title": "Time Chasers",
+    "fullTitle": "Time Chasers (1994)",
+    "type": "Movie",
+    "year": "1994",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0316151",
+                "name": "David Giancola",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0316151",
+                "name": "David Giancola",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0115611",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Bruch",
+            "asCharacter": "Nick Miller"
+        },
+        {
+            "id": "nm0698012",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bonnie Pritchard",
+            "asCharacter": "Lisa Henson"
+        },
+        {
+            "id": "nm0364339",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Harrington",
+            "asCharacter": "Matthew Paul"
+        },
+        {
+            "id": "nm0940137",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIwMjM4NTQ4NV5BMl5BanBnXkFtZTcwNDg3MzczMQ@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "George Woodard",
+            "asCharacter": "J.K. Robertson"
+        },
+        {
+            "id": "nm0884278",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael J. Valentine",
+            "asCharacter": "Cabbie"
+        },
+        {
+            "id": "nm1091082",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Rohn",
+            "asCharacter": "Richter"
+        },
+        {
+            "id": "nm1092297",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ted Pendleton",
+            "asCharacter": "Gris"
+        },
+        {
+            "id": "nm1092589",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Becky Fenton",
+            "asCharacter": "Becks"
+        },
+        {
+            "id": "nm1092218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack McGinnis",
+            "asCharacter": "Mick"
+        },
+        {
+            "id": "nm0346841",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmRmNjhiYmEtMDhiMC00YTk3LTg4YmQtN2VkOWU1MDc5Y2E0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Martin Guigui",
+            "asCharacter": "Marty"
+        },
+        {
+            "id": "nm0065887",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Beckwith",
+            "asCharacter": "Scalper"
+        },
+        {
+            "id": "nm0085746",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ilene Blackman",
+            "asCharacter": "Newspaper Editor"
+        },
+        {
+            "id": "nm1092261",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Nelson",
+            "asCharacter": "Nicky"
+        },
+        {
+            "id": "nm1092736",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Emily Nelson",
+            "asCharacter": "Lis"
+        },
+        {
+            "id": "nm1091175",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWM1NGQxYjctNDBlYi00M2YzLWI1NzAtYjJhYzgzMzAyZDQ4XkEyXkFqcGdeQXVyMjAxODYwNzc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Margaret Daly",
+            "asCharacter": "Nicky's Mom (as Margaret Schenck)"
+        },
+        {
+            "id": "nm0860154",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gary Thompson",
+            "asCharacter": "Nicky's Dad"
+        },
+        {
+            "id": "nm1092809",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roberta Strauss",
+            "asCharacter": "Gilda Heintz"
+        },
+        {
+            "id": "nm1092441",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Perry Tuttle",
+            "asCharacter": "Ground Controller"
+        },
+        {
+            "id": "nm1092432",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Terry Travers",
+            "asCharacter": "Hangar Guard"
+        },
+        {
+            "id": "nm0642069",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shawn O'Neil",
+            "asCharacter": "Gate Guard"
+        },
+        {
+            "id": "nm1088466",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Clifford",
+            "asCharacter": "Gen Corp. Security"
+        },
+        {
+            "id": "nm1090473",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thaddeus Lorentz",
+            "asCharacter": "Plane Crash Investigator"
+        },
+        {
+            "id": "nm1092119",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lee D. Jones",
+            "asCharacter": "Sheriff"
+        },
+        {
+            "id": "nm1092296",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brian Pendleton",
+            "asCharacter": "Fisherman"
+        },
+        {
+            "id": "nm0625205",
+            "image": "https://m.media-amazon.com/images/M/MV5BODY5ZmUxZDktZjdhNC00MDE1LTgyZmEtM2NkYjc3MjBjYmJlXkEyXkFqcGdeQXVyMTQ1NDM2NTk@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bruce Nelson",
+            "asCharacter": "Fisherman"
+        },
+        {
+            "id": "nm1092321",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Reczek",
+            "asCharacter": "Guy with Car"
+        },
+        {
+            "id": "nm1092006",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alex Dunn",
+            "asCharacter": "Hologram Preacher"
+        },
+        {
+            "id": "nm1089206",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vicky A. Bourn",
+            "asCharacter": "Worshipful One"
+        },
+        {
+            "id": "nm1074560",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMwMzk2MTg0OV5BMl5BanBnXkFtZTYwNzkxMDgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "Carolyn Palmer",
+            "asCharacter": "50's Waitress"
+        },
+        {
+            "id": "nm1089740",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bette Fredette",
+            "asCharacter": "50's Housewife"
+        },
+        {
+            "id": "nm0654316",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Owens",
+            "asCharacter": "Gen Corp. Executive"
+        },
+        {
+            "id": "nm1091571",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sharry Underwood",
+            "asCharacter": "Gen Corp. Executive"
+        },
+        {
+            "id": "nm1090486",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE5OTI4NDU2MF5BMl5BanBnXkFtZTgwNzQzOTE0NTE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "S. Lue McWilliams",
+            "asCharacter": "Gen Corp. Executive"
+        },
+        {
+            "id": "nm1088632",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lori Brown",
+            "asCharacter": "Gen Corp. Executive"
+        },
+        {
+            "id": "nm1092015",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Emerick",
+            "asCharacter": "Crash Site Firefighter"
+        },
+        {
+            "id": "nm1089083",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nancee Barney",
+            "asCharacter": "Crash Site Firefighter"
+        },
+        {
+            "id": "nm1092231",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ralph Minard",
+            "asCharacter": "Crash Site Firefighter / Gen Corp. Guard"
+        },
+        {
+            "id": "nm1092068",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Duff Grey",
+            "asCharacter": "Airport Rescue Driver"
+        },
+        {
+            "id": "nm1091641",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Vitagliano",
+            "asCharacter": "Limo Driver"
+        },
+        {
+            "id": "nm1092832",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paula Wallace",
+            "asCharacter": "Banner Journalist"
+        },
+        {
+            "id": "nm0908906",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Wallace",
+            "asCharacter": "Banner Journalist"
+        },
+        {
+            "id": "nm1090819",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph J. O'Rourke",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1091332",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harley Squire",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1092555",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ruth Dana",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1089328",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Chapados",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1090112",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jill Jedrzejewski",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1090113",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Johnny Jedrzejewski",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1092746",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christine Olson",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1092512",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Crystal Bean",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1088582",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adam Ross",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1088996",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill April",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1088456",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kevin Callahan",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1092554",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patricia Dana",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1091967",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tyler Dana",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1090111",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janna Jedrzejewski",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1091860",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wade Altman",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1092497",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Diana April",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1089091",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laura Bean",
+            "asCharacter": "Destroyed Future Inhabitant"
+        },
+        {
+            "id": "nm1090993",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rachel Prozeller",
+            "asCharacter": "Destroyed Future Inhabitant / Future Inhabitant"
+        },
+        {
+            "id": "nm1091851",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tim Ahonen",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1088458",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Campbell",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1043109",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jason Smiley",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1089459",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erin Darby",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Colleen Greer",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1174546",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzA0Nzg1Ml5BMl5BanBnXkFtZTgwMTUyNDMwNDE@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Matthew Greer",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1089921",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeff Haig",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1090032",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Darlene Hubacher",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092112",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Douglas Jaffe",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092677",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charlotte Laird",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1091957",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott E. Cote",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092776",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eleanor Rodgers",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1091075",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cyrus Rodgers",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm0179234",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laurie Corbin",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1091984",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Dishman",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1089872",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Geremiah Greer",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm12564962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zachary Greer",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092089",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sean Harper",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092638",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jessica Hubacher",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1091048",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aaron Reil",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1092267",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Nicholson",
+            "asCharacter": "Future Inhabitant"
+        },
+        {
+            "id": "nm1089589",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hilton H. Dyer III",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1088482",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard Fisher",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1088469",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Correll",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1092288",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Douglas Patraw",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1088462",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richard Church",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1089629",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Darrell English",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1091981",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Didio",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1092342",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Rondeau",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm0723466",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDEzM2I0ZjYtNjYyOS00N2E3LTg1MDQtZTNlNmU3YThmZmRjXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "John Rice",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1092537",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nancy Church",
+            "asCharacter": "Revolutionary War Soldier"
+        },
+        {
+            "id": "nm1092083",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roger Hamel",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm0816880",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzE5MzQ3ZTgtNDY1NS00MzNkLTk3MGItOTlmZmJhNTRhMWRhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Nick Spano",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1092209",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chris Mayka",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1092324",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Reiber",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1090040",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teague Hunziker",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm0876455",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk2MTIyNzQzM15BMl5BanBnXkFtZTcwODI3MzgyMQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Greg Tulonen",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1090465",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tor Loney",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1092217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Morgan McGee",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1091006",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeff Quesnel",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm0807931",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dennis Smith",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm0919515",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Welch",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm1088441",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Barrett",
+            "asCharacter": "Gen Corp. Guard"
+        },
+        {
+            "id": "nm3129003",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjUyMzUyNjU4NF5BMl5BanBnXkFtZTgwNjI3MzgxNzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kerstin Karlhuber",
+            "asCharacter": "Destroyed Future Inhabitant"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm2279830",
+                    "name": "Judith Allard",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm2293125",
+                    "name": "Barbara A. Beckwith",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0065887",
+                    "name": "Peter Beckwith",
+                    "description": "associate producer / producer"
+                },
+                {
+                    "id": "nm1406644",
+                    "name": "Barbara Giancola",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm1406646",
+                    "name": "Joseph Giancola",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm2291194",
+                    "name": "Peggy O'Neil",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0455962",
+                    "name": "Alice Damon Kinzie",
+                    "description": ""
+                },
+                {
+                    "id": "nm0455964",
+                    "name": "Bill Kinzie",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0765769",
+                    "name": "Mark Sasahara",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm2288308",
+                    "name": "Ace Giancola",
+                    "description": ""
+                },
+                {
+                    "id": "nm2291841",
+                    "name": "Andrew Wilson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm1074560",
+                    "name": "Carolyn Palmer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0245790",
+                    "name": "Stacy Dyer",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0245790",
+                    "name": "Stacy Dyer",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm2292388",
+                    "name": "Ruthellen Weston",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm2290512",
+                    "name": "Craig Buzzell",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm2293375",
+                    "name": "Anne Chamberlain",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm1300895",
+                    "name": "Ron Marcus",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm2294013",
+                    "name": "Jim McPhee",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm2293773",
+                    "name": "Jim Walton",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0115611",
+                    "name": "Matthew Bruch",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0362291",
+                    "name": "Chuck Harding",
+                    "description": "assistant camera"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm3270836",
+                    "name": "Pepper Brooks",
+                    "description": "special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

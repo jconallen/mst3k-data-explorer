@@ -1,0 +1,298 @@
+{
+    "imDbId": "tt0049287",
+    "title": "Gunslinger",
+    "fullTitle": "Gunslinger (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000339",
+                "name": "Roger Corman",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0341458",
+                "name": "Charles B. Griffith",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0360221",
+                "name": "Mark Hanna",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0409869",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI1OTY1MDk2MF5BMl5BanBnXkFtZTcwODMwMjkzNA@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "John Ireland",
+            "asCharacter": "Cane Miro"
+        },
+        {
+            "id": "nm0307500",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTQ3OTcwNF5BMl5BanBnXkFtZTYwNzU5Mjky._V1_Ratio0.7273_AL_.jpg",
+            "name": "Beverly Garland",
+            "asCharacter": "Marshal Rose Hood"
+        },
+        {
+            "id": "nm0370886",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTA1MDg4MjMtMDM3MS00MjIxLWE1ZDItM2JiNzczMWE2NjI4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Allison Hayes",
+            "asCharacter": "Erica Page"
+        },
+        {
+            "id": "nm0455535",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxMDgzNjc5Ml5BMl5BanBnXkFtZTcwMzMwMjkzNA@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Martin Kingsley",
+            "asCharacter": "Mayor Gideon Polk"
+        },
+        {
+            "id": "nm0371918",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWM0ZjYyNjAtYzNkMC00NjAyLWEyMDctM2I2MTdlYWQ0MmZmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jonathan Haze",
+            "asCharacter": "Jake Hayes"
+        },
+        {
+            "id": "nm0132700",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margaret Campbell",
+            "asCharacter": "Felicity Polk"
+        },
+        {
+            "id": "nm0895259",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzAxMTEyNzItMzkzNy00YjIyLWJkYzItMjU5Yjc4OTFhNGI0XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Bruno VeSota",
+            "asCharacter": "Zebelon Tabb (as Bruno Ve Sota)"
+        },
+        {
+            "id": "nm0017108",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4MTE3MF5BMl5BanBnXkFtZTcwMDQwMjkzNA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Chris Alcaide",
+            "asCharacter": "Deputy Joshua Tate"
+        },
+        {
+            "id": "nm0588241",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjAzNTkyMzY1NV5BMl5BanBnXkFtZTgwMDc1OTAzNzM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Dick Miller",
+            "asCharacter": "Jimmy Tonto (as Richard Miller)"
+        },
+        {
+            "id": "nm0644404",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQyYTU1ZjMtZmNmNi00YjVhLTg0OWItY2RjMjQwNDgzNTBmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8636_AL_.jpg",
+            "name": "George Offerman Jr.",
+            "asCharacter": "(as George Offerman)"
+        },
+        {
+            "id": "nm0769974",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTE5ODQzMTYxOF5BMl5BanBnXkFtZTYwMTc0MDI0._V1_Ratio0.7273_AL_.jpg",
+            "name": "William Schallert",
+            "asCharacter": "Marshal Scott Hood"
+        },
+        {
+            "id": "nm0570277",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul McGuire",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0768312",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aaron Saxon",
+            "asCharacter": "Nate Signo"
+        },
+        {
+            "id": "nm0163692",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjU1NmM0MGYtMGNmYS00NmE0LTgyZTgtYzBkNzIwMzhiODQyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.1364_AL_.jpg",
+            "name": "Bill Clark",
+            "asCharacter": "Barfly (uncredited)"
+        },
+        {
+            "id": "nm0307035",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Louanna Gardner",
+            "asCharacter": "Sadie (uncredited)"
+        },
+        {
+            "id": "nm0352368",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWMwODM4N2YtNDJmZi00NmVkLThjYmEtY2RhODlmYmY0NTAyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Herman Hack",
+            "asCharacter": "Barfly (uncredited)"
+        },
+        {
+            "id": "nm1116891",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTJjNWY1YzctODVjYy00YjhkLThkMWUtMDRiZDAyZTMxZmE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Huggins",
+            "asCharacter": "Barfly (uncredited)"
+        },
+        {
+            "id": "nm0562771",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjYwN2IzMWYtZDhiZS00MzRiLWIzYTMtMWM4NWI1YmMyNWNmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kermit Maynard",
+            "asCharacter": "Barfly (uncredited)"
+        },
+        {
+            "id": "nm0588081",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc4NDY4MjkwMV5BMl5BanBnXkFtZTcwMTQwMjkzNA@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Chris Miller",
+            "asCharacter": "Tessie - a Dancer (uncredited)"
+        },
+        {
+            "id": "nm0593083",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steve Mitchell",
+            "asCharacter": "Gunfighter (uncredited)"
+        },
+        {
+            "id": "nm0667038",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Rapp",
+            "asCharacter": "Gunfighter (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer (uncredited)"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0469436",
+                    "name": "David Kramarsky",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "executive producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006300",
+                    "name": "Ronald Stein",
+                    "description": ""
+                },
+                {
+                    "id": "nm0305426",
+                    "name": "Russell Garcia",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0922071",
+                    "name": "Frederick E. West",
+                    "description": "(as Fred West) (photographed by)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0343342",
+                    "name": "Charles Gross Jr.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0126392",
+                    "name": "Jack Byron",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0140116",
+                    "name": "Bartlett A. Carre",
+                    "description": "assistant director (as Bart Carré)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0667038",
+                    "name": "Paul Rapp",
+                    "description": "stunt coordinator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0360358",
+                    "name": "Charles Hannawalt",
+                    "description": "key grip (as Charles Hanawalt)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006300",
+                    "name": "Ronald Stein",
+                    "description": "music director"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0588081",
+                    "name": "Chris Miller",
+                    "description": "choreography"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "presenter"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

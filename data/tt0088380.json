@@ -1,0 +1,678 @@
+{
+    "imDbId": "tt0088380",
+    "title": "Warrior of the Lost World",
+    "fullTitle": "Warrior of the Lost World (1984)",
+    "type": "Movie",
+    "year": "1984",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0175730",
+                "name": "David Worth",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0175730",
+                "name": "David Worth",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0320180",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMzMTc1MDM0NF5BMl5BanBnXkFtZTcwMDUwMzcyMQ@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Robert Ginty",
+            "asCharacter": "The Rider"
+        },
+        {
+            "id": "nm0001422",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzEzNjUzNzY5OV5BMl5BanBnXkFtZTcwOTAxOTkxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Persis Khambatta",
+            "asCharacter": "Nastasia"
+        },
+        {
+            "id": "nm0000587",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkzMjYzNTQ2MV5BMl5BanBnXkFtZTcwMzA5MTkzNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Donald Pleasence",
+            "asCharacter": "Prossor"
+        },
+        {
+            "id": "nm0004365",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU1MzIzNjk4N15BMl5BanBnXkFtZTYwMjk4NDYz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Fred Williamson",
+            "asCharacter": "Henchman"
+        },
+        {
+            "id": "nm0612080",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harrison Muller Sr.",
+            "asCharacter": "McWayne (as Harrison Muller)"
+        },
+        {
+            "id": "nm0198049",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Philip Dallas",
+            "asCharacter": "Elder"
+        },
+        {
+            "id": "nm0637713",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzI2OTRmNzEtNzRhMC00ODY1LWFhM2MtNjA3MzJhNDdmZjk2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Laura Nucci",
+            "asCharacter": "Elder"
+        },
+        {
+            "id": "nm0723179",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vinicio Ricchi",
+            "asCharacter": "Elder (as Vinicio Recchi)"
+        },
+        {
+            "id": "nm0314250",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIyMTI1MDcwM15BMl5BanBnXkFtZTcwNzUwMjYyMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Geretta Geretta",
+            "asCharacter": "Amazon (as Janna Ryan)"
+        },
+        {
+            "id": "nm0545069",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Consuelo Marcaccini",
+            "asCharacter": "Amazon"
+        },
+        {
+            "id": "nm0825064",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI3Mzk5MjA2OV5BMl5BanBnXkFtZTcwNjczNjAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Daniel Stephen",
+            "asCharacter": "Martial Artist (as Dan Stephen)"
+        },
+        {
+            "id": "nm0591868",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stefano Mior",
+            "asCharacter": "Martial Artist"
+        },
+        {
+            "id": "nm0168892",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA4MjU4NjU2MF5BMl5BanBnXkFtZTcwNTQ4OTE0Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Scott Coffey",
+            "asCharacter": "Geek"
+        },
+        {
+            "id": "nm0545070",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Goffredo Marcaccini",
+            "asCharacter": "Geek"
+        },
+        {
+            "id": "nm0022786",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTA5MWM0NDgtNjhlMi00MTg0LTlkNWItN2ZiZjBlZjgxZGVmXkEyXkFqcGdeQXVyNTIyODkxMA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Urs Althaus",
+            "asCharacter": "Mercenary"
+        },
+        {
+            "id": "nm0115623",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lucien Bruchon",
+            "asCharacter": "Mercenary"
+        },
+        {
+            "id": "nm0612078",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harrison Muller",
+            "asCharacter": "Mercenary (as Harrison Muller Jr.)"
+        },
+        {
+            "id": "nm0681122",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nguyen Huu Phu",
+            "asCharacter": "Mercenary"
+        },
+        {
+            "id": "nm0741130",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Giuliano Rosati",
+            "asCharacter": "Trucker"
+        },
+        {
+            "id": "nm0031272",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ennio Antonelli",
+            "asCharacter": "Trucker"
+        },
+        {
+            "id": "nm0143258",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Russel Case",
+            "asCharacter": "Outsider"
+        },
+        {
+            "id": "nm0603518",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hernani Moreira",
+            "asCharacter": "Outsider"
+        },
+        {
+            "id": "nm0326423",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Samuele Goldzader",
+            "asCharacter": "Omega Guard"
+        },
+        {
+            "id": "nm0514377",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Massimo Liti",
+            "asCharacter": "Omega Guard"
+        },
+        {
+            "id": "nm7166671",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Einstein",
+            "asCharacter": "Itself"
+        },
+        {
+            "id": "nm0049674",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elettra Baldassarri",
+            "asCharacter": "Unidentified Role (uncredited)"
+        },
+        {
+            "id": "nm0082653",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTE2ZDcxNjEtMmY4Mi00MjQyLWFlOGYtODBlMzE3NWY1YTI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bruno Bilotta",
+            "asCharacter": "Martial Artist in Red Pants (uncredited)"
+        },
+        {
+            "id": "nm0325053",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Neal Gold",
+            "asCharacter": "Omega Patrol (uncredited)"
+        },
+        {
+            "id": "nm0605218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jurgen Morhofer",
+            "asCharacter": "Unidentified Role (uncredited)"
+        },
+        {
+            "id": "nm0670049",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mario Pedone",
+            "asCharacter": "Trucker with Strange Necklace (uncredited)"
+        },
+        {
+            "id": "nm5305092",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lamberto Solfa",
+            "asCharacter": "Execution On-looker (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0078826",
+                    "name": "Roberto Bessi",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0383837",
+                    "name": "Frank Hildebrand",
+                    "description": "producer (as Frank E. Hildebrand)"
+                },
+                {
+                    "id": "nm0765341",
+                    "name": "Eduard Sarlui",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0666658",
+                    "name": "Daniele Patucchi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0273904",
+                    "name": "Giancarlo Ferrando",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0195118",
+                    "name": "Cesare D'Amico",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0170341",
+                    "name": "Massimo Antonello Geleng",
+                    "description": "(as Antonello Geleng)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0131045",
+                    "name": "Giacomo Calò Carducci",
+                    "description": "(as Giacomo Calo' Carducci)"
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0135853",
+                    "name": "Fabrizio Caracciolo",
+                    "description": ""
+                },
+                {
+                    "id": "nm0656908",
+                    "name": "Maurizio Paiola",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0269349",
+                    "name": "Otello Fava",
+                    "description": "special makeup effects artist"
+                },
+                {
+                    "id": "nm0269350",
+                    "name": "Stefano Fava",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm1640575",
+                    "name": "Katia Luksza",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0900050",
+                    "name": "Luciano Vito",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0721467",
+                    "name": "Claudia Reymond",
+                    "description": "assistant makeup artist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0190983",
+                    "name": "Franco Cuccu",
+                    "description": "production manager (as Franco Cucco)"
+                },
+                {
+                    "id": "nm0195118",
+                    "name": "Cesare D'Amico",
+                    "description": "post-production supervisor"
+                },
+                {
+                    "id": "nm0316315",
+                    "name": "Marco Giannoni",
+                    "description": "unit manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0012251",
+                    "name": "Susan Adler",
+                    "description": "second assistant director"
+                },
+                {
+                    "id": "nm0105010",
+                    "name": "Tony Brandt",
+                    "description": "first assistant director"
+                },
+                {
+                    "id": "nm0557273",
+                    "name": "Ivana Massetti",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm1730080",
+                    "name": "Angelino Bonfa",
+                    "description": "props"
+                },
+                {
+                    "id": "nm1003130",
+                    "name": "Sebastiano De Caro",
+                    "description": "props"
+                },
+                {
+                    "id": "nm0342010",
+                    "name": "Mario Grilli",
+                    "description": "painter"
+                },
+                {
+                    "id": "nm0557272",
+                    "name": "Goffredo Massetti",
+                    "description": "props"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0033513",
+                    "name": "Roberto Arcangeli",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0131448",
+                    "name": "Italo Cameracanna",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0202845",
+                    "name": "Chris David",
+                    "description": "stereo sound consultant: Dolby"
+                },
+                {
+                    "id": "nm0226766",
+                    "name": "Enzo Diliberto",
+                    "description": "sound effects (as Enzo Di Liberto)"
+                },
+                {
+                    "id": "nm0547594",
+                    "name": "Renato Marinelli",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0613629",
+                    "name": "Luciano Muratori",
+                    "description": "boom operator"
+                },
+                {
+                    "id": "nm0613624",
+                    "name": "Primiano Muratori",
+                    "description": "sound engineer"
+                },
+                {
+                    "id": "nm0827424",
+                    "name": "Danilo Sterbini",
+                    "description": "re-recording mixer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0723237",
+                    "name": "Paolo Ricci",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0856452",
+                    "name": "Tonino Testa",
+                    "description": "computer effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0207089",
+                    "name": "Remo De Angelis",
+                    "description": "stunt coordinator"
+                },
+                {
+                    "id": "nm0309254",
+                    "name": "Mauro Gasparri",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0825064",
+                    "name": "Daniel Stephen",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm1733722",
+                    "name": "Nicola Caiano",
+                    "description": "second assistant camera"
+                },
+                {
+                    "id": "nm0135745",
+                    "name": "Alessandro Capuccio",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0143142",
+                    "name": "Bruno Cascio",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0173356",
+                    "name": "Nunzio Colucci",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0176604",
+                    "name": "Fabio Conversi",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0262294",
+                    "name": "Romolo Eucalitto",
+                    "description": "still photographer (as Romolo Eucaliptto)"
+                },
+                {
+                    "id": "nm0312511",
+                    "name": "Alessio Gelsini Torresi",
+                    "description": "camera operator (as Alessio Gelsini)"
+                },
+                {
+                    "id": "nm1730841",
+                    "name": "Domenico Giannangeli",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0320346",
+                    "name": "Matt Giordano",
+                    "description": "key grip (as Matteo Giordano)"
+                },
+                {
+                    "id": "nm0604254",
+                    "name": "Armando Moreschini",
+                    "description": "electrician"
+                },
+                {
+                    "id": "nm1731113",
+                    "name": "Elio Potenza",
+                    "description": "grip"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm1730682",
+                    "name": "Franco Bonanni",
+                    "description": "wardrobe"
+                },
+                {
+                    "id": "nm1730993",
+                    "name": "Anita Poggi Leonardi",
+                    "description": "seamstress"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm1731144",
+                    "name": "Patty Jean Ruggero",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm0132118",
+                    "name": "Otello Campanelli",
+                    "description": "location permits (as Otello Campanella)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm1731206",
+                    "name": "Anita Strizzi",
+                    "description": "continuity"
+                }
+            ]
+        },
+        {
+            "job": "Transportation Department",
+            "items": [
+                {
+                    "id": "nm0723212",
+                    "name": "Giorgio Ricci",
+                    "description": "stunt vehicles"
+                },
+                {
+                    "id": "nm1731161",
+                    "name": "Franco Scarano",
+                    "description": "vehicles computers"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0012251",
+                    "name": "Susan Adler",
+                    "description": "creative consultant"
+                },
+                {
+                    "id": "nm1733723",
+                    "name": "Laura Calgani",
+                    "description": "secretary"
+                },
+                {
+                    "id": "nm0162588",
+                    "name": "Gian Carlo Ciotti",
+                    "description": "accountant (as Giancarlo Ciotti)"
+                },
+                {
+                    "id": "nm1710731",
+                    "name": "Archimede Orlando",
+                    "description": "bookkeeper"
+                },
+                {
+                    "id": "nm0672114",
+                    "name": "Giuseppe Pennese",
+                    "description": "choreographer (as Pino Pennese)"
+                },
+                {
+                    "id": "nm1731100",
+                    "name": "Titti Pesaro",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0723237",
+                    "name": "Paolo Ricci",
+                    "description": "armorer"
+                },
+                {
+                    "id": "nm1731165",
+                    "name": "Susanna Schimperna",
+                    "description": "public relations"
+                },
+                {
+                    "id": "nm0785972",
+                    "name": "Rosetta Sestili",
+                    "description": "work permits"
+                },
+                {
+                    "id": "nm0818898",
+                    "name": "Luciano Spinelli",
+                    "description": "animal supplier"
+                },
+                {
+                    "id": "nm0819341",
+                    "name": "Pippo Spoletini",
+                    "description": "crowd marshall"
+                },
+                {
+                    "id": "nm0834016",
+                    "name": "Maurizio Streccioni",
+                    "description": "crowd marshall"
+                },
+                {
+                    "id": "nm1731252",
+                    "name": "Catherine Vuozzo",
+                    "description": "liaison"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm8039232",
+                    "name": "John",
+                    "description": "for"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

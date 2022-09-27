@@ -1,0 +1,393 @@
+{
+    "imDbId": "tt0053241",
+    "title": "Santa Claus",
+    "fullTitle": "Santa Claus (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0136579",
+                "name": "René Cardona",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0868531",
+                "name": "Adolfo Torres Portillo",
+                "description": "(story) and"
+            },
+            {
+                "id": "nm0136579",
+                "name": "René Cardona",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0868531",
+                "name": "Adolfo Torres Portillo",
+                "description": "(adaptation) and"
+            },
+            {
+                "id": "nm0136579",
+                "name": "René Cardona",
+                "description": "(adaptation)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0604032",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTZkYTQ5ZTItOTJlZC00ZDZlLWFmNWYtOGRiMTkzOTE5YTBjXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "José Elías Moreno",
+            "asCharacter": "Santa Claus"
+        },
+        {
+            "id": "nm0703411",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cesáreo Quezadas 'Pulgarcito'",
+            "asCharacter": "Pedro"
+        },
+        {
+            "id": "nm2304330",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "José Luis Aguirre 'Trotsky'",
+            "asCharacter": "El Diablo (as José Luis Aguirre 'Trosky')"
+        },
+        {
+            "id": "nm0037355",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Armando Arriola",
+            "asCharacter": "El mago Merlín (as Armando Arriola 'Arriolita')"
+        },
+        {
+            "id": "nm0703414",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lupita Quezadas",
+            "asCharacter": "La niña pobre (as Lupita)"
+        },
+        {
+            "id": "nm0246428",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Antonio Díaz Conde hijo",
+            "asCharacter": "El Niño Rico (Billy)"
+        },
+        {
+            "id": "nm0895132",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nora Veryán",
+            "asCharacter": "Madre de Lupita"
+        },
+        {
+            "id": "nm0651397",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Polo Ortín",
+            "asCharacter": "(as Leopoldo Ortín Jr.)"
+        },
+        {
+            "id": "nm0130965",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Manuel Calvo",
+            "asCharacter": "(as Manolo Calvo)"
+        },
+        {
+            "id": "nm0617669",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "José Carlos Méndez",
+            "asCharacter": "Niño (as niño J. Carlos Méndez)"
+        },
+        {
+            "id": "nm0111633",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jesús Brook",
+            "asCharacter": "Niño (as niño Jesús Brook)"
+        },
+        {
+            "id": "nm4827279",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rubén Ramírez",
+            "asCharacter": "Niño"
+        },
+        {
+            "id": "nm0491797",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDc4N2IxZDktNmQyZC00NmNiLTllNTYtYjA4ZWZmYjU4ZDc2XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Queta Lavat",
+            "asCharacter": "(as Enriqueta Lavat)"
+        },
+        {
+            "id": "nm0195676",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ángel Di Stefani",
+            "asCharacter": "El herrero Llavón (as Ángel D'Stefani)"
+        },
+        {
+            "id": "nm0106045",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Guillermo Bravo Sosa",
+            "asCharacter": "(as Gmo. Bravo Sosa)"
+        },
+        {
+            "id": "nm0487910",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Graciela Lara",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0013606",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rosa María Aguilar",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0372750",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjI4ZWNlNDUtYTc4Yy00YjI2LWFlN2UtNjEzNTQ2OGRkYThjXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Keith Hetherington",
+            "asCharacter": "Narrator (voice)"
+        },
+        {
+            "id": "nm0615096",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "K. Gordon Murray",
+            "asCharacter": "Narrator (voice) (as Ken Smith)"
+        },
+        {
+            "id": "nm0249758",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDA4ODhiYWMtMmI2Ny00NzYwLWJkY2YtODgyN2Q5ZmJhODBkXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Juan Antonio Edwards",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0274473",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pablo Ferrel",
+            "asCharacter": "(uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0129602",
+                    "name": "Guillermo Calderón",
+                    "description": "producer (as Guillermo Calderón Stell)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006054",
+                    "name": "Antonio Díaz Conde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0554925",
+                    "name": "Raúl Martínez Solares",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0003375",
+                    "name": "Jorge Busto",
+                    "description": "(as Jorge Bustos)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0157626",
+                    "name": "Francisco Marco Chillet",
+                    "description": "(as Marcos Chillet)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm3089344",
+                    "name": "Fernando Zamarripa",
+                    "description": "hair stylist / hairpiece maker"
+                },
+                {
+                    "id": "nm0952682",
+                    "name": "Concepción Zamora",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0017200",
+                    "name": "Guillermo Alcayde",
+                    "description": "production chief"
+                },
+                {
+                    "id": "nm0136552",
+                    "name": "René Cardona Jr.",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm0785535",
+                    "name": "Federico Serrano",
+                    "description": "assistant production chief"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0658738",
+                    "name": "Felipe Palomino",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0329905",
+                    "name": "Enrique Gordillo",
+                    "description": "special props (as Gordillo)"
+                },
+                {
+                    "id": "nm2907151",
+                    "name": "Salvador Martínez",
+                    "description": "special props (as Martínez)"
+                },
+                {
+                    "id": "nm0269346",
+                    "name": "Juan Fava",
+                    "description": "set designer: surveillance equipment (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0209395",
+                    "name": "Nicolás de la Rosa",
+                    "description": "dialogue recordist"
+                },
+                {
+                    "id": "nm0276264",
+                    "name": "James L. Fields",
+                    "description": "sound supervisor"
+                },
+                {
+                    "id": "nm0692417",
+                    "name": "Reynaldo P. Portillo",
+                    "description": "sound editor (as Reynaldo Portillo)"
+                },
+                {
+                    "id": "nm0760077",
+                    "name": "Galdino R. Samperio",
+                    "description": "sound re-recordist (as Galdino Samperio)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0145546",
+                    "name": "Gabriel Castro",
+                    "description": "lighting technician"
+                },
+                {
+                    "id": "nm0735769",
+                    "name": "Cirilo Rodríguez",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0579222",
+                    "name": "Bertha Mendoza López",
+                    "description": "wardrobe (as B. Mendoza López)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0508582",
+                    "name": "José Li-ho",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006054",
+                    "name": "Antonio Díaz Conde",
+                    "description": "music director"
+                },
+                {
+                    "id": "nm0760077",
+                    "name": "Galdino R. Samperio",
+                    "description": "music recordist (as Galdino Samperio)"
+                },
+                {
+                    "id": "nm3089506",
+                    "name": "Armando Torres",
+                    "description": "choir director (as Maestro Armando Torres)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0526081",
+                    "name": "Ricardo Luna",
+                    "description": "choreographer"
+                },
+                {
+                    "id": "nm0615096",
+                    "name": "K. Gordon Murray",
+                    "description": "presenter (US dubbed version)"
+                },
+                {
+                    "id": "nm3089302",
+                    "name": "M. Héctor Osorio O.",
+                    "description": "title designer"
+                },
+                {
+                    "id": "nm0500045",
+                    "name": "Arnold Leibovit",
+                    "description": "miscellaneous crew: additional voices (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

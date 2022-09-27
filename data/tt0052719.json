@@ -1,0 +1,274 @@
+{
+    "imDbId": "tt0052719",
+    "title": "Daddy-O",
+    "fullTitle": "Daddy-O (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0686340",
+                "name": "Lou Place",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0595537",
+                "name": "David Moessinger",
+                "description": "(story and screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0176438",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dick Contino",
+            "asCharacter": "Phil Sandifer"
+        },
+        {
+            "id": "nm0318496",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sandra Giles",
+            "asCharacter": "Jana Ryan"
+        },
+        {
+            "id": "nm0895259",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzAxMTEyNzItMzkzNy00YjIyLWJkYzItMjU5Yjc4OTFhNGI0XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Bruno VeSota",
+            "asCharacter": "Sidney Chillas (as Bruno VeSoto)"
+        },
+        {
+            "id": "nm0896105",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joanne Arnold",
+            "asCharacter": "Marcia Hayes (as Gloria Victor)"
+        },
+        {
+            "id": "nm0573922",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron McNeil",
+            "asCharacter": "Duke Manion"
+        },
+        {
+            "id": "nm0565995",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tipp McClure",
+            "asCharacter": "Bruce Green (as Jack McClure)"
+        },
+        {
+            "id": "nm0868001",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sonia Torgeson",
+            "asCharacter": "Peg Lawrence"
+        },
+        {
+            "id": "nm0330362",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kelly Gordon",
+            "asCharacter": "Ken"
+        },
+        {
+            "id": "nm0003424",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTkzMDQxNTktNDg3YS00MTQ4LWIzYWUtMTNhZmUyNzJhOTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Hank Mann",
+            "asCharacter": "Barney"
+        },
+        {
+            "id": "nm0233101",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph Donte",
+            "asCharacter": "Frank Wooster"
+        },
+        {
+            "id": "nm0552572",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph Martin",
+            "asCharacter": "Kerm"
+        },
+        {
+            "id": "nm0051551",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ5Mzc4MDcxOV5BMl5BanBnXkFtZTcwMDA3Mjg4NQ@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Robert Banas",
+            "asCharacter": "Sonny DiMarco (as Bob Banas)"
+        },
+        {
+            "id": "nm0217953",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTczOTQ4MjMzNl5BMl5BanBnXkFtZTcwMjEzMTQzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Garwood",
+            "asCharacter": "(as Gabe Delutri)"
+        },
+        {
+            "id": "nm0779759",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ruth Scott",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0726728",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Riggs",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0354160",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pierrette Hailey",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0850773",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cheston Tarver",
+            "asCharacter": ""
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0722358",
+                    "name": "Elmer C. Rhoden Jr.",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0002354",
+                    "name": "John Williams",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0278241",
+                    "name": "Perry Finnerman",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0924853",
+                    "name": "Harold White",
+                    "description": ""
+                },
+                {
+                    "id": "nm0193015",
+                    "name": "Richard C. Currier",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0350011",
+                    "name": "Pato Guzman",
+                    "description": ""
+                },
+                {
+                    "id": "nm0350041",
+                    "name": "Claudio Guzmán",
+                    "description": "(as Claudio Guzman)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0852089",
+                    "name": "Carlie Taylor",
+                    "description": "makeup artist (as Carli Taylor)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0282628",
+                    "name": "C.M. Florance",
+                    "description": "assistant director (as C.M. Florence)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm7304796",
+                    "name": "Ken Walters",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0456917",
+                    "name": "Werner Kirsch",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0507266",
+                    "name": "Herman Lewis",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0875662",
+                    "name": "Morton Tubor",
+                    "description": "sound effects"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0178582",
+                    "name": "Alan Copeland",
+                    "description": "composer: song (as Allan Copeland)"
+                },
+                {
+                    "id": "nm0516015",
+                    "name": "Jack Lloyd",
+                    "description": "lyricist: song"
+                },
+                {
+                    "id": "nm0550925",
+                    "name": "Jack Marshall",
+                    "description": "composer: additional music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0584477",
+                    "name": "Rita Michaels",
+                    "description": "script supervisor (as Rita Micheals)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

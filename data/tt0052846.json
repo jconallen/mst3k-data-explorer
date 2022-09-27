@@ -1,0 +1,366 @@
+{
+    "imDbId": "tt0052846",
+    "title": "The Giant Gila Monster",
+    "fullTitle": "The Giant Gila Monster (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0446129",
+                "name": "Ray Kellogg",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0446129",
+                "name": "Ray Kellogg",
+                "description": "(original story)"
+            },
+            {
+                "id": "nm0799972",
+                "name": "Jay Simms",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0838042",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjQ5OTYwN2YtYzMwNy00M2U2LWEwOTktYzE5Yzk4ZDMyYWZmXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Don Sullivan",
+            "asCharacter": "Chase Winstead"
+        },
+        {
+            "id": "nm0334040",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ1ODUwNTc0OF5BMl5BanBnXkFtZTgwNDk3MzY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Fred Graham",
+            "asCharacter": "Sheriff Jeff"
+        },
+        {
+            "id": "nm0800504",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Simone",
+            "asCharacter": "Lisa"
+        },
+        {
+            "id": "nm0279786",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGNjMzExODQtOGQ3NC00MWVkLThiNmMtYjQ1MmI2MGUwMTZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Shug Fisher",
+            "asCharacter": "Old Man Harris"
+        },
+        {
+            "id": "nm0859906",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Thompson",
+            "asCharacter": "Mr. Wheeler"
+        },
+        {
+            "id": "nm0831934",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janice Stone",
+            "asCharacter": "Missy Winstead"
+        },
+        {
+            "id": "nm0461642",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Knox",
+            "asCharacter": "Horatio Alger 'Steamroller' Smith"
+        },
+        {
+            "id": "nm0572740",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gay McLendon",
+            "asCharacter": "Mom Winstead"
+        },
+        {
+            "id": "nm0283129",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Flournoy",
+            "asCharacter": "Gordy"
+        },
+        {
+            "id": "nm0402376",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cecil Hunt",
+            "asCharacter": "Mr. Compton"
+        },
+        {
+            "id": "nm0575082",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stormy Meadows",
+            "asCharacter": "Agatha Humphries"
+        },
+        {
+            "id": "nm0912114",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Howard Ware",
+            "asCharacter": "Ed Humphries"
+        },
+        {
+            "id": "nm0716272",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Reeves",
+            "asCharacter": "Rick"
+        },
+        {
+            "id": "nm0572743",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan McLendon",
+            "asCharacter": "Jennie"
+        },
+        {
+            "id": "nm0181493",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jerry Cortwright",
+            "asCharacter": "Bob"
+        },
+        {
+            "id": "nm0862173",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Beverly Thurman",
+            "asCharacter": "Gay"
+        },
+        {
+            "id": "nm0114979",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clarke Browne",
+            "asCharacter": "Chuck"
+        },
+        {
+            "id": "nm0891172",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Grady Vaughn",
+            "asCharacter": "Pat Wheeler"
+        },
+        {
+            "id": "nm0223589",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Desmond Dhooge",
+            "asCharacter": "Hitchhiker (as Desmond Doogh)"
+        },
+        {
+            "id": "nm0814353",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ann Sonka",
+            "asCharacter": "Whila"
+        },
+        {
+            "id": "nm0757619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yolanda Salas",
+            "asCharacter": "Liz Humphries"
+        },
+        {
+            "id": "nm0572741",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gordon McLendon",
+            "asCharacter": "Narrator (uncredited)"
+        },
+        {
+            "id": "nm0799863",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patricia Simmons",
+            "asCharacter": "Sherry (uncredited)"
+        },
+        {
+            "id": "nm0944012",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Angus G. Wynne III",
+            "asCharacter": "Dumb Teen (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0193411",
+                    "name": "Ken Curtis",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm1740696",
+                    "name": "B.R. McLendon",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0572741",
+                    "name": "Gordon McLendon",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0550925",
+                    "name": "Jack Marshall",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005668",
+                    "name": "Wilfrid M. Cline",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0824473",
+                    "name": "Aaron Stell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0129754",
+                    "name": "Louise Caldwell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0199600",
+                    "name": "Corinne Daniel",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0152302",
+                    "name": "Ben Chapman",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0129754",
+                    "name": "Louise Caldwell",
+                    "description": "art designer (as Louis Caldwell)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0162929",
+                    "name": "Milton Citron",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0723821",
+                    "name": "James Richard",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0811447",
+                    "name": "Earl Snyder",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0358518",
+                    "name": "Ralph Hammeras",
+                    "description": "special photographic effects"
+                },
+                {
+                    "id": "nm0728371",
+                    "name": "Wee Risser",
+                    "description": "special photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0316245",
+                    "name": "Harry L. Gianneschi",
+                    "description": "camera assistant"
+                },
+                {
+                    "id": "nm0463766",
+                    "name": "Henry A. Kokojan",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0634005",
+                    "name": "George Gordon Nogle",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0709378",
+                    "name": "William John Ranaldi",
+                    "description": "camera assistant"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0335746",
+                    "name": "Audrey Granville",
+                    "description": "music associate (as Audray Granville)"
+                },
+                {
+                    "id": "nm0550925",
+                    "name": "Jack Marshall",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm0838042",
+                    "name": "Don Sullivan",
+                    "description": "special songs by"
+                },
+                {
+                    "id": "nm0849683",
+                    "name": "Paul Tanner",
+                    "description": "musician: electro-theremin (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0087692",
+                    "name": "Audrey A. Blasdel",
+                    "description": "script supervisor (as Audrey Blasdel)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

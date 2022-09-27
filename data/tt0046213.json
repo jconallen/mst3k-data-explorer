@@ -1,0 +1,317 @@
+{
+    "imDbId": "tt0046213",
+    "title": "Project Moon Base",
+    "fullTitle": "Project Moon Base (1953)",
+    "type": "Movie",
+    "year": "1953",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0848234",
+                "name": "Richard Talmadge",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0374423",
+                "name": "Robert A. Heinlein",
+                "description": "(screenplay) (as Robert Heinlein) and"
+            },
+            {
+                "id": "nm0780601",
+                "name": "Jack Seaman",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0374423",
+                "name": "Robert A. Heinlein",
+                "description": "(story) (as Robert Heinlein) and"
+            },
+            {
+                "id": "nm0780601",
+                "name": "Jack Seaman",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0551550",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzg4ZGQ2NmMtZjliYS00MWU0LTg4YTItNjdlZGQwZDliYjY2L2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Donna Martell",
+            "asCharacter": "Colonel Briteis"
+        },
+        {
+            "id": "nm0740718",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM4ODQxOTU2M15BMl5BanBnXkFtZTcwNjIxOTgxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hayden Rorke",
+            "asCharacter": "General Greene"
+        },
+        {
+            "id": "nm0285861",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTRjMGQ4YmItNGNiOS00MWFiLWI1YjktMDk4NDFlYmEwMTg2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ross Ford",
+            "asCharacter": "Major Moore"
+        },
+        {
+            "id": "nm0424337",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larry Johns",
+            "asCharacter": "Doctor Wernher"
+        },
+        {
+            "id": "nm0414432",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Herb Jacobs",
+            "asCharacter": "Mr. Roundtree"
+        },
+        {
+            "id": "nm0607077",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTNlNjNjN2QtYzQyOC00OGNmLWExNzktMWVkY2Y0OGUxZjE3XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Barbara Morrison",
+            "asCharacter": "Polly Prattles"
+        },
+        {
+            "id": "nm0057423",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGMzMzczNDEtZjUxZi00YmUyLWE3N2UtZDgwNGVmZWNhNjllXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Ernestine Barrier",
+            "asCharacter": "Madame President"
+        },
+        {
+            "id": "nm0186608",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk2OTU5MjcyOV5BMl5BanBnXkFtZTgwMzc3NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "James Craven",
+            "asCharacter": "Commodore Carlson"
+        },
+        {
+            "id": "nm0373335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Hedloe",
+            "asCharacter": "Adjutant"
+        },
+        {
+            "id": "nm0011262",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Adams",
+            "asCharacter": "Captain Carmody"
+        },
+        {
+            "id": "nm0439817",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzM4MTU3YzMtNzU3Mi00NDVhLWFkYWUtOTA0ODAzMzcxMWE2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Robert Karnes",
+            "asCharacter": "Sam"
+        },
+        {
+            "id": "nm0833709",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Straub",
+            "asCharacter": "Chaplain"
+        },
+        {
+            "id": "nm0443836",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Keane",
+            "asCharacter": "Spacom Operator"
+        },
+        {
+            "id": "nm0866606",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Tomecko",
+            "asCharacter": "Blockhouse Operator"
+        },
+        {
+            "id": "nm0658826",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Paltz",
+            "asCharacter": "Bellboy"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0425495",
+                    "name": "Karl H. Johnson",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0780601",
+                    "name": "Jack Seaman",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0318074",
+                    "name": "Herschel Burke Gilbert",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0860847",
+                    "name": "William C. Thompson",
+                    "description": "director of photography (as William Thompson)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0343481",
+                    "name": "Roland Gross",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0701422",
+                    "name": "Jerome Pycha Jr.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0858903",
+                    "name": "Harry Thomas",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0425495",
+                    "name": "Karl H. Johnson",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0788559",
+                    "name": "Leonard J. Shapiro",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0069014",
+                    "name": "Ted Bellinger",
+                    "description": "sound effects editor"
+                },
+                {
+                    "id": "nm1016218",
+                    "name": "Joel Moss",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0709520",
+                    "name": "William Randall",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0294347",
+                    "name": "Jacque Fresco",
+                    "description": "special effects (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0294347",
+                    "name": "Jacque Fresco",
+                    "description": "miniatures"
+                },
+                {
+                    "id": "nm0321947",
+                    "name": "Jack R. Glass",
+                    "description": "photographic effects"
+                },
+                {
+                    "id": "nm0917321",
+                    "name": "Howard Weeks",
+                    "description": "miniatures"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0588518",
+                    "name": "Jack E. Miller",
+                    "description": "wardrobe (as Jack Miller)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0318074",
+                    "name": "Herschel Burke Gilbert",
+                    "description": "music director"
+                },
+                {
+                    "id": "nm0612065",
+                    "name": "Joseph Mullendore",
+                    "description": "orchestrator"
+                },
+                {
+                    "id": "nm0388867",
+                    "name": "Samuel Hoffman",
+                    "description": "musician: theremin (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0011727",
+                    "name": "Justus Addiss",
+                    "description": "assistant to producer"
+                },
+                {
+                    "id": "nm1177682",
+                    "name": "Earl T. Roberts Jr.",
+                    "description": "assistant to producer"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

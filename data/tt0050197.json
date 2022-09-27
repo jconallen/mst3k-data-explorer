@@ -1,0 +1,309 @@
+{
+    "imDbId": "tt0050197",
+    "title": "The Black Scorpion",
+    "fullTitle": "The Black Scorpion (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0524995",
+                "name": "Edward Ludwig",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0241949",
+                "name": "David Duncan",
+                "description": "(screenplay) and"
+            },
+            {
+                "id": "nm0088161",
+                "name": "Robert Blees",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0946923",
+                "name": "Paul Yawitz",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0219396",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjgzZGQ1M2MtYTY2My00NWM1LTlmOTUtMDM3ZWNjN2IwNDc5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Richard Denning",
+            "asCharacter": "Hank Scott"
+        },
+        {
+            "id": "nm0179408",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDZjOWI3M2ItMzM5YS00OTE4LWFhZjgtNmM1Y2YwNjdjY2UwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Mara Corday",
+            "asCharacter": "Teresa Alvarez"
+        },
+        {
+            "id": "nm0729032",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWZmMTliMjItNjE3OC00ZDY5LThiMWYtMzIzMTViMTlhMzAzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Carlos Rivas",
+            "asCharacter": "Artur Ramos"
+        },
+        {
+            "id": "nm0622956",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mario Navarro",
+            "asCharacter": "Juanito"
+        },
+        {
+            "id": "nm0618047",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carlos Múzquiz",
+            "asCharacter": "Dr. Velazco (as Carlos Muzquiz)"
+        },
+        {
+            "id": "nm0305814",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWNjNDc2OTAtMTNlZi00MDg0LTg1NGUtZDFmNGE0NzY1ODRiXkEyXkFqcGdeQXVyMTA2NDgyNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pascual García Peña",
+            "asCharacter": "José de la Cruz (as Pascual Peña)"
+        },
+        {
+            "id": "nm0771641",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjViNmYyNTUtY2EwNy00NDRiLTg5ODUtZDExMDNhYjg2ZDIyXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Fanny Schiller",
+            "asCharacter": "Florentina"
+        },
+        {
+            "id": "nm0303499",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pedro Galván",
+            "asCharacter": "Father Delgado (as Pedro Galvan)"
+        },
+        {
+            "id": "nm0555005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arturo Martínez",
+            "asCharacter": "Major Cosio (as Arturo Martinez)"
+        },
+        {
+            "id": "nm0120232",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzEwYTY2NjItZTU0Yy00ZjlhLWIyYWUtNDdlMGZlNzcxY2I4XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Quintín Bulnes",
+            "asCharacter": "Lineman killed on pole (uncredited)"
+        },
+        {
+            "id": "nm0161657",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "José Chávez",
+            "asCharacter": "Train conductor (uncredited)"
+        },
+        {
+            "id": "nm0176548",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWJkYTBjMDMtYTE4YS00NWEwLTgzNjgtYTBmOGQ2NGYyY2RiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Roberto Contreras",
+            "asCharacter": "Chumacho (uncredited)"
+        },
+        {
+            "id": "nm0195676",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ángel Di Stefani",
+            "asCharacter": "Military man (uncredited)"
+        },
+        {
+            "id": "nm0327980",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jaime González Quiñones",
+            "asCharacter": "Boy in San Lorenzo (uncredited)"
+        },
+        {
+            "id": "nm0351155",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leonor Gómez",
+            "asCharacter": "Villager (uncredited)"
+        },
+        {
+            "id": "nm0424614",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Johnson",
+            "asCharacter": "Narrator / Police Radio Dispatcher / Radio Newscaster / Public Address Announcer (voice) (uncredited)"
+        },
+        {
+            "id": "nm0526058",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margarito Luna",
+            "asCharacter": "Crane operator (uncredited)"
+        },
+        {
+            "id": "nm0558278",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Héctor Mateos",
+            "asCharacter": "Military Man (uncredited)"
+        },
+        {
+            "id": "nm0613933",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "José L. Murillo",
+            "asCharacter": "Military Man (uncredited)"
+        },
+        {
+            "id": "nm0844750",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Manuel Sánchez Navarro",
+            "asCharacter": "Victor Steven (uncredited)"
+        },
+        {
+            "id": "nm1008427",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Isabel Vázquez 'La Chichimeca'",
+            "asCharacter": "Villager (uncredited)"
+        },
+        {
+            "id": "nm0952587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enrique Zambrano",
+            "asCharacter": "Cayetano, lineman killed in truck (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0226337",
+                    "name": "Jack Dietz",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0577653",
+                    "name": "Frank Melford",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006275",
+                    "name": "Paul Sawtell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0512068",
+                    "name": "Lionel Lindon",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0280224",
+                    "name": "Edward Fitzgerald",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0176511",
+                    "name": "Jaime Contreras",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0374586",
+                    "name": "Ray Heinz",
+                    "description": "assistant director (as Ray Heinze)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0737345",
+                    "name": "Mandine Rogne",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0749623",
+                    "name": "Rafael Ruiz Esparza",
+                    "description": "sound (as Rafael L. Esparza)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0639891",
+                    "name": "Willis H. O'Brien",
+                    "description": "supervisor of special effects (as Willis O'Brien)"
+                },
+                {
+                    "id": "nm0151853",
+                    "name": "Wah Chang",
+                    "description": "creator: scorpion puppet (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0677337",
+                    "name": "Pete Peterson",
+                    "description": "animator (as Peter Peterson)"
+                },
+                {
+                    "id": "nm0358518",
+                    "name": "Ralph Hammeras",
+                    "description": "additional effects (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0886820",
+                    "name": "Richard L. Van Enger",
+                    "description": "supervising film editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0177514",
+                    "name": "Jack Cookerly",
+                    "description": "composer: electronic music"
+                },
+                {
+                    "id": "nm0006275",
+                    "name": "Paul Sawtell",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm0006286",
+                    "name": "Bert Shefter",
+                    "description": "orchestrator"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

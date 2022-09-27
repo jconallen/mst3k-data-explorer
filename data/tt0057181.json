@@ -1,0 +1,426 @@
+{
+    "imDbId": "tt0057181",
+    "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?",
+    "fullTitle": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!? (1964)",
+    "type": "Movie",
+    "year": "1964",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0245081",
+                "name": "Ray Dennis Steckler",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0689377",
+                "name": "Gene Pollock",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0798102",
+                "name": "Robert Silliphant",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0450693",
+                "name": "E.M. Kevke",
+                "description": "(original story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0245081",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2ZiMWJjMGItN2Q3Mi00Yzk4LThhN2MtNTk2MDViYmMyZGNhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6818_AL_.jpg",
+            "name": "Ray Dennis Steckler",
+            "asCharacter": "Jerry (as Cash Flagg)"
+        },
+        {
+            "id": "nm0641222",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjY2YTkyOTAtZmJhZS00Mzg1LWIyOTUtYTE0NDZjMTdjNzUxXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Brett O'Hara",
+            "asCharacter": "Madam Estrella"
+        },
+        {
+            "id": "nm0454471",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTM1NTRlM2EtNDc4YS00NmQ2LThlNTktMjQ5NGRkOWVmMDBhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Atlas King",
+            "asCharacter": "Harold"
+        },
+        {
+            "id": "nm0909856",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sharon Walsh",
+            "asCharacter": "Angela"
+        },
+        {
+            "id": "nm0006481",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Kirkwood",
+            "asCharacter": "Madison (as Madison Clarke)"
+        },
+        {
+            "id": "nm0258223",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjAzOWJlZjktNjM4Zi00MjRiLWJjNjItYWZkMzUxMTBlN2RlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Erina Enyo",
+            "asCharacter": "Carmelita"
+        },
+        {
+            "id": "nm0131421",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toni Camel",
+            "asCharacter": "Stella"
+        },
+        {
+            "id": "nm0751114",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Russell",
+            "asCharacter": "Ortega (as Jack Brady)"
+        },
+        {
+            "id": "nm0877937",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Turner",
+            "asCharacter": "Bill Ward (as Bill Ward)"
+        },
+        {
+            "id": "nm0164525",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steve Clark",
+            "asCharacter": "2nd Policeman (as Steve Clarke)"
+        },
+        {
+            "id": "nm0830302",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Neil Stillman",
+            "asCharacter": "Barker"
+        },
+        {
+            "id": "nm0397393",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joan Howard",
+            "asCharacter": "Angela's Mother"
+        },
+        {
+            "id": "nm0595407",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkwMzk2NjYzMF5BMl5BanBnXkFtZTcwNzMwNDYzMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Titus Moede",
+            "asCharacter": "Hobo"
+        },
+        {
+            "id": "nm0689377",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gene Pollock",
+            "asCharacter": "Night Club Manager"
+        },
+        {
+            "id": "nm0393648",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Son Hooker",
+            "asCharacter": "1st Policeman"
+        },
+        {
+            "id": "nm0104887",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTg4MGI5YzctNjQwYS00Y2EwLWE3MGEtNzFmYTNmMGU2OWVhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Carolyn Brandt",
+            "asCharacter": "Marge Neilson"
+        },
+        {
+            "id": "nm0811443",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Snyder",
+            "asCharacter": "The Entertainer"
+        },
+        {
+            "id": "nm0443269",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carol Kaye",
+            "asCharacter": "The Entertainer (as Carol Kay)"
+        },
+        {
+            "id": "nm0709517",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teri Randal",
+            "asCharacter": "The Entertainer"
+        },
+        {
+            "id": "nm0101150",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Bowie",
+            "asCharacter": "Night Club Comedian / Creature"
+        },
+        {
+            "id": "nm0584465",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrice Michaels",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0528773",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Lynn",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0141259",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jill Carson",
+            "asCharacter": "Girl in Dressing Room / Dancing Girl"
+        },
+        {
+            "id": "nm0236081",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Betty Downing",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0528655",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Denise Lynn",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0790262",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cindy Shea",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0186271",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patti Crandall",
+            "asCharacter": "Dancing Girl"
+        },
+        {
+            "id": "nm0075329",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bonnie Berkeley",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2204226",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeanette Briggs",
+            "asCharacter": "Woman in Audience (uncredited)"
+        },
+        {
+            "id": "nm0419720",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anita Jaye",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0004088",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY3NjgzOTk0NV5BMl5BanBnXkFtZTYwMTY5MDY1._V1_Ratio0.7273_AL_.jpg",
+            "name": "László Kovács",
+            "asCharacter": "Man at Carnival (uncredited)"
+        },
+        {
+            "id": "nm10167298",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQ1ZDk5Y2UtYmJhNS00MDY5LTlhYWItOTg3MTQ2NThkY2VkXkEyXkFqcGdeQXVyOTc0ODU3NzA@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ken Patterson",
+            "asCharacter": "Boy at Carnival (uncredited)"
+        },
+        {
+            "id": "nm0748624",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Randall Rudd",
+            "asCharacter": "Monster (uncredited)"
+        },
+        {
+            "id": "nm0798102",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Silliphant",
+            "asCharacter": "2nd Barker (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0604683",
+                    "name": "George J. Morgan",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0245081",
+                    "name": "Ray Dennis Steckler",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0703915",
+                    "name": "Libby Quinn",
+                    "description": ""
+                },
+                {
+                    "id": "nm0115960",
+                    "name": "André Brummer",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0556140",
+                    "name": "Joseph V. Mascelli",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0773782",
+                    "name": "Don Schneider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0364324",
+                    "name": "Mike Harrington",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0510444",
+                    "name": "Lilly",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0771081",
+                    "name": "Tom Scherman",
+                    "description": "special makeup"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0571849",
+                    "name": "Austin McKinney",
+                    "description": "production manager (as A. McKinney)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0751114",
+                    "name": "Don Russell",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0137953",
+                    "name": "Ken Carlson",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0835101",
+                    "name": "Lee Strosnider",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0006481",
+                    "name": "Pat Kirkwood",
+                    "description": "electrician"
+                },
+                {
+                    "id": "nm0004088",
+                    "name": "László Kovács",
+                    "description": "assistant camera (as Leslie Kovacs)"
+                },
+                {
+                    "id": "nm2946968",
+                    "name": "Jimmy Parks",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0901949",
+                    "name": "Greg von Berblinger",
+                    "description": "grip (as G. Berblinger)"
+                },
+                {
+                    "id": "nm0005936",
+                    "name": "Vilmos Zsigmond",
+                    "description": "camera operator (as William Zsigmond)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0609075",
+                    "name": "Rod Moss",
+                    "description": "music editor"
+                },
+                {
+                    "id": "nm1392602",
+                    "name": "Alan Smith",
+                    "description": "stager: musical numbers"
+                },
+                {
+                    "id": "nm0877937",
+                    "name": "William Turner",
+                    "description": "stager: musical numbers (as Bill Turner)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm2931381",
+                    "name": "John McKenna",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm2949106",
+                    "name": "Roy Youngman",
+                    "description": "president: Rel Records (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,656 @@
+{
+    "imDbId": "tt0076191",
+    "title": "The Incredible Melting Man",
+    "fullTitle": "The Incredible Melting Man (1977)",
+    "type": "Movie",
+    "year": "1977",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0755197",
+                "name": "William Sachs",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0755197",
+                "name": "William Sachs",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0500884",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzMwZTRlNmMtMTQ1My00NTg4LWI4ZGUtOTM1YWNhNTRmMzA2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Alex Rebar",
+            "asCharacter": "Steve West - The Incredible Melting Man"
+        },
+        {
+            "id": "nm0213392",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYzA4ZmYtNDAwMi00YmZjLWJmZTctMGI3YjAzNDY3ZTY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Burr DeBenning",
+            "asCharacter": "Dr. Ted Nelson"
+        },
+        {
+            "id": "nm0372271",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmYzYjU5MGMtYWNlZi00YmRiLTg4NjgtNmQ2ODhlNmE3MTRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Myron Healey",
+            "asCharacter": "Gen. Michael Perry"
+        },
+        {
+            "id": "nm0020162",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGZkN2NjMzAtZmEyOS00MDY5LTk4OTEtMGZmOWQ0MWIwNThiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Alldredge",
+            "asCharacter": "Sheriff Neil Blake"
+        },
+        {
+            "id": "nm0842215",
+            "image": "https://m.media-amazon.com/images/M/MV5BODNhNTk4YjEtZTk4YS00N2FmLWFjZTMtMTgzYzVmOWFmMDQ0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ann Sweeny",
+            "asCharacter": "Judy Nelson"
+        },
+        {
+            "id": "nm0933769",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTYyMzdkM2MtYTA4NS00OTkxLTk2NGMtNGQxOTgwY2ViMTU3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Lisle Wilson",
+            "asCharacter": "Dr. Loring"
+        },
+        {
+            "id": "nm0807679",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM2ZTJmMDEtZjM4ZC00ZjNmLTg1ZTctNmE3YjNmN2FmNTg3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Cheryl Smith",
+            "asCharacter": "The Model (as Rainbeaux Smith)"
+        },
+        {
+            "id": "nm0237299",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmRjMDEyOTktZThhZi00YmEzLTg0ZjMtYTM3Y2EzYzJhZmVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Julie Drazen",
+            "asCharacter": "Carol"
+        },
+        {
+            "id": "nm0734781",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stuart Edmond Rodgers",
+            "asCharacter": "Little Boy"
+        },
+        {
+            "id": "nm0936820",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmYzZGViZTktMWMzNC00MDIxLThmZGItZWViNWRjYzFmOGVkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Chris Witney",
+            "asCharacter": "Little Boy"
+        },
+        {
+            "id": "nm0561487",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzExYjc1YzYtYTFlNy00NGQ1LThjOTEtYTYwYzM4OTJiYWNlXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Edwin Max",
+            "asCharacter": "Harold"
+        },
+        {
+            "id": "nm0522314",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dorothy Love",
+            "asCharacter": "Helen"
+        },
+        {
+            "id": "nm0090041",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg2NjUwNzQ5N15BMl5BanBnXkFtZTcwNTIwOTYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Janus Blythe",
+            "asCharacter": "Nell Winters"
+        },
+        {
+            "id": "nm0001129",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY1NzY0OTQ0OF5BMl5BanBnXkFtZTcwNDY1Njk5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jonathan Demme",
+            "asCharacter": "Matt Winters"
+        },
+        {
+            "id": "nm0163578",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Westbrook Claridge",
+            "asCharacter": "Second Security Guard"
+        },
+        {
+            "id": "nm0184369",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmNlN2ZlMTctNTczZi00NDA0LTlmZDktOWM4ZmUzZmE4NTY3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7727_AL_.jpg",
+            "name": "DeForest Covan",
+            "asCharacter": "Janitor"
+        },
+        {
+            "id": "nm0312300",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTczNDk4NGMtYTY4Zi00MGM2LWI4NGQtOWU5ZDhjMGJlNmFmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Samuel W. Gelfman",
+            "asCharacter": "Fisherman (as Sam Gelfman)"
+        },
+        {
+            "id": "nm0408445",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDliYWEyYjAtMzFhNy00NWU4LWEyMjYtMjk0ODZkNWZjMjI2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7273_AL_.jpg",
+            "name": "Bonnie Inch",
+            "asCharacter": "Nurse"
+        },
+        {
+            "id": "nm0518147",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mickey Lolich",
+            "asCharacter": "First Security Guard"
+        },
+        {
+            "id": "nm0585005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keith Michl",
+            "asCharacter": "Maintenance Man"
+        },
+        {
+            "id": "nm0593526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leigh Mitchell",
+            "asCharacter": "Carol's Mother"
+        },
+        {
+            "id": "nm0397340",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Walters",
+            "asCharacter": "Photographer"
+        },
+        {
+            "id": "nm0018646",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU3MTkzMjc4MV5BMl5BanBnXkFtZTgwNDA1NjU1NjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Newell Alexander",
+            "asCharacter": "Steve West (voice)"
+        },
+        {
+            "id": "nm0018715",
+            "image": "https://m.media-amazon.com/images/M/MV5BODc3MDAyOTg3OF5BMl5BanBnXkFtZTcwOTQ0MDMwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Rosemary Alexander",
+            "asCharacter": "Nora (voice) (as Rosemary Lovell)"
+        },
+        {
+            "id": "nm0401416",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dave Hull",
+            "asCharacter": "Houston Control (voice)"
+        },
+        {
+            "id": "nm0611646",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jennifer Mulaire",
+            "asCharacter": "Newscaster (voice)"
+        },
+        {
+            "id": "nm0001964",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTNhNzAzNDYtMjYzZC00OTY1LWJhYjItODYxZGYxYjM3ZDMwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Rob Bottin",
+            "asCharacter": "Incredible Melting Man Double (uncredited)"
+        },
+        {
+            "id": "nm0408446",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Inch",
+            "asCharacter": "Homeless Man (uncredited)"
+        },
+        {
+            "id": "nm0467405",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert J. Koster",
+            "asCharacter": "Homeless Man (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer (uncredited)"
+                },
+                {
+                    "id": "nm0180108",
+                    "name": "Peter Cornberg",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0272079",
+                    "name": "Robert L. Fenton",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0312300",
+                    "name": "Samuel W. Gelfman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0742278",
+                    "name": "Max Rosenberg",
+                    "description": "executive producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0643201",
+                    "name": "Arlon Ober",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005763",
+                    "name": "Willy Kurant",
+                    "description": "director of photography (as Willy Curtis)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0078657",
+                    "name": "James Beshears",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0855317",
+                    "name": "Estelle Tepper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0505392",
+                    "name": "Michel Levesque",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0000711",
+                    "name": "Rick Baker",
+                    "description": "special makeup effects"
+                },
+                {
+                    "id": "nm0124256",
+                    "name": "Tina Lewis",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0808039",
+                    "name": "Dulcie Smith",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0001964",
+                    "name": "Rob Bottin",
+                    "description": "assistant makeup artist (uncredited)"
+                },
+                {
+                    "id": "nm0134148",
+                    "name": "Greg Cannom",
+                    "description": "special makeup assistant (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0180108",
+                    "name": "Peter Cornberg",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm0397340",
+                    "name": "Don Walters",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0163045",
+                    "name": "Linda Civitello",
+                    "description": "second assistant director"
+                },
+                {
+                    "id": "nm0505392",
+                    "name": "Michel Levesque",
+                    "description": "second unit director"
+                },
+                {
+                    "id": "nm0397340",
+                    "name": "Don Walters",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm9447911",
+                    "name": "David Kaufman",
+                    "description": "art director: second unit"
+                },
+                {
+                    "id": "nm0585005",
+                    "name": "Keith Michl",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0100659",
+                    "name": "Mark Bovos",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm0923669",
+                    "name": "Brett Wheatley",
+                    "description": "boom operator"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0941264",
+                    "name": "Harry Woolman",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0053813",
+                    "name": "Bruce Paul Barbour",
+                    "description": "stunt person (as Bruce Barbour)"
+                },
+                {
+                    "id": "nm0078192",
+                    "name": "Dana Bertolette",
+                    "description": "stunt person"
+                },
+                {
+                    "id": "nm0003886",
+                    "name": "Conrad E. Palmisano",
+                    "description": "stunt person (as Conrad Palmisano)"
+                },
+                {
+                    "id": "nm0793260",
+                    "name": "Sonny Shields",
+                    "description": "stunt person"
+                },
+                {
+                    "id": "nm0078192",
+                    "name": "Dana Bertolette",
+                    "description": "stunt double: Alex Rebar (uncredited)"
+                },
+                {
+                    "id": "nm0003886",
+                    "name": "Conrad E. Palmisano",
+                    "description": "stunt coordinator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm3551789",
+                    "name": "Steve Ackerman",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0082562",
+                    "name": "Lance Billitzer",
+                    "description": "electrician"
+                },
+                {
+                    "id": "nm0226935",
+                    "name": "Paul Dillingham",
+                    "description": "assistant camera: second unit"
+                },
+                {
+                    "id": "nm0242608",
+                    "name": "Jim Dunn",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0251540",
+                    "name": "Rita Eichinger",
+                    "description": "second assistant camera"
+                },
+                {
+                    "id": "nm0356390",
+                    "name": "Ben Haller",
+                    "description": "best boy"
+                },
+                {
+                    "id": "nm4887953",
+                    "name": "Steve Hess",
+                    "description": "electrician: second unit"
+                },
+                {
+                    "id": "nm0508175",
+                    "name": "Jeremy Lezin",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0770784",
+                    "name": "Glenn Schellerup",
+                    "description": "gaffer: second unit"
+                },
+                {
+                    "id": "nm0005858",
+                    "name": "Henning Schellerup",
+                    "description": "director of photography: second unit"
+                },
+                {
+                    "id": "nm0806035",
+                    "name": "Buzzy Sloane",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0833361",
+                    "name": "Gary Strange",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0884911",
+                    "name": "Gil Valle",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0934235",
+                    "name": "Tom Wilson",
+                    "description": "grip: second unit"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm4887763",
+                    "name": "Catherine Foster",
+                    "description": "wardrobe assistant"
+                },
+                {
+                    "id": "nm0743766",
+                    "name": "Rebecca Ross",
+                    "description": "costumer"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0077031",
+                    "name": "Dick Bernstein",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0388519",
+                    "name": "Karen Hoenig",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0869277",
+                    "name": "L. Mark Tosti",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm0743766",
+                    "name": "Rebecca Ross",
+                    "description": "location manager"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0643201",
+                    "name": "Arlon Ober",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm4887388",
+                    "name": "Cosmic Consort Orchestra",
+                    "description": "orchestra"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0089664",
+                    "name": "Joanie Blum",
+                    "description": "script supervisor: second unit (as Joan Blum)"
+                },
+                {
+                    "id": "nm0325163",
+                    "name": "Betty Goldberg",
+                    "description": "script supervisor"
+                },
+                {
+                    "id": "nm0455253",
+                    "name": "Sandy King",
+                    "description": "script supervisor: second unit"
+                },
+                {
+                    "id": "nm0755172",
+                    "name": "Margaret Sachs",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Transportation Department",
+            "items": [
+                {
+                    "id": "nm3551789",
+                    "name": "Steve Ackerman",
+                    "description": "driver"
+                },
+                {
+                    "id": "nm4888315",
+                    "name": "Bruce Singer",
+                    "description": "driver: Winnebago"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm2578777",
+                    "name": "Tom Kirk",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0596472",
+                    "name": "Julie G. Moldo",
+                    "description": "production secretary (as Julie Moldo)"
+                },
+                {
+                    "id": "nm0682850",
+                    "name": "Barbara Pieters",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0742278",
+                    "name": "Max Rosenberg",
+                    "description": "presenter (as Max J. Rosenberg)"
+                },
+                {
+                    "id": "nm0743766",
+                    "name": "Rebecca Ross",
+                    "description": "additional dialogue"
+                },
+                {
+                    "id": "nm4888444",
+                    "name": "Alan Schechtman",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm2902210",
+                    "name": "John Wong",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0018646",
+                    "name": "Newell Alexander",
+                    "description": "adr voice (uncredited)"
+                },
+                {
+                    "id": "nm0018715",
+                    "name": "Rosemary Alexander",
+                    "description": "adr voice (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

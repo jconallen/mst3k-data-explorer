@@ -1,0 +1,478 @@
+{
+    "imDbId": "tt0077834",
+    "title": "Laserblast",
+    "fullTitle": "Laserblast (1978)",
+    "type": "Movie",
+    "year": "1978",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0706044",
+                "name": "Michael Rae",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0769493",
+                "name": "Franne Schacht",
+                "description": "(written by) and"
+            },
+            {
+                "id": "nm0673772",
+                "name": "Frank Ray Perilli",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0587335",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDMzOGE1NTMtMGY1Zi00MzQwLWFmYWUtM2Q2NTNlMzg5ZTc3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Kim Milford",
+            "asCharacter": "Billy Duncan"
+        },
+        {
+            "id": "nm0807679",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM2ZTJmMDEtZjM4ZC00ZjNmLTg1ZTctNmE3YjNmN2FmNTg3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Cheryl Smith",
+            "asCharacter": "Kathy Farley"
+        },
+        {
+            "id": "nm0751625",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTgyMTgxODM4MV5BMl5BanBnXkFtZTcwNDg5NDYwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gianni Russo",
+            "asCharacter": "Tony Craig"
+        },
+        {
+            "id": "nm0556041",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MzczNjU5N15BMl5BanBnXkFyZXN1bWU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ron Masak",
+            "asCharacter": "Sheriff"
+        },
+        {
+            "id": "nm0122036",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjAzNDg4Ml5BMl5BanBnXkFtZTcwNTc4NjQyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dennis Burkley",
+            "asCharacter": "Deputy Pete Ungar"
+        },
+        {
+            "id": "nm0193897",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmU3ZGMxYzItNGE0OC00NWVlLTliYWEtNDRhYzViMzI1ZjQxXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Barry Cutler",
+            "asCharacter": "Deputy Jesse Jeep"
+        },
+        {
+            "id": "nm0090339",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Bobenko",
+            "asCharacter": "Chuck Boran"
+        },
+        {
+            "id": "nm0214430",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTA5ODkzMDQyNF5BMl5BanBnXkFtZTcwOTI5ODAzMQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Eddie Deezen",
+            "asCharacter": "Froggy"
+        },
+        {
+            "id": "nm0943978",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA3NjM3MTM3OV5BMl5BanBnXkFtZTYwODM2MjI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Keenan Wynn",
+            "asCharacter": "Colonel Farley"
+        },
+        {
+            "id": "nm0001522",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2NjI3NzE1OV5BMl5BanBnXkFtZTYwNjk2MzU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Roddy McDowall",
+            "asCharacter": "Doctor Mellon (as Roddy McDowell)"
+        },
+        {
+            "id": "nm0910350",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rick Walters",
+            "asCharacter": "Mike London"
+        },
+        {
+            "id": "nm0100679",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Simmy Bow",
+            "asCharacter": "Gas Station Attendant"
+        },
+        {
+            "id": "nm0513414",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGUyYzVhZDgtNTg1Mi00OGEyLThjMDgtYmQ1YWE4ZDhmODJlXkEyXkFqcGdeQXVyMTMxMjQ4ODg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joanna Lipari",
+            "asCharacter": "Franny Walton"
+        },
+        {
+            "id": "nm0921542",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wendy Wernli",
+            "asCharacter": "Carolyn Spicer"
+        },
+        {
+            "id": "nm0056923",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Barrere",
+            "asCharacter": "Hip Kid (as Michael Bryar)"
+        },
+        {
+            "id": "nm0943335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Melinda Wunderlich",
+            "asCharacter": "Girl on Bench"
+        },
+        {
+            "id": "nm0769493",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franne Schacht",
+            "asCharacter": "Sheriff's Secretary"
+        },
+        {
+            "id": "nm0420839",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eric Jenkins",
+            "asCharacter": "Pilot"
+        },
+        {
+            "id": "nm0223346",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Janet Dey",
+            "asCharacter": "Eleanor Duncan"
+        },
+        {
+            "id": "nm0374158",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzFhMjRkNjEtNWYwMi00MmRiLWI5MDktNzIyYWZkNzVkMWViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Steve Neill",
+            "asCharacter": "First Humanoid Alien (uncredited)"
+        },
+        {
+            "id": "nm0706044",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Rae",
+            "asCharacter": "Police Officer with M16 (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0023929",
+                    "name": "Charles Band",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0140836",
+                    "name": "J. Larry Carroll",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0051659",
+                    "name": "Richard Band",
+                    "description": ""
+                },
+                {
+                    "id": "nm0006107",
+                    "name": "Joel Goldsmith",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0100929",
+                    "name": "Terry Bowen",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0178578",
+                    "name": "Jodie Copelan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0532190",
+                    "name": "Pat MacFadden",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0374158",
+                    "name": "Steve Neill",
+                    "description": "makeup designer / special effects makeup"
+                },
+                {
+                    "id": "nm0624763",
+                    "name": "Ve Neill",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0706055",
+                    "name": "Penny Rae",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0302791",
+                    "name": "Andrew Gallerani",
+                    "description": "assistant director (as Andy Gallerani)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm1207584",
+                    "name": "Peggy Schinhofen",
+                    "description": "boom operator (as Peggy Schinofen)"
+                },
+                {
+                    "id": "nm0938046",
+                    "name": "Gerald B. Wolfe",
+                    "description": "production sound mixer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0374158",
+                    "name": "Steve Neill",
+                    "description": "special effects props"
+                },
+                {
+                    "id": "nm0941264",
+                    "name": "Harry Woolman",
+                    "description": "special effects (as Harry Wolman)"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0020406",
+                    "name": "David Allen",
+                    "description": "animation effects (as Dave Allen)"
+                },
+                {
+                    "id": "nm0313188",
+                    "name": "Paul Gentry",
+                    "description": "laser effects"
+                },
+                {
+                    "id": "nm0073802",
+                    "name": "Jon Berg",
+                    "description": "model sculptor (uncredited)"
+                },
+                {
+                    "id": "nm0177241",
+                    "name": "Randall William Cook",
+                    "description": "principal animator (uncredited)"
+                },
+                {
+                    "id": "nm0420478",
+                    "name": "Gregory Jein",
+                    "description": "spacecraft designer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0189593",
+                    "name": "Wally Crowder",
+                    "description": "stunt driver"
+                },
+                {
+                    "id": "nm0211979",
+                    "name": "John De Troia",
+                    "description": "stunt driver"
+                },
+                {
+                    "id": "nm0242661",
+                    "name": "Larry Dunn",
+                    "description": "stunt driver"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm3551789",
+                    "name": "Steve Ackerman",
+                    "description": "best boy"
+                },
+                {
+                    "id": "nm3552111",
+                    "name": "Alan Albert",
+                    "description": "additional camera operator"
+                },
+                {
+                    "id": "nm1076245",
+                    "name": "Denny Clairmont",
+                    "description": "additional camera operator"
+                },
+                {
+                    "id": "nm0279101",
+                    "name": "Robert Fischer",
+                    "description": "second grip (as Bobby Fischer)"
+                },
+                {
+                    "id": "nm0313188",
+                    "name": "Paul Gentry",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0428554",
+                    "name": "Kenneth J. Jones",
+                    "description": "assistant camera (as Ken Jones)"
+                },
+                {
+                    "id": "nm4074642",
+                    "name": "Michael Oliva",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0765097",
+                    "name": "Brad Sargent",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0002686",
+                    "name": "Michael Stone",
+                    "description": "second assistant camera (as Mike Stone)"
+                }
+            ]
+        },
+        {
+            "job": "Animation Department",
+            "items": [
+                {
+                    "id": "nm0910520",
+                    "name": "Harry Walton",
+                    "description": "animator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0778864",
+                    "name": "Barbara Scott",
+                    "description": "wardrobe"
+                },
+                {
+                    "id": "nm0792185",
+                    "name": "Jill Sheridan",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0091630",
+                    "name": "Robert Bogdanoff",
+                    "description": "second assistant film editor (as Rob Bogdanoff)"
+                },
+                {
+                    "id": "nm0743779",
+                    "name": "Richard Ross",
+                    "description": "assistant film editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0325163",
+                    "name": "Betty Goldberg",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0034314",
+                    "name": "Harry Arends",
+                    "description": "utility"
+                },
+                {
+                    "id": "nm1974730",
+                    "name": "Anne Bowen",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0123772",
+                    "name": "Bennah Burton-Burtt",
+                    "description": "assistant to producer (as Bennah Burton)"
+                },
+                {
+                    "id": "nm3552077",
+                    "name": "Glady Edwards",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm4074731",
+                    "name": "Charlie Long",
+                    "description": "caterer"
+                },
+                {
+                    "id": "nm4074726",
+                    "name": "Chris Ryan",
+                    "description": "utility"
+                },
+                {
+                    "id": "nm0772778",
+                    "name": "Rick Schmidlin",
+                    "description": "utility"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

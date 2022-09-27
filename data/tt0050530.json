@@ -1,0 +1,387 @@
+{
+    "imDbId": "tt0050530",
+    "title": "I Was a Teenage Werewolf",
+    "fullTitle": "I Was a Teenage Werewolf (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0288635",
+                "name": "Gene Fowler Jr.",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0169432",
+                "name": "Herman Cohen",
+                "description": "(original story) (as Ralph Thornton) &"
+            },
+            {
+                "id": "nm0437189",
+                "name": "Aben Kandel",
+                "description": "(original story) (as Ralph Thornton)"
+            },
+            {
+                "id": "nm0169432",
+                "name": "Herman Cohen",
+                "description": "(screenplay) (as Ralph Thornton) &"
+            },
+            {
+                "id": "nm0437189",
+                "name": "Aben Kandel",
+                "description": "(screenplay) (as Ralph Thornton)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0001446",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzEyNjQzOTQ5NV5BMl5BanBnXkFtZTYwNzY5MjI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Landon",
+            "asCharacter": "Tony Rivers"
+        },
+        {
+            "id": "nm0510768",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDUyZjU5MTQtNWZjNS00MmU3LThiNzgtNWZmNmU2M2VkOGQyXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Yvonne Lime",
+            "asCharacter": "Arlene Logan"
+        },
+        {
+            "id": "nm0000946",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTEwNzAwOTU4NTdeQTJeQWpwZ15BbWU3MDE0NDI2MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Whit Bissell",
+            "asCharacter": "Dr. Alfred Brandon"
+        },
+        {
+            "id": "nm0929671",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Willcox",
+            "asCharacter": "Jimmy (as Tony Marshall)"
+        },
+        {
+            "id": "nm0723780",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dawn Richard",
+            "asCharacter": "Theresa"
+        },
+        {
+            "id": "nm0680237",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWIxMzQyODEtY2NmYS00YTM4LWE4ZjYtZDhhZjZiYjk5NDEyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Barney Phillips",
+            "asCharacter": "Detective Donovan"
+        },
+        {
+            "id": "nm0588731",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmZmNTNkYTktZTNjOS00OTk5LWE5YWEtMDYxODA5ZmQyNDA5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ken Miller",
+            "asCharacter": "Vic"
+        },
+        {
+            "id": "nm0502943",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDNhNzgxMDYtMDI5Yy00Y2I4LTkyYzMtYjZmNTZmMmRhNzhlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Cynthia Chenault",
+            "asCharacter": "Pearl (as Cindy Robbins)"
+        },
+        {
+            "id": "nm0745606",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Rougas",
+            "asCharacter": "Frank"
+        },
+        {
+            "id": "nm0341351",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcyNjY1Mjc5NF5BMl5BanBnXkFtZTgwNDE2NTcyNTE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Griffin",
+            "asCharacter": "Police Chief P.F. Baker"
+        },
+        {
+            "id": "nm0577865",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM1NTNjZDktZGZkOS00ZTdhLThjODItMDIzMzJjZThmMmIxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Joseph Mell",
+            "asCharacter": "Dr. Hugo Wagner"
+        },
+        {
+            "id": "nm0041021",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIwNTczMzE3NV5BMl5BanBnXkFtZTcwOTQzNzUyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Malcolm Atterbury",
+            "asCharacter": "Charles Rivers"
+        },
+        {
+            "id": "nm0549979",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWU3YWE1ZWYtMWUwZi00MmE0LWFmMDItOTQzZTBkZTYwOGY5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.5455_AL_.jpg",
+            "name": "Eddie Marr",
+            "asCharacter": "Doyle"
+        },
+        {
+            "id": "nm0812453",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjFiMzU1ODQtZTUyNy00ZDI0LWE1NDctYjU4OThjZjAxNzBhXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vladimir Sokoloff",
+            "asCharacter": "Pepe the Janitor"
+        },
+        {
+            "id": "nm0507486",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTA4OWVlMTgtZjE1MS00OGQ5LTlhMDktZGNmMGY3OWMwZTEzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Louise Lewis",
+            "asCharacter": "Principal Ferguson"
+        },
+        {
+            "id": "nm0490961",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM4ODAyZjctOWMzOC00NDUyLWE2YTMtMTIwZTAxZjkyN2JhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "S. John Launer",
+            "asCharacter": "Bill Logan (as John Launer)"
+        },
+        {
+            "id": "nm0930713",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA0NTY5MTg5OF5BMl5BanBnXkFtZTgwNDQxNjM0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Guy Williams",
+            "asCharacter": "Officer Chris Stanley"
+        },
+        {
+            "id": "nm0187291",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dorothy Crehan",
+            "asCharacter": "Mrs. Mary Logan"
+        },
+        {
+            "id": "nm0078940",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg0OTc1MzYzOF5BMl5BanBnXkFtZTcwNjY1MjEzMQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "James Best",
+            "asCharacter": "Kid at party who gets slapped (uncredited)"
+        },
+        {
+            "id": "nm0086627",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzJiY2FlODYtYmZjZS00ZTk1LTkxNzgtM2NjMDFiYTNiOTE0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Larry J. Blake",
+            "asCharacter": "Police officer (uncredited)"
+        },
+        {
+            "id": "nm0139776",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTg0MDExNjUtY2E5ZC00ZjRkLWFlMTgtZmNkYjNjNmRmNWU5XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Larry Carr",
+            "asCharacter": "Diving Guy (uncredited)"
+        },
+        {
+            "id": "nm0169432",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGQzZGQ2YzUtOGQ5ZS00YmYzLTg2ZDUtMzdkYTk2MDY3Yjc5XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Herman Cohen",
+            "asCharacter": "Man with Crime Scene Photos (uncredited)"
+        },
+        {
+            "id": "nm0176260",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDgwMjE3OF5BMl5BanBnXkFtZTYwNjc0Njky._V1_Ratio0.7727_AL_.jpg",
+            "name": "Steve Conte",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0243292",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elaine DuPont",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm1555615",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patricia Merlin",
+            "asCharacter": "Miss Johnson - Gym Teacher (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer (uncredited)"
+                },
+                {
+                    "id": "nm0169432",
+                    "name": "Herman Cohen",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "executive producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005766",
+                    "name": "Joseph LaShelle",
+                    "description": "director of photography (as Joseph La Shelle)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0858439",
+                    "name": "A. Leslie Thomas",
+                    "description": "(as Leslie Thomas)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0389035",
+                    "name": "Morris Hoffman",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0770464",
+                    "name": "Phillip Scheer",
+                    "description": "makeup creator (as Philip Scheer)"
+                },
+                {
+                    "id": "nm0808199",
+                    "name": "Fae M. Smith",
+                    "description": "hair stylist (as Fae Smith)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0076651",
+                    "name": "Jack R. Berne",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0076651",
+                    "name": "Jack R. Berne",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0291234",
+                    "name": "Max Frankel",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0011016",
+                    "name": "Henry Adams",
+                    "description": "sound effects editor"
+                },
+                {
+                    "id": "nm0861019",
+                    "name": "James S. Thomson",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0735461",
+                    "name": "Oscar Rodriguez",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0321208",
+                    "name": "George A. Gittens",
+                    "description": "editorial supervisor (as George Gittens)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm0399431",
+                    "name": "Axel Hubert Sr.",
+                    "description": "music editor (as Axel Hubert)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0317228",
+                    "name": "Mary Gibsone",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0382194",
+                    "name": "Donna Heydt",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0629839",
+                    "name": "James H. Nicholson",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

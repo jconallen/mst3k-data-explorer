@@ -1,0 +1,408 @@
+{
+    "imDbId": "tt0078345",
+    "title": "Superdome",
+    "fullTitle": "Superdome (1978)",
+    "type": "Movie",
+    "year": "1978",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0417054",
+                "name": "Jerry Jameson",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0649855",
+                "name": "Barry Oringer",
+                "description": "(teleplay by)"
+            },
+            {
+                "id": "nm0649855",
+                "name": "Barry Oringer",
+                "description": "(story by) &"
+            },
+            {
+                "id": "nm0840908",
+                "name": "Bill Svanoe",
+                "description": "(story by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0418148",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2MzAwOTk1MF5BMl5BanBnXkFtZTYwMzcxNTM2._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Janssen",
+            "asCharacter": "Mike Shelley"
+        },
+        {
+            "id": "nm0010944",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjExNTQxODI0Nl5BMl5BanBnXkFtZTcwMDc0MzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Edie Adams",
+            "asCharacter": "Joyce"
+        },
+        {
+            "id": "nm0204389",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzFiYmIxNmEtNjU4OS00ZjdjLTk0MzktNmQ1NDBkM2NhNmI3XkEyXkFqcGdeQXVyMTY5MjY4NDU@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Clifton Davis",
+            "asCharacter": "P.K. Jackson"
+        },
+        {
+            "id": "nm0368142",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk4NzcyNjIzMl5BMl5BanBnXkFtZTcwNDM2NTgwMw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Peter Haskell",
+            "asCharacter": "Doug Collins"
+        },
+        {
+            "id": "nm0397432",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgwOTU1OTY1Ml5BMl5BanBnXkFtZTgwNjA1NjM3OTE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ken Howard",
+            "asCharacter": "Dave Walecki"
+        },
+        {
+            "id": "nm0397622",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYxMjczMDY5Nl5BMl5BanBnXkFtZTgwOTg0OTEyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Susan Howard",
+            "asCharacter": "Nancy Walecki"
+        },
+        {
+            "id": "nm0004496",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzU2NDU2ODk4N15BMl5BanBnXkFtZTcwNzgyNTgxMw@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Van Johnson",
+            "asCharacter": "Chip Green"
+        },
+        {
+            "id": "nm0569144",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYxODg2MjQxNF5BMl5BanBnXkFtZTcwMjQ4MzY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vonetta McGee",
+            "asCharacter": "Sonny"
+        },
+        {
+            "id": "nm0005234",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTE0YjBkNWQtNGUyMy00NTUzLTk2NTgtYjZmNTE1Y2M5ZWVhXkEyXkFqcGdeQXVyMTQyMzQwNzk1._V1_Ratio1.1364_AL_.jpg",
+            "name": "Donna Mills",
+            "asCharacter": "Lainie Wiley"
+        },
+        {
+            "id": "nm0625343",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzQ4NjUzOF5BMl5BanBnXkFtZTcwNDk2NDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ed Nelson",
+            "asCharacter": "George Beldridge"
+        },
+        {
+            "id": "nm0943553",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQzMDA4OTEyMV5BMl5BanBnXkFtZTcwNDcxNTcxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jane Wyatt",
+            "asCharacter": "Fay Bonelli"
+        },
+        {
+            "id": "nm0000633",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjQzODMzNF5BMl5BanBnXkFtZTcwMjE0NTM1Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tom Selleck",
+            "asCharacter": "Jim McCauley"
+        },
+        {
+            "id": "nm0560478",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ4OTQ2OTgxMV5BMl5BanBnXkFtZTgwNjM1MjY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robin Mattson",
+            "asCharacter": "Gail Green"
+        },
+        {
+            "id": "nm0636796",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTYxYjc2YTQtYjgxMy00MGRlLWI3ZjMtNDc0YTJkZDI0ZTg5XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Shelly Novack",
+            "asCharacter": "Peter Brooks"
+        },
+        {
+            "id": "nm0281735",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marvin Fleming",
+            "asCharacter": "Mooney"
+        },
+        {
+            "id": "nm0430758",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Les Josephson",
+            "asCharacter": "Nick Caretta"
+        },
+        {
+            "id": "nm0807571",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEzNzU1NzM0Ml5BMl5BanBnXkFtZTcwNzQyNzgxNg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bubba Smith",
+            "asCharacter": "Moses Gordine"
+        },
+        {
+            "id": "nm0124792",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM5NTgzMDM4NF5BMl5BanBnXkFtZTcwODgxMDQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dick Butkus",
+            "asCharacter": "Scott Hennerson"
+        },
+        {
+            "id": "nm0329029",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDcwNzQzNzk0MV5BMl5BanBnXkFtZTcwNDYyMjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Pataki",
+            "asCharacter": "Tony Sicota"
+        },
+        {
+            "id": "nm0001826",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYxNjgyNzgwMl5BMl5BanBnXkFtZTcwODA2MTM0OA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "M. Emmet Walsh",
+            "asCharacter": "Whitley"
+        },
+        {
+            "id": "nm0937847",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Wolf",
+            "asCharacter": "Rita (as Lisa Wolff)"
+        },
+        {
+            "id": "nm0427724",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charlie Jones",
+            "asCharacter": "Sportscaster"
+        },
+        {
+            "id": "nm2045348",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daren Eastwold",
+            "asCharacter": "Dancer / Sports Fan (uncredited)"
+        },
+        {
+            "id": "nm2156816",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Priscilla Eastwold",
+            "asCharacter": "Sports Fan (uncredited)"
+        },
+        {
+            "id": "nm0499363",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY1ODIyNzM3NF5BMl5BanBnXkFtZTYwMTE4MTky._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jerry Leggio",
+            "asCharacter": "Coach (uncredited)"
+        },
+        {
+            "id": "nm0568715",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom McFadden",
+            "asCharacter": "Dick (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0296902",
+                    "name": "William Frye",
+                    "description": "producer (produced by)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0005990",
+                    "name": "John Cacavas",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005772",
+                    "name": "Matthew F. Leonetti",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0930802",
+                    "name": "J. Terry Williams",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0455165",
+                    "name": "Ramsay King",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0448457",
+                    "name": "Bill Kenney",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0838043",
+                    "name": "Donald J. Sullivan",
+                    "description": "(as Don Sullivan)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0206036",
+                    "name": "Wes Dawn",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0686424",
+                    "name": "Bren Plaistowe",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0564851",
+                    "name": "David McCann",
+                    "description": "post-production supervisor"
+                },
+                {
+                    "id": "nm0626893",
+                    "name": "Stanley Neufeld",
+                    "description": "unit production manager (as Stan Neufeld)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0731033",
+                    "name": "Donald Roberts",
+                    "description": "first assistant director"
+                },
+                {
+                    "id": "nm0811934",
+                    "name": "Jerry Sobul",
+                    "description": "second assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0768239",
+                    "name": "Ernie Sawyers",
+                    "description": "property master (as Ernie Sawyers Sr.)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0542191",
+                    "name": "William L. Manger",
+                    "description": "sound editor (as Bill Manger)"
+                },
+                {
+                    "id": "nm0734099",
+                    "name": "Aaron Rochin",
+                    "description": "sound re-recordist"
+                },
+                {
+                    "id": "nm0853533",
+                    "name": "Bill Teague",
+                    "description": "production sound (as William R. Teague)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0125059",
+                    "name": "Michael Butler",
+                    "description": "costumer: men"
+                },
+                {
+                    "id": "nm0282929",
+                    "name": "Richard W. Flores",
+                    "description": "costumer: men"
+                },
+                {
+                    "id": "nm0351957",
+                    "name": "Joanne Haas",
+                    "description": "costumer: ladies"
+                },
+                {
+                    "id": "nm0675138",
+                    "name": "John S. Perry",
+                    "description": "costume supervisor (as John Perry)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0458904",
+                    "name": "Mike Klein",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0627862",
+                    "name": "Mary Ann Newfield",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Transportation Department",
+            "items": [
+                {
+                    "id": "nm0257231",
+                    "name": "Al Engelhart",
+                    "description": "transportation captain (as Al Englehart)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0061988",
+                    "name": "Jackie Brady Baugh",
+                    "description": "production accountant (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

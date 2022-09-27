@@ -1,0 +1,375 @@
+{
+    "imDbId": "tt0042874",
+    "title": "Radar Secret Service",
+    "fullTitle": "Radar Secret Service (1950)",
+    "type": "Movie",
+    "year": "1950",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0627864",
+                "name": "Sam Newfield",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0755137",
+                "name": "Beryl Sachs",
+                "description": "(original screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0397397",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg4NTkyOTA3MV5BMl5BanBnXkFtZTYwMTI0MDcy._V1_Ratio0.8636_AL_.jpg",
+            "name": "John Howard",
+            "asCharacter": "Bill Travis"
+        },
+        {
+            "id": "nm0421922",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjU0ODM5NTYtNWE3My00MWJjLThhMzQtNWQ5ZGY5YjQyYzllXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Adele Jergens",
+            "asCharacter": "Lila"
+        },
+        {
+            "id": "nm0623684",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGZmMmMzNzQtZjg3OC00MGI5LTg3YzEtZTMwMzRmODA4MmY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Tom Neal",
+            "asCharacter": "Mickey Moran"
+        },
+        {
+            "id": "nm0217332",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTAyNzdiYmItOThlYy00NzgwLThhNjUtMTYxMzM5NjhlZDhmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Myrna Dell",
+            "asCharacter": "Marge"
+        },
+        {
+            "id": "nm0578412",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjYxNjg0Ml5BMl5BanBnXkFtZTcwNTkyMDYzNw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Sid Melton",
+            "asCharacter": "Pill Box"
+        },
+        {
+            "id": "nm0126049",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjMwNjUxZjMtMjFhNS00OTc2LTllNGQtYzFhYmQwMTk2OGJkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ralph Byrd",
+            "asCharacter": "Static"
+        },
+        {
+            "id": "nm0448836",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjZjMTg4NDQtZDBmOS00NTRmLWEyNzYtN2U3Y2QyYTZhNDE2XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Robert Kent",
+            "asCharacter": "Benson"
+        },
+        {
+            "id": "nm0914246",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWUzNTg4MjYtY2ZkMi00MGJiLWE1MmUtZjMzOWMyMzVlZTJhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pierre Watkin",
+            "asCharacter": "Hamilton (as Pierre Watkins)"
+        },
+        {
+            "id": "nm0168939",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjEzZGRjOTctMzZjNC00YWQxLWFlMjYtYjg2YzMxMTBlOGFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Tristram Coffin",
+            "asCharacter": "Michael"
+        },
+        {
+            "id": "nm0384610",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWRkM2U4ODQtZWZmNi00YzA1LThiMzgtNjU2NzQzMDQ4NTNlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Riley Hill",
+            "asCharacter": "Blacky"
+        },
+        {
+            "id": "nm0141311",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDI0MDQ4OV5BMl5BanBnXkFtZTgwNjgwNDY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Carson",
+            "asCharacter": "Tom"
+        },
+        {
+            "id": "nm0242010",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM2OWJiYjYtNDdhMi00NGQ1LTkxYjAtMmIxODM4MDhjMDIxL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kenne Duncan",
+            "asCharacter": "Michael's Henchman"
+        },
+        {
+            "id": "nm0187486",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Crespinel",
+            "asCharacter": "Helicopter Operator (uncredited)"
+        },
+        {
+            "id": "nm0262820",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harry Evans",
+            "asCharacter": "Restaurant Owner (uncredited)"
+        },
+        {
+            "id": "nm0334076",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2YzRkYWQtZDE2ZC00Y2Y1LTk4MTAtY2QyNTk1YzVkMjFjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Herschel Graham",
+            "asCharacter": "Restaurant Patron (uncredited)"
+        },
+        {
+            "id": "nm0358648",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Billy Hammond",
+            "asCharacter": "Michael's Henchman (uncredited)"
+        },
+        {
+            "id": "nm0443459",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Kayne",
+            "asCharacter": "Maid (uncredited)"
+        },
+        {
+            "id": "nm0571173",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John McKee",
+            "asCharacter": "2nd Bruiser (uncredited)"
+        },
+        {
+            "id": "nm0051816",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGFkZjVhOWEtMmZkMi00N2RmLTkyYjEtNWVmZmRjOWU2ZDU4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Mike Ragan",
+            "asCharacter": "Truck Operator (uncredited)"
+        },
+        {
+            "id": "nm0715577",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDViMDVhMjktMjllNC00ZjMzLTgxODctNThjYTgzMTJlNzNjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Marshall Reed",
+            "asCharacter": "1st Bruiser (uncredited)"
+        },
+        {
+            "id": "nm0828260",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmE1NzMyZjgtMTA2OC00MTc3LWIwZjktNGRlMjBhYjQzYzRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bert Stevens",
+            "asCharacter": "Restaurant Patron (uncredited)"
+        },
+        {
+            "id": "nm0830882",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDg5N2YyNzUtMjAxYy00OTZiLWFkNTMtODQ4NDBjNGNjODhhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Boyd Stockman",
+            "asCharacter": "Henchman (uncredited)"
+        },
+        {
+            "id": "nm0940908",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjhjNzQ1OTgtMmM3YS00OGU3LTkyMjUtYzhlNmYyNzc2OGNlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bob Woodward",
+            "asCharacter": "Gus (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0513621",
+                    "name": "Robert L. Lippert",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0765036",
+                    "name": "Barney A. Sarecky",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0305426",
+                    "name": "Russell Garcia",
+                    "description": ""
+                },
+                {
+                    "id": "nm0371911",
+                    "name": "Richard Hazard",
+                    "description": "(as Dick Hazard)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0588316",
+                    "name": "Ernest Miller",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0682744",
+                    "name": "Carl Pierson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0695681",
+                    "name": "Fred Preble",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0485345",
+                    "name": "George Lane",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0085474",
+                    "name": "Ralph E. Black",
+                    "description": "production manager (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0085474",
+                    "name": "Ralph E. Black",
+                    "description": "assistant director (uncredited)"
+                },
+                {
+                    "id": "nm0656946",
+                    "name": "James Paisley",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0038881",
+                    "name": "Lou Asher",
+                    "description": "property master"
+                },
+                {
+                    "id": "nm0717537",
+                    "name": "Harry Reif",
+                    "description": "set dresser (as Harry Rief)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0811447",
+                    "name": "Earl Snyder",
+                    "description": "sound engineer"
+                },
+                {
+                    "id": "nm0248707",
+                    "name": "Harry Eckles",
+                    "description": "sound technician (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0580296",
+                    "name": "Ray Mercer",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0830882",
+                    "name": "Boyd Stockman",
+                    "description": "stunt double (uncredited)"
+                },
+                {
+                    "id": "nm0940908",
+                    "name": "Bob Woodward",
+                    "description": "stunt double (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0185970",
+                    "name": "Noble Craig",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm0198535",
+                    "name": "Archie R. Dalzell",
+                    "description": "camera operator (uncredited)"
+                },
+                {
+                    "id": "nm0325046",
+                    "name": "Milton Gold",
+                    "description": "still photographer (uncredited)"
+                },
+                {
+                    "id": "nm0420842",
+                    "name": "Frank Jenkins",
+                    "description": "gaffer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0473974",
+                    "name": "Stanley Kufel",
+                    "description": "wardrobe (as Stanley Kuffel)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0251345",
+                    "name": "Emilie Ehrlich",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1861965",
+                    "name": "Murray Lerner",
+                    "description": "assistant executive"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,562 @@
+{
+    "imDbId": "tt0062078",
+    "title": "Operation Kid Brother",
+    "fullTitle": "Operation Kid Brother (1967)",
+    "type": "Movie",
+    "year": "1967",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0210130",
+                "name": "Alberto De Martino",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0505482",
+                "name": "Paolo Levi",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0505482",
+                "name": "Paolo Levi",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0907734",
+                "name": "Frank Walker",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0942814",
+                "name": "Stanley Wright",
+                "description": "(screenplay) &"
+            },
+            {
+                "id": "nm0134849",
+                "name": "Stefano Canzio",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0175227",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDhjNDM1ZGEtNDFkMi00OTJmLWFjZTQtOTI4YzIxNWYwMzcwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Neil Connery",
+            "asCharacter": "Dr. Neil Connery"
+        },
+        {
+            "id": "nm0000938",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxMTI2NzkyMl5BMl5BanBnXkFtZTcwNzI4MDgzNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Daniela Bianchi",
+            "asCharacter": "Maya Rafis"
+        },
+        {
+            "id": "nm0148041",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY2NTU5Mzk5M15BMl5BanBnXkFtZTcwNDUzMzY3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adolfo Celi",
+            "asCharacter": "Mr. Thai - 'Beta'"
+        },
+        {
+            "id": "nm0282992",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Agata Flori",
+            "asCharacter": "Mildred"
+        },
+        {
+            "id": "nm0496866",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA1NTc3MTAxMV5BMl5BanBnXkFtZTYwNTM5NjU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bernard Lee",
+            "asCharacter": "Commander Cunningham"
+        },
+        {
+            "id": "nm0206060",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM1NjM2NjQ0Ml5BMl5BanBnXkFtZTcwNzkzNzQzNA@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Anthony Dawson",
+            "asCharacter": "Alpha"
+        },
+        {
+            "id": "nm0561755",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTM3MTQyNF5BMl5BanBnXkFtZTYwOTQ4NjU2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Lois Maxwell",
+            "asCharacter": "Max"
+        },
+        {
+            "id": "nm0945195",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yee-Wah Yang",
+            "asCharacter": "Yachuko (as Yachuco Yama)"
+        },
+        {
+            "id": "nm0316004",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franco Giacobini",
+            "asCharacter": "Juan"
+        },
+        {
+            "id": "nm0637611",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzY2OGU0OTItZDU1My00N2Y4LWIzODQtMmU4NGI3MDAyZjA5XkEyXkFqcGdeQXVyMTA2NDgyNA@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Ana María Noé",
+            "asCharacter": "Lotte Krayendorf"
+        },
+        {
+            "id": "nm0518179",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Guido Lollobrigida",
+            "asCharacter": "Kurt"
+        },
+        {
+            "id": "nm0183096",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Francesco Tensi",
+            "asCharacter": "Auctioneer"
+        },
+        {
+            "id": "nm0395315",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Margherita Horowitz",
+            "asCharacter": "Princess at Auction"
+        },
+        {
+            "id": "nm0175945",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enzo Consoli",
+            "asCharacter": "Sitting Man at Lecture (as Vincenzo Consoli)"
+        },
+        {
+            "id": "nm0658954",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGZjNzI5N2YtMGQ1OC00ZTY5LWE0ZDMtNGE2ZDI3YzQ5YmJkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Mirella Pamphili",
+            "asCharacter": "(as Mirella Pompili)"
+        },
+        {
+            "id": "nm0029549",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nando Angelini",
+            "asCharacter": "Ward Jones"
+        },
+        {
+            "id": "nm6644314",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lanfranco Ceccarelli",
+            "asCharacter": "Allied Counterespionage Agent (as Franco Ceccarelli)"
+        },
+        {
+            "id": "nm0147646",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDNlZjAwNWQtZmJiYy00YzI1LThhNTktMjFiNzNkODc1MmVhXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aldo Cecconi",
+            "asCharacter": "Wilson"
+        },
+        {
+            "id": "nm0333560",
+            "image": "https://m.media-amazon.com/images/M/MV5BODE1NTYyN2UtNjIxYy00NzhiLWIxMzQtYjY3MjEwYmRlNDY2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Antonio Gradoli",
+            "asCharacter": "Monte Carlo Inspector"
+        },
+        {
+            "id": "nm0630139",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fajda Nicol",
+            "asCharacter": "Henchwoman (as Faida Nicol)"
+        },
+        {
+            "id": "nm0662401",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Caterina Trentini",
+            "asCharacter": "(as Kathleen Trentini)"
+        },
+        {
+            "id": "nm0502146",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leonardo Scavino",
+            "asCharacter": "Ben Ahmed (as Leo Scavino)"
+        },
+        {
+            "id": "nm0157005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enrico Chiappafreddo",
+            "asCharacter": "Plastic Surgery Lecture Brawler (uncredited)"
+        },
+        {
+            "id": "nm4080316",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franz Colangeli",
+            "asCharacter": "Plastic Surgery Lecture Attendee (uncredited)"
+        },
+        {
+            "id": "nm2089755",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTdhMjM2YjYtODZhZS00YWY0LWI3OTMtMjhmMTllNWY0YzUyXkEyXkFqcGdeQXVyNjMyNTg4NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Philip Ettington",
+            "asCharacter": "Baby (uncredited)"
+        },
+        {
+            "id": "nm0561262",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Giulio Mauroni",
+            "asCharacter": "Granada Base Henchman (uncredited)"
+        },
+        {
+            "id": "nm0670804",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Attilio Pelegatti",
+            "asCharacter": "Plastic Surgery Lecture Attendee (uncredited)"
+        },
+        {
+            "id": "nm2227107",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjk4ZWEyMzQtODFkZi00MDFjLTgzMmQtOGZlNDdmZTI2ZDAyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Renzo Pevarello",
+            "asCharacter": "Plastic Surgery Lecture Brawler (uncredited)"
+        },
+        {
+            "id": "nm0814968",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mario Soria",
+            "asCharacter": "Gamma (uncredited)"
+        },
+        {
+            "id": "nm0841601",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjc5ODg1MDUzN15BMl5BanBnXkFtZTcwNjI3MDAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kitty Swan",
+            "asCharacter": "Co-agent on Ship (uncredited)"
+        },
+        {
+            "id": "nm0858456",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alfred Thomas",
+            "asCharacter": "Plastic Surgery Lecture Attendee (uncredited)"
+        },
+        {
+            "id": "nm0054079",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzc3ZjRjYjQtMDVjZS00ODc5LTk0NGMtMWZjNDdlMGM1MzliXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Pietro Torrisi",
+            "asCharacter": "Granada Base Henchman (uncredited)"
+        },
+        {
+            "id": "nm0880335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clemente Ukmar",
+            "asCharacter": "Plastic Surgery Lecture Brawler (uncredited)"
+        },
+        {
+            "id": "nm0880336",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franco Ukmar",
+            "asCharacter": "Plastic Surgery Lecture Brawler (uncredited)"
+        },
+        {
+            "id": "nm7132938",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Giancarlo Ukmar",
+            "asCharacter": "Plastic Surgery Lecture Brawler (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0754546",
+                    "name": "Dario Sabatello",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0001553",
+                    "name": "Ennio Morricone",
+                    "description": ""
+                },
+                {
+                    "id": "nm0006214",
+                    "name": "Bruno Nicolai",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005653",
+                    "name": "Giovanni Bergamini",
+                    "description": "director of photography (as Gianni Bergamini)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0170170",
+                    "name": "Otello Colangeli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0284906",
+                    "name": "Franco Fontana",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0168986",
+                    "name": "Adolfo Cofiño",
+                    "description": "(as Adolfo Cofino)"
+                },
+                {
+                    "id": "nm0851671",
+                    "name": "Massimo Tavazzi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0738832",
+                    "name": "Gaia Romanini",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0097465",
+                    "name": "Paolo Borselli",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0210152",
+                    "name": "Romolo de Martino",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0655424",
+                    "name": "Cesare Paciotti",
+                    "description": "assistant hair stylist"
+                },
+                {
+                    "id": "nm0763834",
+                    "name": "Euclide Santoli",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0556397",
+                    "name": "Giovanni Masini",
+                    "description": "production manager (as Nino Masini)"
+                },
+                {
+                    "id": "nm0735924",
+                    "name": "José María Rodríguez",
+                    "description": "unit production manager (as José Maria Rodriguez)"
+                },
+                {
+                    "id": "nm0502146",
+                    "name": "Leonardo Scavino",
+                    "description": "unit manager (as Leo Scavino)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0608368",
+                    "name": "Carlo Moscovini",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0879646",
+                    "name": "Giorgio Ubaldi",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0009826",
+                    "name": "Fausto Achilli",
+                    "description": "sound engineer"
+                },
+                {
+                    "id": "nm5498470",
+                    "name": "Dante Antonucci",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm0223977",
+                    "name": "Giuseppe Di Liberto",
+                    "description": "sound mixer (as Deliberti)"
+                },
+                {
+                    "id": "nm0643637",
+                    "name": "Sandro Occhetti",
+                    "description": "sound engineer"
+                },
+                {
+                    "id": "nm0650978",
+                    "name": "Guido Ortenzi",
+                    "description": "sound mixer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0302067",
+                    "name": "Dino Galiano",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0216032",
+                    "name": "Federico Del Zoppo",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm5499941",
+                    "name": "Otello Lunghini",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0679174",
+                    "name": "Guillermo Peña",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0856170",
+                    "name": "Ubaldo Terzano",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0799168",
+                    "name": "Bertilla Silvestrin",
+                    "description": "seamstress"
+                },
+                {
+                    "id": "nm0816515",
+                    "name": "Adriana Spadaro",
+                    "description": "assistant costume designer"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0024199",
+                    "name": "Dante Amatucci",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0022112",
+                    "name": "Alejandro Ulloa",
+                    "description": "color supervisor (as Alexander Ulloa)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0284932",
+                    "name": "Luca Fontana",
+                    "description": "assistant set design"
+                },
+                {
+                    "id": "nm0581590",
+                    "name": "Marion Mertes",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0769166",
+                    "name": "Salvatore Scarfone",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0502146",
+                    "name": "Leonardo Scavino",
+                    "description": "dialogue coach (as Leo Scavino)"
+                },
+                {
+                    "id": "nm0190977",
+                    "name": "Riccardo Cucciolla",
+                    "description": "voice dubbing: Adolfo Celi (uncredited)"
+                },
+                {
+                    "id": "nm0316340",
+                    "name": "Laura Gianoli",
+                    "description": "voice dubbing: Daniela Bianchi (uncredited)"
+                },
+                {
+                    "id": "nm2034347",
+                    "name": "Gemma Griarotti",
+                    "description": "voice dubbing: Lois Maxwell (uncredited)"
+                },
+                {
+                    "id": "nm0346742",
+                    "name": "Antonio Guidi",
+                    "description": "voice dubbing: Bernard Lee (uncredited)"
+                },
+                {
+                    "id": "nm0412871",
+                    "name": "Renato Izzo",
+                    "description": "voice dubbing: Franco Giacobini (uncredited)"
+                },
+                {
+                    "id": "nm0580986",
+                    "name": "Adalberto Maria Merli",
+                    "description": "voice dubbing: Neil Connery (uncredited)"
+                },
+                {
+                    "id": "nm5646483",
+                    "name": "Mirella Pace",
+                    "description": "voice dubbing: Yee-Wah Yang (uncredited)"
+                },
+                {
+                    "id": "nm0818298",
+                    "name": "Alessandro Sperli",
+                    "description": "voice dubbing: Anthony Dawson (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

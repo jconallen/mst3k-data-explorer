@@ -1,0 +1,379 @@
+{
+    "imDbId": "tt0049516",
+    "title": "The Mole People",
+    "fullTitle": "The Mole People (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0900972",
+                "name": "Virgil W. Vogel",
+                "description": "(as Virgil Vogel)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0351444",
+                "name": "László Görög",
+                "description": "(written by) (as Laszlo Gorog)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000730",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzQ2ODc5N15BMl5BanBnXkFtZTcwNjUxMDIyOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Agar",
+            "asCharacter": "Dr. Roger Bentley"
+        },
+        {
+            "id": "nm0665828",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGQ5MjA2ZTMtMmJjZS00NWEzLWIwMzktMDQ3MzljZWZmMzEyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio2.0000_AL_.jpg",
+            "name": "Cynthia Patrick",
+            "asCharacter": "Adad"
+        },
+        {
+            "id": "nm0064604",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTExMTQ5MTQyMzZeQTJeQWpwZ15BbWU3MDAyODI4MTg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Hugh Beaumont",
+            "asCharacter": "Dr. Jud Bellamin"
+        },
+        {
+            "id": "nm0621002",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTgwNjcyMzk3OF5BMl5BanBnXkFtZTcwMzk2NDYxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alan Napier",
+            "asCharacter": "Elinu, the High Priest"
+        },
+        {
+            "id": "nm0656980",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTFkNTFkMGUtZjEwNi00NzYxLTkzOTctNDMzY2ZhZGU1MjBiXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Nestor Paiva",
+            "asCharacter": "Prof. Etienne Lafarge"
+        },
+        {
+            "id": "nm0150418",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk2Nzc1ODMyN15BMl5BanBnXkFtZTcwMTY2NTUyMQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Phil Chambers",
+            "asCharacter": "Dr. Paul Stuart"
+        },
+        {
+            "id": "nm0715192",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzM1OGRkODItYjBiMC00ZmMyLWI5ZGYtOTdkMWVhNWJkNzYwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Rodd Redwing",
+            "asCharacter": "Nazar"
+        },
+        {
+            "id": "nm0400902",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2Nzc0NzcyNV5BMl5BanBnXkFtZTgwMzY0MzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robin Hughes",
+            "asCharacter": "First Officer"
+        },
+        {
+            "id": "nm0062731",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Baxter",
+            "asCharacter": "Self (in introduction) (as Dr. Frank C. Baxter)"
+        },
+        {
+            "id": "nm0008286",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Abdullah",
+            "asCharacter": "Arab Foreman (uncredited)"
+        },
+        {
+            "id": "nm0209597",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yvonne De Lavallade",
+            "asCharacter": "Dancer (uncredited)"
+        },
+        {
+            "id": "nm0230314",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Dodsworth",
+            "asCharacter": "Priest (uncredited)"
+        },
+        {
+            "id": "nm0319588",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arthur D. Gilmour",
+            "asCharacter": "Sharu (uncredited)"
+        },
+        {
+            "id": "nm0358032",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marc Hamilton",
+            "asCharacter": "Priest (uncredited)"
+        },
+        {
+            "id": "nm0380787",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDEyMjRiMTAtYmM3Yy00M2JhLWFmMjEtN2I4OTYyNDgzYmY1XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bob Herron",
+            "asCharacter": "Mole Person (uncredited)"
+        },
+        {
+            "id": "nm0398338",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzU4NjYzMGYtMDc2ZS00MDY2LWFhZjQtZDdhYmQwNDc1YmEzXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bob Hoy",
+            "asCharacter": "Mole Person (uncredited)"
+        },
+        {
+            "id": "nm0476484",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NTMzMTk5M15BMl5BanBnXkFtZTgwMjIyNTg0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Kay E. Kuter",
+            "asCharacter": "Priest (uncredited)"
+        },
+        {
+            "id": "nm5880869",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Logan",
+            "asCharacter": "Officer (uncredited)"
+        },
+        {
+            "id": "nm0587968",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Billy Miller",
+            "asCharacter": "Arab Boy (uncredited)"
+        },
+        {
+            "id": "nm0662219",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDJhZmFkMzYtMWU1NC00YjY3LWI4ODQtMzM5NjRkOWZmOGE5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eddie Parker",
+            "asCharacter": "Mole Person (uncredited)"
+        },
+        {
+            "id": "nm0748217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Rubino",
+            "asCharacter": "Mole Person (uncredited)"
+        },
+        {
+            "id": "nm0926691",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTliZGVkZGUtOWRlNy00YWMyLTgxYWYtNDk0ZTczZjZhMzQxXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Patrick Whyte",
+            "asCharacter": "Guard (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0020041",
+                    "name": "William Alland",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006257",
+                    "name": "Heinz Roemheld",
+                    "description": "(uncredited)"
+                },
+                {
+                    "id": "nm0006270",
+                    "name": "Hans J. Salter",
+                    "description": "(uncredited)"
+                },
+                {
+                    "id": "nm0006299",
+                    "name": "Herman Stein",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0141608",
+                    "name": "Ellis W. Carter",
+                    "description": "director of photography (as Ellis Carter)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0083683",
+                    "name": "Irving Birnbaum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0326529",
+                    "name": "Alexander Golitzen",
+                    "description": ""
+                },
+                {
+                    "id": "nm0809757",
+                    "name": "Robert Emmet Smith",
+                    "description": "(as Robert E. Smith)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0310199",
+                    "name": "Russell A. Gausman",
+                    "description": ""
+                },
+                {
+                    "id": "nm0492654",
+                    "name": "Carl J. Lawrence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0605858",
+                    "name": "Jay A. Morley Jr.",
+                    "description": "(gowns)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0820772",
+                    "name": "Joan St. Oegger",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0922863",
+                    "name": "Bud Westmore",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0143202",
+                    "name": "E. Thomas Case",
+                    "description": "makeup artist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0740011",
+                    "name": "Ronald R. Rondell",
+                    "description": "assistant director (as Ronnie Rondell)"
+                },
+                {
+                    "id": "nm0766410",
+                    "name": "Bruce Satterlee",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0136989",
+                    "name": "Leslie I. Carey",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0860778",
+                    "name": "Tommy Thompson",
+                    "description": "sound (as Thomas N. Thompson)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0106701",
+                    "name": "Norman Breedlove",
+                    "description": "special effects technician (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0664017",
+                    "name": "Regis Parton",
+                    "description": "stunts (uncredited)"
+                },
+                {
+                    "id": "nm0733420",
+                    "name": "George Robotham",
+                    "description": "stunts (uncredited)"
+                },
+                {
+                    "id": "nm0834931",
+                    "name": "Fred Stromsoe",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0830411",
+                    "name": "Clifford Stine",
+                    "description": "special photography"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0314829",
+                    "name": "Joseph Gershenson",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm5948860",
+                    "name": "Ethmer Roten",
+                    "description": "musician (uncredited)"
+                },
+                {
+                    "id": "nm0848681",
+                    "name": "David Tamkin",
+                    "description": "orchestrator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                },
+                {
+                    "id": "nm0450667",
+                    "name": "Jack Kevan",
+                    "description": "mask maker: mole people masks (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

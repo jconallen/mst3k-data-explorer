@@ -1,0 +1,305 @@
+{
+    "imDbId": "tt0052289",
+    "title": "The Thing That Couldn't Die",
+    "fullTitle": "The Thing That Couldn't Die (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0184648",
+                "name": "Will Cowan",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0241949",
+                "name": "David Duncan",
+                "description": "(written by)"
+            },
+            {
+                "id": "nm0241949",
+                "name": "David Duncan",
+                "description": "(story \"The Water Witch\") (uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0721999",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDA1NjI1Ml5BMl5BanBnXkFtZTgwMDIwMTQ2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "William Reynolds",
+            "asCharacter": "Gordon Hawthorne"
+        },
+        {
+            "id": "nm0551907",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTVmNDc0MTQtNjhlNy00OWQzLWJmZmMtYjIwNWJiZGI2NGUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Andra Martin",
+            "asCharacter": "Linda Madison"
+        },
+        {
+            "id": "nm0284822",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjYzODRhYTEtNzM3Ny00ZWI4LTg4YWEtZjc5NWVlNGZmYjUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jeffrey Stone",
+            "asCharacter": "Hank Huston"
+        },
+        {
+            "id": "nm0443920",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGJiODI1MjktMWQ4Yy00YTU3LWJhYjQtZDE5ODRkZmMzZDBlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Carolyn Kearney",
+            "asCharacter": "Jessica Burns"
+        },
+        {
+            "id": "nm0176592",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peggy Converse",
+            "asCharacter": "Flavia McIntyre"
+        },
+        {
+            "id": "nm0400902",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2Nzc0NzcyNV5BMl5BanBnXkFtZTgwMzY0MzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robin Hughes",
+            "asCharacter": "Gideon Drew"
+        },
+        {
+            "id": "nm0026841",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTM0NjQzMjItZTQwMC00NGM4LTg5OGQtY2Q4ZGE3ZGM3ZmI2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "James Anderson",
+            "asCharacter": "Boyd Abercrombie"
+        },
+        {
+            "id": "nm0395731",
+            "image": "https://m.media-amazon.com/images/M/MV5BZThhMzQwZTAtZGFmNi00MzM3LWJlODktM2Y3M2NjZWZmZTU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Charles Horvath",
+            "asCharacter": "Mike"
+        },
+        {
+            "id": "nm0507189",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc4MTgxMzExNV5BMl5BanBnXkFtZTgwOTA5Nzg3MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Forrest Lewis",
+            "asCharacter": "Julian Ash"
+        },
+        {
+            "id": "nm0018438",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Alexander",
+            "asCharacter": "Guard (uncredited)"
+        },
+        {
+            "id": "nm0367677",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM4MmRkNzktM2RjZC00ZDU4LWIwZGUtNzYyMjI0ODMwZGQ4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Phil Harvey",
+            "asCharacter": "Trooper Kennedy (uncredited)"
+        },
+        {
+            "id": "nm0378015",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Thomas Browne Henry",
+            "asCharacter": "Galleon Capt. Fletcher (uncredited)"
+        },
+        {
+            "id": "nm0905514",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stuart Wade",
+            "asCharacter": "Trooper Swanson (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0184648",
+                    "name": "Will Cowan",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0000049",
+                    "name": "Henry Mancini",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005797",
+                    "name": "Russell Metty",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0193562",
+                    "name": "Edward Curtiss",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0326529",
+                    "name": "Alexander Golitzen",
+                    "description": ""
+                },
+                {
+                    "id": "nm0649417",
+                    "name": "Eric Orbom",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0310199",
+                    "name": "Russell A. Gausman",
+                    "description": ""
+                },
+                {
+                    "id": "nm0380243",
+                    "name": "Julia Heron",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0858528",
+                    "name": "Bill Thomas",
+                    "description": "(gowns)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0922863",
+                    "name": "Bud Westmore",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0338135",
+                    "name": "Marshall Green",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm4787107",
+                    "name": "William Mozier",
+                    "description": "assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0136989",
+                    "name": "Leslie I. Carey",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0929382",
+                    "name": "Frank H. Wilkinson",
+                    "description": "sound (as Frank Wilkinson)"
+                },
+                {
+                    "id": "nm0431389",
+                    "name": "Corson Jowett",
+                    "description": "sound (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0830411",
+                    "name": "Clifford Stine",
+                    "description": "special photography"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0314829",
+                    "name": "Joseph Gershenson",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0006098",
+                    "name": "Irving Gertz",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm5948860",
+                    "name": "Ethmer Roten",
+                    "description": "musician: flute (uncredited)"
+                },
+                {
+                    "id": "nm0006270",
+                    "name": "Hans J. Salter",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0006299",
+                    "name": "Herman Stein",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0690850",
+                    "name": "Luanna S. Poole",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0078532",
+                    "name": "Irvin Berwick",
+                    "description": "dialogue coach (uncredited)"
+                },
+                {
+                    "id": "nm5968706",
+                    "name": "Reynold Brown",
+                    "description": "movie poster art (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

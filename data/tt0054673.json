@@ -1,0 +1,338 @@
+{
+    "imDbId": "tt0054673",
+    "title": "The Beast of Yucca Flats",
+    "fullTitle": "The Beast of Yucca Flats (1961)",
+    "type": "Movie",
+    "year": "1961",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0290118",
+                "name": "Coleman Francis",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0290118",
+                "name": "Coleman Francis",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0578108",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Douglas Mellor",
+            "asCharacter": "Hank Radcliffe"
+        },
+        {
+            "id": "nm0290087",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barbara Francis",
+            "asCharacter": "Lois Radcliffe"
+        },
+        {
+            "id": "nm0821248",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bing Stafford",
+            "asCharacter": "Jim Archer"
+        },
+        {
+            "id": "nm0040358",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larry Aten",
+            "asCharacter": "Joe Dobson"
+        },
+        {
+            "id": "nm0081399",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Linda Bielema",
+            "asCharacter": "Wife on Vacation"
+        },
+        {
+            "id": "nm0290304",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ronald Francis",
+            "asCharacter": "Randy Radcliffe"
+        },
+        {
+            "id": "nm0290062",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Francis",
+            "asCharacter": "Art Radcliffe"
+        },
+        {
+            "id": "nm0136707",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony Cardoza",
+            "asCharacter": "KGB Driver / Helpful Neighbor (as Tony Cardoza)"
+        },
+        {
+            "id": "nm0479317",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Labansat",
+            "asCharacter": "Javorsky's Bodyguard"
+        },
+        {
+            "id": "nm0646471",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Oliphant",
+            "asCharacter": "Husband on Vacation"
+        },
+        {
+            "id": "nm0607194",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Morrison",
+            "asCharacter": "KGB Passenger"
+        },
+        {
+            "id": "nm0866798",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eric Tomlin",
+            "asCharacter": "Driver Run Off Road"
+        },
+        {
+            "id": "nm0587150",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Miles",
+            "asCharacter": "Javorsky's Driver"
+        },
+        {
+            "id": "nm0697654",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Prince",
+            "asCharacter": "Man Who Reports Murder (as George Principe)"
+        },
+        {
+            "id": "nm0111926",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Conrad Brooks",
+            "asCharacter": "Man at Airfield"
+        },
+        {
+            "id": "nm0821283",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Graham Stafford",
+            "asCharacter": "News Boy"
+        },
+        {
+            "id": "nm0426363",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTIxMDc4NDE3M15BMl5BanBnXkFtZTgwNDI5NzMwNjM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Tor Johnson",
+            "asCharacter": "Joseph Javorsky / The Beast"
+        },
+        {
+            "id": "nm0290118",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Coleman Francis",
+            "asCharacter": "Narrator / Gas Station Attendant / Man Buying Newspaper (uncredited)"
+        },
+        {
+            "id": "nm0461004",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI5MTMzMmEtYTQzMC00MDQyLTkwODAtYjUzZGJlYjVjYzI2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Marcia Knight",
+            "asCharacter": "Jim's Woman (uncredited)"
+        },
+        {
+            "id": "nm1778850",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph Luis Rubin",
+            "asCharacter": "Police Officer (uncredited)"
+        },
+        {
+            "id": "nm8980977",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mary Torres",
+            "asCharacter": "Woman Strangled in Opening Scene (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0040358",
+                    "name": "Larry Aten",
+                    "description": "associate producer (as Laurence Aten)"
+                },
+                {
+                    "id": "nm0136707",
+                    "name": "Anthony Cardoza",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0290118",
+                    "name": "Coleman Francis",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0605585",
+                    "name": "Roland Morin",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0646471",
+                    "name": "Jim Oliphant",
+                    "description": "executive producer (as James Oliphant)"
+                },
+                {
+                    "id": "nm0821248",
+                    "name": "Bing Stafford",
+                    "description": "associate producer (as Charles Stafford)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0619039",
+                    "name": "Irwin Nafshun",
+                    "description": ""
+                },
+                {
+                    "id": "nm0718946",
+                    "name": "Al Remington",
+                    "description": ""
+                },
+                {
+                    "id": "nm0441991",
+                    "name": "Gene Kauer",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0128538",
+                    "name": "John Cagle",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0290118",
+                    "name": "Coleman Francis",
+                    "description": "(as C. Francis)"
+                },
+                {
+                    "id": "nm0136707",
+                    "name": "Anthony Cardoza",
+                    "description": "(uncredited)"
+                },
+                {
+                    "id": "nm0571849",
+                    "name": "Austin McKinney",
+                    "description": "(uncredited)"
+                },
+                {
+                    "id": "nm0835101",
+                    "name": "Lee Strosnider",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0040358",
+                    "name": "Larry Aten",
+                    "description": "makeup artist (as L. Aten)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0571849",
+                    "name": "Austin McKinney",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0571849",
+                    "name": "Austin McKinney",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0595407",
+                    "name": "Titus Moede",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm0835101",
+                    "name": "Lee Strosnider",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0580296",
+                    "name": "Ray Mercer",
+                    "description": "film effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0835101",
+                    "name": "Lee Strosnider",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0136707",
+                    "name": "Anthony Cardoza",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm0152719",
+                    "name": "Theodore Charach",
+                    "description": "publicist (as Ted Charach)"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm4211671",
+                    "name": "John Grant",
+                    "description": "special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

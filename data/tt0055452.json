@@ -1,0 +1,356 @@
+{
+    "imDbId": "tt0055452",
+    "title": "The Sinister Urge",
+    "fullTitle": "The Sinister Urge (1960)",
+    "type": "Movie",
+    "year": "1960",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000248",
+                "name": "Edward D. Wood Jr.",
+                "description": "(as E.D. Wood)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0000248",
+                "name": "Edward D. Wood Jr.",
+                "description": "(as E.D. Wood)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0242010",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGM2OWJiYjYtNDdhMi00NGQ1LTkxYjAtMmIxODM4MDhjMDIxL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kenne Duncan",
+            "asCharacter": "Lt. Matt Carson"
+        },
+        {
+            "id": "nm0601146",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Duke Moore",
+            "asCharacter": "Sgt. Randy Stone (as James 'Duke' Moore)"
+        },
+        {
+            "id": "nm0284814",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jean Fontaine",
+            "asCharacter": "Gloria Henderson"
+        },
+        {
+            "id": "nm0030838",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carl Anthony",
+            "asCharacter": "Johnny Ryde"
+        },
+        {
+            "id": "nm0266919",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dino Fantini",
+            "asCharacter": "Dirk Williams"
+        },
+        {
+            "id": "nm0929642",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeanne Willardson",
+            "asCharacter": "Mary Smith"
+        },
+        {
+            "id": "nm0242587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harvey B. Dunn",
+            "asCharacter": "Mr. Romaine"
+        },
+        {
+            "id": "nm0398139",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjUzZmYxNmEtYTUwNi00NDkwLTk0YjQtMjQ2ZmJiZTkxMzgyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reed Howes",
+            "asCharacter": "Police Inspector"
+        },
+        {
+            "id": "nm0556711",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fred Mason",
+            "asCharacter": "Officer Kline"
+        },
+        {
+            "id": "nm0569143",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vic McGee",
+            "asCharacter": "Syndicate man"
+        },
+        {
+            "id": "nm0444171",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmNiOWJlYWQtZjk2OS00NGEzLWJlZmYtNWIxMmQ0Zjk3ZTRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harry Keaton",
+            "asCharacter": "Jaffe (as Harry Keatan)"
+        },
+        {
+            "id": "nm0111926",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgxNTE2OTg3NF5BMl5BanBnXkFtZTgwMDM3MDYzNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Conrad Brooks",
+            "asCharacter": "Connie"
+        },
+        {
+            "id": "nm2107352",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vickie Baker",
+            "asCharacter": "Kid at Diner (uncredited)"
+        },
+        {
+            "id": "nm0054382",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jean Baree",
+            "asCharacter": "Policeman (uncredited)"
+        },
+        {
+            "id": "nm0066018",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Henry Bederski",
+            "asCharacter": "Kid at Diner (uncredited)"
+        },
+        {
+            "id": "nm0066219",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Honey Bee",
+            "asCharacter": "Kid at Diner (uncredited)"
+        },
+        {
+            "id": "nm0073293",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Judy Berares",
+            "asCharacter": "Frances (uncredited)"
+        },
+        {
+            "id": "nm2128858",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Betty Boatner",
+            "asCharacter": "Shirley (uncredited)"
+        },
+        {
+            "id": "nm1162126",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Carpenter",
+            "asCharacter": "Kid at Diner (uncredited)"
+        },
+        {
+            "id": "nm0182619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toni Costello",
+            "asCharacter": "Model (uncredited)"
+        },
+        {
+            "id": "nm2127258",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carole Gallos",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2110430",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Claudette Gifford",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2135091",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Henry Kekoanui",
+            "asCharacter": "Dark Stud (uncredited)"
+        },
+        {
+            "id": "nm1572908",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rick Lamson",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2131111",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carmen Lee",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0528613",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "April Lynn",
+            "asCharacter": "Model (uncredited)"
+        },
+        {
+            "id": "nm2111878",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Main",
+            "asCharacter": "Paul (uncredited)"
+        },
+        {
+            "id": "nm0546451",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sylvia Marenco",
+            "asCharacter": "Model (uncredited)"
+        },
+        {
+            "id": "nm2109789",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Candy Paige",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0669491",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clayton Peca",
+            "asCharacter": "Undercover Policeman (uncredited)"
+        },
+        {
+            "id": "nm0709627",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kathy Randall",
+            "asCharacter": "Model (uncredited)"
+        },
+        {
+            "id": "nm0713339",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nick Raymond",
+            "asCharacter": "Syndicate Man #2 (uncredited)"
+        },
+        {
+            "id": "nm0812147",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Oma Soffian",
+            "asCharacter": "Nurse (uncredited)"
+        },
+        {
+            "id": "nm2132232",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Raphael Sporer",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm0823618",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vonnie Starr",
+            "asCharacter": "Secretary (uncredited)"
+        },
+        {
+            "id": "nm0908130",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rhea Walker",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2128487",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Page Ward",
+            "asCharacter": "(uncredited)"
+        },
+        {
+            "id": "nm2134423",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenneth Willardson",
+            "asCharacter": "Theatrical Agent (uncredited)"
+        },
+        {
+            "id": "nm0000248",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMzNjEwODY1OF5BMl5BanBnXkFtZTcwNDAxMDgxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Edward D. Wood Jr.",
+            "asCharacter": "Man in Fight (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0717411",
+                    "name": "Roy Reid",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0000248",
+                    "name": "Edward D. Wood Jr.",
+                    "description": "associate producer (as E.D. Wood)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0290395",
+                    "name": "Michael Terr",
+                    "description": "(as Manuel Francisco)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0860847",
+                    "name": "William C. Thompson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm3321252",
+                    "name": "J.B. Finch",
+                    "description": "set dresser"
+                },
+                {
+                    "id": "nm3322464",
+                    "name": "Jerome Lapari",
+                    "description": "set designer"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0465771",
+                    "name": "Sam Kopetzky",
+                    "description": "sound mixer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0580296",
+                    "name": "Ray Mercer",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0809038",
+                    "name": "Larry Smith",
+                    "description": "still photographer"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0950234",
+                    "name": "Eileen Younger",
+                    "description": "wardrobe"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

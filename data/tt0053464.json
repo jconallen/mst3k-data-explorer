@@ -1,0 +1,251 @@
+{
+    "imDbId": "tt0053464",
+    "title": "Prince of Space",
+    "fullTitle": "Prince of Space (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0906687",
+                "name": "Eijirô Wakabayashi",
+                "description": "(as E. Wakabayashi)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0407008",
+                "name": "Masaru Igami",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0605734",
+                "name": "Shin Morita",
+                "description": "(writer)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0880857",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tatsuo Umemiya",
+            "asCharacter": "Yûsei ôji / Waku-san (as Tatsuo Unemiya)"
+        },
+        {
+            "id": "nm0591093",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroko Mine",
+            "asCharacter": "Sachko Shibasaki"
+        },
+        {
+            "id": "nm0437176",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWVlZDBiOGYtZDc2My00YWJkLTllYTEtMzU5MjMxODg4ZjEyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Takashi Kanda",
+            "asCharacter": "Inspector Takeda"
+        },
+        {
+            "id": "nm0015110",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ushio Akashi",
+            "asCharacter": "Dr. Maki (as Ushio Skashi)"
+        },
+        {
+            "id": "nm1839828",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Hasebe",
+            "asCharacter": "Newsreporter Tabei"
+        },
+        {
+            "id": "nm1172718",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWIxMWVjMTAtZTE5NC00ZjU4LWI2MTQtMjNhYzM0YWRhYzM1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Junji Masuda",
+            "asCharacter": "Colonel Watanabe"
+        },
+        {
+            "id": "nm0591540",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jôji Oka",
+            "asCharacter": "Ambassador Maboroshi / Maboroshi taishi"
+        },
+        {
+            "id": "nm6368272",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Asami",
+            "asCharacter": "Dr. Maki's Son Ichirô , the boy"
+        },
+        {
+            "id": "nm0412526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rikiya Iwaki",
+            "asCharacter": "Ambassador Maboroshi's Henchman M2 (as Riki Iwaki)"
+        },
+        {
+            "id": "nm5611961",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Katayama",
+            "asCharacter": "Doctor Naitô"
+        },
+        {
+            "id": "nm3495030",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yûji Kitamine",
+            "asCharacter": "Newsreporter A"
+        },
+        {
+            "id": "nm6368273",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kôji Komori",
+            "asCharacter": "Makoto - Shoeshine Boy"
+        },
+        {
+            "id": "nm1839924",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tokio Kozuka",
+            "asCharacter": "Tsunoda"
+        },
+        {
+            "id": "nm5910130",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroshi Mihara",
+            "asCharacter": "Ambassador Maboroshi's Henchman M10"
+        },
+        {
+            "id": "nm4461862",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tadashi Minamikawa",
+            "asCharacter": "Major Munakata"
+        },
+        {
+            "id": "nm1703407",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kaoru Nakano",
+            "asCharacter": "Mrs. Tateishi"
+        },
+        {
+            "id": "nm1390860",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masahiko Naruse",
+            "asCharacter": "Shibasaki"
+        },
+        {
+            "id": "nm0649851",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Junkichi Orimoto",
+            "asCharacter": "Colonel Matsuda"
+        },
+        {
+            "id": "nm0756866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shikô Saitô",
+            "asCharacter": "Director General of the Defense Agency Fukuhara"
+        },
+        {
+            "id": "nm3948264",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzdhYzQ3ODItYzdkMS00MTZjLTliY2MtNWEyZTE0ZWMyODVjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Ken Sawaaki",
+            "asCharacter": "Commander Kôda"
+        },
+        {
+            "id": "nm3495891",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shûsuke Sone",
+            "asCharacter": "Dr. Tateishi"
+        },
+        {
+            "id": "nm1245909",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Sudô",
+            "asCharacter": "Mukai (as Ken Sudoh)"
+        },
+        {
+            "id": "nm3320959",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Giichi Sugi",
+            "asCharacter": "Newsreporter Tôno (as Yoshikazu Sugi)"
+        },
+        {
+            "id": "nm1728016",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Tatematsu",
+            "asCharacter": "Sawamoto"
+        },
+        {
+            "id": "nm4824019",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenji Todoroki",
+            "asCharacter": "Ambassador Maboroshi's Henchman M8"
+        },
+        {
+            "id": "nm3743002",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Midori Tsuzuki",
+            "asCharacter": "Kimiko - Shoeshine Girl"
+        },
+        {
+            "id": "nm0945470",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rin'ichi Yamamoto",
+            "asCharacter": "Detective Kawashima"
+        },
+        {
+            "id": "nm1246183",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nobu Yatsuna",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5046572",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Walker Churchman",
+            "asCharacter": "Pilot (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0542607",
+                    "name": "Walter Manley",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0369068",
+                    "name": "Katsuhisa Hattori",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0407359",
+                    "name": "Masahiko Iimura",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm1915521",
+                    "name": "Shûshi Nakamura",
+                    "description": "(as Shûichirô Nakamura)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

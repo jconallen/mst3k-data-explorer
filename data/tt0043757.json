@@ -1,0 +1,317 @@
+{
+    "imDbId": "tt0043757",
+    "title": "Lost Continent",
+    "fullTitle": "Lost Continent (1951)",
+    "type": "Movie",
+    "year": "1951",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0627864",
+                "name": "Sam Newfield",
+                "description": "(as Samuel Newfield)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0484479",
+                "name": "Richard H. Landau",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0949363",
+                "name": "Carroll Young",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0359034",
+                "name": "Orville H. Hampton",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0003110",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU5NjE3ODgzOV5BMl5BanBnXkFtZTcwMDMyOTkxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cesar Romero",
+            "asCharacter": "Maj. Joe Nolan"
+        },
+        {
+            "id": "nm0111702",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODYxNjQ1M15BMl5BanBnXkFtZTgwMjQxNjY4MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Hillary Brooke",
+            "asCharacter": "Marla Stevens"
+        },
+        {
+            "id": "nm0151334",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU0ODkzMTgyNF5BMl5BanBnXkFtZTcwOTQ0NDUyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chick Chandler",
+            "asCharacter": "Lt. Danny Wilson"
+        },
+        {
+            "id": "nm0398466",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDEzNTM3MF5BMl5BanBnXkFtZTcwNTk1MjYxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Hoyt",
+            "asCharacter": "Michael Rostov"
+        },
+        {
+            "id": "nm0010270",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk2MTkzNjIyNV5BMl5BanBnXkFtZTcwNjc2NjAyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Acquanetta",
+            "asCharacter": "Native Girl"
+        },
+        {
+            "id": "nm0578412",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjYxNjg0Ml5BMl5BanBnXkFtZTcwNTkyMDYzNw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Sid Melton",
+            "asCharacter": "Sgt. Willie Tatlow"
+        },
+        {
+            "id": "nm0000946",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTEwNzAwOTU4NTdeQTJeQWpwZ15BbWU3MDE0NDI2MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Whit Bissell",
+            "asCharacter": "Stanley Briggs"
+        },
+        {
+            "id": "nm0064604",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTExMTQ5MTQyMzZeQTJeQWpwZ15BbWU3MDAyODI4MTg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Hugh Beaumont",
+            "asCharacter": "Robert Phillips"
+        },
+        {
+            "id": "nm0022367",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjEzNzUwYjQtNjZiNi00NjM0LWFmYWItMGFmM2NjMTA4MjUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Murray Alper",
+            "asCharacter": "Air Police Sergeant"
+        },
+        {
+            "id": "nm0338413",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William E. Green",
+            "asCharacter": "Simmons (as William Gren)"
+        },
+        {
+            "id": "nm0103362",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Bradley",
+            "asCharacter": "Officer at Proving Grounds (uncredited)"
+        },
+        {
+            "id": "nm0385983",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ed Hinton",
+            "asCharacter": "Officer at Proving Grounds (uncredited)"
+        },
+        {
+            "id": "nm0397739",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEzNjQwMzE3MV5BMl5BanBnXkFtZTgwMTE5OTU2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Clark Howat",
+            "asCharacter": "Naval Captain (uncredited)"
+        },
+        {
+            "id": "nm0424793",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkyZDBlM2QtYmNiNC00ZmM5LTk1ZDktNzI1MjYwYjI0NGI5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chubby Johnson",
+            "asCharacter": "Bunker 'Suit' (uncredited) (unconfirmed)"
+        },
+        {
+            "id": "nm0828260",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmE1NzMyZjgtMTA2OC00MTc3LWIwZjktNGRlMjBhYjQzYzRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bert Stevens",
+            "asCharacter": "Officer at Proving Grounds (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0498816",
+                    "name": "Jack Leewood",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0513621",
+                    "name": "Robert L. Lippert",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0626892",
+                    "name": "Sigmund Neufeld",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005728",
+                    "name": "Jack Greenhalgh",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0128724",
+                    "name": "Philip Cahn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0843146",
+                    "name": "Frank Paul Sylos",
+                    "description": "(as F. Paul Sylos)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0743449",
+                    "name": "Harry Ross",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0827892",
+                    "name": "Bert Sternbach",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0626893",
+                    "name": "Stanley Neufeld",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0355751",
+                    "name": "John D. Hall",
+                    "description": "sound effects editor (as John Hall)"
+                },
+                {
+                    "id": "nm0490538",
+                    "name": "Fred Lau",
+                    "description": "sound mixer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0517846",
+                    "name": "Augie Lohman",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0580296",
+                    "name": "Ray Mercer",
+                    "description": "opticals"
+                },
+                {
+                    "id": "nm0621999",
+                    "name": "Edward Nassour",
+                    "description": "animation supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0075301",
+                    "name": "Alfred Berke",
+                    "description": "wardrobe supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0256371",
+                    "name": "George C. Emick",
+                    "description": "music editor"
+                },
+                {
+                    "id": "nm2068130",
+                    "name": "Lloyd Basham",
+                    "description": "orchestrator (uncredited)"
+                },
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": "conductor (uncredited)"
+                },
+                {
+                    "id": "nm0608033",
+                    "name": "Lawrence Morton",
+                    "description": "orchestrator (uncredited)"
+                },
+                {
+                    "id": "nm0704625",
+                    "name": "Leonid Raab",
+                    "description": "orchestrator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0359034",
+                    "name": "Orville H. Hampton",
+                    "description": "dialogue supervisor"
+                },
+                {
+                    "id": "nm0513621",
+                    "name": "Robert L. Lippert",
+                    "description": "presenter"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

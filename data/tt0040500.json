@@ -1,0 +1,306 @@
+{
+    "imDbId": "tt0040500",
+    "title": "Jungle Goddess",
+    "fullTitle": "Jungle Goddess (1948)",
+    "type": "Movie",
+    "year": "1948",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0172485",
+                "name": "Lewis D. Collins",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0656048",
+                "name": "Jo Pagano",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0827187",
+                "name": "William Stephens",
+                "description": "(idea)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0001660",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODg0OTg3Ml5BMl5BanBnXkFtZTcwOTMzMTkyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Reeves",
+            "asCharacter": "Mike Patton"
+        },
+        {
+            "id": "nm0571085",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTkwYzE4ZWUtNzc4Ni00ZmEzLTllMTgtZmVkYzllYjRjNWJkXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Wanda McKay",
+            "asCharacter": "Greta Vanderhorn"
+        },
+        {
+            "id": "nm0126049",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjMwNjUxZjMtMjFhNS00OTc2LTllNGQtYzFhYmQwMTk2OGJkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ralph Byrd",
+            "asCharacter": "Bob Simpson"
+        },
+        {
+            "id": "nm0035467",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmY2MmMyYTgtMGEyZC00ZGYwLTk5ODktNTFjOTBhY2ZkZTU0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Armida",
+            "asCharacter": "Wanama"
+        },
+        {
+            "id": "nm0925929",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEwNjMzNzUzNl5BMl5BanBnXkFtZTgwMTM5NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Smoki Whitfield",
+            "asCharacter": "Oolonga the Witch Doctor"
+        },
+        {
+            "id": "nm0145264",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dolores Castle",
+            "asCharacter": "Yvonne"
+        },
+        {
+            "id": "nm0090403",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTM4MmQyYjctZjYzNi00NmY4LWI4NzUtZGYxZjFhNzZjYmY5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Rudy Robles",
+            "asCharacter": "Nugara"
+        },
+        {
+            "id": "nm0425647",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGI5ZGMzYWUtMTNjOS00NzI0LWE5ZTEtMzMxNzI1ZTE2OWNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Linda Leighton",
+            "asCharacter": "Helen Phillips (as Linda Johnson)"
+        },
+        {
+            "id": "nm0335440",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Helena Grant",
+            "asCharacter": "Mrs. Fitzhugh"
+        },
+        {
+            "id": "nm0168032",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWRlZDFlZjQtMDBmMC00M2MzLWFiN2QtNzUyODc4ZjE2NmNkXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Fred Coby",
+            "asCharacter": "Pilot"
+        },
+        {
+            "id": "nm0174796",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Onest Conley",
+            "asCharacter": "Drummer"
+        },
+        {
+            "id": "nm0931956",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Zack Williams",
+            "asCharacter": "Chief M'benga"
+        },
+        {
+            "id": "nm0140839",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jack Carroll",
+            "asCharacter": "Accompanist"
+        },
+        {
+            "id": "nm0318102",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Gilbert",
+            "asCharacter": "Bar Patron (uncredited)"
+        },
+        {
+            "id": "nm0352914",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjk4NmZmZWUtMzMyZS00MTY0LThkNjUtNGEzYWQ4ZTJlNzc5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Reed Hadley",
+            "asCharacter": "Radio Newscaster (uncredited)"
+        },
+        {
+            "id": "nm0365039",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWM4OTUyMTgtMmNlNS00ZDk5LWI2YWMtNTg2YTI0ODRjYTZiXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0909_AL_.jpg",
+            "name": "Sam Harris",
+            "asCharacter": "Bar Patron (uncredited)"
+        },
+        {
+            "id": "nm8888051",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Lewis",
+            "asCharacter": "Native (uncredited)"
+        },
+        {
+            "id": "nm0639444",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmIzZDQxZjMtZjgxNi00YTc1LTgwZGEtMWQ0N2Q5YWE2ZDUyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "William H. O'Brien",
+            "asCharacter": "Bartender (uncredited)"
+        },
+        {
+            "id": "nm0725920",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjdmNWUxZWQtM2M2MC00OWUyLWEzNzUtNzM3NTRiYmU1NzYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Suzanne Ridgway",
+            "asCharacter": "Bar Patron (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0827187",
+                    "name": "William Stephens",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006098",
+                    "name": "Irving Gertz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0074134",
+                    "name": "Carl Berger",
+                    "description": "(photography by)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0148574",
+                    "name": "Norman A. Cerf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0643578",
+                    "name": "Martin Obzina",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0817853",
+                    "name": "Alfred E. Spencer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0822261",
+                    "name": "Paul Stanhope",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0796126",
+                    "name": "Melville Shyer",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0322600",
+                    "name": "Glen Glenn",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0824685",
+                    "name": "Tom Steele",
+                    "description": "stunt double: George Reeves (uncredited)"
+                },
+                {
+                    "id": "nm0887975",
+                    "name": "Dale Van Sickel",
+                    "description": "stunt double: Ralph Byrd (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0424600",
+                    "name": "Bill Johnson",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm0663530",
+                    "name": "Fred Parrish",
+                    "description": "still photographer (uncredited)"
+                },
+                {
+                    "id": "nm0929322",
+                    "name": "Vaughn Wilkins",
+                    "description": "camera operator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0006098",
+                    "name": "Irving Gertz",
+                    "description": "conductor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0149542",
+                    "name": "Mary Chaffee",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0513621",
+                    "name": "Robert L. Lippert",
+                    "description": "presenter"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

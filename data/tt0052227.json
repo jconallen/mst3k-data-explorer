@@ -1,0 +1,414 @@
+{
+    "imDbId": "tt0052227",
+    "title": "The Space Children",
+    "fullTitle": "The Space Children (1958)",
+    "type": "Movie",
+    "year": "1958",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000791",
+                "name": "Jack Arnold",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0276869",
+                "name": "Tom Filer",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0774441",
+                "name": "Bernard C. Schoenfeld",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0712935",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjUxMDg4OTEzNV5BMl5BanBnXkFtZTgwOTI4NTM2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Michel Ray",
+            "asCharacter": "Bud Brewster"
+        },
+        {
+            "id": "nm0929965",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDExNTE4NjIwNV5BMl5BanBnXkFtZTcwNDI2NDAyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam Williams",
+            "asCharacter": "Dave Brewster"
+        },
+        {
+            "id": "nm0916423",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NTIxMDkzN15BMl5BanBnXkFtZTgwNDAwMDY2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Peggy Webber",
+            "asCharacter": "Anne Brewster"
+        },
+        {
+            "id": "nm0913335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Johnny Washbrook",
+            "asCharacter": "Tim Gamble"
+        },
+        {
+            "id": "nm0001067",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE0NjgwNTYzMV5BMl5BanBnXkFtZTYwMzc1ODU2._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jackie Coogan",
+            "asCharacter": "Hank Johnson"
+        },
+        {
+            "id": "nm0788353",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGIyOTJkNzktYTkzMy00ZmE2LWFkN2YtOTU0MDIyYWQ5OWIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Richard Shannon",
+            "asCharacter": "Lieutenant Colonel Alan Manley"
+        },
+        {
+            "id": "nm0047450",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQzNzYyOTI1OV5BMl5BanBnXkFtZTcwOTQ1NTUxOA@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Raymond Bailey",
+            "asCharacter": "Dr. Wahrman"
+        },
+        {
+            "id": "nm0221058",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzJiZmEzOGItODU4My00Zjk0LTljNGQtNmFmYzNhMTYwZmM2XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Sandy Descher",
+            "asCharacter": "Eadie Johnson"
+        },
+        {
+            "id": "nm0672074",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg0NDk4OTg5OV5BMl5BanBnXkFtZTcwNTc1NTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Larry Pennell",
+            "asCharacter": "Major Thomas"
+        },
+        {
+            "id": "nm0049975",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDQ3OTcyMTYzN15BMl5BanBnXkFtZTgwOTIzMDUyNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Baldwin",
+            "asCharacter": "Security Officer James"
+        },
+        {
+            "id": "nm0362249",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2UwYzY5ZTQtYzljNi00YmVmLWJhM2YtY2E4ZjY0MzE2YWZkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ty Hardin",
+            "asCharacter": "Sentry (as Ty Hungerford)"
+        },
+        {
+            "id": "nm0426157",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkwNDM1OTQ4MV5BMl5BanBnXkFtZTYwMTUxODg0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Russell Johnson",
+            "asCharacter": "Joe Gamble (as Russell D. Johnson)"
+        },
+        {
+            "id": "nm0047835",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Bair",
+            "asCharacter": "Saul Wahrman"
+        },
+        {
+            "id": "nm0186844",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzNlYmEwYTktMjA2Zi00Y2Q3LThlZTItN2NjMmFiYWFhMTM2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Johnny Crawford",
+            "asCharacter": "Ken Brewster"
+        },
+        {
+            "id": "nm0418152",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTQ1OWE1MjgtYWUzNi00OTRjLTllZTAtNzFmOWM2OGVjOGNlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Eilene Janssen",
+            "asCharacter": "Phyllis Manley"
+        },
+        {
+            "id": "nm0257761",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jean Engstrom",
+            "asCharacter": "Peg Gamble"
+        },
+        {
+            "id": "nm0551256",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDcxMWEwMjUtMWFmYi00ZWEyLTg5MzktNjFiMmM4Y2JjZGNkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vera Marshe",
+            "asCharacter": "Frieda Johnson"
+        },
+        {
+            "id": "nm0026426",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTJjNmI5NDQtOTZlNi00OTg5LTk0NjctMzU0ZGJlNmZiNzJmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Robert Anderson",
+            "asCharacter": "Guard (uncredited)"
+        },
+        {
+            "id": "nm0072536",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzQzMTYyZDctYWQ3MC00YjE2LThmMTMtNGUxMGQyYmMzMjBmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6364_AL_.jpg",
+            "name": "John Benson",
+            "asCharacter": "Sentry #2 (uncredited)"
+        },
+        {
+            "id": "nm0235093",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWZiMGM0YTEtOThmNC00OTMwLTgzNzUtNzY2OWFmMTgyMTJmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "James Douglas",
+            "asCharacter": "Communications Man (uncredited)"
+        },
+        {
+            "id": "nm0308895",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Gary",
+            "asCharacter": "Man at Loudspeaker #1 (uncredited)"
+        },
+        {
+            "id": "nm0356906",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gloria Anne Halper",
+            "asCharacter": "Helen (uncredited)"
+        },
+        {
+            "id": "nm0419593",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Helen Jay",
+            "asCharacter": "Mother (uncredited)"
+        },
+        {
+            "id": "nm0430863",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Howard Joslin",
+            "asCharacter": "Radar Operator (uncredited)"
+        },
+        {
+            "id": "nm0537167",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Mahoney",
+            "asCharacter": "Sergeant Cooper (uncredited)"
+        },
+        {
+            "id": "nm0582401",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzA2YWQ3MzctMWRiYi00MWRhLTk0NmMtMWY1YThjYmY1OTMyXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Burt Metcalfe",
+            "asCharacter": "Guard (uncredited)"
+        },
+        {
+            "id": "nm0605899",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Morley",
+            "asCharacter": "Doctor (uncredited)"
+        },
+        {
+            "id": "nm0624109",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leo Needham",
+            "asCharacter": "Truck Driver (uncredited)"
+        },
+        {
+            "id": "nm0625159",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arvid Nelson",
+            "asCharacter": "Guard (uncredited)"
+        },
+        {
+            "id": "nm0644665",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jimmy Ogg",
+            "asCharacter": "Floor Manager (uncredited)"
+        },
+        {
+            "id": "nm0712733",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Allan Ray",
+            "asCharacter": "Man at Loudspeaker #2 (uncredited)"
+        },
+        {
+            "id": "nm0730808",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alan Roberts",
+            "asCharacter": "Buster (uncredited)"
+        },
+        {
+            "id": "nm0855891",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Terry Terrill",
+            "asCharacter": "Radar Operator (uncredited)"
+        },
+        {
+            "id": "nm0866344",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmZjZWVkZjctMTg2YS00NDkwLTgyMjktMDMwZTFlOTI2MmMzXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sid Tomack",
+            "asCharacter": "Reporter Dan Wicks (uncredited)"
+        },
+        {
+            "id": "nm0869947",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Louis Towers",
+            "asCharacter": "George (uncredited)"
+        },
+        {
+            "id": "nm0908124",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjMwNGJiODAtMjg1MS00YWE5LWE0NTMtOWNjN2IxMGQ0ZDc1L2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Ray Walker",
+            "asCharacter": "Reporter Richard Lloyd (uncredited)"
+        },
+        {
+            "id": "nm0933550",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Wilson",
+            "asCharacter": "Sentry #1 (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0020041",
+                    "name": "William Alland",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0885866",
+                    "name": "Van Cleave",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005768",
+                    "name": "Ernest Laszlo",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0002542",
+                    "name": "Terry O. Morse",
+                    "description": "(as Terry Morse)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0027380",
+                    "name": "Roland Anderson",
+                    "description": ""
+                },
+                {
+                    "id": "nm0673134",
+                    "name": "Hal Pereira",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0173754",
+                    "name": "Sam Comer",
+                    "description": ""
+                },
+                {
+                    "id": "nm0571305",
+                    "name": "Frank R. McKelvy",
+                    "description": "(as Frank McKelvy)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0542596",
+                    "name": "Nellie Manley",
+                    "description": "hair styles supervisor"
+                },
+                {
+                    "id": "nm0922885",
+                    "name": "Wally Westmore",
+                    "description": "makeup supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0611905",
+                    "name": "William Mull",
+                    "description": "unit manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0128429",
+                    "name": "Richard Caffey",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0016192",
+                    "name": "Ray Alba",
+                    "description": "sound editor"
+                },
+                {
+                    "id": "nm0340311",
+                    "name": "Charles Grenzbach",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0936296",
+                    "name": "Philip Wisdom",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0249643",
+                    "name": "Farciot Edouart",
+                    "description": "process photography"
+                },
+                {
+                    "id": "nm0298483",
+                    "name": "John P. Fulton",
+                    "description": "special photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0177514",
+                    "name": "Jack Cookerly",
+                    "description": "musician: organ (uncredited)"
+                },
+                {
+                    "id": "nm0847913",
+                    "name": "Irvin Talbot",
+                    "description": "conductor (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

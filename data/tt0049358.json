@@ -1,0 +1,312 @@
+{
+    "imDbId": "tt0049358",
+    "title": "The Sword and the Dragon",
+    "fullTitle": "The Sword and the Dragon (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0699693",
+                "name": "Aleksandr Ptushko",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0462522",
+                "name": "Mikhail Kochnev",
+                "description": "(writer)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0028308",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzU3MmQ4YjQtZTBiYS00ZDg0LWIwNTktYjllYjBmNTkxOGJkXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Boris Andreyev",
+            "asCharacter": "Ilja Muromets"
+        },
+        {
+            "id": "nm0121969",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTk1YTRjY2ItNzI3MS00MjhjLWFkMTgtOWJhOWIwZWU4OTlmXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio2.5000_AL_.jpg",
+            "name": "Shukur Burkhanov",
+            "asCharacter": "Tsar Kalin"
+        },
+        {
+            "id": "nm0009372",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTkxOGUwNTItOTMxMC00ZDBjLTgyN2YtNGUwN2VmY2FkZDY2XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Andrei Abrikosov",
+            "asCharacter": "Prince Vladimir [Prince Vanda, US]"
+        },
+        {
+            "id": "nm0575956",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWQ0YzNiOTktYThiNS00M2M5LTk2OGQtNTZiMTVlODgyZjM3XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Natalya Medvedeva",
+            "asCharacter": "Princess Apraksia (as N. Medvedeva)"
+        },
+        {
+            "id": "nm0617175",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjM0ODI1ZWYtMWJjMS00N2NkLTlhMmUtY2VkZjVhNjRjNGNjXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Ninel Myshkova",
+            "asCharacter": "Vasilisa [Vilya, US] (as Nelli Myshkova)"
+        },
+        {
+            "id": "nm0554178",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGUzM2NmNDAtMDE3OC00MzViLWExNGQtNzU3ODE0OGJlZTczXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Sergey Martinson",
+            "asCharacter": "Mishatychka (as Sergei Martinson)"
+        },
+        {
+            "id": "nm0245955",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Georgi Dyomin",
+            "asCharacter": "Dobrynya Nikitich"
+        },
+        {
+            "id": "nm0796085",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWIzYWFiZTctZDhmMy00ZWM2LWEzNDMtNzI5MTMzM2E0NWM0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Aleksandr Shvorin",
+            "asCharacter": "Sokolnichek"
+        },
+        {
+            "id": "nm0490266",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWJhNzQ0NWItOTEwOS00M2Y5LWE1ZDUtNTQ5MjY1MmViMDI2XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Nikolai Gladkov",
+            "asCharacter": "Plenchishye"
+        },
+        {
+            "id": "nm0813539",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTk0NzA3MmQtODZlNS00Nzk3LWJkNDctMGY3OGY3ZTVjM2U3XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Vladimir Solovyov",
+            "asCharacter": "Kassyan (as V. Solovyov)"
+        },
+        {
+            "id": "nm0700127",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzU3ZTIzMDgtNjQ4Yi00NTNkLTg2NjctZjNiZDM3YmQ3MDg3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Mikhail Pugovkin",
+            "asCharacter": "Razumets"
+        },
+        {
+            "id": "nm0831641",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MmMyNjMtMjMxNy00NjIwLThkOTEtM2M2MmE3NmNlZThmXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Sergey Stolyarov",
+            "asCharacter": "Aljoscha Popovich"
+        },
+        {
+            "id": "nm0879215",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGViMDYzMWMtNzVkNC00YWMyLWI2NTEtMmM3NGQyNzE5OWJmXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Shamshi Tyumenbayev",
+            "asCharacter": "(as Sh. Tyumenbayev)"
+        },
+        {
+            "id": "nm0246108",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sadykbek Dzhamanov",
+            "asCharacter": "Sartak (as S. Dzhamanov)"
+        },
+        {
+            "id": "nm0878683",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzNjNmVlZjctYjdkOS00ZmE3LTliY2EtMTgyNDkyYmEyZDFiXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Vsevolod Tyagushev",
+            "asCharacter": "Sbrodovich (as V. Tyagushev)"
+        },
+        {
+            "id": "nm0753454",
+            "image": "https://m.media-amazon.com/images/M/MV5BODk2ZDc5NjItMzlkNi00ZmY4LTgzOTItNzg3OTRkMTAyYmZiXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio2.0000_AL_.jpg",
+            "name": "Muratbek Ryskulov",
+            "asCharacter": "(as M. Ryskulov)"
+        },
+        {
+            "id": "nm0034373",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDU0YTIwMDUtYjNhNy00ZWUxLWE2OWYtODc0MmRiZTY1Mjg1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Iya Arepina",
+            "asCharacter": "Alyenushka"
+        },
+        {
+            "id": "nm0041252",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzMzM2FhYjktZmEzNi00ZmQwLWIxMzUtN2I3ODJkMTY2YTAzXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Au-Son-Hi",
+            "asCharacter": "Tugar Dancer"
+        },
+        {
+            "id": "nm0293659",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjZhMmU1ZjktMTE0Mi00MDhjLTk1MzgtNmIyZmU4NzFlZDU0XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Paul Frees",
+            "asCharacter": "Kalin (voice)"
+        },
+        {
+            "id": "nm0908794",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2MDYzODEwNl5BMl5BanBnXkFtZTYwMDY1MzE2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mike Wallace",
+            "asCharacter": "Narrator (US version)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0364901",
+                    "name": "Joseph H. Harris",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0724249",
+                    "name": "Sig Shore",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0904507",
+                    "name": "Damir Vyatich-Berezhnykh",
+                    "description": "producer (as D. Vyatich-Berejnikh)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0606146",
+                    "name": "Igor Morozov",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0475051",
+                    "name": "Yuli Kun",
+                    "description": ""
+                },
+                {
+                    "id": "nm0699076",
+                    "name": "Fyodor Provorov",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0476795",
+                    "name": "Mariya Kuzmina",
+                    "description": "(as M. Kuzmina)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0474761",
+                    "name": "Yevgeni Kumankov",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0472447",
+                    "name": "Olga Kruchinina",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm1349979",
+                    "name": "I. Chechekina",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0476354",
+                    "name": "Gleb Kuznetsov",
+                    "description": "production director (as G.P. Kuznechov)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0043601",
+                    "name": "Ayakina",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0091626",
+                    "name": "V. Bogdankevnich",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0841280",
+                    "name": "Evgeniy Svidetelev",
+                    "description": "special effects designer"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0719571",
+                    "name": "Aleksandr Renkov",
+                    "description": "special effects cinematographer"
+                },
+                {
+                    "id": "nm0871447",
+                    "name": "Boris Travkin",
+                    "description": "special effects cinematographer"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0757177",
+                    "name": "Semon Sakharov",
+                    "description": "conductor (as S. Sakharov)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0484824",
+                    "name": "James Landis",
+                    "description": "dubbing director (US version)"
+                },
+                {
+                    "id": "nm0588922",
+                    "name": "Marvin Miller",
+                    "description": "US dubbing voice"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

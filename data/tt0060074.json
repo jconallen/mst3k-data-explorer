@@ -1,0 +1,320 @@
+{
+    "imDbId": "tt0060074",
+    "title": "Agent for H.A.R.M.",
+    "fullTitle": "Agent for H.A.R.M. (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0652631",
+                "name": "Gerd Oswald",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0731741",
+                "name": "Blair Robertson",
+                "description": "(created by) and"
+            },
+            {
+                "id": "nm0731741",
+                "name": "Blair Robertson",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0725052",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjYzNDIzNl5BMl5BanBnXkFtZTcwNzM4MTMwMg@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Peter Mark Richman",
+            "asCharacter": "Adam Chance (as Mark Richman)"
+        },
+        {
+            "id": "nm0179819",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgwODk5NjE1MF5BMl5BanBnXkFtZTcwMjY3MDgwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Wendell Corey",
+            "asCharacter": "Jim Graff"
+        },
+        {
+            "id": "nm0260722",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzQ3M2FhNmQtNzE5NS00YjdkLThkNmUtZDk3NWMyZDViMDU3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Carl Esmond",
+            "asCharacter": "Prof. Jan Stefánik"
+        },
+        {
+            "id": "nm0099054",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI4ODQ2NzAyMF5BMl5BanBnXkFtZTcwNzkwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Barbara Bouchet",
+            "asCharacter": "Ava Vestok (as Barbara Bouchét)"
+        },
+        {
+            "id": "nm0467170",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTI2YWZkN2ItNzc3Ny00ZDcwLThiM2UtNzdkY2E2MzcwYzg0XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Martin Kosleck",
+            "asCharacter": "Basil Malko"
+        },
+        {
+            "id": "nm0348518",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MDc1ODY2Nl5BMl5BanBnXkFtZTgwMzE3NzAyNzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Aliza Gur",
+            "asCharacter": "Mid-Eastern Contact (as Alizia Gur)"
+        },
+        {
+            "id": "nm0275679",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Donna Michelle",
+            "asCharacter": "Marian"
+        },
+        {
+            "id": "nm0133310",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmU3YzNkNWItYmZlYi00Y2NkLTg0N2ItYzliYzM5YjA3OWJlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rafael Campos",
+            "asCharacter": "Luis"
+        },
+        {
+            "id": "nm0067146",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTk1MjIxMV5BMl5BanBnXkFtZTcwNjE1NTgzNA@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Quarry",
+            "asCharacter": "Borg"
+        },
+        {
+            "id": "nm0232817",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzM3ODY0MDU2Nl5BMl5BanBnXkFtZTcwMDI0MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Donner",
+            "asCharacter": "Morgue Attendant"
+        },
+        {
+            "id": "nm0828789",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steve Stevens",
+            "asCharacter": "Billy"
+        },
+        {
+            "id": "nm0810989",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marc Snegoff",
+            "asCharacter": "Conrad"
+        },
+        {
+            "id": "nm0248111",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjZiNjhhMjEtOTNkYi00ZjFkLTlhMTUtNjVmOWFkYWZmNGUxXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Horst Ebersberg",
+            "asCharacter": "Helgar"
+        },
+        {
+            "id": "nm0025986",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chris Anders",
+            "asCharacter": "Schloss"
+        },
+        {
+            "id": "nm0200431",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ray Dannis",
+            "asCharacter": "Henry Manson"
+        },
+        {
+            "id": "nm0903299",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ronald Von",
+            "asCharacter": "Police Lieutenant"
+        },
+        {
+            "id": "nm0160615",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Christopher",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0730924",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph F. Robertson",
+            "asCharacter": "Assassinated agent (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0009175",
+                    "name": "Edward Finch Abrams",
+                    "description": "associate producer (as Edward F. Abrams)"
+                },
+                {
+                    "id": "nm0058830",
+                    "name": "Jack Bartlett",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0730924",
+                    "name": "Joseph F. Robertson",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0441991",
+                    "name": "Gene Kauer",
+                    "description": ""
+                },
+                {
+                    "id": "nm0480116",
+                    "name": "Douglas M. Lackey",
+                    "description": "(as Douglas Lackey)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0185583",
+                    "name": "James Crabe",
+                    "description": ""
+                },
+                {
+                    "id": "nm0586399",
+                    "name": "Ted V. Mikels",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm1376293",
+                    "name": "D.E. Rollins",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0396523",
+                    "name": "Normand Houle",
+                    "description": "(as Normand Houlé)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0810989",
+                    "name": "Marc Snegoff",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0686340",
+                    "name": "Lou Place",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0548799",
+                    "name": "Dave Marks",
+                    "description": "assistant director (as David Marks)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0137953",
+                    "name": "Ken Carlson",
+                    "description": "sound mixer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0941264",
+                    "name": "Harry Woolman",
+                    "description": "special effects (as Harry S. Woolman)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm4746905",
+                    "name": "Joe Hanwright",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0709015",
+                    "name": "John T. Ramsey",
+                    "description": "key grip (as John Ramsey)"
+                },
+                {
+                    "id": "nm0814809",
+                    "name": "Peter Sorel",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0107717",
+                    "name": "George Breslaw",
+                    "description": "chief electrician (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0605064",
+                    "name": "Tommy Morgan",
+                    "description": "musician: harmonica (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0614130",
+                    "name": "Brianne Murphy",
+                    "description": "script supervisor (as Bri Murphy)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm2845085",
+                    "name": "Ron Terry",
+                    "description": "assistant to producer"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,296 @@
+{
+    "imDbId": "tt0056961",
+    "title": "The Crawling Hand",
+    "fullTitle": "The Crawling Hand (1963)",
+    "type": "Movie",
+    "year": "1963",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0834744",
+                "name": "Herbert L. Strock",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0406857",
+                "name": "Bill Idelson",
+                "description": "(screenplay) (as Wm. Idelson) and"
+            },
+            {
+                "id": "nm0834744",
+                "name": "Herbert L. Strock",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0186510",
+                "name": "Joe Cranston",
+                "description": "(original story) (as Joseph Cranston) &"
+            },
+            {
+                "id": "nm1255905",
+                "name": "Robert Malcolm Young",
+                "description": "(original story) (as Malcolm Young) &"
+            },
+            {
+                "id": "nm0406857",
+                "name": "Bill Idelson",
+                "description": "(original story) (as Wm. Idelson)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0106539",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjUyMjI2MV5BMl5BanBnXkFtZTYwOTA4OTI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Breck",
+            "asCharacter": "Steve Curan"
+        },
+        {
+            "id": "nm0852710",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWU5NjFhMTctNjdkMC00YjBiLWFhZWQtZDMwN2VmNWQwNTI4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kent Taylor",
+            "asCharacter": "Dr. Max Weitzberg"
+        },
+        {
+            "id": "nm0491075",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTE4N2E5MzgtNjNjYy00ZjFiLTk2N2EtZjAwOWY1MTJmM2M1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Rod Lauren",
+            "asCharacter": "Paul Lawrence"
+        },
+        {
+            "id": "nm0001308",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYxMjY1ODIyM15BMl5BanBnXkFtZTcwMTQ1NDg5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alan Hale Jr.",
+            "asCharacter": "Sheriff Townsend (as Alan Hale)"
+        },
+        {
+            "id": "nm0370886",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTA1MDg4MjMtMDM3MS00MjIxLWE1ZDItM2JiNzczMWE2NjI4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Allison Hayes",
+            "asCharacter": "Donna"
+        },
+        {
+            "id": "nm0825136",
+            "image": "https://m.media-amazon.com/images/M/MV5BODdiZTllNmUtMDQzZC00N2VlLTkyZGEtNDIyNDc3NGFiYTNmXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Sirry Steffen",
+            "asCharacter": "Marta Farnstrom"
+        },
+        {
+            "id": "nm0431889",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTdiNDk4ZjYtNjQ5ZC00Y2FjLTlhN2ItMWNiNTU3MjRiNWE2XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Arline Judge",
+            "asCharacter": "Mrs. Hotchkiss"
+        },
+        {
+            "id": "nm0035159",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE0MTI3NTM5NF5BMl5BanBnXkFtZTYwOTExMTM2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Richard Arlen",
+            "asCharacter": "Lee Barrenger"
+        },
+        {
+            "id": "nm0168939",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjEzZGRjOTctMzZjNC00YWQxLWFlMjYtYjg2YzMxMTBlOGFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Tristram Coffin",
+            "asCharacter": "Security Chief Meidel (as Tristam Coffin)"
+        },
+        {
+            "id": "nm0254616",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTRhOTY3NzAtYjc2OS00YjYyLTgwZTItNDlmMTE0NzY2OTdmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ross Elliott",
+            "asCharacter": "Deputy Earl Harrison"
+        },
+        {
+            "id": "nm0428089",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzkwODNlZTEtOTlhYi00MDA3LWEyYzgtNTAwNTczYWMyYzZlXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Stan Jones",
+            "asCharacter": "Funeral Director (as G. Stanley Jones)"
+        },
+        {
+            "id": "nm0701222",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jock Putnam",
+            "asCharacter": "Ambulance Attendant"
+        },
+        {
+            "id": "nm0028559",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andy Andrews",
+            "asCharacter": "Ambulance Attendant"
+        },
+        {
+            "id": "nm0768514",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTQ5YzA1MTUtMWExMi00MDJmLTllOTUtOTM1YzhjOGUyYWI1XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Syd Saylor",
+            "asCharacter": "Soda Shop Owner"
+        },
+        {
+            "id": "nm6941548",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Edward Wermel",
+            "asCharacter": "Prof. Farnstrom"
+        },
+        {
+            "id": "nm0526786",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Beverly Lunsford",
+            "asCharacter": "Patsy Townsend"
+        },
+        {
+            "id": "nm0398386",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Les Hoyle",
+            "asCharacter": "Man"
+        },
+        {
+            "id": "nm0184524",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ashley Cowan",
+            "asCharacter": "Capt. Mel Lockhart (uncredited)"
+        },
+        {
+            "id": "nm0730924",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joseph F. Robertson",
+            "asCharacter": "The Crawling Hand (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0009175",
+                    "name": "Edward Finch Abrams",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0360762",
+                    "name": "Donald J. Hansen",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0730924",
+                    "name": "Joseph F. Robertson",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0804165",
+                    "name": "Marlin Skiles",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0886447",
+                    "name": "Willard Van der Veer",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0834744",
+                    "name": "Herbert L. Strock",
+                    "description": "film editor"
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0828791",
+                    "name": "Steven R. Stevens",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0143587",
+                    "name": "Don L. Cash",
+                    "description": "make up (as Don Cash)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0582221",
+                    "name": "Michael Messinger",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0811447",
+                    "name": "Earl Snyder",
+                    "description": "sound (as J. Earl Snyder)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0241931",
+                    "name": "Charles Duncan",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0864853",
+                    "name": "Robert Tobey",
+                    "description": "additional photographer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0453891",
+                    "name": "Robert L. Kimble",
+                    "description": "assistant film editor (as Robert Kimble)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0649930",
+                    "name": "John Orland",
+                    "description": "production assistant"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,202 @@
+{
+    "imDbId": "tt0062582",
+    "title": "Mighty Jack",
+    "fullTitle": "Mighty Jack (TV Series 1968– )",
+    "type": "TVSeries",
+    "year": "1968",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0756031",
+                "name": "Kazuo Sagawa",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0875212",
+                "name": "Eiji Tsuburaya",
+                "description": "(creator)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0756292",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2NjZWQ4ZGQtZGYwNy00ZDA1LTlhZGItOWY5NDc5NTBmNjBiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Kenji Sahara",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0945314",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Yamaguchi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0023862",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDVlM2JmMTQtZGFlMy00NzcxLTlkNzktOGM5OWEyZjM5Y2ZiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Hideyo Amamoto",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2870543",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc1OTQzNTc4Ml5BMl5BanBnXkFtZTgwNTY1NTEzMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Abdo Apanai",
+            "asCharacter": "Q Scientist (1968) (as Abd Apanai)"
+        },
+        {
+            "id": "nm0047727",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzU3M2M3M2UtYmY1MC00ZjM1LTg4NmYtNzNkNGE1ZDA4MmZhXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Robert Bain",
+            "asCharacter": "FBI Economic Investigator (1968)"
+        },
+        {
+            "id": "nm12777365",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fred Bossart",
+            "asCharacter": "Van Manuel Perez (1968) (as Michael Bossart)"
+        },
+        {
+            "id": "nm12739597",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pierre Caramelo",
+            "asCharacter": "(1968) (as Pierre Karamero)"
+        },
+        {
+            "id": "nm0176693",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harold Conway",
+            "asCharacter": "Q Commander L. (1968)"
+        },
+        {
+            "id": "nm0199361",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Danning",
+            "asCharacter": "Boss Of The Pack (1968)"
+        },
+        {
+            "id": "nm3056702",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jacques Enghien",
+            "asCharacter": "Heinz (1968)"
+        },
+        {
+            "id": "nm1346147",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luigi Fidanza",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0344248",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Franz Gruber",
+            "asCharacter": "Dr. Tachibana's son Fritz (1968)"
+        },
+        {
+            "id": "nm0395077",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hans Horneff",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm12777364",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sam Howard",
+            "asCharacter": "Responsible for Q (1968)"
+        },
+        {
+            "id": "nm12847217",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Salam Khan",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0489609",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruno Lucique",
+            "asCharacter": "Schulz (1968) (as Bruno Luluque)"
+        },
+        {
+            "id": "nm0590906",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroshi Minami",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0619335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenji Nagisa",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0629218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masaya Nihei",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0642916",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ranfan Ou",
+            "asCharacter": "Secretary (1968)"
+        },
+        {
+            "id": "nm1468404",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Celia Paul",
+            "asCharacter": "(1968)"
+        },
+        {
+            "id": "nm0931467",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Williams",
+            "asCharacter": "Joseph Mengel (1968)"
+        },
+        {
+            "id": "nm0652079",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjUzMDc3OGMtYWFjMC00NGQxLWE0ZmUtZTI1OWIwMTY3MGQwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Osman Yusuf",
+            "asCharacter": "Dr. Adams (1968)"
+        },
+        {
+            "id": "nm0653005",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ulf Ôtsuki",
+            "asCharacter": "Q Commander(1968)"
+        },
+        {
+            "id": "nm0022713",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Enver Altenbay",
+            "asCharacter": "Policeman / ... (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Series Music by",
+            "items": [
+                {
+                    "id": "nm0866724",
+                    "name": "Isao Tomita",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Series Special Effects by",
+            "items": [
+                {
+                    "id": "nm0034824",
+                    "name": "Sadamasa Arikawa",
+                    "description": "director of special effects"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

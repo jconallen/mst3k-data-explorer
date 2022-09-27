@@ -1,0 +1,200 @@
+{
+    "imDbId": "tt0043954",
+    "title": "Racket Girls",
+    "fullTitle": "Racket Girls (1951)",
+    "type": "Movie",
+    "year": "1951",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0220645",
+                "name": "Robert C. Dertano",
+                "description": "(as Robert C. Derteno)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0220645",
+                "name": "Robert C. Dertano",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0656306",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peaches Page",
+            "asCharacter": "'Peaches' Page"
+        },
+        {
+            "id": "nm0268350",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Timothy Farrell",
+            "asCharacter": "Umberto Scalli"
+        },
+        {
+            "id": "nm0607770",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Clara Mortensen",
+            "asCharacter": "Clara Mortensen - World Champion"
+        },
+        {
+            "id": "nm0555316",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rita Martínez",
+            "asCharacter": "Rita Martinez - Champion of Mexico"
+        },
+        {
+            "id": "nm0307055",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Muriel Gardner",
+            "asCharacter": "Ruby McKenzie"
+        },
+        {
+            "id": "nm0273966",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Ferrara",
+            "asCharacter": "Joe - the Jockey"
+        },
+        {
+            "id": "nm0235178",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matt Douglas",
+            "asCharacter": "Ronnie - A Mobster"
+        },
+        {
+            "id": "nm0581614",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Merton",
+            "asCharacter": "Monk - The Bookkeeper"
+        },
+        {
+            "id": "nm0817880",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce Spencer",
+            "asCharacter": "Eddie - A Gangster"
+        },
+        {
+            "id": "nm0953591",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Zarro",
+            "asCharacter": "Lefty - A Mobster"
+        },
+        {
+            "id": "nm0908015",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mary Jean Walker",
+            "asCharacter": "Jackie - A Bookie"
+        },
+        {
+            "id": "nm0483696",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "William Lamont",
+            "asCharacter": "Senate Investigator"
+        },
+        {
+            "id": "nm0076359",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Phil Bernard",
+            "asCharacter": "Mr. Big - The Gang Leader"
+        },
+        {
+            "id": "nm0502021",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jimmy Lennon Sr.",
+            "asCharacter": "Jimmy Lennon"
+        },
+        {
+            "id": "nm0813407",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Phil Solomon",
+            "asCharacter": "Phil Solomon - Wrestling Referee"
+        },
+        {
+            "id": "nm0412329",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Doris Ives",
+            "asCharacter": "Beverly - Unemployed"
+        },
+        {
+            "id": "nm1293382",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "The Leopard Lady",
+            "asCharacter": "Woman Wrestler (uncredited)"
+        },
+        {
+            "id": "nm1294167",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "The Panther Woman",
+            "asCharacter": "Woman Wrestler (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0918992",
+                    "name": "George Weiss",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0860847",
+                    "name": "William C. Thompson",
+                    "description": "(photographed by)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0220645",
+                    "name": "Robert C. Dertano",
+                    "description": "(as Robert C. Derteno)"
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0196578",
+                    "name": "Dan Sonney",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0174989",
+                    "name": "James R. Connell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0458631",
+                    "name": "A. Arnold Klein",
+                    "description": "technical advisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

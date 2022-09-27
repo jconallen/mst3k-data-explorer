@@ -1,0 +1,185 @@
+{
+    "imDbId": "tt0049922",
+    "title": "The Violent Years",
+    "fullTitle": "The Violent Years (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0605093",
+                "name": "William Morgan",
+                "description": "(as Wm. M. Morgan)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0000248",
+                "name": "Edward D. Wood Jr.",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0602093",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jean Moorhead",
+            "asCharacter": "Paula Parkins"
+        },
+        {
+            "id": "nm0917298",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjM3NzhkMWMtNTExNi00NjU1LTlkYjYtNzNmMTUwMGU3Mzk2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Barbara Weeks",
+            "asCharacter": "Jane Parkins"
+        },
+        {
+            "id": "nm0587617",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Art Millan",
+            "asCharacter": "Carl Parkins (as Arthur Millan)"
+        },
+        {
+            "id": "nm0359436",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Theresa Hancock",
+            "asCharacter": "Georgia"
+        },
+        {
+            "id": "nm0133963",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joanne Cangi",
+            "asCharacter": "Geraldine"
+        },
+        {
+            "id": "nm0268022",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gloria Farr",
+            "asCharacter": "Phyllis"
+        },
+        {
+            "id": "nm0390228",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Glen Corbett",
+            "asCharacter": "Barney Stetson"
+        },
+        {
+            "id": "nm0176011",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lee Constant",
+            "asCharacter": "Sheila"
+        },
+        {
+            "id": "nm0427157",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjc0NDM0OTI2Nl5BMl5BanBnXkFtZTYwMjI2NDgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "I. Stanford Jolley",
+            "asCharacter": "Judge Clara"
+        },
+        {
+            "id": "nm0268350",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Timothy Farrell",
+            "asCharacter": "Lt. Holmes (as Timothy Farell)"
+        },
+        {
+            "id": "nm0565988",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "F. Chan McClure",
+            "asCharacter": "Det. Artman"
+        },
+        {
+            "id": "nm0582610",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruno Metsa",
+            "asCharacter": "Manny"
+        },
+        {
+            "id": "nm0444171",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmNiOWJlYWQtZjk2OS00NGEzLWJlZmYtNWIxMmQ0Zjk3ZTRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harry Keaton",
+            "asCharacter": "Doctor (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0605093",
+                    "name": "William Morgan",
+                    "description": "associate producer (as Wm. M. Morgan)"
+                },
+                {
+                    "id": "nm0717411",
+                    "name": "Roy Reid",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0860847",
+                    "name": "William C. Thompson",
+                    "description": "director of photography (as Wm. C. Thompson)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0933452",
+                    "name": "Gerard Wilson",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0166360",
+                    "name": "Steven Clensos",
+                    "description": "makeup artist (as Stephen Clensos)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0587138",
+                    "name": "Jack Miles",
+                    "description": "set director"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0502948",
+                    "name": "Frank Leonetti",
+                    "description": "master electrician"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0290395",
+                    "name": "Michael Terr",
+                    "description": "music supervisor (as Manuel Francisco)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

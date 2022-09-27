@@ -1,0 +1,326 @@
+{
+    "imDbId": "tt0061671",
+    "title": "Five the Hard Way",
+    "fullTitle": "Five the Hard Way (1969)",
+    "type": "Movie",
+    "year": "1969",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0872809",
+                "name": "Gus Trikonis",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0404154",
+                "name": "Tony Huston",
+                "description": "(screenplay) (as Tony Houston)"
+            },
+            {
+                "id": "nm0082566",
+                "name": "Larry Billman",
+                "description": "(story)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0353448",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYwMDY5NTkzOV5BMl5BanBnXkFtZTcwNzY3NTAxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ross Hagen",
+            "asCharacter": "Rommel"
+        },
+        {
+            "id": "nm0564223",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjA2MDcxN2MtMTRiMi00MjM2LTkxYTgtMmYxMTk0N2E3MWVjL2ltYWdlXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Diane McBain",
+            "asCharacter": "Rita"
+        },
+        {
+            "id": "nm0329029",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDcwNzQzNzk0MV5BMl5BanBnXkFtZTcwNDYyMjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Pataki",
+            "asCharacter": "J.C. (as Mike Pataki)"
+        },
+        {
+            "id": "nm0581239",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGRkM2FjZDktM2I3ZC00ZDYwLWE1Y2UtOTU4MzYxNWIxM2QxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Richard Merrifield",
+            "asCharacter": "Luke"
+        },
+        {
+            "id": "nm0353374",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Claire Polan",
+            "asCharacter": "Paisley"
+        },
+        {
+            "id": "nm0663526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Edward Parrish",
+            "asCharacter": "Nero"
+        },
+        {
+            "id": "nm0334223",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI1MTcyMzYzMV5BMl5BanBnXkFtZTgwOTY0MzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Michael Graham",
+            "asCharacter": "Cooch"
+        },
+        {
+            "id": "nm0397982",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzNjU4MTA3N15BMl5BanBnXkFtZTcwNTc1MjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hoke Howell",
+            "asCharacter": "Crapout"
+        },
+        {
+            "id": "nm0856377",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzMDA4OTY2N15BMl5BanBnXkFtZTcwMDAxMjI0MQ@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Robert Tessier",
+            "asCharacter": "Jake (as Bob Tessier)"
+        },
+        {
+            "id": "nm0509155",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eric Lidberg",
+            "asCharacter": "Tork"
+        },
+        {
+            "id": "nm0520547",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Lorea",
+            "asCharacter": "Announcer"
+        },
+        {
+            "id": "nm0179379",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erik Cord",
+            "asCharacter": "Dirty John"
+        },
+        {
+            "id": "nm0609102",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toni Moss",
+            "asCharacter": "Lois"
+        },
+        {
+            "id": "nm0856352",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Diane Tessier",
+            "asCharacter": "Debbie"
+        },
+        {
+            "id": "nm0856363",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joey Tessier",
+            "asCharacter": "Billy"
+        },
+        {
+            "id": "nm0358344",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Warren Hammack",
+            "asCharacter": "Mechanic"
+        },
+        {
+            "id": "nm0000443",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc0MDQ5MDUzMF5BMl5BanBnXkFtZTgwMjIwNTU5MTE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Goldie Hawn",
+            "asCharacter": "Spectator (uncredited)"
+        },
+        {
+            "id": "nm0743475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ivy Ross",
+            "asCharacter": "Mechanic (uncredited)"
+        },
+        {
+            "id": "nm0876123",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ray Tudor",
+            "asCharacter": "(uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0116779",
+                    "name": "Jerry Brutsche",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0353448",
+                    "name": "Ross Hagen",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0355756",
+                    "name": "Jon Hall",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0813882",
+                    "name": "Pat Somerset",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0192608",
+                    "name": "Mike Curb",
+                    "description": ""
+                },
+                {
+                    "id": "nm0836598",
+                    "name": "Jerry Styner",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0355756",
+                    "name": "Jon Hall",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0813882",
+                    "name": "Pat Somerset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0279028",
+                    "name": "Lee Fischer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0509155",
+                    "name": "Eric Lidberg",
+                    "description": "production manager (as E.J. Lidberg)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0116779",
+                    "name": "Jerry Brutsche",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0520547",
+                    "name": "Tony Lorea",
+                    "description": "second assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm3049492",
+                    "name": "Vincent Garcia",
+                    "description": "sound assistant (as Vince Garcia)"
+                },
+                {
+                    "id": "nm0646778",
+                    "name": "Bill Oliver",
+                    "description": "sound mixer (as William Oliver)"
+                },
+                {
+                    "id": "nm0654317",
+                    "name": "Billie Owens",
+                    "description": "sound editor"
+                },
+                {
+                    "id": "nm0909101",
+                    "name": "Norman Wallerstein",
+                    "description": "sound editor"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0179379",
+                    "name": "Erik Cord",
+                    "description": "stunt coordinator"
+                },
+                {
+                    "id": "nm0698675",
+                    "name": "Joe Pronto",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm4555952",
+                    "name": "Clinton O'Dell",
+                    "description": "assistant camera"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0636198",
+                    "name": "Ed. Norton",
+                    "description": "music editor (as Ed Norton)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm4555869",
+                    "name": "Rosemary Johnston",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm4556166",
+                    "name": "George Maddux",
+                    "description": "special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

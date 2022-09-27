@@ -1,0 +1,282 @@
+{
+    "imDbId": "tt0063300",
+    "title": "Mighty Jack",
+    "fullTitle": "Mighty Jack (1968)",
+    "type": "Movie",
+    "year": "1968",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm1066065",
+                "name": "Kazuho Mitsuta",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0782883",
+                "name": "Shin'ichi Sekizawa",
+                "description": ""
+            },
+            {
+                "id": "nm0793048",
+                "name": "Eizaburo Shiba",
+                "description": "(as Eizaburou Siba)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0632967",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hideaki Nitani",
+            "asCharacter": "Captain Tenda (archive footage)"
+        },
+        {
+            "id": "nm0473541",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2Q1YjUyZDQtY2Q0Ni00OGQwLTg4Y2MtYWEzNDNjYjY3ODZkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Naoko Kubo",
+            "asCharacter": "Mary (archive footage) (as Naoko Kobo)"
+        },
+        {
+            "id": "nm0590906",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroshi Minami",
+            "asCharacter": "Mr. Atari (archive footage) (as Hiroshi Ninami)"
+        },
+        {
+            "id": "nm0023862",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDVlM2JmMTQtZGFlMy00NzcxLTlkNzktOGM5OWEyZjM5Y2ZiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Hideyo Amamoto",
+            "asCharacter": "Tammy (archive footage)"
+        },
+        {
+            "id": "nm0629218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Masaya Nihei",
+            "asCharacter": "Jerry (archive footage)"
+        },
+        {
+            "id": "nm2579288",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wakako Ikeda",
+            "asCharacter": "(archive footage)"
+        },
+        {
+            "id": "nm1917221",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Kasuga",
+            "asCharacter": "Dr. Hyde (archive footage)"
+        },
+        {
+            "id": "nm2577248",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Seikou Fukioka",
+            "asCharacter": "(archive footage)"
+        },
+        {
+            "id": "nm2581596",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Noriaki Inoue",
+            "asCharacter": "(archive footage)"
+        },
+        {
+            "id": "nm2576738",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshitaka Tanaka",
+            "asCharacter": "(archive footage)"
+        },
+        {
+            "id": "nm2579878",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mitsubu Ohya",
+            "asCharacter": "(archive footage)"
+        },
+        {
+            "id": "nm0945836",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjY0YTdhZDEtZmM4Zi00ZTE2LTlhMjMtYzBiYzQyMzQ5MTg5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Eijirô Yanagi",
+            "asCharacter": "Colonel Yabuki (archive footage) (as Eijirou Yanagi)"
+        },
+        {
+            "id": "nm0199361",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mike Danning",
+            "asCharacter": "Puck Boss (as Mike Daneen)"
+        },
+        {
+            "id": "nm0411699",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jerry Itô",
+            "asCharacter": "Roberto Okamura"
+        },
+        {
+            "id": "nm1391911",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sumio Takatsu",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0057277",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sean Barrett",
+            "asCharacter": "Father / Interrogator (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0070779",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg0NzkyMTIyM15BMl5BanBnXkFtZTgwMDk3NDQ5ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jay Benedict",
+            "asCharacter": "Jerry (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0085901",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Douglas Blackwell",
+            "asCharacter": "Yabuki (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0391265",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWIxOWUzNzEtMDI0OS00NmE4LTg4OGUtMmIxYTJlNDZlYTBmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tamsin Hollo",
+            "asCharacter": "Agent (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0547603",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTEzOGI3ZTQtMmE3Zi00NzNiLTkyNTEtODMyYzU4YzljYTlhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Peter Marinker",
+            "asCharacter": "Atari (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0743619",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Liza Ross",
+            "asCharacter": "Secretary (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0785933",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Sessions",
+            "asCharacter": "Narrator (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0792384",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTI3ZTc1MTMtZTg3Yy00MDQyLTk3MDUtMmFkMmNhODI2ZWFhXkEyXkFqcGdeQXVyNDQ3NDM5OQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bob Sherman",
+            "asCharacter": "Tenda (voice) (uncredited)"
+        },
+        {
+            "id": "nm0900912",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jesse Vogel",
+            "asCharacter": "Thug / Villain (1987) (voice) (uncredited)"
+        },
+        {
+            "id": "nm0940974",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTExODUyNzAyMjheQTJeQWpwZ15BbWU3MDc5MTAxMjg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Woodward",
+            "asCharacter": "Son (1987) (voice) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0411766",
+                    "name": "Yasuhiro Itô",
+                    "description": "producer (as Yasuhiro Itoh)"
+                },
+                {
+                    "id": "nm2577342",
+                    "name": "Yasuji Morita",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0875212",
+                    "name": "Eiji Tsuburaya",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0866724",
+                    "name": "Isao Tomita",
+                    "description": "(music by)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm2578117",
+                    "name": "Akio Asura",
+                    "description": ""
+                },
+                {
+                    "id": "nm0177828",
+                    "name": "William L. Cooper Jr.",
+                    "description": "(as William L Cooper Jr)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm1370991",
+                    "name": "Akihiko Iguchi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0756031",
+                    "name": "Kazuo Sagawa",
+                    "description": "special effects cameraman"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm1455285",
+                    "name": "Yoshihiro Mori",
+                    "description": "camera operator"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0177828",
+                    "name": "William L. Cooper Jr.",
+                    "description": "feature concept (as William L Cooper Jr)"
+                },
+                {
+                    "id": "nm0900912",
+                    "name": "Jesse Vogel",
+                    "description": "dialogue director (as Jessie Vogel)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

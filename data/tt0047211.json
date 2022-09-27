@@ -1,0 +1,212 @@
+{
+    "imDbId": "tt0047211",
+    "title": "Manhunt in Space",
+    "fullTitle": "Manhunt in Space (1956)",
+    "type": "Movie",
+    "year": "1956",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0607612",
+                "name": "Hollingsworth Morse",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0388554",
+                "name": "Arthur Hoerl",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0186415",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWU1OGVjNjItY2M2OS00OWUxLThlZWItNTVkYzhiMzI0NGNhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Richard Crane",
+            "asCharacter": "Rocky Jones (archive footage)"
+        },
+        {
+            "id": "nm0543821",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzg4MTlhNTgtNWUzOS00ZDVhLWFhNjYtNGRhMTM3NzIxNTg5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sally Mansfield",
+            "asCharacter": "Vena Ray (archive footage)"
+        },
+        {
+            "id": "nm0527974",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Lyden",
+            "asCharacter": "Bobby (archive footage)"
+        },
+        {
+            "id": "nm0143912",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTM5NTgwYTktZTQzZC00ZTc1LWFkNTUtODQ2MTM5Y2E0Y2FkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maurice Cass",
+            "asCharacter": "Prof. Newton (archive footage)"
+        },
+        {
+            "id": "nm0580566",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDkzNTFjODMtNjZkZC00MzEyLThiNTctNWIzMzExMGI1MGI2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Charles Meredith",
+            "asCharacter": "Drake - Secretary of Space (archive footage)"
+        },
+        {
+            "id": "nm0104770",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcyMTYzMzgyMl5BMl5BanBnXkFtZTcwMzgyODUxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Henry Brandon",
+            "asCharacter": "Rinkman - Space Pirate Leader (archive footage)"
+        },
+        {
+            "id": "nm0599894",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWIxZDFjNjItZThiMC00ODIzLWFiOGYtZjdmMDUwM2RkZjMzXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Ray Montgomery",
+            "asCharacter": "Reggie - Space Ranger (archive footage)"
+        },
+        {
+            "id": "nm0193338",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDkzODk4MzEtYzg2MS00ZjY2LTgyYTctYThhZGEwOGYyM2ZlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gabriel Curtiz",
+            "asCharacter": "Dr. Vanko (archive footage) (as Gábor Curtiz)"
+        },
+        {
+            "id": "nm0065717",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGJmMDBkMWUtNTJkYy00MmM3LTgwZWEtMGJmYjNlNGIzZTE2XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Scotty Beckett",
+            "asCharacter": "Winky (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0114805",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzAwNDBmNTgtNGIyOC00ODZhLThlMjQtOWMyNDYyZjg5MDgyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tom Brown",
+            "asCharacter": "Paul Ray (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0341526",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDQ0NjEyNzI4M15BMl5BanBnXkFtZTcwMDUyNTAxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Griffith",
+            "asCharacter": "Ken - Cassa 7 Air Controller (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0390372",
+            "image": "https://m.media-amazon.com/images/M/MV5BODI0NzFhOGItNGE1Ni00ZTg0LWJmNzQtMGQzOTAxMjgyNDEzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Judd Holdren",
+            "asCharacter": "Ranger Higgins (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0491591",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWM3ZGYyZDItODU0Zi00NzgzLTliNGQtNWQzZGFmNmE4Zjg4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Harry Lauter",
+            "asCharacter": "Atlasan (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0663888",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjliYmQ1ODQtNWMxOC00M2M2LWI2N2MtMjRlOWFlMjA3ZTM3XkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Patsy Parsons",
+            "asCharacter": "Cleolanta (archive footage) (uncredited)"
+        },
+        {
+            "id": "nm0887975",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDk2MTI3OWUtNDlkYy00NmNjLWEyNzgtMTExZThlZTI2MWZkXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dale Van Sickel",
+            "asCharacter": "Link - a Pirate (archive footage) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0682734",
+                    "name": "Arthur Pierson",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0715669",
+                    "name": "Roland D. Reed",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0857198",
+                    "name": "Guy V. Thayer Jr.",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0834261",
+                    "name": "Walter Strenge",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0536571",
+                    "name": "Fred Maguire",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0135560",
+                    "name": "McClure Capps",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0478298",
+                    "name": "Richard L'Estrange",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0595229",
+                    "name": "Dick Moder",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0321947",
+                    "name": "Jack R. Glass",
+                    "description": "photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0355638",
+                    "name": "Hazel W. Hall",
+                    "description": "script supervisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,516 @@
+{
+    "imDbId": "tt0061557",
+    "title": "The Deadly Bees",
+    "fullTitle": "The Deadly Bees (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0005711",
+                "name": "Freddie Francis",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0088645",
+                "name": "Robert Bloch",
+                "description": "(screenplay) and"
+            },
+            {
+                "id": "nm0550175",
+                "name": "Anthony Marriott",
+                "description": "(screenplay by)"
+            },
+            {
+                "id": "nm0372449",
+                "name": "Gerald Heard",
+                "description": "(novel) (as H.F. Heard)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0500299",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTI0YzlhNDEtOTM4Ni00MzRjLWJiZjYtMmU5Y2Y2ZDlmNWE0XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Suzanna Leigh",
+            "asCharacter": "Vicki Robbins"
+        },
+        {
+            "id": "nm0277975",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM1MTc1MzExOV5BMl5BanBnXkFtZTcwNDI5MDkwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Frank Finlay",
+            "asCharacter": "H.W. Manfred"
+        },
+        {
+            "id": "nm0230934",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg2NjYwODEyMl5BMl5BanBnXkFtZTgwNzAxNjIwMjE@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Guy Doleman",
+            "asCharacter": "Ralph Hargrove"
+        },
+        {
+            "id": "nm0278093",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjgyMjFlMjEtYTIyNi00NDIyLWE0MzYtMGM2ZTZmMTY0ODY4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Catherine Finn",
+            "asCharacter": "Mary Hargrove"
+        },
+        {
+            "id": "nm0367583",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Harvey",
+            "asCharacter": "Thompson"
+        },
+        {
+            "id": "nm0728085",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMxOTg3ODQ0OV5BMl5BanBnXkFtZTgwOTA1MTY1MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Michael Ripper",
+            "asCharacter": "David Hawkins"
+        },
+        {
+            "id": "nm0047145",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony Bailey",
+            "asCharacter": "Compere"
+        },
+        {
+            "id": "nm0056974",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTcyMTMxNF5BMl5BanBnXkFtZTgwNTE1MzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Tim Barrett",
+            "asCharacter": "Harcourt"
+        },
+        {
+            "id": "nm0167839",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTliYjlmYWYtYjUwMi00YTc3LWI3MDEtMTcyYzg3YWE5NjZlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "James Cossins",
+            "asCharacter": "Coroner"
+        },
+        {
+            "id": "nm0287045",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGY1ZmIxMTgtOGU3YS00MmJhLTg1MzAtOTkyYmI2ZjAzODIxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Frank Forsyth",
+            "asCharacter": "Doctor"
+        },
+        {
+            "id": "nm0928361",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmIwODY0NTQtNTRhNi00YjI4LTlkNDItMTJhNjA1ZDA5NzgyXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Katy Wild",
+            "asCharacter": "Doris Hawkins"
+        },
+        {
+            "id": "nm0268402",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Greta Farrer",
+            "asCharacter": "Sister"
+        },
+        {
+            "id": "nm0316166",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gina Gianelli",
+            "asCharacter": "Secretary"
+        },
+        {
+            "id": "nm0350372",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzkxNGM1Y2EtM2E2Ny00ZTQwLTg2YTQtZjA5NTYzMzVmNzMzXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Michael Gwynn",
+            "asCharacter": "Dr. George Lang"
+        },
+        {
+            "id": "nm0328708",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDM5NWE1ZDctNmRiMy00Y2NkLWEyZDUtODk0NTQwNDZjMTAwXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Maurice Good",
+            "asCharacter": "Agent"
+        },
+        {
+            "id": "nm0931977",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWVjOTQ4N2MtZGU3Mi00YzUxLTlkMGItMjhiMjZhYTc1ZjllXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Alister Williamson",
+            "asCharacter": "Inspector"
+        },
+        {
+            "id": "nm3560739",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "The Birds",
+            "asCharacter": "The Birds (uncredited)"
+        },
+        {
+            "id": "nm0250272",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Percy Edwards",
+            "asCharacter": "Tess the Dog (voice) (uncredited)"
+        },
+        {
+            "id": "nm0306856",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWUxZDIzNGYtNzVmNC00MjhkLTk3MTYtOTUyNWZhNTMxZmMyXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Caron Gardner",
+            "asCharacter": "Manager's Secretary (uncredited)"
+        },
+        {
+            "id": "nm0307016",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kim Gardner",
+            "asCharacter": "Member of The Birds (uncredited)"
+        },
+        {
+            "id": "nm12230709",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pete McDaniel",
+            "asCharacter": "Member of The Birds (uncredited)"
+        },
+        {
+            "id": "nm0571473",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ali McKenzie",
+            "asCharacter": "Member of The Birds (uncredited)"
+        },
+        {
+            "id": "nm0613210",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Munroe",
+            "asCharacter": "Member of The Birds (uncredited)"
+        },
+        {
+            "id": "nm0939976",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkxNDYwOTIzOF5BMl5BanBnXkFtZTYwMDUxNTY1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ronnie Wood",
+            "asCharacter": "Member of The Birds (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0742278",
+                    "name": "Max Rosenberg",
+                    "description": "producer (as Max J. Rosenberg)"
+                },
+                {
+                    "id": "nm0836988",
+                    "name": "Milton Subotsky",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0430737",
+                    "name": "Wilfred Josephs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0928227",
+                    "name": "John Wilcox",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0353091",
+                    "name": "Oswald Hafenrichter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0175966",
+                    "name": "Bill Constable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0522783",
+                    "name": "Andrew Low",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0139375",
+                    "name": "Jill Carpenter",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0807484",
+                    "name": "Bobbie Smith",
+                    "description": "hairdresser"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0663311",
+                    "name": "Derek Parr",
+                    "description": "unit manager (as Derrick Parr)"
+                },
+                {
+                    "id": "nm0909292",
+                    "name": "Ted Wallis",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0915415",
+                    "name": "Anthony Waye",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0139843",
+                    "name": "Ron Carr",
+                    "description": "second assistant director (uncredited)"
+                },
+                {
+                    "id": "nm4862414",
+                    "name": "Don McMurray",
+                    "description": "third assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm1581903",
+                    "name": "Peter Allchorne",
+                    "description": "props (uncredited)"
+                },
+                {
+                    "id": "nm3186234",
+                    "name": "Eric Hillier",
+                    "description": "production buyer (uncredited)"
+                },
+                {
+                    "id": "nm0591277",
+                    "name": "Don Mingaye",
+                    "description": "associate art director (uncredited)"
+                },
+                {
+                    "id": "nm4862461",
+                    "name": "Sid Paine",
+                    "description": "construction manager (uncredited)"
+                },
+                {
+                    "id": "nm0670417",
+                    "name": "Alf Pegley",
+                    "description": "props (uncredited)"
+                },
+                {
+                    "id": "nm0767965",
+                    "name": "Eric Saw",
+                    "description": "draughtsman (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm2115477",
+                    "name": "Michael Pidcock",
+                    "description": "sound editor"
+                },
+                {
+                    "id": "nm0712572",
+                    "name": "Ken Rawkins",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm3344283",
+                    "name": "Eric Chohan",
+                    "description": "sound camera operator (uncredited)"
+                },
+                {
+                    "id": "nm0631484",
+                    "name": "Ken Nightingall",
+                    "description": "boom operator (uncredited)"
+                },
+                {
+                    "id": "nm0807970",
+                    "name": "Richard A. Smith",
+                    "description": "sound maintenance (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0172533",
+                    "name": "Michael Collins",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0533466",
+                    "name": "John Mackey",
+                    "description": "special effects cameraman"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0355272",
+                    "name": "Alan Hall",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm4862451",
+                    "name": "George Bicknell",
+                    "description": "electrician (uncredited)"
+                },
+                {
+                    "id": "nm0134019",
+                    "name": "Bert Cann",
+                    "description": "still photographer (uncredited)"
+                },
+                {
+                    "id": "nm0323119",
+                    "name": "Geoff Glover",
+                    "description": "focus puller: second unit (uncredited)"
+                },
+                {
+                    "id": "nm0362931",
+                    "name": "Norman Hargood",
+                    "description": "still photographer (uncredited)"
+                },
+                {
+                    "id": "nm0662821",
+                    "name": "Austin Parkinson",
+                    "description": "clapper loader (uncredited)"
+                },
+                {
+                    "id": "nm4862409",
+                    "name": "Peter Saddington",
+                    "description": "camera maintenance (uncredited)"
+                },
+                {
+                    "id": "nm0875854",
+                    "name": "Teddy Tucker",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm0936735",
+                    "name": "Kenneth J. Withers",
+                    "description": "focus puller (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0316663",
+                    "name": "Evelyn Gibbs",
+                    "description": "wardrobe supervisor"
+                },
+                {
+                    "id": "nm5550988",
+                    "name": "Deanfield Models",
+                    "description": "furs"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm4892233",
+                    "name": "David Lewis",
+                    "description": "assistant editor (uncredited)"
+                },
+                {
+                    "id": "nm0714643",
+                    "name": "Michael P. Redbourn",
+                    "description": "second assistant editor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0551587",
+                    "name": "Philip Martell",
+                    "description": "conductor / musical director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0203883",
+                    "name": "Pamela Davies",
+                    "description": "continuity"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm4862472",
+                    "name": "Hilda Dixon",
+                    "description": "secretary to producer (uncredited)"
+                },
+                {
+                    "id": "nm0229898",
+                    "name": "Dora Dobson",
+                    "description": "publicist (uncredited)"
+                },
+                {
+                    "id": "nm1223746",
+                    "name": "Joseph Doolin",
+                    "description": "production accountant (uncredited)"
+                },
+                {
+                    "id": "nm4862417",
+                    "name": "Vivienne Eden",
+                    "description": "production secretary (uncredited)"
+                },
+                {
+                    "id": "nm4862418",
+                    "name": "Kay Johnston",
+                    "description": "assistant accountant (uncredited)"
+                },
+                {
+                    "id": "nm4862421",
+                    "name": "Gordon Stebbing",
+                    "description": "cost assistant (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

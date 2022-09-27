@@ -1,0 +1,308 @@
+{
+    "imDbId": "tt0052891",
+    "title": "High School Big Shot",
+    "fullTitle": "High School Big Shot (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0710852",
+                "name": "Joel Rapp",
+                "description": "(as Joel M. Rapp)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0710852",
+                "name": "Joel Rapp",
+                "description": "(written by) (as Joel M. Rapp)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0685964",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjU4MWM2OGItMjNhMS00NTI0LThhZWItZjU1MmJiNGFmMDU5XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tom Pittman",
+            "asCharacter": "Marvin 'Marv' Grant"
+        },
+        {
+            "id": "nm0017747",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Virginia Aldridge",
+            "asCharacter": "Betty Alexander"
+        },
+        {
+            "id": "nm0892098",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Howard Veit",
+            "asCharacter": "Vince Rumbo"
+        },
+        {
+            "id": "nm0041021",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTIwNTczMzE3NV5BMl5BanBnXkFtZTcwOTQzNzUyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Malcolm Atterbury",
+            "asCharacter": "Mr. Grant"
+        },
+        {
+            "id": "nm0011366",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1ODQ1MzY2MF5BMl5BanBnXkFtZTcwNzMyNTUxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stanley Adams",
+            "asCharacter": "Harry March"
+        },
+        {
+            "id": "nm0703919",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGUxMTlmZjYtYjI5ZC00NGNkLWIwMjUtZDIxYzZjNDJhN2JmXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Louis Quinn",
+            "asCharacter": "Samuel Tallman"
+        },
+        {
+            "id": "nm0498608",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Leeds",
+            "asCharacter": "Mr. Carter"
+        },
+        {
+            "id": "nm0057353",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Barrick",
+            "asCharacter": "Larry Walker"
+        },
+        {
+            "id": "nm0614357",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzhlMzc2NWYtMWY1MS00ZWQwLTg0YzgtYWMwNmFlODU1ODFhXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Jimmy Murphy",
+            "asCharacter": "Burt Rogers"
+        },
+        {
+            "id": "nm0288304",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM1M2E0Y2ItOGU1NC00OWVkLTliMTUtNjhkOTdlZDYxMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Byron Foulger",
+            "asCharacter": "Mr. Mathews"
+        },
+        {
+            "id": "nm0355355",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmEyZTYxNmUtMTI5Ny00NWZjLTk4MjItMzI4ODYxYTZhZTA4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Bobby Hall",
+            "asCharacter": "Johnson"
+        },
+        {
+            "id": "nm0304532",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Gans",
+            "asCharacter": "(as Ron Kennedy)"
+        },
+        {
+            "id": "nm0860128",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Evan Thompson",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0177806",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmExYWE2NzgtMmQ3MS00MzhlLTg5ZDItZjhlZTRmY2UzMWNkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Bill Coontz",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0741731",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wally Rose",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0041008",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ellen Atterbury",
+            "asCharacter": "Mrs. Fisher (as Ellen Hardies)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0081067",
+                    "name": "Stanley Bickman",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0000339",
+                    "name": "Roger Corman",
+                    "description": "executive producer (uncredited)"
+                },
+                {
+                    "id": "nm0228809",
+                    "name": "Richard Dixon",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006086",
+                    "name": "Gerald Fried",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0630077",
+                    "name": "John M. Nickolaus Jr.",
+                    "description": "director of photography (as John Nickolaus Jr.)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0517044",
+                    "name": "Carlo Lodato",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0123625",
+                    "name": "John Burton",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0858903",
+                    "name": "Harry Thomas",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0667038",
+                    "name": "Paul Rapp",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0838168",
+                    "name": "Joe Sullivan",
+                    "description": "property master (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0329453",
+                    "name": "Frank Goodwin",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0337487",
+                    "name": "Martin Greco",
+                    "description": "sound editor (as Marty Greco)"
+                },
+                {
+                    "id": "nm0774442",
+                    "name": "Bert Schoenfeld",
+                    "description": "supervising sound editor (as Bert Shoenfeld)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0177806",
+                    "name": "Bill Coontz",
+                    "description": "stunts (uncredited)"
+                },
+                {
+                    "id": "nm0741731",
+                    "name": "Wally Rose",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0134228",
+                    "name": "Lee Cannon",
+                    "description": "gaffer (uncredited)"
+                },
+                {
+                    "id": "nm0636242",
+                    "name": "Kay Norton",
+                    "description": "camera operator (uncredited)"
+                },
+                {
+                    "id": "nm1674232",
+                    "name": "Doty Steele",
+                    "description": "key grip (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0536514",
+                    "name": "Anthony Magro",
+                    "description": "music editor (as Tony Magro)"
+                },
+                {
+                    "id": "nm0747311",
+                    "name": "Margaret Royce",
+                    "description": "associate music editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0589088",
+                    "name": "Pat Miller",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0747311",
+                    "name": "Margaret Royce",
+                    "description": "associate"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

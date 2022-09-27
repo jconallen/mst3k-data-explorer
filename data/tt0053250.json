@@ -1,0 +1,576 @@
+{
+    "imDbId": "tt0053250",
+    "title": "First Spaceship on Venus",
+    "fullTitle": "First Spaceship on Venus (1960)",
+    "type": "Movie",
+    "year": "1960",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0535512",
+                "name": "Kurt Maetzig",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0501015",
+                "name": "Stanislaw Lem",
+                "description": "(novel)"
+            },
+            {
+                "id": "nm0275312",
+                "name": "Jan Fethke",
+                "description": "(adaptation) (as J. Fethke) and"
+            },
+            {
+                "id": "nm0463305",
+                "name": "Wolfgang Kohlhaase",
+                "description": "(adaptation) (as W. Kohlhase) and"
+            },
+            {
+                "id": "nm0718383",
+                "name": "Günter Reisch",
+                "description": "(adaptation) (as G. Reisch) and"
+            },
+            {
+                "id": "nm0754081",
+                "name": "Günther Rücker",
+                "description": "(adaptation) (as G. Rücker) and"
+            },
+            {
+                "id": "nm0826521",
+                "name": "Alexander Stenbock-Fermor",
+                "description": "(adaptation) (as A. Stenbock-Fermor)"
+            },
+            {
+                "id": "nm0535512",
+                "name": "Kurt Maetzig",
+                "description": "(screenplay collaboration)"
+            },
+            {
+                "id": "nm0055030",
+                "name": "J. Barkhauer",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0849447",
+            "image": "https://m.media-amazon.com/images/M/MV5BODc3OWJhY2EtZDEyMi00ZTU4LWFiOGMtNDNlOTY5OTU3MTExXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Yôko Tani",
+            "asCharacter": "Die japanische Ärztin / Sumiko Ogimura MD (as Yoko Tani)"
+        },
+        {
+            "id": "nm0525654",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Oldrich Lukes",
+            "asCharacter": "Amerikanischer Atomphysiker / Prof. Harringway Hawling"
+        },
+        {
+            "id": "nm0532672",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjFhZTQ0ZTYtNzZjNy00OTJjLWI1YTktM2FiMTJkMzM2OTA3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio2.0455_AL_.jpg",
+            "name": "Ignacy Machowski",
+            "asCharacter": "Polnischer Chefingenieur / Prof. Saltyk / Prof. Durand"
+        },
+        {
+            "id": "nm0648681",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julius Ongewe",
+            "asCharacter": "Afrikanischer Fernsehtechniker / Talua"
+        },
+        {
+            "id": "nm0692964",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mikhail N. Postnikov",
+            "asCharacter": "Sowjetischer Astronaut / Prof. Arsenew / Prof. Orloff (as Michail N. Postnikow)"
+        },
+        {
+            "id": "nm0705216",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kurt Rackelmann",
+            "asCharacter": "Indischer Mathematiker / Prof. Sikarna"
+        },
+        {
+            "id": "nm0800166",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Günther Simon",
+            "asCharacter": "Deutscher Pilot / Robert / Raimund Brinkmann"
+        },
+        {
+            "id": "nm0398949",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hua-Ta Tang",
+            "asCharacter": "Chinesischer Linguist / Dr. Tchen Yu / Lao Tsu (as Tang Hua-Ta)"
+        },
+        {
+            "id": "nm0935399",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTgxMzEzZDktMTY5OS00ZmYzLWFhYWItZGI4MjQ1NGUyNDQxXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Lucyna Winnicka",
+            "asCharacter": "Fernsehreporterin / Joan Moran (as Lucina Winnicka)"
+        },
+        {
+            "id": "nm1023927",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Klaus Bamberg",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0058492",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fredy Barten",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0062976",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christoph Beyertt",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0107223",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Karl Brenk",
+            "asCharacter": "Bit part (uncredited)"
+        },
+        {
+            "id": "nm0213776",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fritz Decho",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm1222273",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Karen Fredersdorf",
+            "asCharacter": "Brinkmanns Mutter (uncredited)"
+        },
+        {
+            "id": "nm0353388",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjI4NDFjZjUtNzIzMi00ODZkLWI5ZjktMWQ2NGM3M2YxODgyXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eva-Maria Hagen",
+            "asCharacter": "Intervision-Reporter Jeanne Moreau (uncredited)"
+        },
+        {
+            "id": "nm0389438",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Karl-Helge Hofstadt",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0457937",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Kiwitt",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0470698",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gertraud Kreissig",
+            "asCharacter": "Reporter (uncredited)"
+        },
+        {
+            "id": "nm0473508",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc1NDg3ODU2N15BMl5BanBnXkFtZTcwMDY1ODMwNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ruth-Maria Kubitschek",
+            "asCharacter": "Frau Arsenew (uncredited)"
+        },
+        {
+            "id": "nm1241646",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Heinz Kögel",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm0490809",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hans Ulrich Laufer",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm3200154",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barbara Leonhard",
+            "asCharacter": "Sekretärin (uncredited)"
+        },
+        {
+            "id": "nm3198945",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erich Lie",
+            "asCharacter": "Chinese (uncredited)"
+        },
+        {
+            "id": "nm3199185",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Omani Mensah",
+            "asCharacter": "Afrikanischer Funker (uncredited)"
+        },
+        {
+            "id": "nm0644268",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vera Oelschlegel",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm1340555",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Paulsen",
+            "asCharacter": "Bit part (uncredited)"
+        },
+        {
+            "id": "nm3201599",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lieselotte Schmoock",
+            "asCharacter": "Bit Part (uncredited)"
+        },
+        {
+            "id": "nm2716197",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Horst Schäfer",
+            "asCharacter": "Wissenschaftler (uncredited)"
+        },
+        {
+            "id": "nm0784240",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Werner Senftleben",
+            "asCharacter": "Funker (uncredited)"
+        },
+        {
+            "id": "nm0843686",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjEwMjZjMDktMjE5NS00ZWE2LWFjZmYtOGJjYzY3Zjg5MmFiXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Danuta Szaflarska",
+            "asCharacter": "(voice) (uncredited)"
+        },
+        {
+            "id": "nm3200297",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "San Din Tscho",
+            "asCharacter": "Chinese (uncredited)"
+        },
+        {
+            "id": "nm0877998",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nico Turoff",
+            "asCharacter": "Wüstenarbeiter (uncredited)"
+        },
+        {
+            "id": "nm0903235",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjJhNGNkMGUtN2RjYS00Yjk5LWIyOGItZDI1OTFjZDhmZDUwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eduard von Winterstein",
+            "asCharacter": "Wissenschaftler / Weiland (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0548749",
+                    "name": "Andrzej Markowski",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0368224",
+                    "name": "Joachim Hasler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0627091",
+                    "name": "Lena Neumann",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0386629",
+                    "name": "Alfred Hirschmeier",
+                    "description": ""
+                },
+                {
+                    "id": "nm1532165",
+                    "name": "Lech Kunka",
+                    "description": "(as L. Kunka)"
+                },
+                {
+                    "id": "nm0499735",
+                    "name": "Paul Lehmann",
+                    "description": "(as P. Lehmann)"
+                },
+                {
+                    "id": "nm0617199",
+                    "name": "Tadeusz Myszorek",
+                    "description": "(as T. Myszorek)"
+                },
+                {
+                    "id": "nm0643796",
+                    "name": "Senta Ochs",
+                    "description": "(as S. Ochs)"
+                },
+                {
+                    "id": "nm0693151",
+                    "name": "Ryszard Potocki",
+                    "description": "(as J. Potocki)"
+                },
+                {
+                    "id": "nm0705948",
+                    "name": "Anatol Radzinowicz",
+                    "description": ""
+                },
+                {
+                    "id": "nm1536318",
+                    "name": "A. Schulz",
+                    "description": ""
+                },
+                {
+                    "id": "nm1536319",
+                    "name": "W. Schäfer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0530446",
+                    "name": "Elli-Charlotte Löffler",
+                    "description": "(as Elli-Charl. Löffler)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0340496",
+                    "name": "Christa Grewald",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0833477",
+                    "name": "Alois Strasser",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0537006",
+                    "name": "Hans Mahlich",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm0814367",
+                    "name": "Martin Sonnabend",
+                    "description": "unit manager"
+                },
+                {
+                    "id": "nm1413702",
+                    "name": "Henryk Szlachet",
+                    "description": "unit manager"
+                },
+                {
+                    "id": "nm0952158",
+                    "name": "Edward Zajicek",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0096928",
+                    "name": "Doris Borkmann",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0440757",
+                    "name": "Hans-Joachim Kasprzik",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0699475",
+                    "name": "Hieronim Przybyl",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm3047736",
+                    "name": "Theo Görgens",
+                    "description": "property master: exterior"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm1054893",
+                    "name": "Kurt Eppers",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0459016",
+                    "name": "Werner Klein",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0548749",
+                    "name": "Andrzej Markowski",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0936864",
+                    "name": "Günter Witt",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0340497",
+                    "name": "Helmut Grewald",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0475271",
+                    "name": "Ernst Kunstmann",
+                    "description": "special effects supervisor"
+                },
+                {
+                    "id": "nm0475274",
+                    "name": "Vera Kunstmann",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0646236",
+                    "name": "Jan Olejniczak",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0340497",
+                    "name": "Helmut Grewald",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0381024",
+                    "name": "Detlev Hertelt",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm3047689",
+                    "name": "Herbert Leistikow",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0665564",
+                    "name": "Waltraud Pathenheimer",
+                    "description": "still photographer"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0338948",
+                    "name": "Walter Greene",
+                    "description": "music editor"
+                },
+                {
+                    "id": "nm0548749",
+                    "name": "Andrzej Markowski",
+                    "description": "conductor: DEFA-Sinfonie-Orchester"
+                },
+                {
+                    "id": "nm0903067",
+                    "name": "Josef von Stroheim",
+                    "description": "music editor (as Joseph von Stroheim)"
+                },
+                {
+                    "id": "nm0951973",
+                    "name": "Gordon Zahler",
+                    "description": "music provider: US soundtrack"
+                },
+                {
+                    "id": "nm0338948",
+                    "name": "Walter Greene",
+                    "description": "composer: stock music, US version (uncredited)"
+                },
+                {
+                    "id": "nm0006270",
+                    "name": "Hans J. Salter",
+                    "description": "composer: stock music, US version (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0909406",
+                    "name": "Hans-Joachim Wallstein",
+                    "description": "script editor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0325770",
+                    "name": "Edmund Goldman",
+                    "description": "producer: US dubbing"
+                },
+                {
+                    "id": "nm0342120",
+                    "name": "Hugo Grimaldi",
+                    "description": "executive dubbing supervisor (US version)"
+                },
+                {
+                    "id": "nm0414564",
+                    "name": "Newton P. Jacobs",
+                    "description": "producer, american dubbing"
+                },
+                {
+                    "id": "nm0775286",
+                    "name": "Paul Schreibman",
+                    "description": "producer, american dubbing"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

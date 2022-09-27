@@ -1,0 +1,294 @@
+{
+    "imDbId": "tt0060666",
+    "title": "Manos: The Hands of Fate",
+    "fullTitle": "Manos: The Hands of Fate (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0912849",
+                "name": "Harold P. Warren",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0912849",
+                "name": "Harold P. Warren",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0412492",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzFhY2FlYTktZGIzYi00YTBmLWJhMGYtNDM0OGM4OTNlZDQ0XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Tom Neyman",
+            "asCharacter": "The Master"
+        },
+        {
+            "id": "nm0721786",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTQxM2UzY2YtMjI0Zi00YjY4LTg5NmUtODAwZWRmMjI3NTNhXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Reynolds",
+            "asCharacter": "Torgo"
+        },
+        {
+            "id": "nm0537248",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzcxZDJhMDMtYjQwYi00OTU1LWFiZjctMGI5ODY4ZjMwYWQ4XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Diane Adelson",
+            "asCharacter": "Margaret (as Diane Mahree)"
+        },
+        {
+            "id": "nm0912849",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harold P. Warren",
+            "asCharacter": "Michael (as Hal Warren)"
+        },
+        {
+            "id": "nm0631061",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Stephanie Nielson",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm0698418",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sherry Proctor",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm1222864",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robin Redd",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm0628664",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDYzNzM0ZTYtM2NmOC00MzcyLWIyMDAtZDI3YjUyNjczOTdmXkEyXkFqcGdeQXVyNTA4ODA3Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jackey Neyman Jones",
+            "asCharacter": "Debbie (as Jackey Neyman)"
+        },
+        {
+            "id": "nm0742447",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bernie Rosenblum",
+            "asCharacter": "Teenager in Car"
+        },
+        {
+            "id": "nm0597046",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joyce Molleur",
+            "asCharacter": "Teenager in Car"
+        },
+        {
+            "id": "nm0421265",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmZlN2M3YzUtMTBjMi00YzI4LTg1NTAtY2FjZDZjZTNhNjYyXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "William Bryan Jennings",
+            "asCharacter": "Cop"
+        },
+        {
+            "id": "nm0355700",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jay Hall",
+            "asCharacter": "Girl in Convertible"
+        },
+        {
+            "id": "nm7701988",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bettye Birns",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm1314548",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lelanie Hansard",
+            "asCharacter": "Girl in Convertible"
+        },
+        {
+            "id": "nm1313954",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Coburn",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm1345137",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pat Sullivan",
+            "asCharacter": "Master's Wife"
+        },
+        {
+            "id": "nm0147069",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Cavender",
+            "asCharacter": "Cop"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0912849",
+                    "name": "Harold P. Warren",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0399679",
+                    "name": "Russ Huddleston",
+                    "description": ""
+                },
+                {
+                    "id": "nm0807170",
+                    "name": "Robert Smith Jr.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0346804",
+                    "name": "Robert Guidry",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0808170",
+                    "name": "Ernie Smith",
+                    "description": ""
+                },
+                {
+                    "id": "nm0838117",
+                    "name": "James A. Sullivan",
+                    "description": "(as James Sullivan)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0415105",
+                    "name": "Jacqueline Neyman",
+                    "description": "makeup artist (as Jacqueline)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0492818",
+                    "name": "Jay O. Lawrence",
+                    "description": "production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0412492",
+                    "name": "Tom Neyman",
+                    "description": "set designer"
+                },
+                {
+                    "id": "nm0332591",
+                    "name": "Stephane Goulet",
+                    "description": "property painter (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0790467",
+                    "name": "Bruce Shearin",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0597046",
+                    "name": "Joyce Molleur",
+                    "description": "stunts (uncredited)"
+                },
+                {
+                    "id": "nm0742447",
+                    "name": "Bernie Rosenblum",
+                    "description": "stunt coordinator (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0742447",
+                    "name": "Bernie Rosenblum",
+                    "description": "key grip (as Frank Bernard Rosenblum)"
+                },
+                {
+                    "id": "nm0800200",
+                    "name": "Jesse Simon",
+                    "description": "head electrician"
+                },
+                {
+                    "id": "nm7164187",
+                    "name": "Anselm Spring",
+                    "description": "still photographer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0412492",
+                    "name": "Tom Neyman",
+                    "description": "wardrobe (as Thomas Ivy)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm7871492",
+                    "name": "Nicki Mathis",
+                    "description": "vocalist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0295327",
+                    "name": "Norma Friedman",
+                    "description": "script supervisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

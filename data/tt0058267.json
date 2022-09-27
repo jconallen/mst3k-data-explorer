@@ -1,0 +1,537 @@
+{
+    "imDbId": "tt0058267",
+    "title": "Kitten with a Whip",
+    "fullTitle": "Kitten with a Whip (1964)",
+    "type": "Movie",
+    "year": "1964",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0382227",
+                "name": "Douglas Heyes",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0382227",
+                "name": "Douglas Heyes",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0588433",
+                "name": "H. William Miller",
+                "description": "(novel) (as Wade Miller)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000268",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcxMzM1NjMyN15BMl5BanBnXkFtZTYwODg1OTQ2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ann-Margret",
+            "asCharacter": "Jody"
+        },
+        {
+            "id": "nm0001234",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg0MTE4MTYxNl5BMl5BanBnXkFtZTYwOTg1MzQ2._V1_Ratio0.7727_AL_.jpg",
+            "name": "John Forsythe",
+            "asCharacter": "David"
+        },
+        {
+            "id": "nm0114422",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE4NTk0MTYyMV5BMl5BanBnXkFtZTYwMDk5MTEz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Brown",
+            "asCharacter": "Ron"
+        },
+        {
+            "id": "nm0058117",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE0NDg3MjYyM15BMl5BanBnXkFtZTcwMjE3MzYzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Patricia Barry",
+            "asCharacter": "Vera"
+        },
+        {
+            "id": "nm0027323",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg3MjAwOTY5Ml5BMl5BanBnXkFtZTYwNDMzMDQ2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Richard Anderson",
+            "asCharacter": "Grant"
+        },
+        {
+            "id": "nm0911847",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQ2MWFhOGQtOTg1Mi00ZTA1LWI5OTItYTkyNjExYjYyMTc2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Skip Ward",
+            "asCharacter": "Buck (as James Ward)"
+        },
+        {
+            "id": "nm0768443",
+            "image": "https://m.media-amazon.com/images/M/MV5BY2RmYTU5ZjEtNjBhZi00ODQ0LTljMWUtZTlhNDQzMzdjMDU3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Diane Sayer",
+            "asCharacter": "Midge"
+        },
+        {
+            "id": "nm0233352",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjQwNTY1MTA3MV5BMl5BanBnXkFtZTcwMTA1MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ann Doran",
+            "asCharacter": "Mavis"
+        },
+        {
+            "id": "nm0926691",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTliZGVkZGUtOWRlNy00YWMyLTgxYWYtNDk0ZTczZjZhMzQxXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Patrick Whyte",
+            "asCharacter": "Varden"
+        },
+        {
+            "id": "nm0198241",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjI5NDU3MV5BMl5BanBnXkFtZTcwNzU5MjgwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Audrey Dalton",
+            "asCharacter": "Virginia"
+        },
+        {
+            "id": "nm0330388",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcwMWE4ZGItNDFkYi00ODY5LWE4ZmYtMDc1OGMzNzdhMTc5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Leo Gordon",
+            "asCharacter": "Enders"
+        },
+        {
+            "id": "nm0862527",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patricia Tiara",
+            "asCharacter": "Strip Tease Dancer"
+        },
+        {
+            "id": "nm0549313",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nora Marlowe",
+            "asCharacter": "Matron"
+        },
+        {
+            "id": "nm0732626",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frances Robinson",
+            "asCharacter": "Martha"
+        },
+        {
+            "id": "nm0835798",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzAxYjlkODUtMTQzOS00OGIzLTlhN2YtNWU1YWE4NzRjNDdmXkEyXkFqcGdeQXVyMTc2NzkzNzc@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Maxine Stuart",
+            "asCharacter": "Peggy"
+        },
+        {
+            "id": "nm0902451",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mildred von Hollen",
+            "asCharacter": "Saleslady"
+        },
+        {
+            "id": "nm0242991",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmQ2MTkwZjQtODA0Mi00NmNhLTkyZDktODRiZDEwNDNjOWVhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Jerry Dunphy",
+            "asCharacter": "Newscaster"
+        },
+        {
+            "id": "nm0915845",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTAyMjU0OTYyNTheQTJeQWpwZ15BbWU3MDc0ODMwMjg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Doodles Weaver",
+            "asCharacter": "Salty Sam"
+        },
+        {
+            "id": "nm0394404",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWZiNzU5NWQtMDEzMC00NmJlLTg2ZGMtM2E1OWI3YzIzYmQ4XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Hal Hopper",
+            "asCharacter": "Chauffeur"
+        },
+        {
+            "id": "nm0087253",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTU5MThkMGYtNDdkMS00NjMwLWJiNTAtODU5OTRkNmE5MWRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Eumenio Blanco",
+            "asCharacter": "Show Spectator (uncredited)"
+        },
+        {
+            "id": "nm0231529",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjkzYzk4ODItN2ZlNC00NDA0LWJjNzctY2ViNzQ5NTMzYmIyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Joe Dominguez",
+            "asCharacter": "Mexican Doctor (uncredited)"
+        },
+        {
+            "id": "nm0303732",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ralph Gambina",
+            "asCharacter": "Pedestrian (uncredited)"
+        },
+        {
+            "id": "nm0396473",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shep Houghton",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0516972",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDMzNjQ1Nl5BMl5BanBnXkFtZTYwNzMxOTI2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Gary Lockwood",
+            "asCharacter": "Minor Role (uncredited)"
+        },
+        {
+            "id": "nm0639220",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Nunez",
+            "asCharacter": "Vendor (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0445650",
+                    "name": "Harry Keller",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005657",
+                    "name": "Joseph F. Biroc",
+                    "description": "director of photography (as Joseph Biroc)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0774465",
+                    "name": "Russell F. Schoengarth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0114164",
+                    "name": "Malcolm Brown",
+                    "description": ""
+                },
+                {
+                    "id": "nm0326529",
+                    "name": "Alexander Golitzen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0042431",
+                    "name": "John P. Austin",
+                    "description": "(as John Austin)"
+                },
+                {
+                    "id": "nm0256272",
+                    "name": "Oliver Emert",
+                    "description": ""
+                },
+                {
+                    "id": "nm0565042",
+                    "name": "John McCarthy Jr.",
+                    "description": "(as John McCarthy)"
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0588018",
+                    "name": "Burton Miller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0314468",
+                    "name": "Larry Germain",
+                    "description": "hair stylist"
+                },
+                {
+                    "id": "nm0922863",
+                    "name": "Bud Westmore",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0042413",
+                    "name": "Jean Austin",
+                    "description": "hair stylist (uncredited)"
+                },
+                {
+                    "id": "nm0566736",
+                    "name": "Frank McCoy",
+                    "description": "makeup artist (uncredited)"
+                },
+                {
+                    "id": "nm4787194",
+                    "name": "Jack Mitchell",
+                    "description": "hair stylist (uncredited)"
+                },
+                {
+                    "id": "nm0662836",
+                    "name": "Dorothy Parkinson",
+                    "description": "makeup artist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0611282",
+                    "name": "Edward Muhl",
+                    "description": "in charge of production"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0625778",
+                    "name": "Terence Nelson",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0291573",
+                    "name": "Wendell Franklin",
+                    "description": "assistant director (uncredited)"
+                },
+                {
+                    "id": "nm0002541",
+                    "name": "Terry Morse Jr.",
+                    "description": "second assistant director (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0027369",
+                    "name": "Robert M. Anderson",
+                    "description": "lead man (uncredited)"
+                },
+                {
+                    "id": "nm0391807",
+                    "name": "Dudley Holmes",
+                    "description": "props (uncredited)"
+                },
+                {
+                    "id": "nm4787103",
+                    "name": "Charles Thomas",
+                    "description": "props (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0910592",
+                    "name": "Waldon O. Watson",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0929382",
+                    "name": "Frank H. Wilkinson",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0096969",
+                    "name": "Chic Borland",
+                    "description": "sound (uncredited)"
+                },
+                {
+                    "id": "nm4682430",
+                    "name": "John Muchmore",
+                    "description": "sound (uncredited)"
+                },
+                {
+                    "id": "nm0692147",
+                    "name": "James T. Porter",
+                    "description": "sound (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0819924",
+                    "name": "Charles Spurgeon",
+                    "description": "special effects (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0314945",
+                    "name": "Arthur Gerstle",
+                    "description": "assistant camera (uncredited)"
+                },
+                {
+                    "id": "nm4787133",
+                    "name": "Butch Harmon",
+                    "description": "gaffer (uncredited)"
+                },
+                {
+                    "id": "nm0570713",
+                    "name": "Andrew J. McIntyre",
+                    "description": "camera operator (uncredited)"
+                },
+                {
+                    "id": "nm0721002",
+                    "name": "Steve Rez",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm7378160",
+                    "name": "Steve Rez",
+                    "description": "key grip (uncredited)"
+                },
+                {
+                    "id": "nm0871470",
+                    "name": "Mel Traxel",
+                    "description": "still photographer (uncredited)"
+                },
+                {
+                    "id": "nm0888361",
+                    "name": "Sam Van Zenten",
+                    "description": "grip (uncredited)"
+                },
+                {
+                    "id": "nm0889131",
+                    "name": "Richard Tim Vanik",
+                    "description": "assistant camera (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0745827",
+                    "name": "Bucky Rous",
+                    "description": "wardrobe (uncredited)"
+                },
+                {
+                    "id": "nm1772393",
+                    "name": "Viola Thompson",
+                    "description": "wardrobe (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0112768",
+                    "name": "Eddie Broussard",
+                    "description": "assistant editor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0314829",
+                    "name": "Joseph Gershenson",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0519771",
+                    "name": "William Loose",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0000049",
+                    "name": "Henry Mancini",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm5948860",
+                    "name": "Ethmer Roten",
+                    "description": "musician: flute (uncredited)"
+                },
+                {
+                    "id": "nm0006270",
+                    "name": "Hans J. Salter",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0804244",
+                    "name": "Frank Skinner",
+                    "description": "composer: stock music (uncredited)"
+                },
+                {
+                    "id": "nm0006298",
+                    "name": "Carl W. Stalling",
+                    "description": "composer: stock music for cartoon sequence (uncredited)"
+                },
+                {
+                    "id": "nm0006299",
+                    "name": "Herman Stein",
+                    "description": "composer: stock music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0690850",
+                    "name": "Luanna S. Poole",
+                    "description": "script supervisor (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0124009",
+                    "name": "Robert Busch",
+                    "description": "dialogue coach"
+                },
+                {
+                    "id": "nm0280408",
+                    "name": "Wayne Fitzgerald",
+                    "description": "title designer (uncredited)"
+                },
+                {
+                    "id": "nm0461397",
+                    "name": "Fred Knoth",
+                    "description": "set coordinator (uncredited)"
+                },
+                {
+                    "id": "nm0200597",
+                    "name": "David Winters",
+                    "description": "choreographer (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

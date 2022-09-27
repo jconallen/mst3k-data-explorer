@@ -1,0 +1,836 @@
+{
+    "imDbId": "tt0080836",
+    "title": "Hangar 18",
+    "fullTitle": "Hangar 18 (1980)",
+    "type": "Movie",
+    "year": "1980",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0176702",
+                "name": "James L. Conway",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0678758",
+                "name": "Ken Pettus",
+                "description": "(screenplay) (as Steven Thornley)"
+            },
+            {
+                "id": "nm0152539",
+                "name": "Thomas C. Chapman",
+                "description": "(story) (as Tom Chapman) &"
+            },
+            {
+                "id": "nm0176702",
+                "name": "James L. Conway",
+                "description": "(story)"
+            },
+            {
+                "id": "nm0007122",
+                "name": "Stephen Lord",
+                "description": "(uncredited)"
+            },
+            {
+                "id": "nm0641714",
+                "name": "David O'Malley",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0004833",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc4NTkyMTM1MV5BMl5BanBnXkFtZTcwMDA2MDE2OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gary Collins",
+            "asCharacter": "Steve Bancroft"
+        },
+        {
+            "id": "nm0001816",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2MDQxODYxMV5BMl5BanBnXkFtZTYwNDQyNDI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Vaughn",
+            "asCharacter": "Gordon Cain"
+        },
+        {
+            "id": "nm0358996",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk3NTIyODYyMl5BMl5BanBnXkFtZTcwMTkzMTM3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Hampton",
+            "asCharacter": "Lew Price"
+        },
+        {
+            "id": "nm0008041",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE4Nzg2ODA2Ml5BMl5BanBnXkFtZTgwNjM4NTM2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Philip Abbott",
+            "asCharacter": "Frank Morrison"
+        },
+        {
+            "id": "nm0132103",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjExNDEzNjMyN15BMl5BanBnXkFtZTgwMTkyNzI1NTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joseph Campanella",
+            "asCharacter": "Frank Lafferty"
+        },
+        {
+            "id": "nm0000900",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTM1ODA4MV5BMl5BanBnXkFtZTcwMzM4MTcyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pamela Bellwood",
+            "asCharacter": "Sarah Michaels"
+        },
+        {
+            "id": "nm0356535",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQwMzQxOTQwNl5BMl5BanBnXkFtZTYwNTkxNTQ1._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tom Hallick",
+            "asCharacter": "Phil Cameron"
+        },
+        {
+            "id": "nm0444198",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjdmNWIzMzgtNzc2Mi00MDkyLThmMWYtZTFlODgxMWMxYzFlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steven Keats",
+            "asCharacter": "Paul Bannister"
+        },
+        {
+            "id": "nm0769974",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTE5ODQzMTYxOF5BMl5BanBnXkFtZTYwMTc0MDI0._V1_Ratio0.7273_AL_.jpg",
+            "name": "William Schallert",
+            "asCharacter": "Professor Mills"
+        },
+        {
+            "id": "nm0569000",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDYwMjQ5NV5BMl5BanBnXkFtZTYwODE5MjU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Darren McGavin",
+            "asCharacter": "Harry Forbes"
+        },
+        {
+            "id": "nm0652109",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzE4OTE3NDA0NF5BMl5BanBnXkFtZTcwMDM4ODIzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cliff Osmond",
+            "asCharacter": "Sheriff Barlow"
+        },
+        {
+            "id": "nm0088594",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM3ODY5NTgzM15BMl5BanBnXkFtZTcwODIxNzc0NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andrew Bloch",
+            "asCharacter": "Neal Kelso"
+        },
+        {
+            "id": "nm0659573",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYzMjQ3NDEwM15BMl5BanBnXkFtZTcwMTQxNjg0Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stuart Pankin",
+            "asCharacter": "Sam Tate"
+        },
+        {
+            "id": "nm0139608",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTE5NWQzOWYtNmMyNy00NDllLThmMTYtY2M2ZTc5MzE0OGJkXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Betty Ann Carr",
+            "asCharacter": "Flo Mattson"
+        },
+        {
+            "id": "nm0943894",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTk5ODk3NTM2Nl5BMl5BanBnXkFtZTYwNDM1NDgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "H.M. Wynant",
+            "asCharacter": "Flight Director"
+        },
+        {
+            "id": "nm0958451",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmFmNmIxZmItNjQ0OS00Nzk5LWIyMzYtYzU4NTRiYmMwOTk3XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bill Zuckert",
+            "asCharacter": "Ace Landon"
+        },
+        {
+            "id": "nm0071822",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jesse Bennett",
+            "asCharacter": "MIB #4"
+        },
+        {
+            "id": "nm0109930",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Bristol",
+            "asCharacter": "Helicopter Pilot"
+        },
+        {
+            "id": "nm0140805",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDczOWJmOWUtMDE4NC00MDE4LTllZTItNWI4NTQ2NWVkZTFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Eddie Carroll",
+            "asCharacter": "MIB #3 (as Ed E. Carroll)"
+        },
+        {
+            "id": "nm0164026",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "J.R. Clark",
+            "asCharacter": "Judd Gates"
+        },
+        {
+            "id": "nm0167396",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTcwMTM1MTc3Ml5BMl5BanBnXkFtZTcwNjM1NTAzMQ@@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Craig Clyde",
+            "asCharacter": "Captain Wyatt"
+        },
+        {
+            "id": "nm0303344",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWEyYjg4NWMtMzNjNy00YzUyLThjMjEtYWUyM2EwZDU5NTY2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John William Galt",
+            "asCharacter": "NASA Official"
+        },
+        {
+            "id": "nm0303396",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anne Galvan",
+            "asCharacter": "Technician"
+        },
+        {
+            "id": "nm0378373",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Hepner",
+            "asCharacter": "Pilot"
+        },
+        {
+            "id": "nm0410309",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Irving",
+            "asCharacter": "MIB #1"
+        },
+        {
+            "id": "nm0441929",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM1NzI0MTk2OF5BMl5BanBnXkFyZXN1bWU@._V1_Ratio1.0455_AL_.jpg",
+            "name": "Bruce Katzman",
+            "asCharacter": "MIB #2"
+        },
+        {
+            "id": "nm0508605",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Liakakis",
+            "asCharacter": "Barman"
+        },
+        {
+            "id": "nm0532208",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Debrah Macfarlane",
+            "asCharacter": "Female Specimen"
+        },
+        {
+            "id": "nm0634691",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chesley Noone",
+            "asCharacter": "A.F. Captain (as Chet Norris)"
+        },
+        {
+            "id": "nm0714850",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "H.E.D. Redford",
+            "asCharacter": "CAPCOM Officer"
+        },
+        {
+            "id": "nm0732910",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTAxN2VjZmUtMDA3Yy00ZDgxLWI2YzctMGY1OGYzOGM4YjkwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Max Robinson",
+            "asCharacter": "Payload Officer"
+        },
+        {
+            "id": "nm0732952",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ocie Robinson",
+            "asCharacter": "A.F. Guard"
+        },
+        {
+            "id": "nm0748618",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Ruud",
+            "asCharacter": "George Turner"
+        },
+        {
+            "id": "nm0929481",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Scott Wilkinson",
+            "asCharacter": "Flight Activity Officer"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0180374",
+                    "name": "Bill Cornford",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0284890",
+                    "name": "Carole Fontana",
+                    "description": "assistant producer"
+                },
+                {
+                    "id": "nm0783398",
+                    "name": "Charles E. Sellier Jr.",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0005990",
+                    "name": "John Cacavas",
+                    "description": ""
+                },
+                {
+                    "id": "nm0838671",
+                    "name": "Bob Summers",
+                    "description": "(uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0386141",
+                    "name": "Paul Hipp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0817801",
+                    "name": "Michael Spence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0775206",
+                    "name": "Amy Schreiber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0821430",
+                    "name": "Paul Staheli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0705303",
+                    "name": "Chip Radaelli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0821431",
+                    "name": "Randy Staheli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0821429",
+                    "name": "Julie Staheli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0049481",
+                    "name": "Karoly Balazs",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm1265052",
+                    "name": "Ken Horn",
+                    "description": "makeup effects"
+                },
+                {
+                    "id": "nm9662934",
+                    "name": "Tim Nelson",
+                    "description": "makeup artist: second unit"
+                },
+                {
+                    "id": "nm0006416",
+                    "name": "Peter Tothpal",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0562434",
+                    "name": "Joseph A. Mayer",
+                    "description": "post-production supervisor (as Joe Mayer)"
+                },
+                {
+                    "id": "nm0858715",
+                    "name": "Daxon Thomas",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0240065",
+                    "name": "Leon Dudevoir",
+                    "description": "first assistant director"
+                },
+                {
+                    "id": "nm0466539",
+                    "name": "John Korogi",
+                    "description": "second assistant director: second unit"
+                },
+                {
+                    "id": "nm0723830",
+                    "name": "Jefferson Richard",
+                    "description": "first assistant director: second unit (as Jefferson Richards)"
+                },
+                {
+                    "id": "nm0005858",
+                    "name": "Henning Schellerup",
+                    "description": "second unit director"
+                },
+                {
+                    "id": "nm0924703",
+                    "name": "Dennis M. White",
+                    "description": "second assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0018564",
+                    "name": "Larry Alexander",
+                    "description": "property coordinator"
+                },
+                {
+                    "id": "nm0365313",
+                    "name": "Scott Harris",
+                    "description": "construction foreman"
+                },
+                {
+                    "id": "nm0715249",
+                    "name": "Jim Reece",
+                    "description": "property master"
+                },
+                {
+                    "id": "nm9787997",
+                    "name": "Chuck Stewart",
+                    "description": "assistant property master"
+                },
+                {
+                    "id": "nm1119925",
+                    "name": "Douglas Vandegrift",
+                    "description": "scenic artist (as Doug Vandergrift)"
+                },
+                {
+                    "id": "nm0907854",
+                    "name": "James Walker Jr.",
+                    "description": "art director: second unit (as Jim Walker)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0116949",
+                    "name": "James Bryan",
+                    "description": "supervising sound editor (as Jim Bryan)"
+                },
+                {
+                    "id": "nm0154753",
+                    "name": "Jack Cheap",
+                    "description": "sound editor (as Jack Cheap) (Echo Film Services)"
+                },
+                {
+                    "id": "nm0237093",
+                    "name": "Steven R. Dransfield",
+                    "description": "dialogue editor"
+                },
+                {
+                    "id": "nm0447324",
+                    "name": "Larry Kemp",
+                    "description": "dialogue supervisor (as Laurence J. Kemp)"
+                },
+                {
+                    "id": "nm0658335",
+                    "name": "Lauren Palmer",
+                    "description": "dialogue editor"
+                },
+                {
+                    "id": "nm0793172",
+                    "name": "Bob J. Shields",
+                    "description": "boom operator (as Bob Shields)"
+                },
+                {
+                    "id": "nm0840397",
+                    "name": "Rod Sutton",
+                    "description": "sound mixer"
+                },
+                {
+                    "id": "nm7145071",
+                    "name": "Ken Tulenko",
+                    "description": "dialogue editor"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0141716",
+                    "name": "John Carter",
+                    "description": "assistant special effects"
+                },
+                {
+                    "id": "nm0469493",
+                    "name": "Doug Kramer",
+                    "description": "assistant special effects"
+                },
+                {
+                    "id": "nm0941264",
+                    "name": "Harry Woolman",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0632871",
+                    "name": "John Forrest Niss",
+                    "description": "optical effects supervisor"
+                },
+                {
+                    "id": "nm0339782",
+                    "name": "Dave Gregory",
+                    "description": "special optical effects design & line-up: Pacific Title (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0108606",
+                    "name": "Greg Brickman",
+                    "description": "stunt coordinator"
+                },
+                {
+                    "id": "nm0254657",
+                    "name": "Tom Elliott",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0262700",
+                    "name": "Debbie Evans",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0316617",
+                    "name": "Alan Gibbs",
+                    "description": "special stunt consultant"
+                },
+                {
+                    "id": "nm0526976",
+                    "name": "Tom Lupo",
+                    "description": "stunt coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0018498",
+                    "name": "Jeff Alexander",
+                    "description": "grip: second unit"
+                },
+                {
+                    "id": "nm0003845",
+                    "name": "Craig Camp",
+                    "description": "director of photography: Houston"
+                },
+                {
+                    "id": "nm0220518",
+                    "name": "Flash Deros",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm1785741",
+                    "name": "Michael Ezell",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0358398",
+                    "name": "Bruce Hamme",
+                    "description": "gaffer: second unit"
+                },
+                {
+                    "id": "nm9787994",
+                    "name": "Roger Henderson",
+                    "description": "assistant camera: second unit"
+                },
+                {
+                    "id": "nm0526217",
+                    "name": "Michael Lund",
+                    "description": "camera operator: second unit"
+                },
+                {
+                    "id": "nm0535072",
+                    "name": "Jerry L. Madore",
+                    "description": "key grip (as Jerry Madore)"
+                },
+                {
+                    "id": "nm0548883",
+                    "name": "Kim Marks",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm0593676",
+                    "name": "Richard A. Mitchell",
+                    "description": "grip (as Rick Mitchell)"
+                },
+                {
+                    "id": "nm0708797",
+                    "name": "Susie Ramos",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm9787993",
+                    "name": "Owen Roberts",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm1714467",
+                    "name": "Mike Sherman",
+                    "description": "grip: second unit"
+                },
+                {
+                    "id": "nm0799678",
+                    "name": "Alvin Simmons",
+                    "description": "equipment grip"
+                },
+                {
+                    "id": "nm0837980",
+                    "name": "Brian Sullivan",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0928441",
+                    "name": "Garlan Wilde",
+                    "description": "gaffer"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm9787998",
+                    "name": "Russell Ellis",
+                    "description": "wardrobe assistant"
+                },
+                {
+                    "id": "nm0556957",
+                    "name": "Stan Mason",
+                    "description": "set costumer"
+                },
+                {
+                    "id": "nm9788002",
+                    "name": "Debbie Radaelli",
+                    "description": "wardrobe assistant: second unit"
+                },
+                {
+                    "id": "nm2657255",
+                    "name": "Laurie Vandegrift",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0295049",
+                    "name": "Mark Friedgen",
+                    "description": "apprentice optical effects editor / assistant film editor"
+                },
+                {
+                    "id": "nm0523289",
+                    "name": "Mark Lowrie",
+                    "description": "assistant optical effects editor"
+                },
+                {
+                    "id": "nm0551526",
+                    "name": "Robert Martel",
+                    "description": "apprentice film editor (as Robert E. Martell)"
+                },
+                {
+                    "id": "nm5526192",
+                    "name": "Mark Phinney",
+                    "description": "apprentice film editor"
+                },
+                {
+                    "id": "nm0711098",
+                    "name": "Kendall S. Rase",
+                    "description": "post-production coordinator"
+                },
+                {
+                    "id": "nm9788010",
+                    "name": "Mark Rosenbaum",
+                    "description": "assistant film editor"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0005990",
+                    "name": "John Cacavas",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm1121474",
+                    "name": "Don Perry",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0696905",
+                    "name": "George S. Price",
+                    "description": "composer: additional music (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0437489",
+                    "name": "Roberta Kanefsky",
+                    "description": "script supervisor: second unit"
+                },
+                {
+                    "id": "nm0766829",
+                    "name": "Jackie Saunders",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Transportation Department",
+            "items": [
+                {
+                    "id": "nm0356595",
+                    "name": "Tam Halling",
+                    "description": "transportation captain"
+                },
+                {
+                    "id": "nm0640935",
+                    "name": "Sparky O'Driscoll",
+                    "description": "fleet coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0123553",
+                    "name": "Corey Burton",
+                    "description": "adr loop group"
+                },
+                {
+                    "id": "nm0244345",
+                    "name": "Rochelle Durrant",
+                    "description": "business coordinator"
+                },
+                {
+                    "id": "nm0281386",
+                    "name": "Jerry Fleck",
+                    "description": "assistant to the producer"
+                },
+                {
+                    "id": "nm0295046",
+                    "name": "Elliot Friedgen",
+                    "description": "production executive"
+                },
+                {
+                    "id": "nm0359053",
+                    "name": "Sanford Hampton",
+                    "description": "assistant to producer"
+                },
+                {
+                    "id": "nm9788030",
+                    "name": "Reg Jackson",
+                    "description": "public relations"
+                },
+                {
+                    "id": "nm2396272",
+                    "name": "Julia Mair",
+                    "description": "research assistant"
+                },
+                {
+                    "id": "nm9787996",
+                    "name": "Charlene Meyer",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm0666664",
+                    "name": "Dominique Paturel",
+                    "description": "voice dubbing: French"
+                },
+                {
+                    "id": "nm2079034",
+                    "name": "Maggie Probst",
+                    "description": "executive assistant"
+                },
+                {
+                    "id": "nm6687726",
+                    "name": "Chris Sprister",
+                    "description": "adr loop group"
+                },
+                {
+                    "id": "nm0829317",
+                    "name": "Denis L. Stewart",
+                    "description": "extras coordinator (as Denis Stewart)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

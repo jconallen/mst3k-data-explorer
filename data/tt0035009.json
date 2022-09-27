@@ -1,0 +1,232 @@
+{
+    "imDbId": "tt0035009",
+    "title": "The Mad Monster",
+    "fullTitle": "The Mad Monster (1942)",
+    "type": "Movie",
+    "year": "1942",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0627864",
+                "name": "Sam Newfield",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0617202",
+                "name": "Fred Myton",
+                "description": "(original screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0235897",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGE1NmNlOTItZDJmMS00MjhiLWJiMzItNzZmOWU4ZWVlMGRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Johnny Downs",
+            "asCharacter": "Tom Gregory"
+        },
+        {
+            "id": "nm0958345",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWViMGQxMGEtMTBiNi00MWJlLTkyZGYtMzEzOWEwN2VmMGI0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "George Zucco",
+            "asCharacter": "Dr. Lorenzo Cameron"
+        },
+        {
+            "id": "nm0619254",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY4NTgyNTYtMDE1YS00NjA4LWFhNGEtZGEwZjZjZGFkYzYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Anne Nagel",
+            "asCharacter": "Lenora Cameron"
+        },
+        {
+            "id": "nm0833363",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGU4M2I2YzAtMTA3Yy00ZjMzLTkwYzUtYmU1YWJjOTQyZGMwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Glenn Strange",
+            "asCharacter": "Petro"
+        },
+        {
+            "id": "nm0655605",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGQxOWQxOWMtNTM2My00ZDgyLTgxN2YtZDVhY2E4ZWViMzkyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Sarah Padden",
+            "asCharacter": "Grandmother"
+        },
+        {
+            "id": "nm0210016",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjkxMzUwODEtN2U3ZC00YzdlLTkxM2EtMmIyN2U1NDg4NjhjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gordon De Main",
+            "asCharacter": "Professor Fitzgerald (as Gordon DeMain)"
+        },
+        {
+            "id": "nm0123994",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA3MzI5MzIzOF5BMl5BanBnXkFtZTgwNzYzNzY3MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mae Busch",
+            "asCharacter": "Susan"
+        },
+        {
+            "id": "nm0055275",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTYzNDg5MWEtM2MzYy00NWQwLWFiODYtNjc1MzA5Y2Q2YzFlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reginald Barlow",
+            "asCharacter": "Professor Warwick"
+        },
+        {
+            "id": "nm0833382",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDI1NzZiMDYtNTEwMi00ZjIzLTg5MDQtMTJiNDM5YTY4NWU5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Strange",
+            "asCharacter": "Professor Blaine"
+        },
+        {
+            "id": "nm0355642",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWQxZmJjNTktZWJkZS00YmQ1LWE5YTAtNTNhNDA4Nzk5NTU5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Henry Hall",
+            "asCharacter": "Country Doctor"
+        },
+        {
+            "id": "nm0144185",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDA0MTE2OGItNmEwYi00MTA1LThlOWEtMzlkMzFmOTAyMDI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ed Cassidy",
+            "asCharacter": "Father (as Edward Cassidy)"
+        },
+        {
+            "id": "nm0390187",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eddie Holden",
+            "asCharacter": "Harper"
+        },
+        {
+            "id": "nm0254502",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTZiMWRmNTUtZTM0YS00MWFkLWJiOGQtNTYwMTYwNjY5NWNhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Elliott",
+            "asCharacter": "Professor Hatfield"
+        },
+        {
+            "id": "nm0924307",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE3NzE4Mjg2MF5BMl5BanBnXkFtZTYwNDIyMzky._V1_Ratio0.8182_AL_.jpg",
+            "name": "Slim Whitaker",
+            "asCharacter": "Policeman (as Charles Whitaker)"
+        },
+        {
+            "id": "nm0665780",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gil Patric",
+            "asCharacter": "Lieutenant Detective"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0626892",
+                    "name": "Sigmund Neufeld",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006006",
+                    "name": "David Chudnow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005728",
+                    "name": "Jack Greenhalgh",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0865179",
+                    "name": "Holbrook N. Todd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0695681",
+                    "name": "Fred Preble",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0743449",
+                    "name": "Harry Ross",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0827892",
+                    "name": "Bert Sternbach",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0209602",
+                    "name": "Melville De Lay",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0917413",
+                    "name": "Hans Weeren",
+                    "description": "sound engineer"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0831865",
+                    "name": "Eugene C. Stone",
+                    "description": "special effects (as Gene Stone)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm1287577",
+                    "name": "Eugene Joseff",
+                    "description": "costume jeweller (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

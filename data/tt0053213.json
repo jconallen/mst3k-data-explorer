@@ -1,0 +1,399 @@
+{
+    "imDbId": "tt0053213",
+    "title": "The Rebel Set",
+    "fullTitle": "The Rebel Set (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0288635",
+                "name": "Gene Fowler Jr.",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0900134",
+                "name": "Louis Vittes",
+                "description": "(written by) (as Lou Vittes) and"
+            },
+            {
+                "id": "nm0320637",
+                "name": "Bernard Girard",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0658250",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTM0MzQ3YzYtMDM2YS00NDQzLWIxOTYtZThkZDY0OGEyNzg3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Gregg Palmer",
+            "asCharacter": "John Mapes"
+        },
+        {
+            "id": "nm0189754",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzA1MGRhNjktOWRlYy00YWY2LTlhMWUtMjkwOTFiNzBkMzA1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kathleen Crowley",
+            "asCharacter": "Jeanne Mapes"
+        },
+        {
+            "id": "nm0686857",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEwNjEwMDIzNl5BMl5BanBnXkFtZTYwMzcxNjAz._V1_Ratio0.7727_AL_.jpg",
+            "name": "Edward Platt",
+            "asCharacter": "Mr. Tucker / Mr. T"
+        },
+        {
+            "id": "nm0527017",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmM2ZGEyMGItNmE1Zi00NDU5LTk0MmYtNGM3YjU4ZjBiZDI5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+            "name": "John Lupton",
+            "asCharacter": "Ray Miller"
+        },
+        {
+            "id": "nm0838042",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjQ5OTYwN2YtYzMwNy00M2U2LWEwOTktYzE5Yzk4ZDMyYWZmXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Don Sullivan",
+            "asCharacter": "George Leland"
+        },
+        {
+            "id": "nm0234804",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGM0ZDdkMDYtZTI2Zi00Y2VlLThkZWUtYzM0YjFjYTc3NmUyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Vikki Dougan",
+            "asCharacter": "Karen - Waitress"
+        },
+        {
+            "id": "nm0321982",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzkzMzg3OF5BMl5BanBnXkFtZTcwNTIyMjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ned Glass",
+            "asCharacter": "Sidney Horner"
+        },
+        {
+            "id": "nm0790171",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA5MTk1ODg2OV5BMl5BanBnXkFtZTgwNTg5NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Robert Shayne",
+            "asCharacter": "Lt. Cassidy"
+        },
+        {
+            "id": "nm0529038",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGExYjE1ZmUtMjE3ZC00YmI5LTgyZDMtZGJiYWM3Y2M3YWJkL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Collette Lyons",
+            "asCharacter": "Rita Leland"
+        },
+        {
+            "id": "nm0744841",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTIxYWQzOWUtNTkwZC00ZjMyLWEyNjgtNDZiOTYwY2QyNGIwXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gene Roth",
+            "asCharacter": "Conductor - New York Train"
+        },
+        {
+            "id": "nm0427157",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjc0NDM0OTI2Nl5BMl5BanBnXkFtZTYwMjI2NDgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "I. Stanford Jolley",
+            "asCharacter": "King Invader - Beat Poet (as Norman Jolley)"
+        },
+        {
+            "id": "nm0237634",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barbara Drew",
+            "asCharacter": "Mrs. Packard"
+        },
+        {
+            "id": "nm0603657",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gloria Moreland",
+            "asCharacter": "Bali Dancer"
+        },
+        {
+            "id": "nm0621680",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Nash",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0108422",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Brian",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0550675",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tiger Joe Marsh",
+            "asCharacter": "Cop Boarding Train"
+        },
+        {
+            "id": "nm0288304",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM1M2E0Y2ItOGU1NC00OWVkLTliMTUtNjhkOTdlZDYxMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Byron Foulger",
+            "asCharacter": "Conductor- Chicago Train"
+        },
+        {
+            "id": "nm0275944",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Grace Field",
+            "asCharacter": "Train Gossip"
+        },
+        {
+            "id": "nm0287790",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eddie Foster",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0254199",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cecil Elliott",
+            "asCharacter": "Train Gossip"
+        },
+        {
+            "id": "nm0743681",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjI3YzAwYzAtM2U4NS00MWE4LWFmODctMjAwYjI0ZDZmZmUzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Ross",
+            "asCharacter": "Reporter"
+        },
+        {
+            "id": "nm0925929",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEwNjMzNzUzNl5BMl5BanBnXkFtZTgwMTM5NzUyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Smoki Whitfield",
+            "asCharacter": "Train Porter"
+        },
+        {
+            "id": "nm0517444",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDg3ZjAzNDgtNGVjZi00Y2EzLTk4OWMtODVjMGJhOTYzZmJhXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Carey Loftin",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0317975",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bobby Gilbert",
+            "asCharacter": "Store Clerk"
+        },
+        {
+            "id": "nm0241883",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Craig Duncan",
+            "asCharacter": "Policeman in Armored Car"
+        },
+        {
+            "id": "nm0167089",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmI5ZWE2ZWUtYjViYy00YjNiLTg4NGUtYzNlMDdhODNhYTg5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "John Close",
+            "asCharacter": "Police Morgue Attendant (uncredited)"
+        },
+        {
+            "id": "nm0768538",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmIwMDRjZWItMzI0Ni00Y2Y1LTliYjUtODM3M2Y1ZWVjMjBmXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jeffrey Sayre",
+            "asCharacter": "Man at Train Station (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0320886",
+                    "name": "Phil G. Giriodi",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0371052",
+                    "name": "J. William Hayes",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0528924",
+                    "name": "Earle Lyon",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0835365",
+                    "name": "Karl Struss",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0042553",
+                    "name": "William Austin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0590657",
+                    "name": "Dave Milton",
+                    "description": "(as David Milton)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0457184",
+                    "name": "Joseph Kish",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0492037",
+                    "name": "Emile LaVigne",
+                    "description": "makeup artist (as Emile Lavigne)"
+                },
+                {
+                    "id": "nm0831623",
+                    "name": "Myrl Stoltz",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0450353",
+                    "name": "Kenneth Kessler",
+                    "description": "production supervisor (as K.M. Kessler)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0450353",
+                    "name": "Kenneth Kessler",
+                    "description": "assistant director (as Kenny Kessler)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0330589",
+                    "name": "Sam Gordon",
+                    "description": "property master"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0677074",
+                    "name": "Clarence Peterson",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0770793",
+                    "name": "Charles G. Schelling",
+                    "description": "sound editor (as Charles Schelling)"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0517846",
+                    "name": "Augie Lohman",
+                    "description": "special effects (as A.J. Lohman)"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0517444",
+                    "name": "Carey Loftin",
+                    "description": "stunts (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0307678",
+                    "name": "Lloyd Garnell",
+                    "description": "chief electrician"
+                },
+                {
+                    "id": "nm0998653",
+                    "name": "Harry Lewis",
+                    "description": "head grip (as Harold Lewis)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0918149",
+                    "name": "Roger J. Weinberg",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0242406",
+                    "name": "Paul Dunlap",
+                    "description": "conductor"
+                },
+                {
+                    "id": "nm0251957",
+                    "name": "Harry Eisen",
+                    "description": "music editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm1052516",
+                    "name": "M.E.M. Gibsone",
+                    "description": "script supervisor"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

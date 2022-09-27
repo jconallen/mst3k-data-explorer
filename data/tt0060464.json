@@ -1,0 +1,425 @@
+{
+    "imDbId": "tt0060464",
+    "title": "Ebirah, Horror of the Deep",
+    "fullTitle": "Ebirah, Horror of the Deep (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0297974",
+                "name": "Jun Fukuda",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0782883",
+                "name": "Shin'ichi Sekizawa",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0847361",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTI5MTFiMjgtYTJmYi00NmQwLWJjZTUtMmU3MTM3Yzk1ZGYwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Akira Takarada",
+            "asCharacter": "Yoshimura"
+        },
+        {
+            "id": "nm0594682",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWZkNTBlYTgtZWI5ZS00OTBhLWE1ODQtYjA1NzRmZWY1ZjRkXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Kumi Mizuno",
+            "asCharacter": "Daiyo"
+        },
+        {
+            "id": "nm0865561",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTRkZTg0MGYtMzNkZi00MjI2LTllMjUtMDUxY2EwZTUyZjU2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Chôtarô Tôgin",
+            "asCharacter": "Ichino"
+        },
+        {
+            "id": "nm0839024",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hideo Sunazuka",
+            "asCharacter": "Nita"
+        },
+        {
+            "id": "nm0406599",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tôru Ibuki",
+            "asCharacter": "Yata Kane"
+        },
+        {
+            "id": "nm0386284",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDg5YjRmYmMtMjIyYS00MTM1LTkxMTAtNjRjYTNhYTRjN2Y5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Akihiko Hirata",
+            "asCharacter": "Captain Yamoto"
+        },
+        {
+            "id": "nm0853392",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWI3NmJkNjMtMjg3NS00YjlhLWIwZjYtZmFlYjMxOWZiNDM1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Jun Tazaki",
+            "asCharacter": "Red Bamboo Commander"
+        },
+        {
+            "id": "nm3547351",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDU2OTY0YzctYTllOS00MGY0LWE5MWQtZTMxZGY5MmRmMjM3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Tôru Watanabe",
+            "asCharacter": "Ryôta Kane"
+        },
+        {
+            "id": "nm0768026",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjhiNzdmNDgtNTBlZi00YzdjLWIzYzUtODQyNTliNmI1NzViXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Ikio Sawamura",
+            "asCharacter": "Elderly Slave"
+        },
+        {
+            "id": "nm0051428",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTdjNDZhNDAtODhjMC00OWRhLWIxMDUtZDM4NDI5ZjFiMGFkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Pair Bambi",
+            "asCharacter": "Mothra's Little Beauties"
+        },
+        {
+            "id": "nm0023862",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDVlM2JmMTQtZGFlMy00NzcxLTlkNzktOGM5OWEyZjM5Y2ZiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Hideyo Amamoto",
+            "asCharacter": "Red Bamboo Naval Officer"
+        },
+        {
+            "id": "nm0411697",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGYyN2UzYTEtODk4OC00MDJjLTlmMzctNzk1Y2NjODJjZjMyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Hisaya Itô",
+            "asCharacter": "Red Bamboo Scientist #1"
+        },
+        {
+            "id": "nm0645399",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tadashi Okabe",
+            "asCharacter": "Red Bamboo Scientist #2"
+        },
+        {
+            "id": "nm0840605",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmE1MmJhZjEtOTc5NS00Zjk1LTljZjUtYzVhM2ZhYWNlZGYzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Kazuo Suzuki",
+            "asCharacter": "Escaped Slave"
+        },
+        {
+            "id": "nm0386406",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzYyNzM2NF5BMl5BanBnXkFtZTgwMzMzNDU5MTE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Shôichi Hirose",
+            "asCharacter": "Escaped Slave"
+        },
+        {
+            "id": "nm0393352",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGVhNjAyNGUtMWQ2My00YTVlLTkxZGUtMmUwMjdlNTkyMDkyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Noriko Honma",
+            "asCharacter": "Spiritualist"
+        },
+        {
+            "id": "nm0620083",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGFkYTFmODktNDc1Mi00MjAwLTk1NjEtOTFiZTgzYmZiNDdmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Chieko Nakakita",
+            "asCharacter": "Mrs. Kane"
+        },
+        {
+            "id": "nm0407452",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Seiji Ikeda",
+            "asCharacter": "Farmer"
+        },
+        {
+            "id": "nm0755403",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQ2MjkwZGMtZWVlNy00NWUxLTlkNGYtMjhiZGE1ZDA4NmI5XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Yutaka Sada",
+            "asCharacter": "Farmer"
+        },
+        {
+            "id": "nm0648280",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wataru Ômae",
+            "asCharacter": "Newspaper Reporter"
+        },
+        {
+            "id": "nm0555466",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken'ichirô Maruyama",
+            "asCharacter": "Newspaper Reporter"
+        },
+        {
+            "id": "nm0410935",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shigeki Ishida",
+            "asCharacter": "Newspaper Editor"
+        },
+        {
+            "id": "nm0644530",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rinsaku Ogata",
+            "asCharacter": "Guard"
+        },
+        {
+            "id": "nm1368570",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshio Katsube",
+            "asCharacter": "Red Bamboo Soldier / Native"
+        },
+        {
+            "id": "nm0620032",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE1NzE2NDg0MV5BMl5BanBnXkFtZTgwNTAyMjc0MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Haruo Nakajima",
+            "asCharacter": "Gojira"
+        },
+        {
+            "id": "nm0782876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yû Sekita",
+            "asCharacter": "Ebirah"
+        },
+        {
+            "id": "nm0594069",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hideo Shibuya",
+            "asCharacter": "Maritime Officer"
+        },
+        {
+            "id": "nm0441392",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shigeo Katô",
+            "asCharacter": "Native of Infant Island"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0849083",
+                    "name": "Tomoyuki Tanaka",
+                    "description": "executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0766496",
+                    "name": "Masaru Satô",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0945228",
+                    "name": "Kazuo Yamada",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0297722",
+                    "name": "Ryôhei Fujii",
+                    "description": ""
+                },
+                {
+                    "id": "nm0393094",
+                    "name": "Ishirô Honda",
+                    "description": "(1972 champion festival reissue)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0457495",
+                    "name": "Takeo Kita",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0457495",
+                    "name": "Takeo Kita",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0762955",
+                    "name": "Ken Sano",
+                    "description": "chief assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0648490",
+                    "name": "Hiroshi Omura",
+                    "description": "conceptual artist"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0437600",
+                    "name": "Minoru Kaneyama",
+                    "description": "sound effects editor"
+                },
+                {
+                    "id": "nm0793741",
+                    "name": "Hisashi Shimonaga",
+                    "description": "sound effects"
+                },
+                {
+                    "id": "nm0949109",
+                    "name": "Shoichi Yoshizawa",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0619935",
+                    "name": "Fumio Nakadai",
+                    "description": "special effects scene manipulation"
+                },
+                {
+                    "id": "nm0620317",
+                    "name": "Teruyoshi Nakano",
+                    "description": "assistant director of special effects"
+                },
+                {
+                    "id": "nm0875212",
+                    "name": "Eiji Tsuburaya",
+                    "description": "director of special effects"
+                },
+                {
+                    "id": "nm0910742",
+                    "name": "Akira Watanabe",
+                    "description": "art director of special effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0034824",
+                    "name": "Sadamasa Arikawa",
+                    "description": "director of special effects photography"
+                },
+                {
+                    "id": "nm0407369",
+                    "name": "Sadao Iizuda",
+                    "description": "optical photography"
+                },
+                {
+                    "id": "nm5904738",
+                    "name": "Sadao Iizuka",
+                    "description": "visual effects"
+                },
+                {
+                    "id": "nm0457217",
+                    "name": "Kyuichirô Kishida",
+                    "description": "special effects lighting"
+                },
+                {
+                    "id": "nm0543525",
+                    "name": "Yukio Manoda",
+                    "description": "optical photographer"
+                },
+                {
+                    "id": "nm0611614",
+                    "name": "Hiroshi Mukoyama",
+                    "description": "matte process"
+                },
+                {
+                    "id": "nm0866715",
+                    "name": "Sokei Tomioka",
+                    "description": "director of special effects photography"
+                },
+                {
+                    "id": "nm0950815",
+                    "name": "Taka Yuki",
+                    "description": "director of special effects photography"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0620032",
+                    "name": "Haruo Nakajima",
+                    "description": "stunt choreographer"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0648541",
+                    "name": "Kiichi Onda",
+                    "description": "lighting technician"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0273033",
+                    "name": "Peter Fernandez",
+                    "description": "voice director: English version"
+                },
+                {
+                    "id": "nm0743918",
+                    "name": "William Ross",
+                    "description": "English dubbing"
+                },
+                {
+                    "id": "nm0273033",
+                    "name": "Peter Fernandez",
+                    "description": "voice dubbing: Tôru Watanabe (English version) (uncredited)"
+                },
+                {
+                    "id": "nm0511604",
+                    "name": "Hal Linden",
+                    "description": "voice dubbing: (English version) (uncredited)"
+                },
+                {
+                    "id": "nm0650541",
+                    "name": "Corinne Orr",
+                    "description": "voice dubbing (English version) (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

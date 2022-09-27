@@ -1,0 +1,349 @@
+{
+    "imDbId": "tt0060446",
+    "title": "Gamera vs. Barugon",
+    "fullTitle": "Gamera vs. Barugon (1966)",
+    "type": "Movie",
+    "year": "1966",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0849060",
+                "name": "Shigeo Tanaka",
+                "description": ""
+            },
+            {
+                "id": "nm0950633",
+                "name": "Noriaki Yuasa",
+                "description": "(earlier film clips) (uncredited)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0847177",
+                "name": "Niisan Takahashi",
+                "description": "(as Nisan Takahashi)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0393291",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDY3ODMxNDctOTNkMi00ZTJkLTk3OGUtM2ViMmViNzA1NDg3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Kôjirô Hongô",
+            "asCharacter": "Keisuke Hirata"
+        },
+        {
+            "id": "nm0256707",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kyôko Enami",
+            "asCharacter": "Karen"
+        },
+        {
+            "id": "nm0370573",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTJmMDlkN2ItMzkzNi00MmYwLWIwYjMtYjYwNjY5NDIxNjM4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Yûzô Hayakawa",
+            "asCharacter": "Kawajiri"
+        },
+        {
+            "id": "nm0297805",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWFkMjExZjEtZWJkYy00OTJiLTkzMDEtMjYwNzEyOWFlZmI4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Takuya Fujioka",
+            "asCharacter": "Dr. Sato"
+        },
+        {
+            "id": "nm0297893",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGNiMzk5NmUtNWIwZi00MTY0LTgwNjUtN2U2OTYzNjI3MDUxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Kôji Fujiyama",
+            "asCharacter": "Onodera"
+        },
+        {
+            "id": "nm0622408",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shô Natsuki",
+            "asCharacter": "Ichiro Hirata"
+        },
+        {
+            "id": "nm0457526",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshirô Kitahara",
+            "asCharacter": "Professor Amano"
+        },
+        {
+            "id": "nm0837360",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTVmY2RmMTQtYWYzYi00MmEwLWFlYjAtNjZjNzE3NDI4NDU1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Ichirô Sugai",
+            "asCharacter": "Dr. Matsushita"
+        },
+        {
+            "id": "nm0015176",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bontarô Miake",
+            "asCharacter": "Self-Defense Force General"
+        },
+        {
+            "id": "nm0389922",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGI3NzRiMjktOGQwMi00MzUzLTkxMjktNzkxMmY3Y2U4NTg3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Jutarô Kitashiro",
+            "asCharacter": "Self-Defense Force Commander (as Jutarô Hôjô)"
+        },
+        {
+            "id": "nm1284734",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kazuko Wakamatsu",
+            "asCharacter": "Sadae Hirata"
+        },
+        {
+            "id": "nm0465214",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yuka Konno",
+            "asCharacter": "Onodera's Lover"
+        },
+        {
+            "id": "nm1033028",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eiichi Takamura",
+            "asCharacter": "Governor of Osaka"
+        },
+        {
+            "id": "nm1526280",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken'ichi Tani",
+            "asCharacter": "Lee"
+        },
+        {
+            "id": "nm0411715",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kôichi Itô",
+            "asCharacter": "Metropolitan Police Superintendent-General"
+        },
+        {
+            "id": "nm0395942",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hikaru Hoshi",
+            "asCharacter": "Awaji Maru Captain"
+        },
+        {
+            "id": "nm2406616",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Osamu Abe",
+            "asCharacter": "Awaji Maru Crewman"
+        },
+        {
+            "id": "nm0357289",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshihiro Hamaguchi",
+            "asCharacter": "Awaji Maru Crewman"
+        },
+        {
+            "id": "nm1524484",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jun Osanai",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0644952",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Ohara",
+            "asCharacter": "Karen's Father"
+        },
+        {
+            "id": "nm1797078",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tsutomu Nakata",
+            "asCharacter": "Hayashi"
+        },
+        {
+            "id": "nm1909903",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yûji Moriya",
+            "asCharacter": "News Announcer (voice)"
+        },
+        {
+            "id": "nm1796248",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shinji Kawashima",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2736876",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gai Harada",
+            "asCharacter": "Kishimoto"
+        },
+        {
+            "id": "nm1677756",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kazuo Mori",
+            "asCharacter": "Awaji Maru Crewman"
+        },
+        {
+            "id": "nm0032902",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yasuo Araki",
+            "asCharacter": "Awaji Maru Crewman"
+        },
+        {
+            "id": "nm1235384",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shin Minatsu",
+            "asCharacter": "Awaji Maru Crewman"
+        },
+        {
+            "id": "nm2870628",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Takehiko Goto",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2869990",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Toichiro Kagawa",
+            "asCharacter": "Man at Observatory"
+        },
+        {
+            "id": "nm1382101",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kenichiro Yamane",
+            "asCharacter": "Man at Observatory"
+        },
+        {
+            "id": "nm1656022",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nobuko Shingû",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2869945",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiroko Nishi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2870512",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michiyo Hikari",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm2864961",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Takashi Masuda",
+            "asCharacter": "Butodan"
+        },
+        {
+            "id": "nm1066824",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Genzô Wakayama",
+            "asCharacter": "Narrator"
+        },
+        {
+            "id": "nm2870543",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc1OTQzNTc4Ml5BMl5BanBnXkFtZTgwNTY1NTEzMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Abdo Apanai",
+            "asCharacter": "Witness in airport crowd (as M. Apanai)"
+        },
+        {
+            "id": "nm0434600",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yukie Kagawa",
+            "asCharacter": "Girl in Village - Karen's Friend (as Hiroko Nishi)"
+        },
+        {
+            "id": "nm0200012",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anthony La Penna",
+            "asCharacter": "Narrator"
+        },
+        {
+            "id": "nm2760419",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Teruo Aragaki",
+            "asCharacter": "Gamera (uncredited)"
+        },
+        {
+            "id": "nm6869976",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Kaye",
+            "asCharacter": "Keisuke Hirata (voice) (uncredited)"
+        },
+        {
+            "id": "nm7274655",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Warren Rooke",
+            "asCharacter": "Ichiro Hirata (voice) (uncredited)"
+        },
+        {
+            "id": "nm3989715",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ted Thomas",
+            "asCharacter": "Kawajiri / Police Commissioner / Sailor / Mr. Lee / Radio Announcer (voice) (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0291078",
+                    "name": "Sandy Frank",
+                    "description": "producer (US version)"
+                },
+                {
+                    "id": "nm0619211",
+                    "name": "Masaichi Nagata",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0455836",
+                    "name": "Chûji Kinoshita",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0847163",
+                    "name": "Michio Takahashi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0620316",
+                    "name": "Tatsuji Nakashizu",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm10615771",
+                    "name": "Tôru Suzuki",
+                    "description": "special effects assistant"
+                },
+                {
+                    "id": "nm0950633",
+                    "name": "Noriaki Yuasa",
+                    "description": "director of special effects"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}
