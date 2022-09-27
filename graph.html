@@ -1,0 +1,2629 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Vis Network | Events | Interaction events</title>
+
+    <script
+      type="text/javascript"
+      src="vis-network.min.js"
+    ></script>
+
+    <style type="text/css">
+      #mynetwork {
+        width: 1024px;
+        height: 1024px;
+        border: 1px solid lightgray;
+      }
+    </style>
+  </head>
+  <body>
+    <p> 
+      Create a simple network with some nodes and edges. Some of the events are
+      logged in the console in improve readability.
+    </p>
+
+    <div id="mynetwork"></div>
+
+    <h2 id="eventSpanHeading"></h2>
+    <pre id="eventSpanContent"></pre>
+
+    <script type="text/javascript">
+      // create an array with nodes
+
+      var nodes = new vis.DataSet(
+[
+    {
+        "id": "tt0128273",
+        "label": "K01",
+        "title": "Invaders from the Deep",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt1272026",
+        "label": "K02",
+        "title": "Revenge of the Mysterons from Mars",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0131028",
+        "label": "K03,318",
+        "title": "Star Force: Fugitive Alien II",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060446",
+        "label": "K04,304",
+        "title": "Gamera vs. Barugon",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt5176968",
+        "label": "K05",
+        "title": "Gamera",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0064360",
+        "label": "K06,312",
+        "title": "Gamera vs. Gaos",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0067123",
+        "label": "K07,316",
+        "title": "Gamera vs. Zigra",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061695",
+        "label": "K08,308",
+        "title": "Gamera vs. Guiron",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0070531",
+        "label": "K09",
+        "title": "Phase IV",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0074350",
+        "label": "K10",
+        "title": "Cosmic Princess",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0104463",
+        "label": "K11",
+        "title": "Humanoid Woman",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0128224",
+        "label": "K12,310",
+        "title": "Fugitive Alien",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0076650",
+        "label": "K13",
+        "title": "SST: Death Flight",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062582",
+        "label": "K14",
+        "title": "Mighty Jack",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0078345",
+        "label": "K15",
+        "title": "Superdome",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0078976",
+        "label": "K16",
+        "title": "City on Fire",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0094153",
+        "label": "K17,306",
+        "title": "Time of the Apes",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061976",
+        "label": "K18",
+        "title": "The Million Eyes of Sumuru",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0080836",
+        "label": "K19",
+        "title": "Hangar 18",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0082642",
+        "label": "K20",
+        "title": "The Last Chase",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0085830",
+        "label": "K21",
+        "title": "The \"Legend of Dinosaurs\"",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052320",
+        "label": "101",
+        "title": "The Crawling Eye",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050717",
+        "label": "102",
+        "title": "The Robot vs. The Aztec Mummy",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0035009",
+        "label": "103",
+        "title": "The Mad Monster",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061203",
+        "label": "104",
+        "title": "Women of the Prehistoric Planet",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0034613",
+        "label": "105",
+        "title": "The Corpse Vanishes",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0056961",
+        "label": "106",
+        "title": "The Crawling Hand",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0046248",
+        "label": "107",
+        "title": "Robot Monster",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0056499",
+        "label": "108",
+        "title": "The Slime People",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0046213",
+        "label": "109",
+        "title": "Project Moonbase",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0093872",
+        "label": "110",
+        "title": "Robot Holocaust",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0064691",
+        "label": "111",
+        "title": "Moon Zero Two",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0051139",
+        "label": "112",
+        "title": "Untamed Youth",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050197",
+        "label": "113",
+        "title": "The Black Scorpion",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0042897",
+        "label": "201",
+        "title": "Rocketship X-M",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061671",
+        "label": "202",
+        "title": "The Sidehackers",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0040500",
+        "label": "203",
+        "title": "Jungle Goddess",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061456",
+        "label": "204",
+        "title": "Catalina Caper",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055380",
+        "label": "205",
+        "title": "Rocket Attack U.S.A.",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0056415",
+        "label": "206",
+        "title": "Ring of Terror",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062493",
+        "label": "207",
+        "title": "Wild Rebels",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0043757",
+        "label": "208",
+        "title": "Lost Continent",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061759",
+        "label": "209",
+        "title": "The Hellcats",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0048256",
+        "label": "210",
+        "title": "King Dinosaur",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053250",
+        "label": "211",
+        "title": "First Spaceship on Venus",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0070122",
+        "label": "212",
+        "title": "Godzilla vs. Megalon",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060464",
+        "label": "213",
+        "title": "Godzilla vs. the Sea Monster",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0086972",
+        "label": "301",
+        "title": "Cave Dwellers",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059080",
+        "label": "302",
+        "title": "Gamera",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0086026",
+        "label": "303",
+        "title": "Pod People",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0070742",
+        "label": "305",
+        "title": "Stranded in Space",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052719",
+        "label": "307",
+        "title": "Daddy-O",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050118",
+        "label": "309",
+        "title": "The Amazing Colossal Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049370",
+        "label": "311",
+        "title": "It Conquered the World",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0051570",
+        "label": "313",
+        "title": "Earth vs. the Spider",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0063300",
+        "label": "314",
+        "title": "Mighty Jack",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052279",
+        "label": "315",
+        "title": "Teenage Cave Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052156",
+        "label": "317",
+        "title": "Viking Women and the Sea Serpent",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052378",
+        "label": "319",
+        "title": "War of the Colossal Beast",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0051134",
+        "label": "320",
+        "title": "The Unearthly",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058548",
+        "label": "321",
+        "title": "Santa Claus Conquers the Martians",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0643072",
+        "label": "322a",
+        "title": "Master Ninja I-a",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0643073",
+        "label": "322b",
+        "title": "Master Ninja I-b",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0064338",
+        "label": "323",
+        "title": "The Castle of Fu Manchu",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0643075",
+        "label": "324a",
+        "title": "Master Ninja II-a",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0643069",
+        "label": "324b",
+        "title": "Master Ninja II-b",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0064639",
+        "label": "401",
+        "title": "Space Travelers",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052846",
+        "label": "402",
+        "title": "The Giant Gila Monster",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0088925",
+        "label": "403",
+        "title": "City Limits",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053337",
+        "label": "404",
+        "title": "Teenagers from Outer Space",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0084796",
+        "label": "405",
+        "title": "Being from Another Planet",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053611",
+        "label": "406",
+        "title": "Attack of the Giant Leeches",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052969",
+        "label": "407",
+        "title": "The Killer Shrews",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052782",
+        "label": "408",
+        "title": "Hercules Unchained",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049363",
+        "label": "409",
+        "title": "Indestructible Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058311",
+        "label": "410",
+        "title": "Hercules Against the Moon Men",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0056211",
+        "label": "411",
+        "title": "The Magic Sword",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054851",
+        "label": "412",
+        "title": "Hercules and the Captive Women",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0047211",
+        "label": "413",
+        "title": "Manhunt in Space",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054393",
+        "label": "414",
+        "title": "Tormented",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053640",
+        "label": "415",
+        "title": "The Beatniks",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0046977",
+        "label": "416",
+        "title": "Fire Maidens of Outer Space",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0045655",
+        "label": "417",
+        "title": "Crash of Moons",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059161",
+        "label": "418",
+        "title": "Attack of the The Eye Creatures",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053213",
+        "label": "419",
+        "title": "The Rebel Set",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059290",
+        "label": "420",
+        "title": "The Human Duplicators",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059464",
+        "label": "421",
+        "title": "Monster a Go-Go",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053240",
+        "label": "422",
+        "title": "The Day the Earth Froze",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0047898",
+        "label": "423",
+        "title": "Bride of the Monster",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060666",
+        "label": "424",
+        "title": "Manos: The Hands of Fate",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0088380",
+        "label": "501",
+        "title": "Warrior of the Lost World",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050381",
+        "label": "502",
+        "title": "Hercules",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0048682",
+        "label": "503",
+        "title": "Swamp Diamonds",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060956",
+        "label": "504",
+        "title": "Secret Agent Super Dragon",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0046264",
+        "label": "505",
+        "title": "The Magic Voyage of Sinbad",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055946",
+        "label": "506",
+        "title": "Eegah",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0037798",
+        "label": "507",
+        "title": "I Accuse My Parents",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062078",
+        "label": "508",
+        "title": "Operation Double 007",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052849",
+        "label": "509",
+        "title": "The Girl in Lovers Lane",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0043895",
+        "label": "510",
+        "title": "The Painted Hills",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049287",
+        "label": "511",
+        "title": "Gunslinger",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0073396",
+        "label": "512",
+        "title": "Mitchell",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052646",
+        "label": "513",
+        "title": "The Brain That Wouldn't Die",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059786",
+        "label": "514",
+        "title": "Teen-Age Strangler",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061191",
+        "label": "515",
+        "title": "The Wild Wild World of Batwoman",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0092532",
+        "label": "516",
+        "title": "Alien from L.A.",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050177",
+        "label": "517",
+        "title": "Beginning of the End",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0057859",
+        "label": "518",
+        "title": "The Atomic Brain",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0098048",
+        "label": "519",
+        "title": "Outlaw",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0042874",
+        "label": "520",
+        "title": "Radar Secret Service",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053241",
+        "label": "521",
+        "title": "Santa Claus",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0048701",
+        "label": "522",
+        "title": "Teen-Age Crime Wave",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0059878",
+        "label": "523",
+        "title": "Village of the Giants",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054415",
+        "label": "524",
+        "title": "12 to the Moon",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052850",
+        "label": "601",
+        "title": "Girls Town",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0044750",
+        "label": "602",
+        "title": "Invasion U.S.A.",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0106682",
+        "label": "603",
+        "title": "The Dead Talk Back",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0092297",
+        "label": "604",
+        "title": "Zombie Nightmare",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0056207",
+        "label": "605",
+        "title": "Colossus and the Headhunters",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0057970",
+        "label": "606",
+        "title": "The Creeping Terror",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054691",
+        "label": "607",
+        "title": "Bloodlust!",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0075862",
+        "label": "608",
+        "title": "Code Name: Diamond Head",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0057507",
+        "label": "609",
+        "title": "The Skydivers",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049922",
+        "label": "610",
+        "title": "The Violent Years",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0040530",
+        "label": "611",
+        "title": "Last of the Wild Horses",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058615",
+        "label": "612",
+        "title": "The Starfighters",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055452",
+        "label": "613",
+        "title": "The Sinister Urge",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0065343",
+        "label": "614",
+        "title": "San Francisco International",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058267",
+        "label": "615",
+        "title": "Kitten with a Whip",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0043954",
+        "label": "616",
+        "title": "Racket Girls",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049358",
+        "label": "617",
+        "title": "The Sword and the Dragon",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052891",
+        "label": "618",
+        "title": "High School Big Shot",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060753",
+        "label": "619",
+        "title": "Red Zone Cuba",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062035",
+        "label": "620",
+        "title": "Danger!! Death Ray",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054673",
+        "label": "621",
+        "title": "The Beast of Yucca Flats",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0078778",
+        "label": "622",
+        "title": "Angels Revenge",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053593",
+        "label": "623",
+        "title": "The Amazing Transparent Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055408",
+        "label": "624",
+        "title": "Samson vs. the Vampire Women",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0047577",
+        "label": "M01",
+        "title": "This Island Earth",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0051993",
+        "label": "701",
+        "title": "Night of the Blood Beast",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0038387",
+        "label": "702",
+        "title": "The Brute Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0097174",
+        "label": "703",
+        "title": "Deathstalker and the Warriors from Hell",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0076191",
+        "label": "704",
+        "title": "The Incredible Melting Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0089104",
+        "label": "705",
+        "title": "Escape 2000",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0077834",
+        "label": "706",
+        "title": "Laserblast",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0048554",
+        "label": "801",
+        "title": "Revenge of the Creature",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054020",
+        "label": "802",
+        "title": "The Leech Woman",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0049516",
+        "label": "803",
+        "title": "The Mole People",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050294",
+        "label": "804",
+        "title": "The Deadly Mantis",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052289",
+        "label": "805",
+        "title": "The Thing That Couldn't Die",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0051128",
+        "label": "806",
+        "title": "The Undead",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052286",
+        "label": "807",
+        "title": "Terror from the Year 5000",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050957",
+        "label": "808",
+        "title": "The She-Creature",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0050530",
+        "label": "809",
+        "title": "I Was a Teenage Werewolf",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0073043",
+        "label": "810",
+        "title": "The Giant Spider Invasion",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0078062",
+        "label": "811",
+        "title": "Parts: The Clonus Horror",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0057181",
+        "label": "812",
+        "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058374",
+        "label": "813",
+        "title": "Jack Frost",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0074568",
+        "label": "814a",
+        "title": "Riding with Death-a",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0586012",
+        "label": "814b",
+        "title": "Riding with Death-b",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0060074",
+        "label": "815",
+        "title": "Agent for H.A.R.M.",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053464",
+        "label": "816",
+        "title": "Prince of Space",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058208",
+        "label": "817",
+        "title": "The Horror of Party Beach",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0058007",
+        "label": "818",
+        "title": "Devil Doll",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055562",
+        "label": "819",
+        "title": "Invasion of the Neptune Men",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0096149",
+        "label": "820",
+        "title": "Space Mutiny",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0145529",
+        "label": "821",
+        "title": "Time Chasers",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0089759",
+        "label": "822",
+        "title": "Overdrawn at the Memory Bank",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062159",
+        "label": "901",
+        "title": "The Projected Man",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0055294",
+        "label": "902",
+        "title": "The Phantom Planet",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0081693",
+        "label": "903",
+        "title": "The Pumaman",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0118137",
+        "label": "904",
+        "title": "Werewolf",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0061557",
+        "label": "905",
+        "title": "The Deadly Bees",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052227",
+        "label": "906",
+        "title": "The Space Children",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0089280",
+        "label": "907",
+        "title": "Hobgoblins",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0066476",
+        "label": "908",
+        "title": "The Touch of Satan",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054938",
+        "label": "909",
+        "title": "Gorgo",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0131550",
+        "label": "910",
+        "title": "The Final Sacrifice",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0088100",
+        "label": "911",
+        "title": "Devil Fish",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0052169",
+        "label": "912",
+        "title": "The Screaming Skull",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0107910",
+        "label": "913",
+        "title": "Quest of the Delta Knights",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0100665",
+        "label": "1001",
+        "title": "Soultaker",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0174685",
+        "label": "1002",
+        "title": "Girl in Gold Boots",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0174917",
+        "label": "1003",
+        "title": "Merlin's Shop of Mystical Wonders",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0113135",
+        "label": "1004",
+        "title": "Future War",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0072666",
+        "label": "1005",
+        "title": "Blood Waters of Dr. Z",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0088772",
+        "label": "1006",
+        "title": "Boggy Creek II: And the Legend Continues",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0075343",
+        "label": "1007",
+        "title": "Track of the Moon Beast",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0087258",
+        "label": "1008",
+        "title": "Final Justice",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0053888",
+        "label": "1009",
+        "title": "Hamlet",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0071198",
+        "label": "1010",
+        "title": "It Lives By Night",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0054333",
+        "label": "1011",
+        "title": "Horrors of Spider Island",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0075261",
+        "label": "1012",
+        "title": "Squirm",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "tt0062861",
+        "label": "1013",
+        "title": "Diabolik",
+        "shape": "box",
+        "color": "gold"
+    },
+    {
+        "id": "nm0000509",
+        "label": "Bela Lugosi",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0168939",
+        "label": "Tristram Coffin",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0744441",
+        "label": "Angelo Rossitto",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0318102",
+        "label": "Joe Gilbert",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0627864",
+        "label": "Sam Newfield",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0925929",
+        "label": "Smoki Whitfield",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0365039",
+        "label": "Sam Harris",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0359034",
+        "label": "Orville H. Hampton",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0390372",
+        "label": "Judd Holdren",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0828260",
+        "label": "Bert Stevens",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0064604",
+        "label": "Hugh Beaumont",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0607612",
+        "label": "Hollingsworth Morse",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0186415",
+        "label": "Richard Crane",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0065717",
+        "label": "Scotty Beckett",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0543821",
+        "label": "Sally Mansfield",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0527974",
+        "label": "Robert Lyden",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0143912",
+        "label": "Maurice Cass",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0580566",
+        "label": "Charles Meredith",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0663888",
+        "label": "Patsy Parsons",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0491591",
+        "label": "Harry Lauter",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0618865",
+        "label": "George Nader",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0426363",
+        "label": "Tor Johnson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0242587",
+        "label": "Harvey B. Dunn",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0065922",
+        "label": "George Becwar",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0330026",
+        "label": "Bert I. Gordon",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0117252",
+        "label": "William Bryant",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0588922",
+        "label": "Marvin Miller",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0000339",
+        "label": "Roger Corman",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0307500",
+        "label": "Beverly Garland",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0686340",
+        "label": "Lou Place",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0371918",
+        "label": "Jonathan Haze",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0625343",
+        "label": "Ed Nelson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0254616",
+        "label": "Ross Elliott",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0790171",
+        "label": "Robert Shayne",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0288311",
+        "label": "Robert Foulk",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0336335",
+        "label": "Peter Graves",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0292229",
+        "label": "Sally Fraser",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0070511",
+        "label": "Russ Bender",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0434377",
+        "label": "Karen Kadler",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0103056",
+        "label": "Marshall Bradford",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0946753",
+        "label": "George Worthing Yates",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0485977",
+        "label": "Glenn Langan",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0666230",
+        "label": "Hank Patterson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0423444",
+        "label": "June Jocelyn",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0467302",
+        "label": "Jack Kosslyn",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0555005",
+        "label": "Arturo Martínez",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0195676",
+        "label": "Ángel Di Stefani",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0327980",
+        "label": "Jaime González Quiñones",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0290371",
+        "label": "Pietro Francisci",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0208086",
+        "label": "Ennio De Concini",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0716302",
+        "label": "Steve Reeves",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0466977",
+        "label": "Sylva Koscina",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0591860",
+        "label": "Fabrizio Mioni",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0307995",
+        "label": "Ivo Garrani",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0658051",
+        "label": "Mimmo Palmara",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0031355",
+        "label": "Gabriele Antonini",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0278495",
+        "label": "Aldo Fiorelli",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0266885",
+        "label": "Andrea Fantasia",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0173020",
+        "label": "Willi Colombini",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0139996",
+        "label": "Fulvio Carrara",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0559818",
+        "label": "Gino Mattera",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0684266",
+        "label": "Aldo Pini",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0370886",
+        "label": "Allison Hayes",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0865279",
+        "label": "Sally Todd",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0330574",
+        "label": "Roy Gordon",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0281414",
+        "label": "Harry Fleer",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0051551",
+        "label": "Robert Banas",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0256523",
+        "label": "Michael Emmet",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0447320",
+        "label": "Kenner G. Kemp",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0448483",
+        "label": "June Kenney",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0744841",
+        "label": "Gene Roth",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0867963",
+        "label": "Hal Torey",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0397301",
+        "label": "Howard Wright",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0320417",
+        "label": "Bill Giorgio",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0307785",
+        "label": "Bob Garnet",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0856554",
+        "label": "Robert Tetrick",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0822482",
+        "label": "George Stanley",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0832047",
+        "label": "Merritt Stone",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0836392",
+        "label": "Ross Sturlin",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0001816",
+        "label": "Robert Vaughn",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0357975",
+        "label": "Joseph Hamilton",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0593803",
+        "label": "Warren Mitchell",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0895259",
+        "label": "Bruno VeSota",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0868001",
+        "label": "Sonia Torgeson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0716313",
+        "label": "Sergio Ciani",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0446129",
+        "label": "Ray Kellogg",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0799972",
+        "label": "Jay Simms",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0838042",
+        "label": "Don Sullivan",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0572741",
+        "label": "Gordon McLendon",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0167089",
+        "label": "John Close",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0293659",
+        "label": "Paul Frees",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0106539",
+        "label": "Peter Breck",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0848547",
+        "label": "Nando Tamberlani",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0678904",
+        "label": "Osiride Pevarello",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2227107",
+        "label": "Renzo Pevarello",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0730924",
+        "label": "Joseph F. Robertson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0701222",
+        "label": "Jock Putnam",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0035159",
+        "label": "Richard Arlen",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0950633",
+        "label": "Noriaki Yuasa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0847177",
+        "label": "Niisan Takahashi",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0298576",
+        "label": "Eiji Funakoshi",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0879761",
+        "label": "Yoshiro Uchida",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0457526",
+        "label": "Yoshirô Kitahara",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0654627",
+        "label": "Kenji Ôyama",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0948949",
+        "label": "Yoshio Yoshida",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1524484",
+        "label": "Jun Osanai",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0457484",
+        "label": "Daihachi Kita",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1677756",
+        "label": "Kazuo Mori",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0297893",
+        "label": "Kôji Fujiyama",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0389922",
+        "label": "Jutarô Kitashiro",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1708042",
+        "label": "Daigo Inoue",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2870628",
+        "label": "Takehiko Goto",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1526280",
+        "label": "Ken'ichi Tani",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0032902",
+        "label": "Yasuo Araki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1909903",
+        "label": "Yûji Moriya",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1382101",
+        "label": "Kenichiro Yamane",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1797078",
+        "label": "Tsutomu Nakata",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm1235384",
+        "label": "Shin Minatsu",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2869990",
+        "label": "Toichiro Kagawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2870543",
+        "label": "Abdo Apanai",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2760419",
+        "label": "Teruo Aragaki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0358344",
+        "label": "Warren Hammack",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0404154",
+        "label": "Tony Huston",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0682287",
+        "label": "Arthur C. Pierce",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0556543",
+        "label": "Walter Maslow",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0849060",
+        "label": "Shigeo Tanaka",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0393291",
+        "label": "Kôjirô Hongô",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0622408",
+        "label": "Shô Natsuki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0411715",
+        "label": "Kôichi Itô",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm2736876",
+        "label": "Gai Harada",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0434600",
+        "label": "Yukie Kagawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm7274655",
+        "label": "Warren Rooke",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm3989715",
+        "label": "Ted Thomas",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0297974",
+        "label": "Jun Fukuda",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0782883",
+        "label": "Shin'ichi Sekizawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0386284",
+        "label": "Akihiko Hirata",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0023862",
+        "label": "Hideyo Amamoto",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0620032",
+        "label": "Haruo Nakajima",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0782876",
+        "label": "Yû Sekita",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0411731",
+        "label": "Robert Ito",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0872809",
+        "label": "Gus Trikonis",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0353448",
+        "label": "Ross Hagen",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0329029",
+        "label": "Michael Pataki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0581239",
+        "label": "Richard Merrifield",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0509155",
+        "label": "Eric Lidberg",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0520547",
+        "label": "Tony Lorea",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0440381",
+        "label": "Reiko Kasahara",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0008367",
+        "label": "Naoyuki Abe",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0835046",
+        "label": "Robert Strong",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0869935",
+        "label": "Harry Alan Towers",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0737544",
+        "label": "Sax Rohmer",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0199361",
+        "label": "Mike Danning",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0590906",
+        "label": "Hiroshi Minami",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0629218",
+        "label": "Masaya Nihei",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0653005",
+        "label": "Ulf Ôtsuki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0743619",
+        "label": "Liza Ross",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0792384",
+        "label": "Bob Sherman",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0900912",
+        "label": "Jesse Vogel",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0800294",
+        "label": "Mayo Simon",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0418148",
+        "label": "David Janssen",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0002082",
+        "label": "James Franciscus",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0829872",
+        "label": "Tom Stewart",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0770711",
+        "label": "Catherine Schell",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0442904",
+        "label": "Hiroyuki Kawase",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0372242",
+        "label": "David Healy",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0943894",
+        "label": "H.M. Wynant",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0026755",
+        "label": "Gerry Anderson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0027487",
+        "label": "Sylvia Anderson",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0580565",
+        "label": "Burgess Meredith",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0008350",
+        "label": "Keiichi Abe",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0437124",
+        "label": "Minoru Kanaya",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0476729",
+        "label": "Kiyosumi Kuzakawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0906740",
+        "label": "Bunzô Wakatsuki",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0044462",
+        "label": "Tatsuya Azuma",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0849461",
+        "label": "Miyuki Tanigawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0794425",
+        "label": "Jô Shishido",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0847110",
+        "label": "Chôei Takahashi",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0950801",
+        "label": "Tsutomu Yukawa",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    },
+    {
+        "id": "nm0851229",
+        "label": "Hiro Tateyama",
+        "shape": "ellipse",
+        "color": "gainsboro"
+    }
+]
+
+      );
+
+      // create an array with edges
+      var edges = new vis.DataSet(
+[{"from":"nm0000509","to":"tt0034613"},{"from":"nm0000509","to":"tt0047898"},{"from":"nm0168939","to":"tt0034613"},{"from":"nm0168939","to":"tt0056961"},{"from":"nm0744441","to":"tt0034613"},{"from":"nm0744441","to":"tt0056211"},{"from":"nm0318102","to":"tt0034613"},{"from":"nm0318102","to":"tt0040500"},{"from":"nm0627864","to":"tt0035009"},{"from":"nm0627864","to":"tt0043757"},{"from":"nm0925929","to":"tt0040500"},{"from":"nm0925929","to":"tt0053213"},{"from":"nm0365039","to":"tt0040500"},{"from":"nm0365039","to":"tt0042897"},{"from":"nm0359034","to":"tt0042897"},{"from":"nm0359034","to":"tt0043757"},{"from":"nm0390372","to":"tt0042897"},{"from":"nm0390372","to":"tt0047211"},{"from":"nm0390372","to":"tt0050118"},{"from":"nm0828260","to":"tt0042897"},{"from":"nm0828260","to":"tt0043757"},{"from":"nm0064604","to":"tt0043757"},{"from":"nm0064604","to":"tt0059290"},{"from":"nm0607612","to":"tt0045655"},{"from":"nm0607612","to":"tt0047211"},{"from":"nm0186415","to":"tt0045655"},{"from":"nm0186415","to":"tt0047211"},{"from":"nm0065717","to":"tt0045655"},{"from":"nm0065717","to":"tt0047211"},{"from":"nm0543821","to":"tt0045655"},{"from":"nm0543821","to":"tt0047211"},{"from":"nm0527974","to":"tt0045655"},{"from":"nm0527974","to":"tt0047211"},{"from":"nm0143912","to":"tt0045655"},{"from":"nm0143912","to":"tt0047211"},{"from":"nm0580566","to":"tt0045655"},{"from":"nm0580566","to":"tt0047211"},{"from":"nm0663888","to":"tt0045655"},{"from":"nm0663888","to":"tt0047211"},{"from":"nm0491591","to":"tt0045655"},{"from":"nm0491591","to":"tt0047211"},{"from":"nm0618865","to":"tt0046248"},{"from":"nm0618865","to":"tt0059290"},{"from":"nm0618865","to":"tt0061976"},{"from":"nm0426363","to":"tt0047898"},{"from":"nm0426363","to":"tt0051134"},{"from":"nm0242587","to":"tt0047898"},{"from":"nm0242587","to":"tt0053337"},{"from":"nm0065922","to":"tt0047898"},{"from":"nm0065922","to":"tt0052378"},{"from":"nm0330026","to":"tt0048256"},{"from":"nm0330026","to":"tt0050118"},{"from":"nm0330026","to":"tt0051570"},{"from":"nm0330026","to":"tt0052378"},{"from":"nm0330026","to":"tt0054393"},{"from":"nm0330026","to":"tt0056211"},{"from":"nm0117252","to":"tt0048256"},{"from":"nm0117252","to":"tt0070742"},{"from":"nm0588922","to":"tt0048256"},{"from":"nm0588922","to":"tt0053240"},{"from":"nm0000339","to":"tt0048682"},{"from":"nm0000339","to":"tt0049370"},{"from":"nm0000339","to":"tt0052156"},{"from":"nm0000339","to":"tt0052279"},{"from":"nm0307500","to":"tt0048682"},{"from":"nm0307500","to":"tt0049370"},{"from":"nm0686340","to":"tt0048682"},{"from":"nm0686340","to":"tt0052719"},{"from":"nm0371918","to":"tt0048682"},{"from":"nm0371918","to":"tt0049370"},{"from":"nm0371918","to":"tt0052156"},{"from":"nm0371918","to":"tt0052279"},{"from":"nm0625343","to":"tt0048682"},{"from":"nm0625343","to":"tt0052279"},{"from":"nm0625343","to":"tt0078345"},{"from":"nm0254616","to":"tt0049363"},{"from":"nm0254616","to":"tt0056961"},{"from":"nm0790171","to":"tt0049363"},{"from":"nm0790171","to":"tt0052279"},{"from":"nm0790171","to":"tt0053213"},{"from":"nm0288311","to":"tt0049363"},{"from":"nm0288311","to":"tt0051139"},{"from":"nm0336335","to":"tt0049370"},{"from":"nm0336335","to":"tt0076650"},{"from":"nm0292229","to":"tt0049370"},{"from":"nm0292229","to":"tt0051570"},{"from":"nm0292229","to":"tt0052378"},{"from":"nm0070511","to":"tt0049370"},{"from":"nm0070511","to":"tt0050118"},{"from":"nm0070511","to":"tt0052378"},{"from":"nm0434377","to":"tt0049370"},{"from":"nm0434377","to":"tt0053640"},{"from":"nm0103056","to":"tt0049370"},{"from":"nm0103056","to":"tt0052279"},{"from":"nm0946753","to":"tt0050118"},{"from":"nm0946753","to":"tt0051570"},{"from":"nm0946753","to":"tt0052378"},{"from":"nm0946753","to":"tt0054393"},{"from":"nm0485977","to":"tt0050118"},{"from":"nm0485977","to":"tt0052378"},{"from":"nm0485977","to":"tt0061203"},{"from":"nm0666230","to":"tt0050118"},{"from":"nm0666230","to":"tt0051570"},{"from":"nm0423444","to":"tt0050118"},{"from":"nm0423444","to":"tt0051570"},{"from":"nm0423444","to":"tt0052279"},{"from":"nm0423444","to":"tt0052378"},{"from":"nm0467302","to":"tt0050118"},{"from":"nm0467302","to":"tt0051570"},{"from":"nm0467302","to":"tt0052378"},{"from":"nm0467302","to":"tt0056211"},{"from":"nm0555005","to":"tt0050197"},{"from":"nm0555005","to":"tt0050717"},{"from":"nm0195676","to":"tt0050197"},{"from":"nm0195676","to":"tt0050717"},{"from":"nm0327980","to":"tt0050197"},{"from":"nm0327980","to":"tt0050717"},{"from":"nm0290371","to":"tt0050381"},{"from":"nm0290371","to":"tt0052782"},{"from":"nm0208086","to":"tt0050381"},{"from":"nm0208086","to":"tt0052782"},{"from":"nm0716302","to":"tt0050381"},{"from":"nm0716302","to":"tt0052782"},{"from":"nm0466977","to":"tt0050381"},{"from":"nm0466977","to":"tt0052782"},{"from":"nm0591860","to":"tt0050381"},{"from":"nm0591860","to":"tt0052782"},{"from":"nm0307995","to":"tt0050381"},{"from":"nm0307995","to":"tt0054851"},{"from":"nm0658051","to":"tt0050381"},{"from":"nm0658051","to":"tt0052782"},{"from":"nm0658051","to":"tt0054851"},{"from":"nm0031355","to":"tt0050381"},{"from":"nm0031355","to":"tt0052782"},{"from":"nm0278495","to":"tt0050381"},{"from":"nm0278495","to":"tt0052782"},{"from":"nm0266885","to":"tt0050381"},{"from":"nm0266885","to":"tt0052782"},{"from":"nm0173020","to":"tt0050381"},{"from":"nm0173020","to":"tt0052782"},{"from":"nm0139996","to":"tt0050381"},{"from":"nm0139996","to":"tt0052782"},{"from":"nm0559818","to":"tt0050381"},{"from":"nm0559818","to":"tt0052782"},{"from":"nm0684266","to":"tt0050381"},{"from":"nm0684266","to":"tt0052782"},{"from":"nm0370886","to":"tt0051134"},{"from":"nm0370886","to":"tt0056961"},{"from":"nm0865279","to":"tt0051134"},{"from":"nm0865279","to":"tt0052156"},{"from":"nm0330574","to":"tt0051134"},{"from":"nm0330574","to":"tt0052378"},{"from":"nm0281414","to":"tt0051134"},{"from":"nm0281414","to":"tt0054393"},{"from":"nm0051551","to":"tt0051139"},{"from":"nm0051551","to":"tt0052719"},{"from":"nm0256523","to":"tt0051139"},{"from":"nm0256523","to":"tt0053611"},{"from":"nm0447320","to":"tt0051139"},{"from":"nm0447320","to":"tt0064639"},{"from":"nm0448483","to":"tt0051570"},{"from":"nm0448483","to":"tt0052156"},{"from":"nm0744841","to":"tt0051570"},{"from":"nm0744841","to":"tt0053213"},{"from":"nm0744841","to":"tt0053611"},{"from":"nm0744841","to":"tt0054393"},{"from":"nm0867963","to":"tt0051570"},{"from":"nm0867963","to":"tt0052378"},{"from":"nm0397301","to":"tt0051570"},{"from":"nm0397301","to":"tt0052378"},{"from":"nm0320417","to":"tt0051570"},{"from":"nm0320417","to":"tt0052378"},{"from":"nm0307785","to":"tt0051570"},{"from":"nm0307785","to":"tt0052378"},{"from":"nm0856554","to":"tt0051570"},{"from":"nm0856554","to":"tt0052378"},{"from":"nm0822482","to":"tt0051570"},{"from":"nm0822482","to":"tt0054393"},{"from":"nm0832047","to":"tt0051570"},{"from":"nm0832047","to":"tt0052378"},{"from":"nm0832047","to":"tt0054393"},{"from":"nm0832047","to":"tt0056211"},{"from":"nm0836392","to":"tt0052156"},{"from":"nm0836392","to":"tt0052279"},{"from":"nm0836392","to":"tt0053611"},{"from":"nm0001816","to":"tt0052279"},{"from":"nm0001816","to":"tt0080836"},{"from":"nm0357975","to":"tt0052279"},{"from":"nm0357975","to":"tt0053611"},{"from":"nm0593803","to":"tt0052320"},{"from":"nm0593803","to":"tt0064691"},{"from":"nm0895259","to":"tt0052719"},{"from":"nm0895259","to":"tt0053611"},{"from":"nm0868001","to":"tt0052719"},{"from":"nm0868001","to":"tt0053337"},{"from":"nm0716313","to":"tt0052782"},{"from":"nm0716313","to":"tt0058311"},{"from":"nm0446129","to":"tt0052846"},{"from":"nm0446129","to":"tt0052969"},{"from":"nm0799972","to":"tt0052846"},{"from":"nm0799972","to":"tt0052969"},{"from":"nm0838042","to":"tt0052846"},{"from":"nm0838042","to":"tt0053213"},{"from":"nm0572741","to":"tt0052846"},{"from":"nm0572741","to":"tt0052969"},{"from":"nm0167089","to":"tt0053213"},{"from":"nm0167089","to":"tt0056499"},{"from":"nm0293659","to":"tt0053640"},{"from":"nm0293659","to":"tt0054393"},{"from":"nm0293659","to":"tt0056211"},{"from":"nm0106539","to":"tt0053640"},{"from":"nm0106539","to":"tt0056961"},{"from":"nm0848547","to":"tt0054851"},{"from":"nm0848547","to":"tt0058311"},{"from":"nm0678904","to":"tt0054851"},{"from":"nm0678904","to":"tt0086972"},{"from":"nm2227107","to":"tt0054851"},{"from":"nm2227107","to":"tt0086972"},{"from":"nm0730924","to":"tt0056499"},{"from":"nm0730924","to":"tt0056961"},{"from":"nm0701222","to":"tt0056499"},{"from":"nm0701222","to":"tt0056961"},{"from":"nm0035159","to":"tt0056961"},{"from":"nm0035159","to":"tt0059290"},{"from":"nm0950633","to":"tt0059080"},{"from":"nm0950633","to":"tt0060446"},{"from":"nm0950633","to":"tt0061695"},{"from":"nm0950633","to":"tt0064360"},{"from":"nm0950633","to":"tt0067123"},{"from":"nm0847177","to":"tt0059080"},{"from":"nm0847177","to":"tt0060446"},{"from":"nm0847177","to":"tt0061695"},{"from":"nm0847177","to":"tt0064360"},{"from":"nm0847177","to":"tt0067123"},{"from":"nm0298576","to":"tt0059080"},{"from":"nm0298576","to":"tt0064360"},{"from":"nm0879761","to":"tt0059080"},{"from":"nm0879761","to":"tt0064360"},{"from":"nm0457526","to":"tt0059080"},{"from":"nm0457526","to":"tt0060446"},{"from":"nm0457526","to":"tt0061695"},{"from":"nm0654627","to":"tt0059080"},{"from":"nm0654627","to":"tt0061695"},{"from":"nm0948949","to":"tt0059080"},{"from":"nm0948949","to":"tt0067123"},{"from":"nm1524484","to":"tt0059080"},{"from":"nm1524484","to":"tt0060446"},{"from":"nm0457484","to":"tt0059080"},{"from":"nm0457484","to":"tt0067123"},{"from":"nm1677756","to":"tt0059080"},{"from":"nm1677756","to":"tt0060446"},{"from":"nm0297893","to":"tt0059080"},{"from":"nm0297893","to":"tt0060446"},{"from":"nm0297893","to":"tt0067123"},{"from":"nm0389922","to":"tt0059080"},{"from":"nm0389922","to":"tt0060446"},{"from":"nm1708042","to":"tt0059080"},{"from":"nm1708042","to":"tt0067123"},{"from":"nm2870628","to":"tt0059080"},{"from":"nm2870628","to":"tt0060446"},{"from":"nm1526280","to":"tt0059080"},{"from":"nm1526280","to":"tt0060446"},{"from":"nm0032902","to":"tt0059080"},{"from":"nm0032902","to":"tt0060446"},{"from":"nm1909903","to":"tt0059080"},{"from":"nm1909903","to":"tt0060446"},{"from":"nm1382101","to":"tt0059080"},{"from":"nm1382101","to":"tt0060446"},{"from":"nm1797078","to":"tt0059080"},{"from":"nm1797078","to":"tt0060446"},{"from":"nm1235384","to":"tt0059080"},{"from":"nm1235384","to":"tt0060446"},{"from":"nm1235384","to":"tt0061695"},{"from":"nm1235384","to":"tt0067123"},{"from":"nm2869990","to":"tt0059080"},{"from":"nm2869990","to":"tt0060446"},{"from":"nm2870543","to":"tt0059080"},{"from":"nm2870543","to":"tt0060446"},{"from":"nm2870543","to":"tt0062582"},{"from":"nm2760419","to":"tt0059080"},{"from":"nm2760419","to":"tt0060446"},{"from":"nm2760419","to":"tt0061695"},{"from":"nm0358344","to":"tt0059161"},{"from":"nm0358344","to":"tt0061671"},{"from":"nm0358344","to":"tt0061759"},{"from":"nm0404154","to":"tt0059161"},{"from":"nm0404154","to":"tt0061671"},{"from":"nm0404154","to":"tt0061759"},{"from":"nm0682287","to":"tt0059290"},{"from":"nm0682287","to":"tt0061203"},{"from":"nm0556543","to":"tt0059290"},{"from":"nm0556543","to":"tt0076650"},{"from":"nm0849060","to":"tt0060446"},{"from":"nm0849060","to":"tt0061695"},{"from":"nm0393291","to":"tt0060446"},{"from":"nm0393291","to":"tt0061695"},{"from":"nm0622408","to":"tt0060446"},{"from":"nm0622408","to":"tt0061695"},{"from":"nm0622408","to":"tt0064360"},{"from":"nm0622408","to":"tt0067123"},{"from":"nm0411715","to":"tt0060446"},{"from":"nm0411715","to":"tt0061695"},{"from":"nm2736876","to":"tt0060446"},{"from":"nm2736876","to":"tt0061695"},{"from":"nm0434600","to":"tt0060446"},{"from":"nm0434600","to":"tt0061695"},{"from":"nm7274655","to":"tt0060446"},{"from":"nm7274655","to":"tt0070122"},{"from":"nm3989715","to":"tt0060446"},{"from":"nm3989715","to":"tt0070122"},{"from":"nm0297974","to":"tt0060464"},{"from":"nm0297974","to":"tt0070122"},{"from":"nm0782883","to":"tt0060464"},{"from":"nm0782883","to":"tt0063300"},{"from":"nm0782883","to":"tt0070122"},{"from":"nm0386284","to":"tt0060464"},{"from":"nm0386284","to":"tt0128224"},{"from":"nm0023862","to":"tt0060464"},{"from":"nm0023862","to":"tt0062582"},{"from":"nm0023862","to":"tt0063300"},{"from":"nm0620032","to":"tt0060464"},{"from":"nm0620032","to":"tt0070122"},{"from":"nm0782876","to":"tt0060464"},{"from":"nm0782876","to":"tt0070122"},{"from":"nm0411731","to":"tt0061203"},{"from":"nm0411731","to":"tt0076650"},{"from":"nm0872809","to":"tt0061671"},{"from":"nm0872809","to":"tt0061759"},{"from":"nm0353448","to":"tt0061671"},{"from":"nm0353448","to":"tt0061759"},{"from":"nm0329029","to":"tt0061671"},{"from":"nm0329029","to":"tt0078345"},{"from":"nm0581239","to":"tt0061671"},{"from":"nm0581239","to":"tt0061759"},{"from":"nm0509155","to":"tt0061671"},{"from":"nm0509155","to":"tt0061759"},{"from":"nm0520547","to":"tt0061671"},{"from":"nm0520547","to":"tt0061759"},{"from":"nm0440381","to":"tt0061695"},{"from":"nm0440381","to":"tt0064360"},{"from":"nm0440381","to":"tt0067123"},{"from":"nm0008367","to":"tt0061695"},{"from":"nm0008367","to":"tt0064360"},{"from":"nm0835046","to":"tt0061759"},{"from":"nm0835046","to":"tt0064639"},{"from":"nm0835046","to":"tt0076650"},{"from":"nm0869935","to":"tt0061976"},{"from":"nm0869935","to":"tt0064338"},{"from":"nm0737544","to":"tt0061976"},{"from":"nm0737544","to":"tt0064338"},{"from":"nm0199361","to":"tt0062582"},{"from":"nm0199361","to":"tt0063300"},{"from":"nm0590906","to":"tt0062582"},{"from":"nm0590906","to":"tt0063300"},{"from":"nm0629218","to":"tt0062582"},{"from":"nm0629218","to":"tt0063300"},{"from":"nm0653005","to":"tt0062582"},{"from":"nm0653005","to":"tt0070122"},{"from":"nm0743619","to":"tt0063300"},{"from":"nm0743619","to":"tt0094153"},{"from":"nm0792384","to":"tt0063300"},{"from":"nm0792384","to":"tt0094153"},{"from":"nm0900912","to":"tt0063300"},{"from":"nm0900912","to":"tt0094153"},{"from":"nm0800294","to":"tt0064639"},{"from":"nm0800294","to":"tt0070531"},{"from":"nm0418148","to":"tt0064639"},{"from":"nm0418148","to":"tt0078345"},{"from":"nm0002082","to":"tt0064639"},{"from":"nm0002082","to":"tt0078976"},{"from":"nm0829872","to":"tt0064639"},{"from":"nm0829872","to":"tt0076650"},{"from":"nm0770711","to":"tt0064691"},{"from":"nm0770711","to":"tt0074350"},{"from":"nm0442904","to":"tt0070122"},{"from":"nm0442904","to":"tt0094153"},{"from":"nm0372242","to":"tt0070531"},{"from":"nm0372242","to":"tt1272026"},{"from":"nm0943894","to":"tt0070742"},{"from":"nm0943894","to":"tt0080836"},{"from":"nm0026755","to":"tt0074350"},{"from":"nm0026755","to":"tt0128273"},{"from":"nm0026755","to":"tt1272026"},{"from":"nm0027487","to":"tt0074350"},{"from":"nm0027487","to":"tt0128273"},{"from":"nm0027487","to":"tt1272026"},{"from":"nm0580565","to":"tt0076650"},{"from":"nm0580565","to":"tt0082642"},{"from":"nm0008350","to":"tt0094153"},{"from":"nm0008350","to":"tt0128224"},{"from":"nm0008350","to":"tt0131028"},{"from":"nm0437124","to":"tt0128224"},{"from":"nm0437124","to":"tt0131028"},{"from":"nm0476729","to":"tt0128224"},{"from":"nm0476729","to":"tt0131028"},{"from":"nm0906740","to":"tt0128224"},{"from":"nm0906740","to":"tt0131028"},{"from":"nm0044462","to":"tt0128224"},{"from":"nm0044462","to":"tt0131028"},{"from":"nm0849461","to":"tt0128224"},{"from":"nm0849461","to":"tt0131028"},{"from":"nm0794425","to":"tt0128224"},{"from":"nm0794425","to":"tt0131028"},{"from":"nm0847110","to":"tt0128224"},{"from":"nm0847110","to":"tt0131028"},{"from":"nm0950801","to":"tt0128224"},{"from":"nm0950801","to":"tt0131028"},{"from":"nm0851229","to":"tt0128224"},{"from":"nm0851229","to":"tt0131028"}]
+      );
+
+      // create a network
+      var container = document.getElementById("mynetwork");
+      var data = {
+        nodes: nodes,
+        edges: edges,
+      };
+
+      var options = {
+        interaction: { hover: true },
+        manipulation: {
+          enabled: false,
+        },
+      };
+
+      var network = new vis.Network(container, data, options);
+
+      network.on("click", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText = "Click event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+        console.log(
+          "click event, getNodeAt returns: " +
+            this.getNodeAt(params.pointer.DOM)
+        );
+      });
+      network.on("doubleClick", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "doubleClick event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("oncontext", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "oncontext (right click) event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("dragStart", function (params) {
+        // There's no point in displaying this event on screen, it gets immediately overwritten
+        params.event = "[original event]";
+        console.log("dragStart Event:", params);
+        console.log(
+          "dragStart event, getNodeAt returns: " +
+            this.getNodeAt(params.pointer.DOM)
+        );
+      });
+      network.on("dragging", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "dragging event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("dragEnd", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "dragEnd event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+        console.log("dragEnd Event:", params);
+        console.log(
+          "dragEnd event, getNodeAt returns: " +
+            this.getNodeAt(params.pointer.DOM)
+        );
+      });
+      network.on("controlNodeDragging", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "control node dragging event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("controlNodeDragEnd", function (params) {
+        params.event = "[original event]";
+        document.getElementById("eventSpanHeading").innerText =
+          "control node drag end event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+        console.log("controlNodeDragEnd Event:", params);
+      });
+      network.on("zoom", function (params) {
+        document.getElementById("eventSpanHeading").innerText = "zoom event:";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("showPopup", function (params) {
+        document.getElementById("eventSpanHeading").innerText =
+          "showPopup event: ";
+        document.getElementById("eventSpanContent").innerText = JSON.stringify(
+          params,
+          null,
+          4
+        );
+      });
+      network.on("hidePopup", function () {
+        console.log("hidePopup Event");
+      });
+      network.on("select", function (params) {
+        console.log("select Event:", params);
+      });
+      network.on("selectNode", function (params) {
+        console.log("selectNode Event:", params);
+      });
+      network.on("selectEdge", function (params) {
+        console.log("selectEdge Event:", params);
+      });
+      network.on("deselectNode", function (params) {
+        console.log("deselectNode Event:", params);
+      });
+      network.on("deselectEdge", function (params) {
+        console.log("deselectEdge Event:", params);
+      });
+      network.on("hoverNode", function (params) {
+        console.log("hoverNode Event:", params);
+      });
+      network.on("hoverEdge", function (params) {
+        console.log("hoverEdge Event:", params);
+      });
+      network.on("blurNode", function (params) {
+        console.log("blurNode Event:", params);
+      });
+      network.on("blurEdge", function (params) {
+        console.log("blurEdge Event:", params);
+      });
+    </script>
+  </body>
+</html>
