@@ -60,8 +60,8 @@
     <script type="text/javascript">
         // create an array with nodes
 
-        var nodes;
-        var edges;
+        var nodes = null;
+        var edges = null;
 
         $( document ).ready(function() {
 
@@ -82,20 +82,24 @@
                },
 		       crossDomain:true
 		    });
+        });
 
+        function dataAdded(){
+            if( nodes != null && edges != null ){
+                var data = {
+                    nodes: nodes,
+                    edges: edges,
+                };
+                buildGraph(data)
+            }
+        }
+
+        function buildGraph(data){
             var container = document.getElementById("mynetwork");
-            var data = {
-                nodes: nodes,
-                edges: edges,
-            };
-
             var options = {
                 interaction: { hover: true },
-                manipulation: {
-                    enabled: false,
-            }
+                manipulation: { enabled: false }
             };
-
             var network = new vis.Network(container, data, options);
 
             network.on("stabilizationProgress", function (params) {
@@ -132,7 +136,7 @@
                     this.getNodeAt(params.pointer.DOM)
                 );
             });
-        });
+        }
 
 
     </script>
