@@ -101,7 +101,22 @@
             var options = {
                 interaction: { hover: true },
                 manipulation: { enabled: false },
-                improvedLayout: false
+                layout: {
+                    randomSeed: undefined,
+                    improvedLayout:false,
+                    clusterThreshold: 150,
+                    hierarchical: {
+                    enabled:false,
+                    levelSeparation: 150,
+                    nodeSpacing: 100,
+                    treeSpacing: 200,
+                    blockShifting: true,
+                    edgeMinimization: true,
+                    parentCentralization: true,
+                    direction: 'UD',        // UD, DU, LR, RL
+                    sortMethod: 'hubsize',  // hubsize, directed
+                    shakeTowards: 'leaves'  // roots, leaves
+                }
             };
             var network = new vis.Network(container, data, options);
 
