@@ -1,0 +1,274 @@
+{
+    "imDbId": "tt0071198",
+    "title": "The Bat People",
+    "fullTitle": "The Bat People (1974)",
+    "type": "Movie",
+    "year": "1974",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0417054",
+                "name": "Jerry Jameson",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0789848",
+                "name": "Lou Shaw",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0609088",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDc1ZmU0N2EtMTcwMS00MWM4LTkwOGEtZTVkNzcwYTYzYTE1XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Stewart Moss",
+            "asCharacter": "Dr. John Beck"
+        },
+        {
+            "id": "nm0564059",
+            "image": "https://m.media-amazon.com/images/M/MV5BODE0Zjc1NjAtZmI2Yi00NzEyLWFhMDUtNjYyMjliN2NmZjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Marianne McAndrew",
+            "asCharacter": "Cathy Beck"
+        },
+        {
+            "id": "nm0329029",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDcwNzQzNzk0MV5BMl5BanBnXkFtZTcwNDYyMjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Pataki",
+            "asCharacter": "Sgt. Ward"
+        },
+        {
+            "id": "nm0139824",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM2NDY0NTU2N15BMl5BanBnXkFtZTcwMDYxOTUxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Carr",
+            "asCharacter": "Dr. Kipling"
+        },
+        {
+            "id": "nm0816475",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmI4ODk0ODEtNGNlNS00NzE5LTk4YzEtN2ZjMzNmMTZlZTA0XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Arthur Space",
+            "asCharacter": "Tramp"
+        },
+        {
+            "id": "nm0075282",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Berk",
+            "asCharacter": "Motel Owner"
+        },
+        {
+            "id": "nm0216327",
+            "image": "https://m.media-amazon.com/images/M/MV5BMGEyMjVkZDMtYzZiOC00ZDkzLWFlMDEtYTNkZWZkMzQxNDk0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Pat Delaney",
+            "asCharacter": "Ms. Jax"
+        },
+        {
+            "id": "nm0667335",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Paulsin",
+            "asCharacter": "Boy in Pickup"
+        },
+        {
+            "id": "nm0886720",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bonnie Van Dyke",
+            "asCharacter": "Girl in Pickup"
+        },
+        {
+            "id": "nm0474541",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2FiMDg2OGUtOWJlNS00ODljLTg4ODMtZDVmMTNmOWM3YTBlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Jennifer Kulik",
+            "asCharacter": "Nurse / Victim (as Jeni Kulik)"
+        },
+        {
+            "id": "nm0420205",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Laurie Brooks Jefferson",
+            "asCharacter": "Nurse"
+        },
+        {
+            "id": "nm4386904",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Herb Pierce",
+            "asCharacter": "Park Ranger (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0190974",
+                    "name": "Dante Cuccinello",
+                    "description": "associate producer"
+                },
+                {
+                    "id": "nm0421050",
+                    "name": "Nicolas Jenna",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0005772",
+                    "name": "Matthew F. Leonetti",
+                    "description": "executive producer (as Matthew Leonetti)"
+                },
+                {
+                    "id": "nm0789848",
+                    "name": "Lou Shaw",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0437260",
+                    "name": "Artie Kane",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0005772",
+                    "name": "Matthew F. Leonetti",
+                    "description": "director of photography (as Matthew Leonetti)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0828817",
+                    "name": "Tom Stevens",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0935644",
+                    "name": "Stan Winston",
+                    "description": "makeup creator (as Stanley Winston)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0647869",
+                    "name": "Carl Olson",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0525562",
+                    "name": "Bill Lukather",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0840397",
+                    "name": "Rod Sutton",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0881691",
+                    "name": "Tony Urbano",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0026806",
+                    "name": "Howard A. Anderson",
+                    "description": "photographic effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0057286",
+                    "name": "Stan Barrett",
+                    "description": "stunt coordinator (as Stan Barret)"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm2000772",
+                    "name": "Cleo Anderson",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0322940",
+                    "name": "James Globus",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm0502948",
+                    "name": "Frank Leonetti",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0809794",
+                    "name": "Roger L. Smith",
+                    "description": "assistant cameraman (as Roger Smith)"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0770422",
+                    "name": "Hannah Scheel",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm2001668",
+                    "name": "Carol Meyers Siebler",
+                    "description": "assistant to producer"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

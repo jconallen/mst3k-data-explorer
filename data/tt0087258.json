@@ -1,0 +1,565 @@
+{
+    "imDbId": "tt0087258",
+    "title": "Final Justice",
+    "fullTitle": "Final Justice (1984)",
+    "type": "Movie",
+    "year": "1984",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0163990",
+                "name": "Greydon Clark",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0163990",
+                "name": "Greydon Clark",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000833",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Joe Don Baker",
+            "asCharacter": "Deputy Sheriff Thomas Jefferson Geronimo III"
+        },
+        {
+            "id": "nm0106387",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjAyNTYzNDU3N15BMl5BanBnXkFtZTcwODA1NDk0NA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Rossano Brazzi",
+            "asCharacter": "Don Lamanna"
+        },
+        {
+            "id": "nm0892891",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmFmMzViMDEtMmM1Mi00ZWM3LWE3MzAtNDA0MWNhMGIyZTIyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Venantino Venantini",
+            "asCharacter": "Joseph Palermo"
+        },
+        {
+            "id": "nm0671034",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrizia Pellegrino",
+            "asCharacter": "Gina"
+        },
+        {
+            "id": "nm0571853",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTMwMjkxODc1OV5BMl5BanBnXkFtZTgwMjQwMDIzNjM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bill McKinney",
+            "asCharacter": "Chief Wilson"
+        },
+        {
+            "id": "nm0008548",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Helena Dalli",
+            "asCharacter": "Maria Cassar (as Helena Abella)"
+        },
+        {
+            "id": "nm0337407",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lino Grech",
+            "asCharacter": "Supt. Mifsud"
+        },
+        {
+            "id": "nm0255327",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Ellul",
+            "asCharacter": "Young Officer"
+        },
+        {
+            "id": "nm0857676",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Theuma",
+            "asCharacter": "Fosta"
+        },
+        {
+            "id": "nm0024189",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bettina Amato-Gauci",
+            "asCharacter": "Anna"
+        },
+        {
+            "id": "nm0703018",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Quattromani",
+            "asCharacter": "Bartender"
+        },
+        {
+            "id": "nm0051311",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Odetta Balzan",
+            "asCharacter": "Stewardess"
+        },
+        {
+            "id": "nm0178851",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Josie Coppini",
+            "asCharacter": "Taxi Driver"
+        },
+        {
+            "id": "nm0837128",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGEyYWNlYzMtMDM5Zi00ZDBlLTg4NzktMzY2MTQ5YmU5ZmIzXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Suda",
+            "asCharacter": "Man Who Pours Beer"
+        },
+        {
+            "id": "nm0134295",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Elvisio Cannori",
+            "asCharacter": "Tony Palermo"
+        },
+        {
+            "id": "nm0537150",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Josephine Mahoney",
+            "asCharacter": "Woman in Village"
+        },
+        {
+            "id": "nm0268549",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jan Karl Farrugia",
+            "asCharacter": "Village Boy"
+        },
+        {
+            "id": "nm1617611",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Marie Klaire Farrugia",
+            "asCharacter": "Village Girl"
+        },
+        {
+            "id": "nm0585864",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Iris Mifsud",
+            "asCharacter": "Mother in Plaza"
+        },
+        {
+            "id": "nm0585866",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Silvan Mifsud",
+            "asCharacter": "Boy in Plaza"
+        },
+        {
+            "id": "nm0545102",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paola Marcari",
+            "asCharacter": "Paola"
+        },
+        {
+            "id": "nm0303726",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rachel Gambin",
+            "asCharacter": "Prostitute"
+        },
+        {
+            "id": "nm0846685",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Tahir",
+            "asCharacter": "Fire Eater"
+        },
+        {
+            "id": "nm0309741",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joe Gatt",
+            "asCharacter": "Passport Control"
+        },
+        {
+            "id": "nm0847457",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Charles Take",
+            "asCharacter": "Waiter"
+        },
+        {
+            "id": "nm0301942",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lina Galea-Cumbo",
+            "asCharacter": "Woman in Church"
+        },
+        {
+            "id": "nm0594740",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Mizzi",
+            "asCharacter": "Priest"
+        },
+        {
+            "id": "nm1616229",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mark Haber",
+            "asCharacter": "Police Entrance Guard"
+        },
+        {
+            "id": "nm0143993",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tony Cassar-Darien",
+            "asCharacter": "White Haired Hood"
+        },
+        {
+            "id": "nm0143987",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lino Cassar",
+            "asCharacter": "Sitting Drunk"
+        },
+        {
+            "id": "nm0003231",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Larry Bock",
+            "asCharacter": "Walking Drunk"
+        },
+        {
+            "id": "nm0163990",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM2NDg4YmItOGZiNC00YTU2LWJmYzgtYmFlNTdhZGNlMGUwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Greydon Clark",
+            "asCharacter": "Sheriff Bob"
+        },
+        {
+            "id": "nm2331857",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Anna Cachia",
+            "asCharacter": "Police Woman"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0163990",
+                    "name": "Greydon Clark",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0313516",
+                    "name": "Louis George",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0440778",
+                    "name": "Daryl Kass",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0068134",
+                    "name": "David Bell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0003138",
+                    "name": "Nicholas Josef von Sternberg",
+                    "description": "(as Nicholas von Sternberg)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0003231",
+                    "name": "Larry Bock",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0301942",
+                    "name": "Lina Galea-Cumbo",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0585864",
+                    "name": "Iris Mifsud",
+                    "description": "hair stylist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0301931",
+                    "name": "Albert Galea",
+                    "description": "production manager: Malta"
+                },
+                {
+                    "id": "nm0440778",
+                    "name": "Daryl Kass",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0120003",
+                    "name": "Tommy Bull",
+                    "description": "second unit director"
+                },
+                {
+                    "id": "nm0440778",
+                    "name": "Daryl Kass",
+                    "description": "first assistant director"
+                },
+                {
+                    "id": "nm0457388",
+                    "name": "Michael Kissaun",
+                    "description": "second assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm1928209",
+                    "name": "Thomas Abdilla",
+                    "description": "set dresser"
+                },
+                {
+                    "id": "nm0217132",
+                    "name": "Angelo Delia",
+                    "description": "construction manager"
+                },
+                {
+                    "id": "nm1137703",
+                    "name": "Joe Pisani",
+                    "description": "property master (as Joseph Pisani)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0213490",
+                    "name": "Joe Debono",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm1935002",
+                    "name": "Martin Mercieca",
+                    "description": "boom operator"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0143989",
+                    "name": "Mario Cassar",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm1933716",
+                    "name": "Alex Aquilina",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1929680",
+                    "name": "Norman Aquilina",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1929092",
+                    "name": "Raymond Borg",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1932038",
+                    "name": "Teddy Borg",
+                    "description": "stunt arranger"
+                },
+                {
+                    "id": "nm1927931",
+                    "name": "Jesmond Bugeja",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1928861",
+                    "name": "Alex Calleja",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1928746",
+                    "name": "Raymond Calleja",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0134295",
+                    "name": "Elvisio Cannori",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1932215",
+                    "name": "Frank Cassar",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1933917",
+                    "name": "James Davies",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1928112",
+                    "name": "Micki Farrugia",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0582189",
+                    "name": "Roberto Messina",
+                    "description": "stunt coordinator"
+                },
+                {
+                    "id": "nm1935775",
+                    "name": "Lawrence Micallef",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm1933307",
+                    "name": "Robert Warden",
+                    "description": "stunts"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0101741",
+                    "name": "David Boyd",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm1826167",
+                    "name": "Victor Cassar",
+                    "description": "film loader"
+                },
+                {
+                    "id": "nm1929748",
+                    "name": "John Parnis",
+                    "description": "camera operator: second unit"
+                },
+                {
+                    "id": "nm1931454",
+                    "name": "Nicholas Spiteri",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm1933268",
+                    "name": "Benny Zaffarese",
+                    "description": "still photographer"
+                },
+                {
+                    "id": "nm1562609",
+                    "name": "Saviour Zammit",
+                    "description": "gaffer"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm1927464",
+                    "name": "Joyce Aquilina",
+                    "description": "wardrobe"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0142232",
+                    "name": "Alfred Caruana",
+                    "description": "assistant editor: Malta"
+                },
+                {
+                    "id": "nm0237975",
+                    "name": "Marcia Dripchak",
+                    "description": "assistant editor: USA"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0135092",
+                    "name": "John Caper Jr.",
+                    "description": "music supervisor"
+                },
+                {
+                    "id": "nm0764213",
+                    "name": "Moacir Santos",
+                    "description": "music: Brazilian music"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm1931414",
+                    "name": "Maryana Soler",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1928019",
+                    "name": "J. Baker",
+                    "description": "gofer"
+                },
+                {
+                    "id": "nm0313430",
+                    "name": "Gene George",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm1936039",
+                    "name": "Peter George",
+                    "description": "production coordinator"
+                },
+                {
+                    "id": "nm1930252",
+                    "name": "Dana Scott",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0151938",
+                    "name": "Bundy Chanock",
+                    "description": "set medic (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

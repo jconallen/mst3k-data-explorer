@@ -1,0 +1,581 @@
+{
+    "imDbId": "tt0131550",
+    "title": "The Final Sacrifice",
+    "fullTitle": "The Final Sacrifice (1990)",
+    "type": "Movie",
+    "year": "1990",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0340029",
+                "name": "Tjardus Greidanus",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0340029",
+                "name": "Tjardus Greidanus",
+                "description": "(written by)"
+            },
+            {
+                "id": "nm0539094",
+                "name": "Christian Malcolm",
+                "description": "(uncredited)"
+            },
+            {
+                "id": "nm0593183",
+                "name": "Bruce J. Mitchell",
+                "description": "(uncredited)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0539094",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Christian Malcolm",
+            "asCharacter": "Troy McGreggor"
+        },
+        {
+            "id": "nm0593183",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce J. Mitchell",
+            "asCharacter": "Zap Rowsdower"
+        },
+        {
+            "id": "nm0545134",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shane Marceau",
+            "asCharacter": "Satoris"
+        },
+        {
+            "id": "nm0027385",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ron Anderson",
+            "asCharacter": "Mike Pipper"
+        },
+        {
+            "id": "nm0250655",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bharbara Egan",
+            "asCharacter": "Aunt Betty"
+        },
+        {
+            "id": "nm0890804",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Randy Vasseur",
+            "asCharacter": "Thomas McGreggor, Troy's Father"
+        },
+        {
+            "id": "nm0460825",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzg4NzIwZjYtYzdhOS00ZTNlLTkzM2QtOTlmNmVmODQxZGY4XkEyXkFqcGdeQXVyOTMxMTMzODk@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bryan C. Knight",
+            "asCharacter": "Gas Attendant (as Bryan Knight)"
+        },
+        {
+            "id": "nm0640011",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Catherine O'Connel",
+            "asCharacter": "Operator #1"
+        },
+        {
+            "id": "nm0932642",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Felice Wills",
+            "asCharacter": "Radio Announcer"
+        },
+        {
+            "id": "nm0812810",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Soldan",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0340027",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aus Greidanus",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0668475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Frank Paynter",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0385475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dean Hinche",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0936453",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cris Wiseman",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm1290257",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul McKay",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0084873",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Bjornson",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0544379",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jason Mauza",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0427641",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brock Jones",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0730449",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rick Robbins",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0503365",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Wayne Leppar",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0942990",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brad Wroblesky",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm0158053",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Chipera",
+            "asCharacter": "Cultist (as Matt Chipera)"
+        },
+        {
+            "id": "nm0945034",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ken Yakiwchuk",
+            "asCharacter": "Cultist"
+        },
+        {
+            "id": "nm2286963",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sean Jensen",
+            "asCharacter": "Cultist"
+        }
+    ],
+    "others": [
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0803968",
+                    "name": "Robert Skeet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0821086",
+                    "name": "Jim Stacy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0340029",
+                    "name": "Tjardus Greidanus",
+                    "description": "(as The Flying Dutchman)"
+                },
+                {
+                    "id": "nm0524903",
+                    "name": "Glen Ludlow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0870715",
+                    "name": "David Trainor",
+                    "description": "makeup designer: Satoris"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0039693",
+                    "name": "Per Asplund",
+                    "description": "post-production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0460825",
+                    "name": "Bryan C. Knight",
+                    "description": "assistant director (as Bryan Knight)"
+                },
+                {
+                    "id": "nm0876338",
+                    "name": "Raelene Tulick",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0933253",
+                    "name": "Darin Wilson",
+                    "description": "assistant director: additional photography"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0679311",
+                    "name": "Bryan Pfahl",
+                    "description": "production designer: City of Ziox: creator: City of Ziox"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0084874",
+                    "name": "Sean Bjornson",
+                    "description": "sound"
+                },
+                {
+                    "id": "nm0185162",
+                    "name": "Michael Cox",
+                    "description": "foley artist"
+                },
+                {
+                    "id": "nm0340029",
+                    "name": "Tjardus Greidanus",
+                    "description": "sound editor"
+                },
+                {
+                    "id": "nm0341471",
+                    "name": "David Griffith",
+                    "description": "foley artist / sound mixer: additional photography"
+                },
+                {
+                    "id": "nm0933253",
+                    "name": "Darin Wilson",
+                    "description": "re-recording mixer"
+                },
+                {
+                    "id": "nm0949178",
+                    "name": "Rick Youck",
+                    "description": "foley artist"
+                },
+                {
+                    "id": "nm0003603",
+                    "name": "Kelly Zombor",
+                    "description": "sound"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0504739",
+                    "name": "Philip Letourneau",
+                    "description": "additional special effects photographer"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0385475",
+                    "name": "Dean Hinche",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0503365",
+                    "name": "Wayne Leppar",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0668475",
+                    "name": "Frank Paynter",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0936453",
+                    "name": "Cris Wiseman",
+                    "description": "stunts"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0079001",
+                    "name": "Thom Best",
+                    "description": "director of photography: additional photography"
+                },
+                {
+                    "id": "nm0768076",
+                    "name": "Robert Sawchuck",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0775018",
+                    "name": "Jerry Schow",
+                    "description": "camera assistant: additional photography"
+                },
+                {
+                    "id": "nm2294883",
+                    "name": "Mike Steele",
+                    "description": "still photographer"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm0229755",
+                    "name": "Mark Dobrescu",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0514681",
+                    "name": "Wayne Little",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0642633",
+                    "name": "Cherene O'Shea",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0933253",
+                    "name": "Darin Wilson",
+                    "description": "negative cutter"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0803968",
+                    "name": "Robert Skeet",
+                    "description": "musician"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0758628",
+                    "name": "Roy Sallows",
+                    "description": "script consultant"
+                },
+                {
+                    "id": "nm0926000",
+                    "name": "Glynis Whiting",
+                    "description": "script consultant"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm1756814",
+                    "name": "Rick Doe",
+                    "description": "crew member: \"The Local Lab\""
+                },
+                {
+                    "id": "nm0544872",
+                    "name": "Nancy Marano",
+                    "description": "financial consultant"
+                },
+                {
+                    "id": "nm1755528",
+                    "name": "Shona C. Rossel",
+                    "description": "crew member: \"The Local Lab\""
+                },
+                {
+                    "id": "nm0932642",
+                    "name": "Felice Wills",
+                    "description": "market researcher (as Fe Wills)"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm1756780",
+                    "name": "Helene Caryk",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0185162",
+                    "name": "Michael Cox",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0191258",
+                    "name": "Robert Cuffley",
+                    "description": "special thanks (as Robert Cufley)"
+                },
+                {
+                    "id": "nm1753086",
+                    "name": "Scott Davidson",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755235",
+                    "name": "Diane DeWick",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1756827",
+                    "name": "Richard Galley",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0340027",
+                    "name": "Aus Greidanus",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755303",
+                    "name": "John Greidanus",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755304",
+                    "name": "Lyke Greidanus",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1756843",
+                    "name": "Muriel Hamilton",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1756845",
+                    "name": "Micheal Hamm",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1756847",
+                    "name": "C.J. Hannis",
+                    "description": "special thanks (as Catherine Hannis)"
+                },
+                {
+                    "id": "nm1756888",
+                    "name": "Chuck Kenny",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1753138",
+                    "name": "Terry King",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1756896",
+                    "name": "George Koller",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0482358",
+                    "name": "Anisa Lalani",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0504739",
+                    "name": "Philip Letourneau",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755429",
+                    "name": "Dave Meuser",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0595505",
+                    "name": "Brad Moerke",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1753174",
+                    "name": "James Rasmussen",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1753182",
+                    "name": "Frank Russo",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755575",
+                    "name": "Eddy Stair",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0895469",
+                    "name": "Grant Vetters",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm1755613",
+                    "name": "Joyce Visscher",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0926596",
+                    "name": "Brian Whittred",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0949178",
+                    "name": "Rick Youck",
+                    "description": "special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

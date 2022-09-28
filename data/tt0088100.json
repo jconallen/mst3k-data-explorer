@@ -1,0 +1,391 @@
+{
+    "imDbId": "tt0088100",
+    "title": "Devil Fish",
+    "fullTitle": "Devil Fish (1984)",
+    "type": "Movie",
+    "year": "1984",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0000877",
+                "name": "Lamberto Bava",
+                "description": "(as John Old Jr.)"
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0000877",
+                "name": "Lamberto Bava",
+                "description": "(additional material)"
+            },
+            {
+                "id": "nm0166405",
+                "name": "Gianfranco Clerici",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0172826",
+                "name": "Luigi Cozzi",
+                "description": "(story) (as Lewis Coates)"
+            },
+            {
+                "id": "nm0280984",
+                "name": "Vincenzo Mannino",
+                "description": "(screenplay) (as Frank Walker)"
+            },
+            {
+                "id": "nm0553941",
+                "name": "Sergio Martino",
+                "description": "(story) (as Martin Dolman)"
+            },
+            {
+                "id": "nm0681512",
+                "name": "Hervé Piccini",
+                "description": "(screenplay)"
+            },
+            {
+                "id": "nm0332417",
+                "name": "Dardano Sacchetti",
+                "description": "(screenplay)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0814679",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWVlNGY1Y2UtMjgzOC00OTM0LWE1M2UtZWY0YTcyMjQzZGMxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Michael Sopkiw",
+            "asCharacter": "Peter"
+        },
+        {
+            "id": "nm0598367",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTBkZTQ0NzItOTQyMS00MjU2LWJiM2MtNTYxOWJlMWY1NjYxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Valentine Monnier",
+            "asCharacter": "Dr. Stella Dickens"
+        },
+        {
+            "id": "nm0307491",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDIxMzY2NjA2OV5BMl5BanBnXkFtZTgwMDQyNTM0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gianni Garko",
+            "asCharacter": "Sheriff Gordon (as John Garko)"
+        },
+        {
+            "id": "nm0074125",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDI2MzA1OV5BMl5BanBnXkFtZTcwNjk4MzA3NA@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "William Berger",
+            "asCharacter": "Prof. Donald West"
+        },
+        {
+            "id": "nm0678960",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjM1MTMyOTA3OF5BMl5BanBnXkFtZTgwMTkyMDg1OTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Iris Peynado",
+            "asCharacter": "Sandra Hayes"
+        },
+        {
+            "id": "nm1211338",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lawrence Morgant",
+            "asCharacter": "Dr. Davis Barker"
+        },
+        {
+            "id": "nm0211006",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjNmYWYxZWEtZTY1Mi00Y2RjLTllYWQtMjRkOWMyOGE4OGQ4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.6364_AL_.jpg",
+            "name": "Cinzia de Ponti",
+            "asCharacter": "Florinda (as Cinthia Stewart)"
+        },
+        {
+            "id": "nm0104417",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Branco",
+            "asCharacter": "Miller"
+        },
+        {
+            "id": "nm0489798",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjkyNDBjMzQtMWY5Yy00Y2UxLWI3NzUtMGQxNjYwN2M5MGUyXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Dagmar Lassander",
+            "asCharacter": "Sonja West"
+        },
+        {
+            "id": "nm0110298",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ennio Brizzolari",
+            "asCharacter": "Fisherman (uncredited)"
+        },
+        {
+            "id": "nm2887088",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dino Conti",
+            "asCharacter": "Dr. Bob Hogan (uncredited)"
+        },
+        {
+            "id": "nm1843074",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Frances Rubin",
+            "asCharacter": "Molly (uncredited)"
+        },
+        {
+            "id": "nm0402231",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjIxZjcwNzMtMDVhMC00OWY0LThhOGEtMzU1N2ExNzQxMDcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.6818_AL_.jpg",
+            "name": "Goffredo Unger",
+            "asCharacter": "Fisherman That Loses Arm (uncredited)"
+        },
+        {
+            "id": "nm0912441",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Darla N. Warner",
+            "asCharacter": "Dr. Janet Bates (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0523438",
+                    "name": "Mino Loy",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0701773",
+                    "name": "Max Pécas",
+                    "description": "co-producer (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0006088",
+                    "name": "Fabio Frizzi",
+                    "description": "(as Antony Barrymore)"
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0273904",
+                    "name": "Giancarlo Ferrando",
+                    "description": "(as John McFerrand)"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0827427",
+                    "name": "Roberto Sterbini",
+                    "description": "(as Bob Wheeler)"
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0170341",
+                    "name": "Massimo Antonello Geleng",
+                    "description": "(as Anthony Geleng)"
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm2293938",
+                    "name": "Bill Chappel",
+                    "description": ""
+                },
+                {
+                    "id": "nm2279894",
+                    "name": "Sam Olsen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0170341",
+                    "name": "Massimo Antonello Geleng",
+                    "description": "(as Antony Geleng)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0273936",
+                    "name": "Giuseppe Ferranti",
+                    "description": "makeup artist (as Victor Basil)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0096339",
+                    "name": "Sergio Borelli",
+                    "description": "production manager (as Boris Gray)"
+                },
+                {
+                    "id": "nm1041053",
+                    "name": "Lucia Nolano",
+                    "description": "unit manager (as Lucy Nolan)"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0559769",
+                    "name": "Bruno Mattei",
+                    "description": "assistant director (as Gilbert Roussel)"
+                },
+                {
+                    "id": "nm0402231",
+                    "name": "Goffredo Unger",
+                    "description": "assistant director (as Fredy Unger)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0209916",
+                    "name": "Raffaele De Luca",
+                    "description": "sound (as Ralph Luca)"
+                },
+                {
+                    "id": "nm0526876",
+                    "name": "Gene Luotto",
+                    "description": "post-synchronisation: English version"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0622108",
+                    "name": "Germano Natali",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm1056258",
+                    "name": "Ovidio Taito",
+                    "description": "creator of the monster shark"
+                },
+                {
+                    "id": "nm0848312",
+                    "name": "Ovidio Talto",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0110298",
+                    "name": "Ennio Brizzolari",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm1706229",
+                    "name": "Chris Heston",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm1537566",
+                    "name": "Hal Thompson",
+                    "description": "still photographer"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm1704608",
+                    "name": "Frazier Gould",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm1704731",
+                    "name": "Phil Lovely",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm0702760",
+                    "name": "Massimo Quaglia",
+                    "description": "assistant editor (as Max Quayle)"
+                },
+                {
+                    "id": "nm1704835",
+                    "name": "Max Quayle",
+                    "description": "assistant editor"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0345386",
+                    "name": "Egle Guarino",
+                    "description": "script supervisor (as Egle Sun)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0192927",
+                    "name": "Leonardo Curreri",
+                    "description": "administrator (as Leonard Curren)"
+                },
+                {
+                    "id": "nm0231001",
+                    "name": "Larry Dolgin",
+                    "description": "voice dubbing: Michael Sopkiw - English version"
+                },
+                {
+                    "id": "nm0231856",
+                    "name": "Alessandro Loy",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0746020",
+                    "name": "Monique Roussel",
+                    "description": "production secretary"
+                },
+                {
+                    "id": "nm1708784",
+                    "name": "Rosalinda Galli",
+                    "description": "voice dubbing (uncredited)"
+                },
+                {
+                    "id": "nm0672056",
+                    "name": "Dario Penne",
+                    "description": "voice dubbing (uncredited)"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,488 @@
+{
+    "imDbId": "tt0075261",
+    "title": "Squirm",
+    "fullTitle": "Squirm (1976)",
+    "type": "Movie",
+    "year": "1976",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0006639",
+                "name": "Jeff Lieberman",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0006639",
+                "name": "Jeff Lieberman",
+                "description": "(written by)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0769135",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTk2NmMzNTctOTMxMi00MTNmLTkwYmEtNTBhMDZiZWYyMDRhXkEyXkFqcGdeQXVyODg2NjkyMA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don Scardino",
+            "asCharacter": "Mick"
+        },
+        {
+            "id": "nm0669033",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY3MDE2MTc4M15BMl5BanBnXkFtZTcwMDU5MzI3NA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Patricia Pearcy",
+            "asCharacter": "Geri Sanders"
+        },
+        {
+            "id": "nm0235629",
+            "image": "https://m.media-amazon.com/images/M/MV5BODY4NTE4MDE1OV5BMl5BanBnXkFtZTcwMjU5MzI3NA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "R.A. Dow",
+            "asCharacter": "Roger Grimes"
+        },
+        {
+            "id": "nm0838130",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTE5NjU4MjY0M15BMl5BanBnXkFtZTYwODQyNjYy._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jean Sullivan",
+            "asCharacter": "Naomi Sanders"
+        },
+        {
+            "id": "nm0533806",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzEzY2ExNjQtN2VkNC00MmRkLWI2MWUtNWZhODZlZTY2NDg0XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Peter MacLean",
+            "asCharacter": "Sheriff Jim Reston (as Peter Mac Lean)"
+        },
+        {
+            "id": "nm0383384",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDhmMzg4ZjMtMTZhOS00NDUwLWJjNmMtNWYyNDUxNzRkNDRkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Fran Higgins",
+            "asCharacter": "Alma Sanders"
+        },
+        {
+            "id": "nm0628309",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzMyNThhYzEtNDZjOS00MDg1LTk5ZDgtZWI4NGYxZmYxOTE5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.9091_AL_.jpg",
+            "name": "William Newman",
+            "asCharacter": "Quigley"
+        },
+        {
+            "id": "nm0703765",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barbara Quinn",
+            "asCharacter": "Sheriff's Girl"
+        },
+        {
+            "id": "nm0196740",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM3NTAyOTA0MV5BMl5BanBnXkFtZTcwODQ5MzI3NA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Carl Dagenhart",
+            "asCharacter": "Willie Grimes"
+        },
+        {
+            "id": "nm0761332",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Angel Sande",
+            "asCharacter": "Millie"
+        },
+        {
+            "id": "nm0654327",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Carol Jean Owens",
+            "asCharacter": "Lizzie"
+        },
+        {
+            "id": "nm0409532",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kim Iocouvozzi",
+            "asCharacter": "Hank"
+        },
+        {
+            "id": "nm0227434",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Walter Dimmick",
+            "asCharacter": "Danny"
+        },
+        {
+            "id": "nm0861747",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Leslie Thorsen",
+            "asCharacter": "Bonnie"
+        },
+        {
+            "id": "nm0460017",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julia Klopp",
+            "asCharacter": "Mrs. Klopp"
+        },
+        {
+            "id": "nm0281145",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ralph Flanders",
+            "asCharacter": "1st Man at Lunch Counter"
+        },
+        {
+            "id": "nm0807232",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Albert Smith",
+            "asCharacter": "2nd Man at Lunch Counter"
+        },
+        {
+            "id": "nm0794169",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jim Shirah",
+            "asCharacter": "3rd Man at Lunch Counter"
+        },
+        {
+            "id": "nm0612595",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harold Mumm",
+            "asCharacter": "Bus Driver"
+        },
+        {
+            "id": "nm0511449",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "W.A. Lindblatt",
+            "asCharacter": "Power Line Repairman"
+        },
+        {
+            "id": "nm10616269",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWVmNGQ4ODctMGM3OS00YzNmLTg5YzctMTJkNjBhNzRjMTk3XkEyXkFqcGdeQXVyMTEyODU3Nzc@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Evan O'Hare",
+            "asCharacter": "Soundtrack Singer"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0077592",
+                    "name": "Joseph Beruh",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0487052",
+                    "name": "Edgar Lansbury",
+                    "description": "executive producer"
+                },
+                {
+                    "id": "nm0541304",
+                    "name": "George Manasse",
+                    "description": "producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0697622",
+                    "name": "Robert Prince",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0542228",
+                    "name": "Joseph Mangine",
+                    "description": "director of photography"
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0806764",
+                    "name": "Brian Smedley-Aston",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm0934786",
+                    "name": "Geri Windsor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0598552",
+                    "name": "Henry Shrady",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0278184",
+                    "name": "Dianne Finn-Chapman",
+                    "description": "(as Dianne Finn Chapman)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0000711",
+                    "name": "Rick Baker",
+                    "description": "makeup designer"
+                },
+                {
+                    "id": "nm0656294",
+                    "name": "Norman Page",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0085592",
+                    "name": "Don Blackburn",
+                    "description": "unit manager"
+                },
+                {
+                    "id": "nm0443817",
+                    "name": "Peter Kean",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm1431679",
+                    "name": "Mark Hindenburg",
+                    "description": "assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0217901",
+                    "name": "Neil DeLuca",
+                    "description": "assistant art director (as Neal De Luca)"
+                },
+                {
+                    "id": "nm0826084",
+                    "name": "R. Bruce Steinheimer",
+                    "description": "prop master (as Bruce Steinheimer)"
+                },
+                {
+                    "id": "nm0835405",
+                    "name": "Drew Struzan",
+                    "description": "poster artist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0275779",
+                    "name": "Harriet Fidlow",
+                    "description": "sound editor (as Harriet Glickstein)"
+                },
+                {
+                    "id": "nm0324406",
+                    "name": "George Burton Goen II",
+                    "description": "location sound (as George Goen)"
+                },
+                {
+                    "id": "nm0334505",
+                    "name": "Al Gramaglia",
+                    "description": "recording mixer: Magno Sound"
+                },
+                {
+                    "id": "nm0754797",
+                    "name": "Dan Sable",
+                    "description": "sound editor: Magnofex"
+                },
+                {
+                    "id": "nm1440669",
+                    "name": "Bernard Stevens",
+                    "description": "assistant sound editor"
+                },
+                {
+                    "id": "nm1431036",
+                    "name": "Luis Vidal",
+                    "description": "boom man"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0267890",
+                    "name": "Don Farnsworth",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0397455",
+                    "name": "Lee Howard",
+                    "description": "special effects"
+                },
+                {
+                    "id": "nm0031301",
+                    "name": "Bill Milling",
+                    "description": "special effects"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm1431126",
+                    "name": "Chris Balton",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0187750",
+                    "name": "Mik Cribben",
+                    "description": "stillman"
+                },
+                {
+                    "id": "nm0409734",
+                    "name": "Robert Ippolito",
+                    "description": "key grip (as Bob Ippolito)"
+                },
+                {
+                    "id": "nm0417581",
+                    "name": "Kevin Janicelli",
+                    "description": "best boy"
+                },
+                {
+                    "id": "nm0514240",
+                    "name": "William W. Lister",
+                    "description": "gaffer (as Bill Lister)"
+                },
+                {
+                    "id": "nm0626816",
+                    "name": "Jon Neuburger",
+                    "description": "second assistant camera (as John Neuberger)"
+                },
+                {
+                    "id": "nm0926543",
+                    "name": "Jerry Whittington",
+                    "description": "electrician (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Editorial Department",
+            "items": [
+                {
+                    "id": "nm1433266",
+                    "name": "David Fatt",
+                    "description": "assistant editor"
+                },
+                {
+                    "id": "nm1430938",
+                    "name": "Lois Freeman",
+                    "description": "apprentice editor"
+                }
+            ]
+        },
+        {
+            "job": "Location Management",
+            "items": [
+                {
+                    "id": "nm1433242",
+                    "name": "Bill Chant",
+                    "description": "location coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0352381",
+                    "name": "Hal Hackady",
+                    "description": "lyricist"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm0742784",
+                    "name": "Judy Rosenthal",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0035098",
+                    "name": "Samuel Z. Arkoff",
+                    "description": "presenter"
+                },
+                {
+                    "id": "nm1431564",
+                    "name": "Ed Geil",
+                    "description": "assistant to production manager"
+                },
+                {
+                    "id": "nm1431711",
+                    "name": "Rick Hutto",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0427303",
+                    "name": "Darrell Jonas",
+                    "description": "production coordinator"
+                },
+                {
+                    "id": "nm0457158",
+                    "name": "Deborah Kiser",
+                    "description": "production assistant (as Debbie Kiser)"
+                },
+                {
+                    "id": "nm1432071",
+                    "name": "Lee Minter",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0669121",
+                    "name": "Nan Pearlman",
+                    "description": "production associate"
+                },
+                {
+                    "id": "nm1432269",
+                    "name": "Connie Poindexter",
+                    "description": "production assistant"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

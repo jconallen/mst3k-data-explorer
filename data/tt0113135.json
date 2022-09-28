@@ -1,0 +1,680 @@
+{
+    "imDbId": "tt0113135",
+    "title": "Future War",
+    "fullTitle": "Future War (1997)",
+    "type": "Movie",
+    "year": "1997",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0234675",
+                "name": "Anthony Doublin",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0400177",
+                "name": "David Huey",
+                "description": "(story) (as David Hue) &"
+            },
+            {
+                "id": "nm0536657",
+                "name": "Dom Magwili",
+                "description": "(story) (as Dom Magwilli)"
+            },
+            {
+                "id": "nm0536657",
+                "name": "Dom Magwili",
+                "description": "(screenplay) (as Dom Magwilli)"
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0076780",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWYxZWI5YTUtMjViOS00NGNjLTk4MzMtYjI5MWU0Y2M2YzY3XkEyXkFqcGdeQXVyMTI0MTY0OTAz._V1_Ratio0.7727_AL_.jpg",
+            "name": "Daniel Bernhardt",
+            "asCharacter": "The Runaway"
+        },
+        {
+            "id": "nm0120494",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU5NTkxMDk4MV5BMl5BanBnXkFtZTYwMDkxODAz._V1_Ratio0.9545_AL_.jpg",
+            "name": "Robert Z'Dar",
+            "asCharacter": "Cyborg Master"
+        },
+        {
+            "id": "nm0829877",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Travis Brooks Stewart",
+            "asCharacter": "Sister Ann"
+        },
+        {
+            "id": "nm0443688",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kazja",
+            "asCharacter": "Cyborg"
+        },
+        {
+            "id": "nm0011578",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ray Adash",
+            "asCharacter": "Capt. Polaris"
+        },
+        {
+            "id": "nm0780182",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Andre Scruggs",
+            "asCharacter": "Fred Burroughs (as Andre Skruggs)"
+        },
+        {
+            "id": "nm0414369",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Jacobs",
+            "asCharacter": "Romero"
+        },
+        {
+            "id": "nm0432235",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmU4NjdjNzEtYjc4Yy00MWUwLWFjYzctOTkwOWUzNzgxNTBiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Aldo Juliano",
+            "asCharacter": "Oscar (as Al Juliano)"
+        },
+        {
+            "id": "nm0757199",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matthew Sakimoto",
+            "asCharacter": "Max"
+        },
+        {
+            "id": "nm0190254",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Art Cruz",
+            "asCharacter": "Mike (as Arthur Cruz)"
+        },
+        {
+            "id": "nm0847133",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joanne Takahashi",
+            "asCharacter": "Dr. Margaret Tanaka"
+        },
+        {
+            "id": "nm0791377",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mary Shelton",
+            "asCharacter": "Medical Examiner"
+        },
+        {
+            "id": "nm0732054",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tracy Robertson",
+            "asCharacter": "Chadwick"
+        },
+        {
+            "id": "nm0724365",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tom Richards",
+            "asCharacter": "Cameron"
+        },
+        {
+            "id": "nm0009969",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTc4MWY1NzItZTc3MS00OTYyLTgyN2QtMzI4YTIzMzc2M2M2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Forrest J. Ackerman",
+            "asCharacter": "Park Victim"
+        },
+        {
+            "id": "nm0636893",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTIxYTE3MGQtN2IwMC00NjI2LWJmZWUtYjI4MDRlZTUwZTQzXkEyXkFqcGdeQXVyNDE5MjIyNjc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mel Novak",
+            "asCharacter": "Otis - SWAT Team"
+        },
+        {
+            "id": "nm0126337",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Maureen Byrnes",
+            "asCharacter": "Maggie Martin"
+        },
+        {
+            "id": "nm0388404",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Glenn Hoeffner",
+            "asCharacter": "Homeless Person"
+        },
+        {
+            "id": "nm0612886",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Betsy Muniz",
+            "asCharacter": "Tester"
+        },
+        {
+            "id": "nm0294583",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jeff Frey",
+            "asCharacter": "Newscaster"
+        },
+        {
+            "id": "nm0589760",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Steven A. Milling",
+            "asCharacter": "Beach Victim"
+        },
+        {
+            "id": "nm0692006",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Pete Porteous",
+            "asCharacter": "Truck Driver"
+        },
+        {
+            "id": "nm0180215",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWJjNzk2OWEtMzI3Mi00NGQ5LTk1NmItZGE1OWUxY2I4NGRhXkEyXkFqcGdeQXVyOTQyMTEyNjk@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Angela Cornell",
+            "asCharacter": "Girl in Photo"
+        },
+        {
+            "id": "nm0823308",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arnie Starkey",
+            "asCharacter": "Priest"
+        },
+        {
+            "id": "nm0757803",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Eder Salcedo",
+            "asCharacter": "Soccer Player"
+        },
+        {
+            "id": "nm0757798",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Damien Salcedo",
+            "asCharacter": "Soccer Player"
+        },
+        {
+            "id": "nm0906589",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patrick Wait",
+            "asCharacter": "Joey - SWAT Team"
+        },
+        {
+            "id": "nm0437770",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "D.W. Kann",
+            "asCharacter": "Floyd - SWAT Team (as Dave Kann)"
+        },
+        {
+            "id": "nm6780691",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Clifford",
+            "asCharacter": "Smitty - SWAT Team"
+        },
+        {
+            "id": "nm0650595",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Phillip Orr",
+            "asCharacter": "Montague - FBI Agent"
+        },
+        {
+            "id": "nm0136295",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kent Card",
+            "asCharacter": "Gerry - FBI Agent"
+        },
+        {
+            "id": "nm0493464",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dwight F. Lay",
+            "asCharacter": "Leo (warehouse worker) (as Dwight Lay)"
+        },
+        {
+            "id": "nm0076778",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Cliff Bernhardt",
+            "asCharacter": "Bob (warehouse worker) / Police station extra"
+        },
+        {
+            "id": "nm0261074",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luis Espinoza",
+            "asCharacter": "Wam (warehouse worker)"
+        },
+        {
+            "id": "nm0010226",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Melissa Anne Acosta",
+            "asCharacter": "Police Officer / Mike's Gang Member (as Melissa A. Acosta)"
+        },
+        {
+            "id": "nm0083021",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Don Binkley",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0369972",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Hawk",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0734218",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Adam Rocke",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0779067",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Dolph Scott",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0863393",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ed Tillman",
+            "asCharacter": "Police Officer"
+        },
+        {
+            "id": "nm0043445",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ax'nt",
+            "asCharacter": "Mike's Gang Member"
+        },
+        {
+            "id": "nm0512360",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gwendolyn Lindsey",
+            "asCharacter": "Mike's Gang Member"
+        },
+        {
+            "id": "nm0512364",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jacci Lindsey",
+            "asCharacter": "Mike's Gang Member"
+        },
+        {
+            "id": "nm0954555",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Robert Zelenka",
+            "asCharacter": "Mike's Gang Member (as Robert Zelinkis)"
+        },
+        {
+            "id": "nm0367511",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Erin Harvey",
+            "asCharacter": "Police Station Extra"
+        },
+        {
+            "id": "nm0573487",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brian McMurry",
+            "asCharacter": "Police Station Extra (as Brian McMurray)"
+        },
+        {
+            "id": "nm8848009",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Solly Assa",
+            "asCharacter": "Dominic (uncredited)"
+        },
+        {
+            "id": "nm0527031",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Lupus III",
+            "asCharacter": "Joey (uncredited)"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0248883",
+                    "name": "Dave Eddy",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0400177",
+                    "name": "David Huey",
+                    "description": "executive producer (as David Hue)"
+                },
+                {
+                    "id": "nm0510554",
+                    "name": "K.Y. Lim",
+                    "description": "co-executive producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0093038",
+                    "name": "Arlan H. Boll",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0315093",
+                    "name": "Cory Geryak",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Film Editing by",
+            "items": [
+                {
+                    "id": "nm0248883",
+                    "name": "Dave Eddy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0380512",
+                    "name": "Romeo Herrera",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Costume Design by",
+            "items": [
+                {
+                    "id": "nm0465589",
+                    "name": "Heather Koontz",
+                    "description": "(as Heather 'Heaven' Koontz)"
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0465589",
+                    "name": "Heather Koontz",
+                    "description": "makeup artist (as Heather 'Heaven' Koontz)"
+                },
+                {
+                    "id": "nm6659056",
+                    "name": "Rianna Crittendon",
+                    "description": "hair stylist (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm0248883",
+                    "name": "Dave Eddy",
+                    "description": "post-production supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm0248883",
+                    "name": "Dave Eddy",
+                    "description": "second unit director"
+                },
+                {
+                    "id": "nm0493464",
+                    "name": "Dwight F. Lay",
+                    "description": "first assistant director (as Dwight Lay)"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm0369972",
+                    "name": "Bill Hawk",
+                    "description": "special props"
+                },
+                {
+                    "id": "nm0437770",
+                    "name": "D.W. Kann",
+                    "description": "property master (as Dave Kann)"
+                },
+                {
+                    "id": "nm0676375",
+                    "name": "Cricket Peters",
+                    "description": "assistant props"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm0603490",
+                    "name": "Vanessa Morehouse",
+                    "description": "sound recordist"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm1354535",
+                    "name": "David Buscemi",
+                    "description": "puppeteer: miniature and effects unit (as Dave Buscemi)"
+                },
+                {
+                    "id": "nm0234675",
+                    "name": "Anthony Doublin",
+                    "description": "creature effects"
+                },
+                {
+                    "id": "nm0248883",
+                    "name": "Dave Eddy",
+                    "description": "pyrotechnician: miniature and effects unit"
+                },
+                {
+                    "id": "nm0397791",
+                    "name": "Cary Howe",
+                    "description": "chief puppeteer"
+                },
+                {
+                    "id": "nm0428869",
+                    "name": "Mike Jones",
+                    "description": "chief puppeteer: miniature and effects unit (as Michael F. Jones)"
+                },
+                {
+                    "id": "nm1918583",
+                    "name": "Dan Kaplan",
+                    "description": "puppeteer"
+                },
+                {
+                    "id": "nm0756531",
+                    "name": "Johnnie Saiko",
+                    "description": "puppeteer: second unit"
+                }
+            ]
+        },
+        {
+            "job": "Visual Effects by",
+            "items": [
+                {
+                    "id": "nm0234675",
+                    "name": "Anthony Doublin",
+                    "description": "director: miniature and effects unit"
+                },
+                {
+                    "id": "nm0315093",
+                    "name": "Cory Geryak",
+                    "description": "director of photography: miniature and effects unit"
+                },
+                {
+                    "id": "nm0367585",
+                    "name": "John Harvey",
+                    "description": "gaffer: miniature and effects unit"
+                },
+                {
+                    "id": "nm0369972",
+                    "name": "Bill Hawk",
+                    "description": "lead model builder: miniature and effects unit"
+                },
+                {
+                    "id": "nm0437770",
+                    "name": "D.W. Kann",
+                    "description": "miniature builder: miniature and effects unit (as Dave Kann)"
+                },
+                {
+                    "id": "nm0676375",
+                    "name": "Cricket Peters",
+                    "description": "first assistant camera: miniature and effects unit"
+                },
+                {
+                    "id": "nm0842501",
+                    "name": "Dave Swett",
+                    "description": "photographer: space ship special effects"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0010226",
+                    "name": "Melissa Anne Acosta",
+                    "description": "stunts (as Melissa A. Acosta)"
+                },
+                {
+                    "id": "nm6780692",
+                    "name": "Zoltan Gyulai",
+                    "description": "stunts"
+                },
+                {
+                    "id": "nm0443688",
+                    "name": "Kazja",
+                    "description": "fight double: Robert Z'Dar"
+                },
+                {
+                    "id": "nm0692006",
+                    "name": "Pete Porteous",
+                    "description": "stunt coordinator"
+                },
+                {
+                    "id": "nm0779067",
+                    "name": "Dolph Scott",
+                    "description": "stunts"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0315093",
+                    "name": "Cory Geryak",
+                    "description": "camera operator"
+                },
+                {
+                    "id": "nm3634253",
+                    "name": "Kyunghoon Han",
+                    "description": "gaffer: second unit"
+                },
+                {
+                    "id": "nm0367511",
+                    "name": "Erin Harvey",
+                    "description": "camera operator: additional photography, second unit / key grip"
+                },
+                {
+                    "id": "nm3634256",
+                    "name": "Paul E. Jackson",
+                    "description": "gaffer: second unit"
+                },
+                {
+                    "id": "nm0493464",
+                    "name": "Dwight F. Lay",
+                    "description": "still photographer (as Dwight Lay)"
+                },
+                {
+                    "id": "nm0603490",
+                    "name": "Vanessa Morehouse",
+                    "description": "first assistant camera: second unit"
+                },
+                {
+                    "id": "nm0604807",
+                    "name": "Keith Morgan",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0863393",
+                    "name": "Ed Tillman",
+                    "description": "director of photography: second unit / second assistant camera"
+                },
+                {
+                    "id": "nm0874166",
+                    "name": "Robert Truitt",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0842126",
+                    "name": "James H. Sweeney",
+                    "description": "director of photography: additional photography (uncredited)"
+                }
+            ]
+        },
+        {
+            "job": "Costume and Wardrobe Department",
+            "items": [
+                {
+                    "id": "nm0465589",
+                    "name": "Heather Koontz",
+                    "description": "wardrobe (as Heather 'Heaven' Koontz)"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0076780",
+                    "name": "Daniel Bernhardt",
+                    "description": "fight choreographer"
+                },
+                {
+                    "id": "nm0158633",
+                    "name": "Master Hee Il Cho",
+                    "description": "fight consultant"
+                },
+                {
+                    "id": "nm0397791",
+                    "name": "Cary Howe",
+                    "description": "chief puppeteer"
+                }
+            ]
+        },
+        {
+            "job": "Thanks",
+            "items": [
+                {
+                    "id": "nm0009969",
+                    "name": "Forrest J. Ackerman",
+                    "description": "special thanks"
+                },
+                {
+                    "id": "nm0704712",
+                    "name": "Richard Rabago",
+                    "description": "special thanks"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}

@@ -1,0 +1,612 @@
+{
+    "imDbId": "tt0174917",
+    "title": "Merlin's Shop of Mystical Wonders",
+    "fullTitle": "Merlin's Shop of Mystical Wonders (1996)",
+    "type": "Movie",
+    "year": "1996",
+    "directors": {
+        "job": "Director",
+        "items": [
+            {
+                "id": "nm0078246",
+                "name": "Kenneth J. Berton",
+                "description": ""
+            }
+        ]
+    },
+    "writers": {
+        "job": "Writer",
+        "items": [
+            {
+                "id": "nm0078246",
+                "name": "Kenneth J. Berton",
+                "description": ""
+            }
+        ]
+    },
+    "actors": [
+        {
+            "id": "nm0000308",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU5NDE1NjY2OF5BMl5BanBnXkFtZTYwNDE0MzM1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ernest Borgnine",
+            "asCharacter": "Grandfather"
+        },
+        {
+            "id": "nm0586779",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "George Milan",
+            "asCharacter": "Merlin"
+        },
+        {
+            "id": "nm0838677",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzM3OWI5MGQtMTY3NC00ODI0LWIyZjUtM2YyOTE0MjE5OGYzXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bunny Summers",
+            "asCharacter": "Zurella"
+        },
+        {
+            "id": "nm0855834",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Terrence",
+            "asCharacter": "Jonathan Cooper III"
+        },
+        {
+            "id": "nm0763087",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Patricia Sansone",
+            "asCharacter": "Madeline Cooper"
+        },
+        {
+            "id": "nm1595450",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mark Hurtado",
+            "asCharacter": "Grandson"
+        },
+        {
+            "id": "nm0637547",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nicholas Noyes",
+            "asCharacter": "Nicholas"
+        },
+        {
+            "id": "nm0949613",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjE4NzM5NzItNjFjNi00YzkyLWE5NzQtZTNkOWYwY2MwYTZmXkEyXkFqcGdeQXVyNjM0NDM5MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hillary Young",
+            "asCharacter": "Nicholas' Mother"
+        },
+        {
+            "id": "nm0006350",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Julia Leigh Miller",
+            "asCharacter": "Antique Store Clerk (as Julia Miller)"
+        },
+        {
+            "id": "nm0839922",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ben Sussman",
+            "asCharacter": "Peddler in park (Jake Cosgrove)"
+        },
+        {
+            "id": "nm0151451",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Randy Chandler",
+            "asCharacter": "Burglar"
+        },
+        {
+            "id": "nm0578854",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bob Mendelsohn",
+            "asCharacter": "David Andrews (archive footage) (as Bob Mendlesohn)"
+        },
+        {
+            "id": "nm0732033",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Struan Robertson",
+            "asCharacter": "Michael Andrews (archive footage)"
+        },
+        {
+            "id": "nm0663637",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruce Parry",
+            "asCharacter": "Pete (archive footage)"
+        },
+        {
+            "id": "nm0764684",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Vicki Saputo",
+            "asCharacter": "Susan (archive footage)"
+        },
+        {
+            "id": "nm0680604",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Madelon Phillips",
+            "asCharacter": "Adrianne the Psychic (archive footage)"
+        },
+        {
+            "id": "nm0318080",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "J. Renee Gilbert",
+            "asCharacter": "Grandma (archive footage)"
+        },
+        {
+            "id": "nm0604930",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Olwen Morgan",
+            "asCharacter": "Elmira Johnson (archive footage)"
+        },
+        {
+            "id": "nm0151319",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barry Chandler",
+            "asCharacter": "Man in car (archive footage)"
+        },
+        {
+            "id": "nm0646018",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ángeles Olazábal",
+            "asCharacter": "Girl on bike (archive footage) (as Angeles Olazabal)"
+        },
+        {
+            "id": "nm0078247",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kristi Berton",
+            "asCharacter": "Sarah"
+        },
+        {
+            "id": "nm9972584",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miffy",
+            "asCharacter": "Sheena the dog (as Miffy)"
+        },
+        {
+            "id": "nm9972585",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sparkle",
+            "asCharacter": "Sparkle the dog (as Sparkle)"
+        },
+        {
+            "id": "nm0088285",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmI2OTQ2ZjctMGNiYy00YmMxLTliMTktYTdkM2UyNzBjM2U4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Billy Bletcher",
+            "asCharacter": "Pincushion Man (voice) (archive sound)"
+        },
+        {
+            "id": "nm7330487",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Richelle Hurtado",
+            "asCharacter": "Jonathan Cooper Baby"
+        }
+    ],
+    "others": [
+        {
+            "job": "Produced by",
+            "items": [
+                {
+                    "id": "nm0078246",
+                    "name": "Kenneth J. Berton",
+                    "description": "producer"
+                },
+                {
+                    "id": "nm0748076",
+                    "name": "Jeremy Rubin",
+                    "description": "associate producer"
+                }
+            ]
+        },
+        {
+            "job": "Music by",
+            "items": [
+                {
+                    "id": "nm0370861",
+                    "name": "Todd Hayen",
+                    "description": ""
+                },
+                {
+                    "id": "nm0531488",
+                    "name": "Frank Macchia",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Cinematography by",
+            "items": [
+                {
+                    "id": "nm0315457",
+                    "name": "Michael Gfelner",
+                    "description": ""
+                },
+                {
+                    "id": "nm0553152",
+                    "name": "Tony Martin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Casting By",
+            "items": [
+                {
+                    "id": "nm2722254",
+                    "name": "Bibbi Herrmann",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Production Design by",
+            "items": [
+                {
+                    "id": "nm0257908",
+                    "name": "Melodie Ennist",
+                    "description": ""
+                },
+                {
+                    "id": "nm0803541",
+                    "name": "Lee Sjostrom",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Art Direction by",
+            "items": [
+                {
+                    "id": "nm0152912",
+                    "name": "Laura Chariton",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Set Decoration by",
+            "items": [
+                {
+                    "id": "nm0284155",
+                    "name": "Jamie Foley",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "job": "Makeup Department",
+            "items": [
+                {
+                    "id": "nm0105042",
+                    "name": "Adam Brandy",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0803541",
+                    "name": "Lee Sjostrom",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm2291470",
+                    "name": "Howard Tsubura",
+                    "description": "makeup artist"
+                },
+                {
+                    "id": "nm0924746",
+                    "name": "Douglas J. White",
+                    "description": "makeup artist (as Douglas White)"
+                },
+                {
+                    "id": "nm0949613",
+                    "name": "Hillary Young",
+                    "description": "makeup artist"
+                }
+            ]
+        },
+        {
+            "job": "Production Management",
+            "items": [
+                {
+                    "id": "nm6919189",
+                    "name": "Julie Baker",
+                    "description": "production manager"
+                },
+                {
+                    "id": "nm0078247",
+                    "name": "Kristi Berton",
+                    "description": "production manager"
+                }
+            ]
+        },
+        {
+            "job": "Second Unit Director or Assistant Director",
+            "items": [
+                {
+                    "id": "nm6919591",
+                    "name": "Stacy Baily",
+                    "description": "first assistant director"
+                },
+                {
+                    "id": "nm0152912",
+                    "name": "Laura Chariton",
+                    "description": "assistant director"
+                },
+                {
+                    "id": "nm0626704",
+                    "name": "Ned Netterville",
+                    "description": "second assistant director"
+                },
+                {
+                    "id": "nm0748076",
+                    "name": "Jeremy Rubin",
+                    "description": "second assistant director"
+                },
+                {
+                    "id": "nm0748880",
+                    "name": "Stefan Rudnicki",
+                    "description": "first assistant director"
+                }
+            ]
+        },
+        {
+            "job": "Art Department",
+            "items": [
+                {
+                    "id": "nm6919618",
+                    "name": "Scott Anderson",
+                    "description": "constructor"
+                },
+                {
+                    "id": "nm6919617",
+                    "name": "Joe Baldanazi",
+                    "description": "constructor"
+                },
+                {
+                    "id": "nm0151451",
+                    "name": "Randy Chandler",
+                    "description": "constructor"
+                },
+                {
+                    "id": "nm7556228",
+                    "name": "Christopher Maggard",
+                    "description": "constructor"
+                },
+                {
+                    "id": "nm0659853",
+                    "name": "Nick Plantico",
+                    "description": "constructor"
+                }
+            ]
+        },
+        {
+            "job": "Sound Department",
+            "items": [
+                {
+                    "id": "nm1651980",
+                    "name": "Richard K. Allen",
+                    "description": "sound designer"
+                },
+                {
+                    "id": "nm0028895",
+                    "name": "Walter Andrews",
+                    "description": "sound recordist"
+                },
+                {
+                    "id": "nm0282824",
+                    "name": "George Flores",
+                    "description": "boom operator"
+                },
+                {
+                    "id": "nm6919231",
+                    "name": "Ted Harris",
+                    "description": "boom operator"
+                },
+                {
+                    "id": "nm0545151",
+                    "name": "Leonard Marcel",
+                    "description": "sound effects editor"
+                }
+            ]
+        },
+        {
+            "job": "Special Effects by",
+            "items": [
+                {
+                    "id": "nm0027425",
+                    "name": "Scott L. Anderson",
+                    "description": "special effects coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Stunts",
+            "items": [
+                {
+                    "id": "nm0659853",
+                    "name": "Nick Plantico",
+                    "description": "stunt coordinator"
+                }
+            ]
+        },
+        {
+            "job": "Camera and Electrical Department",
+            "items": [
+                {
+                    "id": "nm0048340",
+                    "name": "Chuck Baker",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0115379",
+                    "name": "Debbie Brubaker",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0132015",
+                    "name": "Val Camp",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm3448989",
+                    "name": "Federico Capulino",
+                    "description": "best boy grip"
+                },
+                {
+                    "id": "nm0193097",
+                    "name": "Laura Curry",
+                    "description": "second assistant camera"
+                },
+                {
+                    "id": "nm0317942",
+                    "name": "A.J. Gilbert",
+                    "description": "grip"
+                },
+                {
+                    "id": "nm0386621",
+                    "name": "Ron Hirshman",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0410077",
+                    "name": "James Irons",
+                    "description": "key grip (as Jim B. Irons)"
+                },
+                {
+                    "id": "nm0419540",
+                    "name": "Alex Jaworski",
+                    "description": "electrician"
+                },
+                {
+                    "id": "nm0459955",
+                    "name": "Barbara Kloeppel",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0524947",
+                    "name": "Richard A. Ludt",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm0564038",
+                    "name": "Leslie McAlpine",
+                    "description": "best boy grip"
+                },
+                {
+                    "id": "nm0604807",
+                    "name": "Keith Morgan",
+                    "description": "gaffer"
+                },
+                {
+                    "id": "nm0605727",
+                    "name": "Nancy Morita",
+                    "description": "assistant camera"
+                },
+                {
+                    "id": "nm0660427",
+                    "name": "Scott Papera",
+                    "description": "first assistant camera"
+                },
+                {
+                    "id": "nm0827665",
+                    "name": "David Stern",
+                    "description": "key grip"
+                },
+                {
+                    "id": "nm2801862",
+                    "name": "Richard Wood",
+                    "description": "grip"
+                }
+            ]
+        },
+        {
+            "job": "Music Department",
+            "items": [
+                {
+                    "id": "nm0326311",
+                    "name": "Ron Goldstein",
+                    "description": "orchestrator"
+                },
+                {
+                    "id": "nm0370860",
+                    "name": "Janice Hayen",
+                    "description": "music preparation"
+                },
+                {
+                    "id": "nm0370861",
+                    "name": "Todd Hayen",
+                    "description": "orchestrator"
+                },
+                {
+                    "id": "nm0531488",
+                    "name": "Frank Macchia",
+                    "description": "orchestrator"
+                },
+                {
+                    "id": "nm6919200",
+                    "name": "Lisette Morton",
+                    "description": "music assistant"
+                }
+            ]
+        },
+        {
+            "job": "Script and Continuity Department",
+            "items": [
+                {
+                    "id": "nm6919583",
+                    "name": "Walter Hurd",
+                    "description": "script supervisor"
+                },
+                {
+                    "id": "nm6919584",
+                    "name": "Jon Valencia",
+                    "description": "script supervisor"
+                }
+            ]
+        },
+        {
+            "job": "Additional Crew",
+            "items": [
+                {
+                    "id": "nm0079711",
+                    "name": "Jeanne Beveridge",
+                    "description": "titles"
+                },
+                {
+                    "id": "nm0161982",
+                    "name": "Anthony J. Ciccolini III",
+                    "description": "additional dialogue (as Chic Ciccolini)"
+                },
+                {
+                    "id": "nm0169414",
+                    "name": "Hal Cohen",
+                    "description": "titles"
+                },
+                {
+                    "id": "nm0287868",
+                    "name": "Jane Foster",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm6919592",
+                    "name": "Chuck Lewis",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm1733578",
+                    "name": "Cindy Lee Moon",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0626704",
+                    "name": "Ned Netterville",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm6919593",
+                    "name": "Kimberly Roseberry",
+                    "description": "production assistant"
+                },
+                {
+                    "id": "nm0088650",
+                    "name": "Dina Sherman",
+                    "description": "additional dialogue"
+                }
+            ]
+        }
+    ],
+    "errorMessage": ""
+}
