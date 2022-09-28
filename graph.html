@@ -90,206 +90,51 @@
             };
 
             var options = {
-            interaction: { hover: true },
-            manipulation: {
-                enabled: false,
-            },
-        };
+                interaction: { hover: true },
+                manipulation: {
+                    enabled: false,
+            }
+            };
 
-        var network = new vis.Network(container, data, options);
+            var network = new vis.Network(container, data, options);
 
-        network.on("stabilizationProgress", function (params) {
-            //   var maxWidth = 496;
-            //   var minWidth = 20;
-            var widthFactor = params.iterations / params.total * 100;
-            //   var width = Math.max(minWidth, maxWidth * widthFactor);
+            network.on("stabilizationProgress", function (params) {
+                var widthFactor = params.iterations / params.total * 100;
 
-            $("#progressBar")
-                .css("width", widthFactor + "%")
-                .attr("aria-valuenow", widthFactor)
-                .text(widthFactor + "%");
+                $("#progressBar")
+                    .css("width", widthFactor + "%")
+                    .attr("aria-valuenow", widthFactor)
+                    .text(widthFactor + "%");
+            });
 
-            //   document.getElementById("bar").style.width = width + "px";
-            //   document.getElementById("text").innerText =
-            //     Math.round(widthFactor * 100) + "%";
+            network.once("stabilizationIterationsDone", function () {
+                $("#progressBar")
+                    .css("width", "100%")
+                    .attr("aria-valuenow", 100)
+                    .text("100% progress");
+
+                setTimeout(function () {
+                    $('#progressBar').addClass('.d-none');
+                    console.log("hiding")
+                }, 1000);
+            });
+
+            network.on("click", function (params) {
+                params.event = "[original event]";
+                document.getElementById("eventSpanHeading").innerText = "Click event:";
+                document.getElementById("eventSpanContent").innerText = JSON.stringify(
+                    params,
+                    null,
+                    4
+                );
+                console.log(
+                    "click event, getNodeAt returns: " +
+                    this.getNodeAt(params.pointer.DOM)
+                );
+            });
         });
 
-        network.once("stabilizationIterationsDone", function () {
-            $("#progressBar")
-                .css("width", "100%")
-                .attr("aria-valuenow", 100)
-                .text("100% progress");
 
-            // really clean the dom element
-            setTimeout(function () {
-                $('#progressBar').addClass('.d-none');
-                console.log("hiding")
-            }, 1000);
-        });
-
-        network.on("click", function (params) {
-            params.event = "[original event]";
-            document.getElementById("eventSpanHeading").innerText = "Click event:";
-            document.getElementById("eventSpanContent").innerText = JSON.stringify(
-                params,
-                null,
-                4
-            );
-            console.log(
-                "click event, getNodeAt returns: " +
-                this.getNodeAt(params.pointer.DOM)
-            );
-        });
-            
-            // var params = (new URL(document.location)).searchParams;
-            // var src = params.get("src");
-            // var mem = params.get("mem");
-            // if( mem ) {
-            //     $('#sizeMainMemory').val(mem);
-            //     createVM();
-            // }
-            // if( src ) {
-            //     loadSample(src);
-            // }
-            // updateDisplay();
-        });
-
-        // var nodes = new vis.DataSet(
-
-        // );
-
-        // // create an array with edges
-        // var edges = new vis.DataSet(
-
-        // );
-
-        // create a network
-
-
-        
-
-        // network.on("doubleClick", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "doubleClick event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("oncontext", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "oncontext (right click) event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("dragStart", function (params) {
-        //     // There's no point in displaying this event on screen, it gets immediately overwritten
-        //     params.event = "[original event]";
-        //     console.log("dragStart Event:", params);
-        //     console.log(
-        //         "dragStart event, getNodeAt returns: " +
-        //         this.getNodeAt(params.pointer.DOM)
-        //     );
-        // });
-        // network.on("dragging", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "dragging event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("dragEnd", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "dragEnd event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        //     console.log("dragEnd Event:", params);
-        //     console.log(
-        //         "dragEnd event, getNodeAt returns: " +
-        //         this.getNodeAt(params.pointer.DOM)
-        //     );
-        // });
-        // network.on("controlNodeDragging", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "control node dragging event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("controlNodeDragEnd", function (params) {
-        //     params.event = "[original event]";
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "control node drag end event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        //     console.log("controlNodeDragEnd Event:", params);
-        // });
-        // network.on("zoom", function (params) {
-        //     document.getElementById("eventSpanHeading").innerText = "zoom event:";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("showPopup", function (params) {
-        //     document.getElementById("eventSpanHeading").innerText =
-        //         "showPopup event: ";
-        //     document.getElementById("eventSpanContent").innerText = JSON.stringify(
-        //         params,
-        //         null,
-        //         4
-        //     );
-        // });
-        // network.on("hidePopup", function () {
-        //     console.log("hidePopup Event");
-        // });
-        // network.on("select", function (params) {
-        //     console.log("select Event:", params);
-        // });
-        // network.on("selectNode", function (params) {
-        //     console.log("selectNode Event:", params);
-        // });
-        // network.on("selectEdge", function (params) {
-        //     console.log("selectEdge Event:", params);
-        // });
-        // network.on("deselectNode", function (params) {
-        //     console.log("deselectNode Event:", params);
-        // });
-        // network.on("deselectEdge", function (params) {
-        //     console.log("deselectEdge Event:", params);
-        // });
-        // network.on("hoverNode", function (params) {
-        //     console.log("hoverNode Event:", params);
-        // });
-        // network.on("hoverEdge", function (params) {
-        //     console.log("hoverEdge Event:", params);
-        // });
-        // network.on("blurNode", function (params) {
-        //     console.log("blurNode Event:", params);
-        // });
-        // network.on("blurEdge", function (params) {
-        //     console.log("blurEdge Event:", params);
-        // });
     </script>
 </body>
 
