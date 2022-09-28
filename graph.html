@@ -70,6 +70,7 @@
 		       dataType: 'json',
 		       success: function(data){
                 nodes = new vis.DataSet(data);
+                dataAdded();
                },
 		       crossDomain:true
 		    });
@@ -79,6 +80,7 @@
 		       dataType: 'json',
 		       success: function(data){
                 edges = new vis.DataSet(data);
+                dataAdded();
                },
 		       crossDomain:true
 		    });
