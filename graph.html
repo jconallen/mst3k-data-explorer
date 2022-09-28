@@ -105,7 +105,7 @@
             var network = new vis.Network(container, data, options);
 
             network.on("stabilizationProgress", function (params) {
-                var widthFactor = params.iterations / params.total * 100;
+                var widthFactor = parseInt( params.iterations / params.total * 100 );
 
                 $("#progressBar")
                     .css("width", widthFactor + "%")
