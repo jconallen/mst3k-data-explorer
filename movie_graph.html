@@ -46,7 +46,7 @@
             </div>
         </div>
 
-        <div class="container" id="mst3kgraph" style="width: 1800px;height:800px">
+        <div class="container" id="mst3kgraph" style="width: 1000px;height:800px; background-color:ghostwhite;">
 
         </div>
 
@@ -141,23 +141,27 @@
                     }
                 }
 
+                var dups = [];
                 for( var crewId in _crew ) {
                     var crewMember = _crew[crewId];
                     if( crewMember.titles.length > 1 ) {
-                        var node = {
-                            "id": crewId,
-                            "label": _crew[crewId].name,
-                            "shape":"ellipse",
-                            "color":"gainsboro"
-                        }
-                        tnodes.push( node );
 
-                        for( var c in crewMember.titles ) {
-                            var edge = {
-                                "from": crewId,
-                                "to": crewMember.titles[c]
+
+                        for( var i=0; i<crewMember.titles.length; i++ ) {
+                            for( var j=i+1; j<crewMember.titles.length; j++ ) {
+                                var key1 = crewMember.titles[i]  + "-" + crewMember.titles[j];
+                                var key2 = crewMember.titles[j]  + "-" + crewMember.titles[i];
+                                if( !dups.includes(key1) && !dups.includes(key2) ){
+                                    var edge = {
+                                        "from": crewMember.titles[i],
+                                        "to": crewMember.titles[j],
+                                        "color": "black"
+                                    }
+                                    tedges.push(edge);
+                                    dups.push(key1);
+                                    dups.push(key2);
+                                }
                             }
-                            tedges.push(edge);
                         }
                     }
                 } 

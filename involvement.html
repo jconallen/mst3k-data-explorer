@@ -22,6 +22,7 @@
 <body>
 
     <div class="container" style="border-style: solid; border-width: 1px;">
+        <p><a href="index.html">home</a></p>
         <h1>MST3K Riffed Movie Involvements</h1>
         <p>This page shows those individuals who have been involved with at least two classic MST3K riffed movies.</p>
 
@@ -200,7 +201,7 @@
         function buildActorSection() {
             $('#actors').empty();
             for (var i=maxActorCount; i>0; i--) {
-                if( typeof crewActorElms["a"+i] != 'undefined' && crewActorElms["a"+i].count < 100 ) {
+                if( typeof crewActorElms["a"+i] != 'undefined' && crewActorElms["a"+i].count < 2000 ) {
                 var list = crewActorElms["a"+i].list;
                     var sectionHtml = 
                         `<div class="row"><h4>${i} Movies</h4></div>

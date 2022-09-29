@@ -1,3 +1,70 @@
-<h1>MST3K Data Explorer</h1>
+<!DOCTYPE HTML>
+<html>
 
-<a href="graph.html">Graph</a>
+<head>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/todc-bootstrap/3.3.7-3.3.13/js/bootstrap.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modalmanager.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>The MST3K Data Explorer</h1>
+        <p>
+            I am a big fan of the show Mystery Science Theater 3000 (MST3K). I notice a lot of actors 
+            in the riffed movies showing up time and time again. Also as someone interested in numbers
+            and computer programming, I decided to investigate this a little further. Using the IMDB API,
+            I have collected data on the full staff from all of the orginal run (1988-1999), including 
+            the KTMA years and the movie.  With this data I have determine that five actors have appeared
+            in five different riffed movies.  I created a data driven web page that displays the 
+            <a href="involvement.html">involvement of all the actors, directors and writers</a> who 
+            have been involved with at least to separate riffed movies.
+        </p>
+        <p>
+            The most interesting aspect of this project is when you take a step back and try to look
+            at is holistically.  Being a computer science nerd, I think of this as a simple 
+            <a href="https://en.wikipedia.org/wiki/Graph_(abstract_data_type)" target="_blank">graph</a>,
+            where the verticies are the riffed movies, and the edges represent an actor, director or writer
+            that was involved in both of the connected verticies.
+        </p>
+        <p>
+            You can <a href="movie_graph.html">explore this graph yourself</a>, and zoom in or out and tug 
+            and pull on the verticies to get a better feel for the graph.  The graph takes some time to 
+            load, so be patient, there is a lot of data being organized and layed out.
+        </p>
+        <img src="images/movie_universe.png" width="600" alt="High level view of graph of movies and connections">
+
+        <p>
+            While this representation is simple enough, I was also interedted in seeing just who was 
+            the connection between the two movies.  So in another for of the graph I added the crew 
+            member that worked on both movies as a vertex (visualized in a different color and shape), 
+            with the edge being the connection between the crew member and the movie they were involved 
+            with. 
+        </p>
+        <p>
+            You can <a href="crew_movie_graph.html">explore this version of graph as well</a>.  This graph 
+            takes even longer to load (since in now has separate verticies for the connecting crew members.
+            So be patient.
+        </p>
+        <img src="images/crew_movie_universe.png" width="600" alt="High level view of graph of movies and connections">
+
+    </div>
+
+    <script>
+
+    </script>
+</body>
+
+</html>
