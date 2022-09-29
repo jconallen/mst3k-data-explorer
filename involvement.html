@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MST3K Riffed Movie Connections</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/todc-bootstrap/3.3.7-3.3.13/js/bootstrap.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modalmanager.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+</head>
+
+<body>
+
+    <div class="container" style="border-style: solid; border-width: 1px;">
+        <h1>MST3K Riffed Movie Involvements</h1>
+        <p>This page shows those individuals who have been involved with at least two classic MST3K riffed movies.</p>
+
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link" id="asActor-tab" data-toggle="tab" href="#asActor" 
+                role="tab" aria-controls="asActor" aria-selected="true">As an Actor</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="asDirector-tab" data-toggle="tab" href="#asDirector" 
+                role="tab" aria-controls="asDirector" aria-selected="true">As a Director</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="asWriter-tab" data-toggle="tab" href="#asWriter" 
+                role="tab" aria-controls="asWriter" aria-selected="true">As a Writer</a>
+            </li>
+        </ul>
+
+        <div class="tab-content">
+            <div class="tab-pane fade" id="asActor" role="tabpanel" aria-labelledby="asActor-tab">  
+                <div class="row">
+                    <div class="container">
+                        <div class="row" style="padding:5px;">
+                            <div id="actors" class="col-sm-9" ></div>
+                            <div id="actordetails" class="col-sm-3" style="padding: 5px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="asDirector" role="tabpanel" aria-labelledby="asDirector-tab">
+                <div class="row">
+                    <div class="container">
+                        <div class="row" style="padding:5px;">
+                            <div id="directors" class="col-sm-9" ></div>
+                            <div id="directordetails" class="col-sm-3" style="padding: 5px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="asWriter" role="tabpanel" aria-labelledby="asWriter-tab">
+                <div class="row">
+                    <div class="container">
+                        <div class="row" style="padding:5px;">
+                            <div id="writers" class="col-sm-9" ></div>
+                            <div id="writerdetails" class="col-sm-3" style="padding: 5px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+
+    </div>
+
+
+
+    <script type="text/javascript">
+
+        // cache of all crew information
+        var crew = {};
+        var crewActorElms = {};
+        var maxActorCount = 0;
+        var crewDirectorElms = {};
+        var maxDirectorCount = 0;
+        var crewWriterElms = {};
+        var maxWriterCount = 0;
+
+        $(document).ready(function () {
+            $.ajax({
+                url: "data/crew_data.json",
+                dataType: 'json',
+                success: processData,
+                crossDomain: true
+            });
+        });
+
+        function processData(data){
+            // /collect crew data
+            crew = {};
+            for (var crewId in data) {
+                var crewMember = data[crewId];
+                if (crewMember.actor.length > 0) {
+                    if( typeof crewActorElms["a"+crewMember.actor.length] == 'undefined' ){
+                        crewActorElms["a"+crewMember.actor.length] = {
+                            "list": `<a href="#" onclick="highlightActor('${crewId}')">${crewMember.name}</a>`,
+                            "count": 1
+                        }
+                    } else {
+                        crewActorElms["a"+crewMember.actor.length].list += `, <a href="#" onclick="highlightActor('${crewId}')">${crewMember.name}</a>`;
+                        crewActorElms["a"+crewMember.actor.length].count += 1;
+                    }
+                    if( maxActorCount < crewMember.actor.length ) maxActorCount = crewMember.actor.length;
+                    crew[crewId] = crewMember;
+                }
+                if (crewMember.director.length > 0) {
+                    if( typeof crewDirectorElms["a"+crewMember.director.length] == 'undefined' ){
+                        crewDirectorElms["a"+crewMember.director.length] = {
+                            "list": `<a href="#" onclick="highlightDirector('${crewId}')">${crewMember.name}</a>`,
+                            "count": 1
+                        }
+                    } else {
+                        crewDirectorElms["a"+crewMember.director.length].list += `, <a href="#" onclick="highlightDirector('${crewId}')">${crewMember.name}</a>`;
+                        crewDirectorElms["a"+crewMember.director.length].count += 1;
+                    }
+                    if( maxDirectorCount < crewMember.director.length ) maxDirectorCount = crewMember.director.length;
+                    crew[crewId] = crewMember;
+                }
+                if (crewMember.writer.length > 0) {
+                    if( typeof crewWriterElms["a"+crewMember.writer.length] == 'undefined' ){
+                        crewWriterElms["a"+crewMember.writer.length] = {
+                            "list": `<a href="#" onclick="highlightWriter('${crewId}')">${crewMember.name}</a>`,
+                            "count": 1
+                        }
+                    } else {
+                        crewWriterElms["a"+crewMember.writer.length].list += `, <a href="#" onclick="highlightWriter('${crewId}')">${crewMember.name}</a>`;
+                        crewWriterElms["a"+crewMember.writer.length].count += 1;
+                    }
+                    if( maxWriterCount < crewMember.writer.length ) maxWriterCount = crewMember.writer.length;
+                    crew[crewId] = crewMember;
+                }
+            }
+            buildActorSection();
+            buildDirectorSection();
+            buildWriterSection();
+        }
+
+        var highlightedActor = null;
+        function highlightActor(id){
+
+            $('#actordetails').empty();
+            $('#actordetails').css("background","");
+
+            if( id != highlightedActor ){
+
+                var name = crew[id].name;
+                var asActor = "";
+                if( crew[id].actor.length > 0 ){
+                    asActor = `<p><b>Actor</b></p><ul>`;
+                    for(var i=0; i<crew[id].actor.length; i++ ){
+                        var title = crew[id].actor[i].title;
+                        asActor += `<li>${title}</li>`
+                    }
+                    asActor += "</ul>";
+                }
+
+                var asDirector = "";
+                if( crew[id].director.length > 0 ){
+                    asDirector = `<p><b>Director</b></p><ul>`;
+                    for(var i=0; i<crew[id].director.length; i++ ){
+                        var title = crew[id].director[i].title;
+                        asDirector += `<li>${title}</li>`
+                    }
+                    asDirector += "</ul>";
+                }
+
+                var asWriter = "";
+                if( crew[id].writer.length > 0 ){
+                    asWriter = `<p><b>Writer</b></p><ul>`;
+                    for(var i=0; i<crew[id].writer.length; i++ ){
+                        var title = crew[id].writer[i].title;
+                        asWriter += `<li>${title}</li>`
+                    }
+                    asWriter += "</ul>";
+                }
+
+                var details = 
+                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+
+                $('#actordetails').append(details);
+                $('#actordetails').css("background","antiquewhite");
+                highlightedActor = id;
+            }
+
+
+        }
+
+        function buildActorSection() {
+            $('#actors').empty();
+            for (var i=maxActorCount; i>0; i--) {
+                if( typeof crewActorElms["a"+i] != 'undefined' && crewActorElms["a"+i].count < 100 ) {
+                var list = crewActorElms["a"+i].list;
+                    var sectionHtml = 
+                        `<div class="row"><h4>${i} Movies</h4></div>
+                        <div class="row" style="padding-top: 1em;">
+                            <p>${list}</p>
+                        </div>`;
+                    $('#actors').append(sectionHtml);
+                }
+            }
+        }
+
+        var highlightedDirector = null;
+        function highlightDirector(id){
+
+            $('#directordetails').empty();
+            $('#directordetails').css("background","");
+
+            if( id != highlightedDirector ){
+
+                var name = crew[id].name;
+                var asActor = "";
+                if( crew[id].actor.length > 0 ){
+                    asActor = `<p><b>Actor</b></p><ul>`;
+                    for(var i=0; i<crew[id].actor.length; i++ ){
+                        var title = crew[id].actor[i].title;
+                        asActor += `<li>${title}</li>`
+                    }
+                    asActor += "</ul>";
+                }
+
+                var asDirector = "";
+                if( crew[id].director.length > 0 ){
+                    asDirector = `<p><b>Director</b></p><ul>`;
+                    for(var i=0; i<crew[id].director.length; i++ ){
+                        var title = crew[id].director[i].title;
+                        asDirector += `<li>${title}</li>`
+                    }
+                    asDirector += "</ul>";
+                }
+
+                var asWriter = "";
+                if( crew[id].writer.length > 0 ){
+                    asWriter = `<p><b>Writer</b></p><ul>`;
+                    for(var i=0; i<crew[id].writer.length; i++ ){
+                        var title = crew[id].writer[i].title;
+                        asWriter += `<li>${title}</li>`
+                    }
+                    asWriter += "</ul>";
+                }
+
+                var details = 
+                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+
+                $('#directordetails').append(details);
+                $('#directordetails').css("background","antiquewhite");
+                highlightedDirector = id;
+            }
+        }
+
+        function buildDirectorSection() {
+            $('#directors').empty();
+            for (var i=maxDirectorCount; i>0; i--) {
+                if( typeof crewDirectorElms["a"+i] != 'undefined' && crewDirectorElms["a"+i].count < 100 ) {
+                    var list = crewDirectorElms["a"+i].list;
+                    var sectionHtml = 
+                        `<div class="row"><h4>${i} Movies</h4></div>
+                        <div class="row" style="padding-top: 1em;">
+                            <p>${list}</p>
+                        </div>`;
+                    $('#directors').append(sectionHtml);
+                }
+            }
+        }
+
+        var highlightedWriter = null;
+        function highlightWriter(id){
+
+            $('#writerdetails').empty();
+            $('#writerdetails').css("background","");
+
+            if( id != highlightedWriter ){
+
+                var name = crew[id].name;
+                var asActor = "";
+                if( crew[id].actor.length > 0 ){
+                    asActor = `<p><b>Actor</b></p><ul>`;
+                    for(var i=0; i<crew[id].actor.length; i++ ){
+                        var title = crew[id].actor[i].title;
+                        asActor += `<li>${title}</li>`
+                    }
+                    asActor += "</ul>";
+                }
+
+                var asDirector = "";
+                if( crew[id].director.length > 0 ){
+                    asDirector = `<p><b>Director</b></p><ul>`;
+                    for(var i=0; i<crew[id].director.length; i++ ){
+                        var title = crew[id].director[i].title;
+                        asDirector += `<li>${title}</li>`
+                    }
+                    asDirector += "</ul>";
+                }
+
+                var asWriter = "";
+                if( crew[id].writer.length > 0 ){
+                    asWriter = `<p><b>Writer</b></p><ul>`;
+                    for(var i=0; i<crew[id].writer.length; i++ ){
+                        var title = crew[id].writer[i].title;
+                        asWriter += `<li>${title}</li>`
+                    }
+                    asWriter += "</ul>";
+                }
+
+                var details = 
+                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+
+                $('#writerdetails').append(details);
+                $('#writerdetails').css("background","antiquewhite");
+                highlightedWriter = id;
+            }
+
+
+        }
+
+        function buildWriterSection() {
+            $('#writers').empty();
+            for (var i=maxWriterCount; i>0; i--) {
+                if( typeof crewWriterElms["a"+i] != 'undefined' && crewWriterElms["a"+i].count < 100 ) {
+                    var list = crewWriterElms["a"+i].list;
+                    var sectionHtml = 
+                        `<div class="row"><h4>${i} Movies</h4></div>
+                        <div class="row" style="padding-top: 1em;">
+                            <p>${list}</p>
+                        </div>`;
+                    $('#writers').append(sectionHtml);
+                }
+            }
+        }
+
+
+    </script>
+</body>
+
+</html>
