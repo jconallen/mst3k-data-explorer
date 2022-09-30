@@ -4,23 +4,15 @@
 <head>
     <title>MST3K Riffed Movie Connections</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/todc-bootstrap/3.3.7-3.3.13/js/bootstrap.min.js"></script>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modalmanager.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
+    <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js" type="text/javascript"></script>
 
     <style type="text/css">
         #mst3kgraph {
-            width: 1200px;
-            height: 800px;
             border: 1px solid lightgray;
         }
     </style>
@@ -30,32 +22,35 @@
 <body>
 
     <div class="container">
-        <p><a href="index.html">home</a></p>
+        <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | movie graph | <a href="movie_crew_graph.html">movie/crew graph</a> </p>
+
         <h1>MST3K Riffed Movie Graph</h1>
         <p>
             This is a graph of riffed movies where the conections indicate that a actor, director or writer
             was involved with both of the connected movies.
         </p>
 
-        <div id="progress" class="container">
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="progress">
-                        <div id="progressBar" class="progress-bar" role="progressbar"></div>
+        <div class="row">
+            <div id="progress" class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="progress">
+                            <div id="progressBar" class="progress-bar" role="progressbar"></div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container" id="mst3kgraph" style="width: 1000px;height:800px; background-color:ghostwhite;">
+        <div class="row" style="padding-top: 1em;">
+            <div class="col-sm-9">
+                <!-- <div class="container" style="background-color:ghostwhite; height: 600px;"></div> -->
+                <div class="container" id="mst3kgraph" style="background-color:ghostwhite; height: 600px;"></div>
+            </div>
+            <div id="details" class="col-sm-3">
 
+            </div>
         </div>
-
-    </div>
-
-    <div class="container">
-        <h2 id="eventSpanHeading"></h2>
-        <pre id="eventSpanContent"></pre>
 
     </div>
 
@@ -68,6 +63,8 @@
 
         var nodes = null;
         var edges = null;
+
+        var currentHighlight = null;
 
         function filterEpisodes(data){
             _episodes = {};
@@ -100,7 +97,6 @@
                 _crew[crewId] = data[crewId];
                 for( var i in data[crewId].titles ) {
                     var titleId = data[crewId].titles[i];
-                    console.log( titleId );
                     if( typeof _episodes[titleId].count == 'undefined' ){
                         _episodes[titleId].count = 1;
                     } else {
@@ -138,6 +134,7 @@
                     var episode = _episodes[episodeId];
                     // filter
                     if( typeof episode.count != 'undefined' ) {
+                        _episodes[episodeId].connections=[];
                         tnodes.push( _episodes[episodeId] );
                     }
                 }
@@ -146,7 +143,6 @@
                 for( var crewId in _crew ) {
                     var crewMember = _crew[crewId];
                     if( crewMember.titles.length > 1 ) {
-
 
                         for( var i=0; i<crewMember.titles.length; i++ ) {
                             for( var j=i+1; j<crewMember.titles.length; j++ ) {
@@ -161,6 +157,21 @@
                                     tedges.push(edge);
                                     dups.push(key1);
                                     dups.push(key2);
+
+                                    var connection = {
+                                        "title": _episodes[crewMember.titles[i]].title,
+                                        "through": crewMember.name
+                                    }
+                                    var episode = _episodes[crewMember.titles[j]];
+                                    episode.connections.push(connection);
+
+                                    connection = {
+                                        "title": _episodes[crewMember.titles[j]].title,
+                                        "through": crewMember.name
+                                    }
+                                    episode = _episodes[crewMember.titles[i]];
+                                    episode.connections.push(connection);
+
                                 }
                             }
                         }
@@ -205,25 +216,59 @@
 
                 setTimeout(function () {
                     $('#progressBar').addClass('.d-none');
-                    console.log("hiding")
                 }, 1000);
             });
 
             network.on("click", function (params) {
-                params.event = "[original event]";
-                document.getElementById("eventSpanHeading").innerText = "Click event:";
-                document.getElementById("eventSpanContent").innerText = JSON.stringify(
-                    params,
-                    null,
-                    4
-                );
-                console.log(
-                    "click event, getNodeAt returns: " +
-                    this.getNodeAt(params.pointer.DOM)
-                );
+                
+                if( params.nodes.length > 0 ){
+                    $('#details').empty();
+                    $('#details').css("background","");
+
+                    if( currentHighlight == params.nodes[0] ){
+                        // toggle off
+                        currentHighlight = null;
+                    } else {
+                        $('#details').empty();
+                        $('#details').css("background","");
+
+                        var titleId = params.nodes[0];
+                        var episode = _episodes[titleId];
+                        var title = episode.title;
+                        var label = episode.label;
+
+                        if( episode.connections.length > 0 ) {
+
+                            var lineItems = ""; //JSON.stringify(episode);
+
+                            for( var i=0; i<episode.connections.length; i++){
+                                var connection = episode.connections[i];
+                                lineItems += `<li><b>${connection.title}</b> <i>via ${connection.through}</i></li>`;
+                            }
+
+                            var detailsElm = 
+                                `<h4>${title} (${label})</h4>
+                                Connected to
+                                <ul>${lineItems}</ul>`;
+
+                            $('#details').append(detailsElm);
+                            $('#details').css("background","antiquewhite");
+                        } else {
+                            var detailsElm = 
+                                `<h4>${title} (${label})</h4>
+                                <p>No connections</p>`;
+
+                            $('#details').append(detailsElm);
+                            $('#details').css("background","antiquewhite");
+                            
+                        }
+                        currentHighlight = titleId;
+                    }
+
+
+                }
             });
         }
-
 
     </script>
 </body>

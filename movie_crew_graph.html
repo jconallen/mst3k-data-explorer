@@ -4,23 +4,15 @@
 <head>
     <title>MST3K Riffed Movie Connections</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
-        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/todc-bootstrap/3.3.7-3.3.13/js/bootstrap.min.js"></script>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.2.6/js/bootstrap-modalmanager.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
+    <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js" type="text/javascript"></script>
 
     <style type="text/css">
         #mst3kgraph {
-            width: 1200px;
-            height: 800px;
             border: 1px solid lightgray;
         }
     </style>
@@ -30,7 +22,8 @@
 <body>
 
     <div class="container">
-        <p><a href="index.html">home</a></p>
+        <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | movie/crew graph </p>
+
         <h1>MST3K Riffed Movie/Crew Graph</h1>
         <p>
             This is a graph of riffed movies where the conections indicate that a actor, director or writer
@@ -47,7 +40,7 @@
             </div>
         </div>
 
-        <div class="container" id="mst3kgraph" style="width: 1000px;height:800px; background-color:ghostwhite;">
+        <div class="container w-100" id="mst3kgraph" style="height:800px; background-color:ghostwhite;">
 
         </div>
 
