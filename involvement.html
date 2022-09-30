@@ -187,7 +187,9 @@
                 }
 
                 var details = 
-                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+                    `<h4>${name}</h4>
+                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    <p>${asActor}${asDirector}${asWriter}</p>`
 
                 $('#actordetails').append(details);
                 $('#actordetails').css("background","antiquewhite");

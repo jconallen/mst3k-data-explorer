@@ -248,6 +248,7 @@
 
                             var detailsElm = 
                                 `<h4>${title} (${label})</h4>
+                                <p><a href="https://www.imdb.com/title/${titleId}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
                                 Connected to
                                 <ul>${lineItems}</ul>`;
 
@@ -256,6 +257,7 @@
                         } else {
                             var detailsElm = 
                                 `<h4>${title} (${label})</h4>
+                                <p><a href="https://www.imdb.com/title/${titleId}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
                                 <p>No connections</p>`;
 
                             $('#details').append(detailsElm);
