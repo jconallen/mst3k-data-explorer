@@ -259,7 +259,10 @@
                 }
 
                 var details = 
-                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+                    `<h4>${name}</h4>
+                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    <p>${asActor}${asDirector}${asWriter}</p>
+                    <p><button type="button" class="btn btn-secondary btn-sm" onclick="graph('${id}')">Explore in Graph</button></p>`;
 
                 $('#directordetails').append(details);
                 $('#directordetails').css("background","antiquewhite");
@@ -322,7 +325,10 @@
                 }
 
                 var details = 
-                    `<h4>${name}</h4>${asActor}${asDirector}${asWriter}`
+                    `<h4>${name}</h4>
+                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    <p>${asActor}${asDirector}${asWriter}</p>
+                    <p><button type="button" class="btn btn-secondary btn-sm" onclick="graph('${id}')">Explore in Graph</button></p>`;
 
                 $('#writerdetails').append(details);
                 $('#writerdetails').css("background","antiquewhite");

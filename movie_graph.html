@@ -26,8 +26,18 @@
 
         <h1>MST3K Riffed Movie Graph</h1>
         <p>
-            This is a graph of riffed movies where the conections indicate that a actor, director or writer
-            was involved with both of the connected movies.
+            This is a graph of riffed movies.  Each yello block represents a movie.  If an actor, director 
+            or writer in that movie worked on another riffed movie then a black line is drawn connecting 
+            the two movies. The big wad in the middle shows the significant interconnectiveness of those
+            making bad movies.  The small separated graph is the set of imported Japanese movies, where it
+            is reasonable to not see much of a cross over.  The small clump just outside the main one is
+            the set of Italian movies (Hercules, Diabolik, Devil Fish, ... ).  Finally the 
+            outer rim of disconnected movies are those movies whose cast and crew were fortunately enough 
+            to just have that one mistake.
+        </p>
+        <p>
+            This graph is big so it will take some time to build out.  Be patient, especially if you have
+            a small computer.
         </p>
 
         <div class="row">
@@ -87,7 +97,13 @@
                     }
                 }
             }
-            dataAdded();
+            
+            $.ajax({
+		       url: "data/crew_data.json",
+		       dataType: 'json',
+		       success: filterCrew,
+		       crossDomain:true
+		    });
         }
 
 
@@ -113,13 +129,6 @@
 		       url: "data/mst3k_episodes.json",
 		       dataType: 'json',
 		       success: filterEpisodes,
-		       crossDomain:true
-		    });
-
-            $.ajax({
-		       url: "data/crew_data.json",
-		       dataType: 'json',
-		       success: filterCrew,
 		       crossDomain:true
 		    });
             
@@ -215,7 +224,7 @@
                     .text("100% progress");
 
                 setTimeout(function () {
-                    $('#progressBar').addClass('.d-none');
+                    $('#progress').addClass('d-none');
                 }, 1000);
             });
 

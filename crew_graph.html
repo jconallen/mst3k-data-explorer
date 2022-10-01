@@ -103,7 +103,8 @@
             var container = document.getElementById("mst3kgraph");
             var options = {
                 interaction: { hover: true },
-                manipulation: { enabled: false }
+                manipulation: { enabled: false },
+                layout: { improvedLayout: false }
             };
 
             network = new vis.Network(container, graphData, options);
@@ -162,7 +163,7 @@
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asActor += `<li>${title} (${ep})</li>`
+                            asWriter += `<li>${title} (${ep})</li>`
                         }
                         asWriter += "</ul>";
                     }
