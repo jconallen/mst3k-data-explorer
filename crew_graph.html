@@ -48,6 +48,8 @@
     <script type="text/javascript">
         // create an array with nodes
 
+        var network;
+
         var episodes;
         var crew;
 
@@ -98,8 +100,9 @@
                 manipulation: { enabled: false }
             };
 
-            var network = new vis.Network(container, graphData, options);
+            network = new vis.Network(container, graphData, options);
             network.on("click",highlightActor);
+
 
         }
 
@@ -225,6 +228,8 @@
 
         function addNodesFromEpisode(tconst,nconst){
 
+            network.setOptions( { physics: { enabled: true } } );
+
             var allCrew = getAllCrew(tconst);
 
             for( var id of allCrew ) {
@@ -277,6 +282,10 @@
 
 
             }
+        
+            setTimeout( ()=> {
+                network.setOptions( { physics: { enabled: false } } );
+            }, 15000);
         }
 
 
