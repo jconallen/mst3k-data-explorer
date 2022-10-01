@@ -9,7 +9,11 @@
                 "nm0910294",
                 "nm0168939",
                 "nm0744441",
-                "nm0182600"
+                "nm0182600",
+                "nm0318102",
+                "nm0613862",
+                "nm0175410",
+                "nm0694446"
             ],
             "directors": [],
             "writers": [],
@@ -22,7 +26,9 @@
             "tconst": "tt0035009",
             "year": "1942",
             "actors": [],
-            "directors": [],
+            "directors": [
+                "nm0627864"
+            ],
             "writers": [],
             "season": "1",
             "episode": "103",
@@ -35,9 +41,14 @@
             "actors": [
                 "nm0400794",
                 "nm0247305",
-                "nm0401064"
+                "nm0401064",
+                "nm0588443",
+                "nm0651627",
+                "nm0694446"
             ],
-            "directors": [],
+            "directors": [
+                "nm0627864"
+            ],
             "writers": [],
             "season": "5",
             "episode": "507",
@@ -52,7 +63,11 @@
                 "nm0926338",
                 "nm0168032",
                 "nm0068493",
-                "nm0168939"
+                "nm0168939",
+                "nm0176592",
+                "nm0182600",
+                "nm0287668",
+                "nm0175410"
             ],
             "directors": [],
             "writers": [],
@@ -68,7 +83,10 @@
                 "nm0126049",
                 "nm0925929",
                 "nm0168032",
-                "nm0318102"
+                "nm0318102",
+                "nm0352914",
+                "nm0365039",
+                "nm0725920"
             ],
             "directors": [],
             "writers": [],
@@ -81,7 +99,9 @@
             "tconst": "tt0040530",
             "year": "1948",
             "actors": [
-                "nm0400794"
+                "nm0400794",
+                "nm0352914",
+                "nm0003224"
             ],
             "directors": [],
             "writers": [],
@@ -99,9 +119,12 @@
                 "nm0126049",
                 "nm0168939",
                 "nm0141311",
-                "nm0242010"
+                "nm0242010",
+                "nm0828260"
             ],
-            "directors": [],
+            "directors": [
+                "nm0627864"
+            ],
             "writers": [],
             "season": "5",
             "episode": "520",
@@ -116,10 +139,14 @@
                 "nm0030194",
                 "nm0365039",
                 "nm0390372",
-                "nm0392059"
+                "nm0392059",
+                "nm0636161",
+                "nm0828260"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0359034"
+            ],
             "season": "2",
             "episode": "201",
             "host": "Joel"
@@ -131,10 +158,16 @@
             "actors": [
                 "nm0578412",
                 "nm0000946",
-                "nm0064604"
+                "nm0064604",
+                "nm0022367",
+                "nm0828260"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0627864"
+            ],
+            "writers": [
+                "nm0359034"
+            ],
             "season": "2",
             "episode": "208",
             "host": "Joel"
@@ -143,7 +176,9 @@
             "title": "The Painted Hills",
             "tconst": "tt0043895",
             "year": "1951",
-            "actors": [],
+            "actors": [
+                "nm0233352"
+            ],
             "directors": [],
             "writers": [],
             "season": "5",
@@ -154,7 +189,9 @@
             "title": "Racket Girls",
             "tconst": "tt0043954",
             "year": "1951",
-            "actors": [],
+            "actors": [
+                "nm0268350"
+            ],
             "directors": [],
             "writers": [],
             "season": "6",
@@ -170,10 +207,14 @@
                 "nm0080948",
                 "nm0139725",
                 "nm0267916",
-                "nm0318102"
+                "nm0318102",
+                "nm0396473",
+                "nm0769974"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0809731"
+            ],
             "season": "6",
             "episode": "602",
             "host": "Mike"
@@ -189,9 +230,12 @@
                 "nm0527974",
                 "nm0143912",
                 "nm0580566",
-                "nm0663888"
+                "nm0663888",
+                "nm0491591"
             ],
-            "directors": [],
+            "directors": [
+                "nm0607612"
+            ],
             "writers": [],
             "season": "4",
             "episode": "417",
@@ -201,7 +245,10 @@
             "title": "Project Moon Base",
             "tconst": "tt0046213",
             "year": "1953",
-            "actors": [],
+            "actors": [
+                "nm0439817",
+                "nm0443836"
+            ],
             "directors": [],
             "writers": [],
             "season": "1",
@@ -212,7 +259,9 @@
             "title": "Robot Monster",
             "tconst": "tt0046248",
             "year": "1953",
-            "actors": [],
+            "actors": [
+                "nm0618865"
+            ],
             "directors": [],
             "writers": [],
             "season": "1",
@@ -225,9 +274,13 @@
             "year": "1953",
             "actors": [
                 "nm0831641",
-                "nm0617175"
+                "nm0617175",
+                "nm0873933",
+                "nm0554178"
             ],
-            "directors": [],
+            "directors": [
+                "nm0699693"
+            ],
             "writers": [],
             "season": "5",
             "episode": "505",
@@ -237,7 +290,9 @@
             "title": "Fire Maidens of Outer Space",
             "tconst": "tt0046977",
             "year": "1956",
-            "actors": [],
+            "actors": [
+                "nm0186045"
+            ],
             "directors": [],
             "writers": [],
             "season": "4",
@@ -257,9 +312,12 @@
                 "nm0065717",
                 "nm0341526",
                 "nm0390372",
-                "nm0491591"
+                "nm0491591",
+                "nm0663888"
             ],
-            "directors": [],
+            "directors": [
+                "nm0607612"
+            ],
             "writers": [],
             "season": "4",
             "episode": "413",
@@ -271,9 +329,15 @@
             "year": "1955",
             "actors": [
                 "nm0298282",
-                "nm0426157"
+                "nm0426157",
+                "nm0290118",
+                "nm0358032",
+                "nm1248838",
+                "nm0931547"
             ],
-            "directors": [],
+            "directors": [
+                "nm0000791"
+            ],
             "writers": [],
             "season": "",
             "episode": "M01",
@@ -288,10 +352,15 @@
                 "nm0426363",
                 "nm0242587",
                 "nm0065922",
-                "nm0651627"
+                "nm0651627",
+                "nm0111926"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000248"
+            ],
+            "writers": [
+                "nm0000248"
+            ],
             "season": "4",
             "episode": "423",
             "host": "Joel"
@@ -300,9 +369,16 @@
             "title": "King Dinosaur",
             "tconst": "tt0048256",
             "year": "1955",
-            "actors": [],
-            "directors": [],
-            "writers": [],
+            "actors": [
+                "nm0117252",
+                "nm0588922"
+            ],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0330026"
+            ],
             "season": "2",
             "episode": "210",
             "host": "Joel"
@@ -325,8 +401,13 @@
                 "nm0828260",
                 "nm0917576"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000791"
+            ],
+            "writers": [
+                "nm0020041",
+                "nm0075344"
+            ],
             "season": "8",
             "episode": "801",
             "host": "Mike"
@@ -338,9 +419,12 @@
             "actors": [
                 "nm0307500",
                 "nm0686340",
-                "nm0371918"
+                "nm0371918",
+                "nm0625343"
             ],
-            "directors": [],
+            "directors": [
+                "nm0000339"
+            ],
             "writers": [],
             "season": "5",
             "episode": "503",
@@ -355,7 +439,10 @@
                 "nm0080948",
                 "nm0149204",
                 "nm0367497",
-                "nm0556973"
+                "nm0556973",
+                "nm0570277",
+                "nm0613862",
+                "nm0644665"
             ],
             "directors": [],
             "writers": [],
@@ -378,8 +465,13 @@
                 "nm0768312",
                 "nm0352368"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000339"
+            ],
+            "writers": [
+                "nm0341458",
+                "nm0360221"
+            ],
             "season": "5",
             "episode": "511",
             "host": "Joel"
@@ -391,9 +483,12 @@
             "actors": [
                 "nm0617175",
                 "nm0554178",
-                "nm0831641"
+                "nm0831641",
+                "nm0293659"
             ],
-            "directors": [],
+            "directors": [
+                "nm0699693"
+            ],
             "writers": [],
             "season": "6",
             "episode": "617",
@@ -411,8 +506,13 @@
                 "nm0490027",
                 "nm0549979"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0689565"
+            ],
+            "writers": [
+                "nm0751500",
+                "nm0103084"
+            ],
             "season": "4",
             "episode": "409",
             "host": "Joel"
@@ -434,8 +534,13 @@
                 "nm0573005",
                 "nm0086428"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000339"
+            ],
+            "writers": [
+                "nm0750870",
+                "nm0341458"
+            ],
             "season": "3",
             "episode": "311",
             "host": "Joel"
@@ -451,10 +556,13 @@
                 "nm0400902",
                 "nm0358032",
                 "nm0380787",
-                "nm0398338"
+                "nm0398338",
+                "nm0926691"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0351444"
+            ],
             "season": "8",
             "episode": "803",
             "host": "Mike"
@@ -466,10 +574,13 @@
             "actors": [
                 "nm0602093",
                 "nm0427157",
-                "nm0268350"
+                "nm0268350",
+                "nm0444171"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0000248"
+            ],
             "season": "6",
             "episode": "610",
             "host": "Mike"
@@ -494,8 +605,14 @@
                 "nm0390372",
                 "nm0588443"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0360221",
+                "nm0330026",
+                "nm0946753"
+            ],
             "season": "3",
             "episode": "309",
             "host": "Joel"
@@ -521,10 +638,15 @@
                 "nm0235093",
                 "nm0293659",
                 "nm0490027",
-                "nm0721582"
+                "nm0721582",
+                "nm0828260"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0293750"
+            ],
             "season": "5",
             "episode": "517",
             "host": "Mike"
@@ -534,10 +656,15 @@
             "tconst": "tt0050197",
             "year": "1957",
             "actors": [
-                "nm0555005"
+                "nm0555005",
+                "nm0195676",
+                "nm0327980",
+                "nm0526058"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0241949"
+            ],
             "season": "1",
             "episode": "113",
             "host": "Joel"
@@ -556,10 +683,14 @@
                 "nm0573005",
                 "nm0588922",
                 "nm0596828",
-                "nm0721582"
+                "nm0721582",
+                "nm0747069"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0075344",
+                "nm0020041"
+            ],
             "season": "8",
             "episode": "804",
             "host": "Mike"
@@ -576,10 +707,19 @@
                 "nm0658051",
                 "nm0031355",
                 "nm0278495",
-                "nm0266885"
+                "nm0266885",
+                "nm0173020",
+                "nm0139996",
+                "nm0559818",
+                "nm0684266"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0290371"
+            ],
+            "writers": [
+                "nm0290371",
+                "nm0208086"
+            ],
             "season": "5",
             "episode": "502",
             "host": "Joel"
@@ -594,9 +734,12 @@
                 "nm0041021",
                 "nm0549979",
                 "nm0078940",
-                "nm0086627"
+                "nm0086627",
+                "nm0176260"
             ],
-            "directors": [],
+            "directors": [
+                "nm0288635"
+            ],
             "writers": [],
             "season": "8",
             "episode": "809",
@@ -607,7 +750,10 @@
             "tconst": "tt0050717",
             "year": "1958",
             "actors": [
-                "nm0555005"
+                "nm0555005",
+                "nm0327980",
+                "nm0195676",
+                "nm0379958"
             ],
             "directors": [],
             "writers": [],
@@ -633,10 +779,14 @@
                 "nm0318102",
                 "nm0392059",
                 "nm0588443",
-                "nm0636161"
+                "nm0636161",
+                "nm0725920",
+                "nm0828164"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0750870"
+            ],
             "season": "8",
             "episode": "808",
             "host": "Mike"
@@ -654,8 +804,13 @@
                 "nm0086428",
                 "nm4006077"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000339"
+            ],
+            "writers": [
+                "nm0341458",
+                "nm0360221"
+            ],
             "season": "8",
             "episode": "806",
             "host": "Mike"
@@ -670,7 +825,10 @@
                 "nm0370886",
                 "nm0060701",
                 "nm0865279",
-                "nm0426363"
+                "nm0426363",
+                "nm0330574",
+                "nm0281414",
+                "nm0933489"
             ],
             "directors": [],
             "writers": [],
@@ -688,7 +846,10 @@
                 "nm0878354",
                 "nm0510768",
                 "nm0288311",
-                "nm0003224"
+                "nm0003224",
+                "nm0051551",
+                "nm0256523",
+                "nm0447320"
             ],
             "directors": [],
             "writers": [],
@@ -717,8 +878,14 @@
                 "nm0822482",
                 "nm0832047"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0351444",
+                "nm0946753",
+                "nm0330026"
+            ],
             "season": "3",
             "episode": "313",
             "host": "Joel"
@@ -729,9 +896,13 @@
             "year": "1958",
             "actors": [
                 "nm0256523",
-                "nm0625343"
+                "nm0625343",
+                "nm0574712",
+                "nm0836392"
             ],
-            "directors": [],
+            "directors": [
+                "nm0468609"
+            ],
             "writers": [],
             "season": "7",
             "episode": "701",
@@ -747,9 +918,13 @@
                 "nm0371918",
                 "nm0865279",
                 "nm0148061",
-                "nm0352368"
+                "nm0352368",
+                "nm4006077",
+                "nm0836392"
             ],
-            "directors": [],
+            "directors": [
+                "nm0000339"
+            ],
             "writers": [],
             "season": "3",
             "episode": "317",
@@ -760,7 +935,8 @@
             "tconst": "tt0052169",
             "year": "1958",
             "actors": [
-                "nm0916423"
+                "nm0916423",
+                "nm0176773"
             ],
             "directors": [],
             "writers": [],
@@ -779,10 +955,15 @@
                 "nm0418152",
                 "nm0551256",
                 "nm0235093",
-                "nm0419593"
+                "nm0419593",
+                "nm0644665"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000791"
+            ],
+            "writers": [
+                "nm0774441"
+            ],
             "season": "9",
             "episode": "906",
             "host": "Mike"
@@ -798,9 +979,12 @@
                 "nm0625343",
                 "nm0790171",
                 "nm0103056",
-                "nm0357975"
+                "nm0357975",
+                "nm0836392"
             ],
-            "directors": [],
+            "directors": [
+                "nm0000339"
+            ],
             "writers": [],
             "season": "3",
             "episode": "315",
@@ -811,10 +995,15 @@
             "tconst": "tt0052286",
             "year": "1958",
             "actors": [
-                "nm0182626"
+                "nm0182626",
+                "nm0236178"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0348673"
+            ],
+            "writers": [
+                "nm0348673"
+            ],
             "season": "8",
             "episode": "807",
             "host": "Mike"
@@ -827,10 +1016,13 @@
                 "nm0176592",
                 "nm0400902",
                 "nm0018438",
-                "nm0367677"
+                "nm0367677",
+                "nm0378015"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0241949"
+            ],
             "season": "8",
             "episode": "805",
             "host": "Mike"
@@ -839,7 +1031,9 @@
             "title": "The Crawling Eye",
             "tconst": "tt0052320",
             "year": "1958",
-            "actors": [],
+            "actors": [
+                "nm0593803"
+            ],
             "directors": [],
             "writers": [],
             "season": "1",
@@ -868,8 +1062,13 @@
                 "nm0485977",
                 "nm0832047"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0330026",
+                "nm0946753"
+            ],
             "season": "3",
             "episode": "319",
             "host": "Joel"
@@ -878,7 +1077,9 @@
             "title": "The Brain That Wouldn't Die",
             "tconst": "tt0052646",
             "year": "1962",
-            "actors": [],
+            "actors": [
+                "nm0200012"
+            ],
             "directors": [],
             "writers": [],
             "season": "5",
@@ -892,9 +1093,12 @@
             "actors": [
                 "nm0176438",
                 "nm0895259",
-                "nm0868001"
+                "nm0868001",
+                "nm0051551"
             ],
-            "directors": [],
+            "directors": [
+                "nm0686340"
+            ],
             "writers": [],
             "season": "3",
             "episode": "307",
@@ -915,10 +1119,18 @@
                 "nm0278495",
                 "nm0716313",
                 "nm0684266",
-                "nm0173020"
+                "nm0173020",
+                "nm0139996",
+                "nm0591860"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0290371",
+                "nm0000878"
+            ],
+            "writers": [
+                "nm0290371",
+                "nm0208086"
+            ],
             "season": "4",
             "episode": "408",
             "host": "Joel"
@@ -931,8 +1143,13 @@
                 "nm0838042",
                 "nm0572741"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0446129"
+            ],
+            "writers": [
+                "nm0446129",
+                "nm0799972"
+            ],
             "season": "4",
             "episode": "402",
             "host": "Joel"
@@ -943,7 +1160,9 @@
             "year": "1960",
             "actors": [
                 "nm0357020",
-                "nm0177806"
+                "nm0177806",
+                "nm0068493",
+                "nm0253489"
             ],
             "directors": [],
             "writers": [],
@@ -961,10 +1180,14 @@
                 "nm0176438",
                 "nm0498608",
                 "nm0126306",
-                "nm0139725"
+                "nm0139725",
+                "nm0141311",
+                "nm0183228"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0809731"
+            ],
             "season": "6",
             "episode": "601",
             "host": "Mike"
@@ -977,7 +1200,8 @@
                 "nm0041021",
                 "nm0498608",
                 "nm0288304",
-                "nm0355355"
+                "nm0355355",
+                "nm0177806"
             ],
             "directors": [],
             "writers": [],
@@ -993,8 +1217,12 @@
                 "nm0078940",
                 "nm0572741"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0446129"
+            ],
+            "writers": [
+                "nm0799972"
+            ],
             "season": "4",
             "episode": "407",
             "host": "Joel"
@@ -1009,9 +1237,13 @@
                 "nm0744841",
                 "nm0427157",
                 "nm0603657",
-                "nm0288304"
+                "nm0288304",
+                "nm0925929",
+                "nm0167089"
             ],
-            "directors": [],
+            "directors": [
+                "nm0288635"
+            ],
             "writers": [],
             "season": "4",
             "episode": "419",
@@ -1021,8 +1253,15 @@
             "title": "The Day the Earth Froze",
             "tconst": "tt0053240",
             "year": "1959",
-            "actors": [],
-            "directors": [],
+            "actors": [
+                "nm0587711",
+                "nm0873933",
+                "nm0117382",
+                "nm0588922"
+            ],
+            "directors": [
+                "nm0699693"
+            ],
             "writers": [],
             "season": "4",
             "episode": "422",
@@ -1032,7 +1271,10 @@
             "title": "Santa Claus",
             "tconst": "tt0053241",
             "year": "1959",
-            "actors": [],
+            "actors": [
+                "nm0195676",
+                "nm0372750"
+            ],
             "directors": [],
             "writers": [],
             "season": "5",
@@ -1073,10 +1315,14 @@
                 "nm0437176",
                 "nm1172718",
                 "nm1245909",
-                "nm4824019"
+                "nm4824019",
+                "nm0945470"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0407008",
+                "nm0605734"
+            ],
             "season": "8",
             "episode": "816",
             "host": "Mike"
@@ -1086,7 +1332,9 @@
             "tconst": "tt0053593",
             "year": "1960",
             "actors": [
-                "nm0341526"
+                "nm0341526",
+                "nm0259995",
+                "nm0496557"
             ],
             "directors": [],
             "writers": [],
@@ -1108,8 +1356,12 @@
                 "nm0357975",
                 "nm0836392"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0468609"
+            ],
+            "writers": [
+                "nm0330388"
+            ],
             "season": "4",
             "episode": "406",
             "host": "Joel"
@@ -1123,8 +1375,12 @@
                 "nm0106539",
                 "nm0293659"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0293659"
+            ],
+            "writers": [
+                "nm0293659"
+            ],
             "season": "4",
             "episode": "415",
             "host": "Joel"
@@ -1146,10 +1402,15 @@
             "year": "1960",
             "actors": [
                 "nm0336531",
-                "nm0847993"
+                "nm0847993",
+                "nm0060701",
+                "nm0022367",
+                "nm0443836"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0241949"
+            ],
             "season": "8",
             "episode": "802",
             "host": "Mike"
@@ -1178,8 +1439,13 @@
                 "nm0822482",
                 "nm0293659"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0330026",
+                "nm0946753"
+            ],
             "season": "4",
             "episode": "414",
             "host": "Joel"
@@ -1191,10 +1457,14 @@
             "actors": [
                 "nm0164153",
                 "nm0007218",
-                "nm0186045"
+                "nm0186045",
+                "nm0916732",
+                "nm0124279"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0311374"
+            ],
             "season": "5",
             "episode": "524",
             "host": "Mike"
@@ -1216,8 +1486,12 @@
                 "nm0290118",
                 "nm0461004"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0290118"
+            ],
+            "writers": [
+                "nm0290118"
+            ],
             "season": "6",
             "episode": "621",
             "host": "Mike"
@@ -1232,7 +1506,9 @@
                 "nm0001658",
                 "nm0675580",
                 "nm0666439",
-                "nm0355355"
+                "nm0355355",
+                "nm0177806",
+                "nm0933489"
             ],
             "directors": [],
             "writers": [],
@@ -1248,7 +1524,12 @@
                 "nm0658051",
                 "nm0299009",
                 "nm0022663",
-                "nm0307995"
+                "nm0307995",
+                "nm0783680",
+                "nm0848547",
+                "nm0147646",
+                "nm0678904",
+                "nm2227107"
             ],
             "directors": [],
             "writers": [],
@@ -1260,7 +1541,10 @@
             "title": "Gorgo",
             "tconst": "tt0054938",
             "year": "1961",
-            "actors": [],
+            "actors": [
+                "nm0843213",
+                "nm0084042"
+            ],
             "directors": [],
             "writers": [],
             "season": "9",
@@ -1278,10 +1562,15 @@
                 "nm0916732",
                 "nm0529115",
                 "nm0001423",
-                "nm0603657"
+                "nm0603657",
+                "nm0265697",
+                "nm0588922",
+                "nm0783680"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0311374"
+            ],
             "season": "9",
             "episode": "902",
             "host": "Mike"
@@ -1301,7 +1590,10 @@
             "title": "Santo vs. the Vampire Women",
             "tconst": "tt0055408",
             "year": "1962",
-            "actors": [],
+            "actors": [
+                "nm0379958",
+                "nm0526058"
+            ],
             "directors": [],
             "writers": [],
             "season": "6",
@@ -1320,8 +1612,12 @@
                 "nm0713339",
                 "nm0000248"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000248"
+            ],
+            "writers": [
+                "nm0000248"
+            ],
             "season": "6",
             "episode": "613",
             "host": "Mike"
@@ -1334,10 +1630,14 @@
                 "nm0945470",
                 "nm0437176",
                 "nm1172718",
-                "nm0176693"
+                "nm0176693",
+                "nm1245909",
+                "nm4824019"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0605734"
+            ],
             "season": "8",
             "episode": "819",
             "host": "Mike"
@@ -1352,7 +1652,9 @@
                 "nm0104887"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0917576"
+            ],
             "season": "5",
             "episode": "506",
             "host": "Joel"
@@ -1361,7 +1663,9 @@
             "title": "Colossus and the Headhunters",
             "tconst": "tt0056207",
             "year": "1963",
-            "actors": [],
+            "actors": [
+                "nm0141881"
+            ],
             "directors": [],
             "writers": [],
             "season": "6",
@@ -1379,8 +1683,13 @@
                 "nm0293659",
                 "nm0744441"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0330026",
+                "nm0774441"
+            ],
             "season": "4",
             "episode": "411",
             "host": "Joel"
@@ -1389,7 +1698,9 @@
             "title": "Ring of Terror",
             "tconst": "tt0056415",
             "year": "1961",
-            "actors": [],
+            "actors": [
+                "nm0259995"
+            ],
             "directors": [],
             "writers": [],
             "season": "2",
@@ -1408,7 +1719,10 @@
                 "nm0730924"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0731741",
+                "nm0730924"
+            ],
             "season": "1",
             "episode": "108",
             "host": "Joel"
@@ -1422,10 +1736,15 @@
                 "nm0001308",
                 "nm0370886",
                 "nm0035159",
-                "nm0168939"
+                "nm0168939",
+                "nm0254616",
+                "nm0701222",
+                "nm0730924"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0186510"
+            ],
             "season": "1",
             "episode": "106",
             "host": "Joel"
@@ -1437,10 +1756,15 @@
             "actors": [
                 "nm0245081",
                 "nm0595407",
-                "nm0104887"
+                "nm0104887",
+                "nm0798102"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0245081"
+            ],
+            "writers": [
+                "nm0798102"
+            ],
             "season": "8",
             "episode": "812",
             "host": "Mike"
@@ -1463,8 +1787,12 @@
                 "nm0290304",
                 "nm0290118"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0290118"
+            ],
+            "writers": [
+                "nm0290118"
+            ],
             "season": "6",
             "episode": "609",
             "host": "Mike"
@@ -1473,9 +1801,17 @@
             "title": "Monstrosity",
             "tconst": "tt0057859",
             "year": "1963",
-            "actors": [],
-            "directors": [],
-            "writers": [],
+            "actors": [
+                "nm0314947"
+            ],
+            "directors": [
+                "nm0689565"
+            ],
+            "writers": [
+                "nm0751500",
+                "nm0103084",
+                "nm0689565"
+            ],
             "season": "5",
             "episode": "518",
             "host": "Mike"
@@ -1486,7 +1822,9 @@
             "year": "1964",
             "actors": [],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0798102"
+            ],
             "season": "6",
             "episode": "606",
             "host": "Mike"
@@ -1495,8 +1833,14 @@
             "title": "Devil Doll",
             "tconst": "tt0058007",
             "year": "1964",
-            "actors": [],
-            "directors": [],
+            "actors": [
+                "nm0355186",
+                "nm0843213",
+                "nm0317506"
+            ],
+            "directors": [
+                "nm0794843"
+            ],
             "writers": [],
             "season": "8",
             "episode": "818",
@@ -1521,7 +1865,9 @@
                 "nm0001234",
                 "nm0233352",
                 "nm0926691",
-                "nm0330388"
+                "nm0330388",
+                "nm0396473",
+                "nm0516972"
             ],
             "directors": [],
             "writers": [],
@@ -1533,7 +1879,11 @@
             "title": "Hercules Against the Moon Men",
             "tconst": "tt0058311",
             "year": "1964",
-            "actors": [],
+            "actors": [
+                "nm0716313",
+                "nm0848547",
+                "nm0402231"
+            ],
             "directors": [],
             "writers": [],
             "season": "4",
@@ -1544,7 +1894,10 @@
             "title": "Frosty",
             "tconst": "tt0058374",
             "year": "1965",
-            "actors": [],
+            "actors": [
+                "nm0587711",
+                "nm0117382"
+            ],
             "directors": [],
             "writers": [],
             "season": "8",
@@ -1600,8 +1953,12 @@
                 "nm2870543",
                 "nm2760419"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0950633"
+            ],
+            "writers": [
+                "nm0847177"
+            ],
             "season": "3",
             "episode": "302",
             "host": "Joel"
@@ -1611,10 +1968,15 @@
             "tconst": "tt0059161",
             "year": "1967",
             "actors": [
-                "nm0358344"
+                "nm0358344",
+                "nm0404154",
+                "nm0496557",
+                "nm0199984"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0348673"
+            ],
             "season": "4",
             "episode": "418",
             "host": "Joel"
@@ -1629,10 +1991,15 @@
                 "nm0064604",
                 "nm0035159",
                 "nm0001423",
-                "nm0556543"
+                "nm0556543",
+                "nm0529115"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0682287"
+            ],
+            "writers": [
+                "nm0682287"
+            ],
             "season": "4",
             "episode": "420",
             "host": "Joel"
@@ -1641,9 +2008,16 @@
             "title": "Monster a Go-Go",
             "tconst": "tt0059464",
             "year": "1965",
-            "actors": [],
-            "directors": [],
-            "writers": [],
+            "actors": [
+                "nm0852481",
+                "nm0714215"
+            ],
+            "directors": [
+                "nm0714215"
+            ],
+            "writers": [
+                "nm0714215"
+            ],
             "season": "4",
             "episode": "421",
             "host": "Joel"
@@ -1668,10 +2042,16 @@
                 "nm0186844",
                 "nm0709947",
                 "nm0066719",
-                "nm0877185"
+                "nm0877185",
+                "nm0448483",
+                "nm1248838"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0330026"
+            ],
+            "writers": [
+                "nm0330026"
+            ],
             "season": "5",
             "episode": "523",
             "host": "Mike"
@@ -1683,10 +2063,13 @@
             "actors": [
                 "nm0179819",
                 "nm0133310",
-                "nm0232817"
+                "nm0232817",
+                "nm0730924"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0731741"
+            ],
             "season": "8",
             "episode": "815",
             "host": "Mike"
@@ -1720,8 +2103,13 @@
                 "nm7274655",
                 "nm3989715"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0849060",
+                "nm0950633"
+            ],
+            "writers": [
+                "nm0847177"
+            ],
             "season": "0",
             "episode": "K04,304",
             "host": "Joel"
@@ -1736,8 +2124,12 @@
                 "nm0620032",
                 "nm0782876"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0297974"
+            ],
+            "writers": [
+                "nm0782883"
+            ],
             "season": "2",
             "episode": "213",
             "host": "Joel"
@@ -1768,8 +2160,12 @@
                 "nm0236178",
                 "nm0713339"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0290118"
+            ],
+            "writers": [
+                "nm0290118"
+            ],
             "season": "6",
             "episode": "619",
             "host": "Mike"
@@ -1778,7 +2174,13 @@
             "title": "Secret Agent Super Dragon",
             "tconst": "tt0060956",
             "year": "1966",
-            "actors": [],
+            "actors": [
+                "nm0195258",
+                "nm0577867",
+                "nm0824934",
+                "nm0031351",
+                "nm0141881"
+            ],
             "directors": [],
             "writers": [],
             "season": "5",
@@ -1791,7 +2193,8 @@
             "year": "1966",
             "actors": [
                 "nm0110917",
-                "nm0176260"
+                "nm0176260",
+                "nm0895259"
             ],
             "directors": [],
             "writers": [],
@@ -1809,8 +2212,12 @@
                 "nm0411731",
                 "nm0485977"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0682287"
+            ],
+            "writers": [
+                "nm0682287"
+            ],
             "season": "1",
             "episode": "104",
             "host": "Joel"
@@ -1819,7 +2226,11 @@
             "title": "Catalina Caper",
             "tconst": "tt0061456",
             "year": "1967",
-            "actors": [],
+            "actors": [
+                "nm0456565",
+                "nm0232817",
+                "nm0066719"
+            ],
             "directors": [],
             "writers": [],
             "season": "2",
@@ -1830,7 +2241,9 @@
             "title": "The Deadly Bees",
             "tconst": "tt0061557",
             "year": "1966",
-            "actors": [],
+            "actors": [
+                "nm0728085"
+            ],
             "directors": [],
             "writers": [],
             "season": "9",
@@ -1846,10 +2259,15 @@
                 "nm0329029",
                 "nm0581239",
                 "nm0509155",
-                "nm0520547"
+                "nm0520547",
+                "nm0358344"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0872809"
+            ],
+            "writers": [
+                "nm0404154"
+            ],
             "season": "2",
             "episode": "202",
             "host": "Joel"
@@ -1871,8 +2289,13 @@
                 "nm0434600",
                 "nm2736876"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0950633",
+                "nm0849060"
+            ],
+            "writers": [
+                "nm0847177"
+            ],
             "season": "0",
             "episode": "K08,308",
             "host": "Joel"
@@ -1892,10 +2315,13 @@
                 "nm0835046",
                 "nm0872809",
                 "nm0361388",
-                "nm0866798"
+                "nm0866798",
+                "nm0358344"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0404154"
+            ],
             "season": "2",
             "episode": "209",
             "host": "Joel"
@@ -1904,9 +2330,16 @@
             "title": "The Million Eyes of Sumuru",
             "tconst": "tt0061976",
             "year": "1967",
-            "actors": [],
-            "directors": [],
-            "writers": [],
+            "actors": [
+                "nm0618865"
+            ],
+            "directors": [
+                "nm0794843"
+            ],
+            "writers": [
+                "nm0869935",
+                "nm0737544"
+            ],
             "season": "0",
             "episode": "K18",
             "host": "Joel"
@@ -1915,7 +2348,12 @@
             "title": "Danger!! Death Ray",
             "tconst": "tt0062035",
             "year": "1967",
-            "actors": [],
+            "actors": [
+                "nm0141881",
+                "nm0022663",
+                "nm0031351",
+                "nm4080316"
+            ],
             "directors": [],
             "writers": [],
             "season": "6",
@@ -1930,9 +2368,15 @@
                 "nm0148041",
                 "nm0561755",
                 "nm0518179",
-                "nm0147646"
+                "nm0147646",
+                "nm4080316",
+                "nm0670804",
+                "nm2227107",
+                "nm0880336"
             ],
-            "directors": [],
+            "directors": [
+                "nm0210130"
+            ],
             "writers": [],
             "season": "5",
             "episode": "508",
@@ -1942,7 +2386,11 @@
             "title": "The Projected Man",
             "tconst": "tt0062159",
             "year": "1966",
-            "actors": [],
+            "actors": [
+                "nm0355186",
+                "nm0477330",
+                "nm0426996"
+            ],
             "directors": [],
             "writers": [],
             "season": "9",
@@ -1969,7 +2417,9 @@
                 "nm2870543",
                 "nm0176693",
                 "nm0199361",
-                "nm0590906"
+                "nm0590906",
+                "nm0629218",
+                "nm0653005"
             ],
             "directors": [],
             "writers": [],
@@ -1983,10 +2433,20 @@
             "year": "1968",
             "actors": [
                 "nm0492342",
-                "nm0577867"
+                "nm0577867",
+                "nm0148041",
+                "nm0031272",
+                "nm4080316",
+                "nm0622322",
+                "nm0670804",
+                "nm0402231"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0000878"
+            ],
+            "writers": [
+                "nm0000878"
+            ],
             "season": "10",
             "episode": "1013",
             "host": "Mike"
@@ -2000,10 +2460,14 @@
                 "nm0023862",
                 "nm0629218",
                 "nm0199361",
-                "nm0743619"
+                "nm0743619",
+                "nm0792384",
+                "nm0900912"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0782883"
+            ],
             "season": "3",
             "episode": "314",
             "host": "Joel"
@@ -2014,7 +2478,10 @@
             "year": "1969",
             "actors": [],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0737544",
+                "nm0869935"
+            ],
             "season": "3",
             "episode": "323",
             "host": "Joel"
@@ -2030,8 +2497,12 @@
                 "nm0008367",
                 "nm0879761"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0950633"
+            ],
+            "writers": [
+                "nm0847177"
+            ],
             "season": "0",
             "episode": "K06,312",
             "host": "Joel"
@@ -2050,10 +2521,14 @@
                 "nm0001234",
                 "nm0401064",
                 "nm0447320",
-                "nm0747069"
+                "nm0747069",
+                "nm0808083",
+                "nm0835046"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0800294"
+            ],
             "season": "4",
             "episode": "401",
             "host": "Joel"
@@ -2062,7 +2537,13 @@
             "title": "Moon Zero Two",
             "tconst": "tt0064691",
             "year": "1969",
-            "actors": [],
+            "actors": [
+                "nm0647921",
+                "nm0770711",
+                "nm0593803",
+                "nm0728085",
+                "nm0477330"
+            ],
             "directors": [],
             "writers": [],
             "season": "1",
@@ -2077,7 +2558,18 @@
                 "nm0000978",
                 "nm0176773",
                 "nm0111754",
-                "nm0004496"
+                "nm0004496",
+                "nm0808729",
+                "nm0314947",
+                "nm0843213",
+                "nm0798328",
+                "nm0426157",
+                "nm0000817",
+                "nm0103722",
+                "nm0640539",
+                "nm0926338",
+                "nm0647921",
+                "nm0439817"
             ],
             "directors": [],
             "writers": [],
@@ -2089,7 +2581,9 @@
             "title": "The Touch of Satan",
             "tconst": "tt0066476",
             "year": "1971",
-            "actors": [],
+            "actors": [
+                "nm0247691"
+            ],
             "directors": [],
             "writers": [],
             "season": "9",
@@ -2109,8 +2603,12 @@
                 "nm0622408",
                 "nm0948949"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0950633"
+            ],
+            "writers": [
+                "nm0847177"
+            ],
             "season": "0",
             "episode": "K07,316",
             "host": "Joel"
@@ -2122,10 +2620,18 @@
             "actors": [
                 "nm0442904",
                 "nm0653005",
-                "nm0782876"
+                "nm0782876",
+                "nm0620032",
+                "nm7274655",
+                "nm3989715"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0297974"
+            ],
+            "writers": [
+                "nm0297974",
+                "nm0782883"
+            ],
             "season": "2",
             "episode": "212",
             "host": "Joel"
@@ -2135,10 +2641,13 @@
             "tconst": "tt0070531",
             "year": "1974",
             "actors": [
-                "nm0317506"
+                "nm0317506",
+                "nm0372242"
             ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0800294"
+            ],
             "season": "0",
             "episode": "K09",
             "host": "Joel"
@@ -2152,7 +2661,9 @@
                 "nm0000817",
                 "nm0640539",
                 "nm0943894",
-                "nm0117252"
+                "nm0117252",
+                "nm0949344",
+                "nm0287668"
             ],
             "directors": [],
             "writers": [],
@@ -2164,8 +2675,12 @@
             "title": "The Bat People",
             "tconst": "tt0071198",
             "year": "1974",
-            "actors": [],
-            "directors": [],
+            "actors": [
+                "nm0329029"
+            ],
+            "directors": [
+                "nm0417054"
+            ],
             "writers": [],
             "season": "10",
             "episode": "1010",
@@ -2189,10 +2704,15 @@
             "actors": [
                 "nm0110917",
                 "nm0247691",
-                "nm0001308"
+                "nm0001308",
+                "nm0852481"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0714215"
+            ],
+            "writers": [
+                "nm0247691"
+            ],
             "season": "8",
             "episode": "810",
             "host": "Mike"
@@ -2204,7 +2724,9 @@
             "actors": [
                 "nm0000833",
                 "nm0949344",
-                "nm0055736"
+                "nm0055736",
+                "nm0808729",
+                "nm0808083"
             ],
             "directors": [],
             "writers": [],
@@ -2216,9 +2738,16 @@
             "title": "Cosmic Princess",
             "tconst": "tt0074350",
             "year": "1982",
-            "actors": [],
+            "actors": [
+                "nm0770711",
+                "nm0426996"
+            ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0026755",
+                "nm0027487",
+                "nm0293750"
+            ],
             "season": "0",
             "episode": "K10",
             "host": "Joel"
@@ -2249,7 +2778,9 @@
             "title": "Code Name: Diamond Head",
             "tconst": "tt0075862",
             "year": "1977",
-            "actors": [],
+            "actors": [
+                "nm0182626"
+            ],
             "directors": [],
             "writers": [],
             "season": "6",
@@ -2261,7 +2792,8 @@
             "tconst": "tt0076191",
             "year": "1977",
             "actors": [
-                "nm0372271"
+                "nm0372271",
+                "nm0807679"
             ],
             "directors": [],
             "writers": [],
@@ -2277,7 +2809,12 @@
                 "nm0336335",
                 "nm0580565",
                 "nm0001658",
-                "nm0411731"
+                "nm0411731",
+                "nm0829872",
+                "nm0556543",
+                "nm0596828",
+                "nm0828164",
+                "nm0835046"
             ],
             "directors": [],
             "writers": [],
@@ -2291,9 +2828,12 @@
             "year": "1978",
             "actors": [
                 "nm0807679",
-                "nm0943978"
+                "nm0943978",
+                "nm0706044"
             ],
-            "directors": [],
+            "directors": [
+                "nm0706044"
+            ],
             "writers": [],
             "season": "7",
             "episode": "706",
@@ -2304,7 +2844,10 @@
             "tconst": "tt0078062",
             "year": "1979",
             "actors": [
-                "nm0336335"
+                "nm0336335",
+                "nm0140805",
+                "nm0943978",
+                "nm0878354"
             ],
             "directors": [],
             "writers": [],
@@ -2318,9 +2861,13 @@
             "year": "1978",
             "actors": [
                 "nm0418148",
-                "nm0004496"
+                "nm0004496",
+                "nm0625343",
+                "nm0329029"
             ],
-            "directors": [],
+            "directors": [
+                "nm0417054"
+            ],
             "writers": [],
             "season": "0",
             "episode": "K15",
@@ -2332,10 +2879,15 @@
             "year": "1979",
             "actors": [
                 "nm0001588",
-                "nm0001308"
+                "nm0001308",
+                "nm0163990"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0163990"
+            ],
+            "writers": [
+                "nm0163990"
+            ],
             "season": "6",
             "episode": "622",
             "host": "Mike"
@@ -2344,7 +2896,9 @@
             "title": "City on Fire",
             "tconst": "tt0078976",
             "year": "1979",
-            "actors": [],
+            "actors": [
+                "nm0002082"
+            ],
             "directors": [],
             "writers": [],
             "season": "0",
@@ -2355,7 +2909,12 @@
             "title": "Hangar 18",
             "tconst": "tt0080836",
             "year": "1980",
-            "actors": [],
+            "actors": [
+                "nm0001816",
+                "nm0769974",
+                "nm0943894",
+                "nm0140805"
+            ],
             "directors": [],
             "writers": [],
             "season": "0",
@@ -2368,10 +2927,16 @@
             "year": "1980",
             "actors": [
                 "nm0000587",
-                "nm0297450"
+                "nm0297450",
+                "nm0824934",
+                "nm0518179"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0210130"
+            ],
+            "writers": [
+                "nm0210130"
+            ],
             "season": "9",
             "episode": "903",
             "host": "Mike"
@@ -2380,7 +2945,9 @@
             "title": "The Last Chase",
             "tconst": "tt0082642",
             "year": "1981",
-            "actors": [],
+            "actors": [
+                "nm0580565"
+            ],
             "directors": [],
             "writers": [],
             "season": "0",
@@ -2391,7 +2958,9 @@
             "title": "Time Walker",
             "tconst": "tt0084796",
             "year": "1982",
-            "actors": [],
+            "actors": [
+                "nm0709947"
+            ],
             "directors": [],
             "writers": [],
             "season": "4",
@@ -2404,7 +2973,9 @@
             "year": "1977",
             "actors": [],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0407008"
+            ],
             "season": "0",
             "episode": "K21",
             "host": "Joel"
@@ -2428,7 +2999,8 @@
                 "nm0141881",
                 "nm0678904",
                 "nm0622322",
-                "nm2227107"
+                "nm2227107",
+                "nm0880336"
             ],
             "directors": [],
             "writers": [],
@@ -2444,8 +3016,12 @@
                 "nm0000833",
                 "nm0163990"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0163990"
+            ],
+            "writers": [
+                "nm0163990"
+            ],
             "season": "10",
             "episode": "1008",
             "host": "Mike"
@@ -2454,7 +3030,9 @@
             "title": "Devil Fish",
             "tconst": "tt0088100",
             "year": "1984",
-            "actors": [],
+            "actors": [
+                "nm0402231"
+            ],
             "directors": [],
             "writers": [],
             "season": "9",
@@ -2469,8 +3047,12 @@
                 "nm0000587",
                 "nm0031272"
             ],
-            "directors": [],
-            "writers": [],
+            "directors": [
+                "nm0175730"
+            ],
+            "writers": [
+                "nm0175730"
+            ],
             "season": "5",
             "episode": "501",
             "host": "Joel"
@@ -2502,7 +3084,8 @@
             "tconst": "tt0089104",
             "year": "1983",
             "actors": [
-                "nm0798328"
+                "nm0798328",
+                "nm0299009"
             ],
             "directors": [],
             "writers": [],
@@ -2547,7 +3130,10 @@
             "title": "Alien from L.A.",
             "tconst": "tt0092532",
             "year": "1988",
-            "actors": [],
+            "actors": [
+                "nm0767227",
+                "nm7262862"
+            ],
             "directors": [],
             "writers": [],
             "season": "5",
@@ -2569,9 +3155,16 @@
             "title": "Time of the Apes",
             "tconst": "tt0094153",
             "year": "1987",
-            "actors": [],
+            "actors": [
+                "nm0442904",
+                "nm0743619",
+                "nm0792384",
+                "nm0900912"
+            ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0008350"
+            ],
             "season": "0",
             "episode": "K17,306",
             "host": "Joel"
@@ -2580,7 +3173,10 @@
             "title": "Space Mutiny",
             "tconst": "tt0096149",
             "year": "1988",
-            "actors": [],
+            "actors": [
+                "nm0492342",
+                "nm0593192"
+            ],
             "directors": [],
             "writers": [],
             "season": "8",
@@ -2591,7 +3187,9 @@
             "title": "Deathstalker and the Warriors from Hell",
             "tconst": "tt0097174",
             "year": "1988",
-            "actors": [],
+            "actors": [
+                "nm0297450"
+            ],
             "directors": [],
             "writers": [],
             "season": "7",
@@ -2602,9 +3200,14 @@
             "title": "Gor II",
             "tconst": "tt0098048",
             "year": "1988",
-            "actors": [],
+            "actors": [
+                "nm0001588",
+                "nm0767227"
+            ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0869935"
+            ],
             "season": "5",
             "episode": "519",
             "host": "Mike"
@@ -2614,7 +3217,8 @@
             "tconst": "tt0100665",
             "year": "1990",
             "actors": [
-                "nm0261724"
+                "nm0261724",
+                "nm0120494"
             ],
             "directors": [],
             "writers": [],
@@ -2659,7 +3263,9 @@
             "title": "Future War",
             "tconst": "tt0113135",
             "year": "1997",
-            "actors": [],
+            "actors": [
+                "nm0120494"
+            ],
             "directors": [],
             "writers": [],
             "season": "10",
@@ -2687,9 +3293,16 @@
             "actors": [
                 "nm0044462",
                 "nm0849461",
-                "nm0794425"
+                "nm0794425",
+                "nm0847110",
+                "nm0950801",
+                "nm0851229",
+                "nm0386284"
             ],
-            "directors": [],
+            "directors": [
+                "nm0437124",
+                "nm0476729"
+            ],
             "writers": [
                 "nm0008350",
                 "nm0906740"
@@ -2702,9 +3315,15 @@
             "title": "Invaders from the Deep",
             "tconst": "tt0128273",
             "year": "1981",
-            "actors": [],
+            "actors": [
+                "nm0247691",
+                "nm0561755"
+            ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0026755",
+                "nm0027487"
+            ],
             "season": "0",
             "episode": "K01",
             "host": "Joel"
@@ -2759,7 +3378,11 @@
             "title": "Girl in Gold Boots",
             "tconst": "tt0174685",
             "year": "1968",
-            "actors": [],
+            "actors": [
+                "nm0199984",
+                "nm0126306",
+                "nm0133310"
+            ],
             "directors": [],
             "writers": [],
             "season": "10",
@@ -2770,7 +3393,9 @@
             "title": "Merlin's Shop of Mystical Wonders",
             "tconst": "tt0174917",
             "year": "1996",
-            "actors": [],
+            "actors": [
+                "nm0586779"
+            ],
             "directors": [],
             "writers": [],
             "season": "10",
@@ -2781,9 +3406,16 @@
             "title": "Revenge of the Mysterons from Mars",
             "tconst": "tt1272026",
             "year": "1981",
-            "actors": [],
+            "actors": [
+                "nm0027487",
+                "nm0084042",
+                "nm0372242"
+            ],
             "directors": [],
-            "writers": [],
+            "writers": [
+                "nm0026755",
+                "nm0027487"
+            ],
             "season": "0",
             "episode": "K02",
             "host": "Joel"

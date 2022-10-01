@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>MST3K Riffed Crew Connections</title>
+    <title>MST3K Cast and Crew Connections</title>
 
     <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
     <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
@@ -13,7 +13,7 @@
 
     <style type="text/css">
         #mst3kgraph {
-            border: 1px solid lightgray;
+            border: 1px solid darkgray;
         }
     </style>
 
@@ -24,12 +24,18 @@
     <div class="container">
         <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> </p>
 
-        <h1>MST3K Riffed Movie Crew Graph</h1>
+        <h1>MST3K Cast and Crew Connections</h1>
         <p>
             In this interactive graph thers is an initial vertex of an actor, director or writer with at least two appearance in 
-            an MST3K riffed movie.  Selecting a vertex will display some information about that person in the side bar.  The 
-            Expand button will add new verticies to the graph of all of those who have worked on a common movie.  
-            Think <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a>.
+            an MST3K riffed movie.  Selecting a vertex will display some information about that person in the side bar. You can then 
+            add individually connected actors (select the movie then the actor).  Pressing the Expand button will add the connected
+            cast and crew at one time.  Think <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a>.
+        </p>
+        <p>
+            Here's a fun game; start with one actor, then add another with the goal to add actors you think don't have
+            a connection with any of the others in the graph.  The goal being create the longest single chain possible.
+            It is not easy (but possible) to create single linked chains of 6 and 7 actors.  But eventually someone is 
+            connected to someone else.
         </p>
         <p>
             The graph stabilization algorithm seems to have a difficult time with the highly connective graphs that we 
@@ -79,7 +85,6 @@
 
         function getData(data){
 
-
             crew = data.crew;
             episodes = data.episodes;
             buildGraph();
@@ -110,7 +115,6 @@
             network = new vis.Network(container, graphData, options);
             network.on("click",highlightActor);
 
-
         }
 
         var highlightedActor = null;
@@ -126,53 +130,90 @@
                 } else {
                     var nconst = params.nodes[0];
                     var crewMember = crew[nconst];
-                    var name = crewMember.name;
 
                     var name = crew[nconst].name;
                     var asActor = "";
                     if( crew[nconst].actor.length > 0 ){
-                        asActor = `<p><b>Actor</b></p><ul>`;
+                        asActor = `<b>As Actor</b>`;
                         for(var i=0; i<crew[nconst].actor.length; i++ ){
                             var tconst = crew[nconst].actor[i];
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asActor += `<li>${title} (${ep})</li>`
+                            asActor += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asActor += `<div id="${tconst}" class="collapse">`;
+                            // now list the crew
+                            var crewMembers = getAllCrew( tconst );
+                            for( var j in crewMembers ) {
+                                var cm = crew[crewMembers[j]];
+                                if( cm.nconst != nconst ){
+                                    var name = cm.name;
+                                    var id = cm.nconst;
+                                    asActor += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
+                                }
+                            }
+                            asActor += "</div>";
                         }
-                        asActor += "</ul>";
+                        asActor += "";
                     }
 
                     var asDirector = "";
                     if( crew[nconst].director.length > 0 ){
-                        asDirector = `<p><b>Director</b></p><ul>`;
+                        asDirector = `<b>As Director</b>`;
                         for(var i=0; i<crew[nconst].director.length; i++ ){
                             var tconst = crew[nconst].director[i];
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asDirector += `<li>${title} (${ep})</li>`
+                            asDirector += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asDirector += `<div id="${tconst}" class="collapse">`;
+
+                            // now list the crew
+                            var crewMembers = getAllCrew( tconst );
+                            for( var j in crewMembers ) {
+                                var cm = crew[crewMembers[j]];
+                                if( cm.nconst != nconst ){
+                                    var name = cm.name;
+                                    var id = cm.nconst;
+                                    asDirector += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${cm}</span><br/>`;
+                                }
+                            }
+                            asDirector += "</div>";
                         }
-                        asDirector += "</ul>";
+                        asDirector += "";
                     }
 
                     var asWriter = "";
                     if( crew[nconst].writer.length > 0 ){
-                        asWriter = `<p><b>Writer</b></p><ul>`;
+                        asWriter = `<b>As Writer</b>`;
                         for(var i=0; i<crew[nconst].writer.length; i++ ){
                             var tconst = crew[nconst].writer[i];
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asWriter += `<li>${title} (${ep})</li>`
+                            asWriter += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asWriter += `<div id="${tconst}" class="collapse">`;
+
+                            // now list the crew
+                            var crewMembers = getAllCrew( tconst );
+                            for( var j in crewMembers ) {
+                                var cm = crew[crewMembers[j]];
+                                if( cm.nconst != nconst ){
+                                    var name = cm.name;
+                                    var id = cm.nconst;
+                                    asWriter += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${cm}</span><br/>`;
+                                }
+                            }
+                            asWriter += "</div>";
                         }
-                        asWriter += "</ul>";
+                        asWriter += "";
                     }
 
                     var details = 
-                        `<h4>${name}</h4>
+                        `<h4>${crewMember.name}</h4>
                         <p><a href="https://www.imdb.com/name/${nconst}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
-                        <p>${asActor}${asDirector}${asWriter}</p>
-                        <p><button type="button" class="btn btn-secondary btn-sm" onclick="addConnections('${nconst}')">Expand</button></p>`;
+                        ${asActor}${asDirector}${asWriter}
+                        <p style="padding-top: 2em;"><button type="button" class="btn btn-secondary btn-sm" onclick="addConnections('${nconst}')">Expand All Connections</button></p>`;
 
                     $('#details').append(details);
                     $('#details').css("background","antiquewhite");
@@ -228,6 +269,44 @@
             var allTitles = getAllTitles(nconst);
             for( var tconst of allTitles ){
                 addNodesFromEpisode(tconst,nconst)
+            }
+        }
+
+        function addCrewMember(id,from){
+            network.setOptions( { physics: { enabled: true } } );
+            var crewMember = crew[id];
+            if( nodes.get(id) == null ) {
+                var crewMember = crew[id];
+                var node = {
+                    "id": id,
+                    "label": crewMember.name,
+                    "shape": "ellipse",
+                    "color": "lightgray"
+                }
+                nodes.add(node);
+
+                var titles = getAllTitles(id);
+                for( var tconst of titles ) {
+                    var crewMembers = getAllCrew(tconst);
+                    for( var cm of crewMembers ) {
+                        if( nodes.get(cm) && cm != id ){
+                            var edge = {
+                                "to": id,
+                                "from": cm
+                            }
+                            if( !addedEdges.includes( id+'-'+cm) ){
+                                var edge = {
+                                    "to": id,
+                                    "from": cm
+                                }
+                                edges.add(edge);
+
+                                addedEdges.push( id+'-'+cm );
+                                addedEdges.push( cm+'-'+id );
+                            }
+                        }
+                    }
+                }
             }
         }
 
