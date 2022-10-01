@@ -159,7 +159,7 @@
 
                     var asDirector = "";
                     if( crew[nconst].director.length > 0 ){
-                        asDirector = `<b>As Director</b>`;
+                        asDirector = `<br/><br/><b>As Director</b>`;
                         for(var i=0; i<crew[nconst].director.length; i++ ){
                             var tconst = crew[nconst].director[i];
                             var episode = episodes[tconst];
@@ -175,7 +175,7 @@
                                 if( cm.nconst != nconst ){
                                     var name = cm.name;
                                     var id = cm.nconst;
-                                    asDirector += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${cm}</span><br/>`;
+                                    asDirector += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
                                 }
                             }
                             asDirector += "</div>";
@@ -185,7 +185,7 @@
 
                     var asWriter = "";
                     if( crew[nconst].writer.length > 0 ){
-                        asWriter = `<b>As Writer</b>`;
+                        asWriter = `<br/><br/><b>As Writer</b>`;
                         for(var i=0; i<crew[nconst].writer.length; i++ ){
                             var tconst = crew[nconst].writer[i];
                             var episode = episodes[tconst];
@@ -201,7 +201,7 @@
                                 if( cm.nconst != nconst ){
                                     var name = cm.name;
                                     var id = cm.nconst;
-                                    asWriter += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${cm}</span><br/>`;
+                                    asWriter += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
                                 }
                             }
                             asWriter += "</div>";
