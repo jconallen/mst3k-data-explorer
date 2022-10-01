@@ -15,7 +15,7 @@
 <body>
 
     <div class="container">
-        <p>home | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | <a href="movie_crew_graph.html">movie/crew graph</a> </p>
+        <p>home | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> </p>
 
         <h1>The MST3K Data Explorer</h1>
         <p>
@@ -44,17 +44,12 @@
 
         <p>
             While this representation is simple enough, I was also interedted in seeing just who was 
-            the connection between the two movies.  So in another for of the graph I added the crew 
-            member that worked on both movies as a vertex (visualized in a different color and shape), 
-            with the edge being the connection between the crew member and the movie they were involved 
-            with. 
+            the connection between the two movies. As it turns out this graph is so big that it is not practically 
+            possible with normal browsers.  So, I made it interactive. From teh "Involvement" page, there is a button
+            on the crew member detail page that will bring you to a new blank graph, and seed that graph with 
+            a node for the selected crew member.  From there you can expand the graph one crew member at a time.
+            Think <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a>.
         </p>
-        <p>
-            You can <a href="movie_crew_graph.html">explore this version of graph as well</a>.  This graph 
-            takes even longer to load (since in now has separate verticies for the connecting crew members.
-            So be patient.
-        </p>
-        <img src="images/crew_movie_universe.png" width="600" alt="High level view of graph of movies and connections">
 
     </div>
 

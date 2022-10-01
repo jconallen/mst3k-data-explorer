@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MST3K Riffed Crew Connections</title>
+
+    <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
+    <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js" type="text/javascript"></script>
+
+    <style type="text/css">
+        #mst3kgraph {
+            border: 1px solid lightgray;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> </p>
+
+        <h1>MST3K Riffed Movie Crew Graph</h1>
+        <p>
+            In this interactive graph thers is an initial vertex of an actor, director or writer with at least two appearance in 
+            an MST3K riffed movie.  Selecting a vertex will display some information about that person in the side bar.  The 
+            Expand button will add new verticies to the graph of all of those who have worked on a common movie.  
+            Think <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon#Bacon_numbers">Bacon Number</a>.
+        </p>
+
+        <div class="row" style="padding-top: 1em;">
+            <div class="col-sm-9">
+                <!-- <div class="container" style="background-color:ghostwhite; height: 600px;"></div> -->
+                <div class="container" id="mst3kgraph" style="background-color:ghostwhite; height: 600px;"></div>
+            </div>
+            <div id="details" class="col-sm-3">
+
+            </div>
+        </div>
+
+    </div>
+
+
+    <script type="text/javascript">
+        // create an array with nodes
+
+        var episodes;
+        var crew;
+
+        var currentHighlight = null;
+
+        var nodes = new vis.DataSet([]);
+        var edges = new vis.DataSet([]);
+        var graphData = {
+            "nodes": nodes,
+            "edges": edges,
+        };
+
+        $( document ).ready(function() {
+            $.ajax({
+		       url: "data/all_data.json",
+		       dataType: 'json',
+		       success: getData,
+		       crossDomain:true
+		    });
+        });
+
+        function getData(data){
+
+
+            crew = data.crew;
+            episodes = data.episodes;
+            buildGraph();
+
+            var queryParams = new URLSearchParams(window.location.search);
+            var nconst = queryParams.get("nconst"); 
+
+            var crewMember = crew[nconst];
+
+            var starterNode = {
+                        "id": nconst,
+                        "label": crewMember.name,
+                        "shape": "ellipse",
+                        "color": "lightgray"
+                    }
+            nodes.add(starterNode);
+        }
+
+        function buildGraph(){
+
+            var container = document.getElementById("mst3kgraph");
+            var options = {
+                interaction: { hover: true },
+                manipulation: { enabled: false }
+            };
+
+            var network = new vis.Network(container, graphData, options);
+            network.on("click",highlightActor);
+
+        }
+
+        var highlightedActor = null;
+        function highlightActor(params){
+
+            $('#details').empty();
+            $('#details').css("background","");
+
+            if( params.nodes.length > 0 ){
+                if( currentHighlight == params.nodes[0] ){
+                    // toggle off
+                    currentHighlight = null;
+                } else {
+                    var nconst = params.nodes[0];
+                    var crewMember = crew[nconst];
+                    var name = crewMember.name;
+
+                    var name = crew[nconst].name;
+                    var asActor = "";
+                    if( crew[nconst].actor.length > 0 ){
+                        asActor = `<p><b>Actor</b></p><ul>`;
+                        for(var i=0; i<crew[nconst].actor.length; i++ ){
+                            var tconst = crew[nconst].actor[i];
+                            var episode = episodes[tconst];
+                            var title = episode.title;
+                            var ep = episode.episode;
+                            asActor += `<li>${title} (${ep})</li>`
+                        }
+                        asActor += "</ul>";
+                    }
+
+                    var asDirector = "";
+                    if( crew[nconst].director.length > 0 ){
+                        asDirector = `<p><b>Director</b></p><ul>`;
+                        for(var i=0; i<crew[nconst].director.length; i++ ){
+                            var tconst = crew[nconst].director[i];
+                            var episode = episodes[tconst];
+                            var title = episode.title;
+                            var ep = episode.episode;
+                            asDirector += `<li>${title} (${ep})</li>`
+                        }
+                        asDirector += "</ul>";
+                    }
+
+                    var asWriter = "";
+                    if( crew[nconst].writer.length > 0 ){
+                        asWriter = `<p><b>Writer</b></p><ul>`;
+                        for(var i=0; i<crew[nconst].writer.length; i++ ){
+                            var tconst = crew[nconst].writer[i];
+                            var episode = episodes[tconst];
+                            var title = episode.title;
+                            var ep = episode.episode;
+                            asActor += `<li>${title} (${ep})</li>`
+                        }
+                        asWriter += "</ul>";
+                    }
+
+                    var details = 
+                        `<h4>${name}</h4>
+                        <p><a href="https://www.imdb.com/name/${nconst}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                        <p>${asActor}${asDirector}${asWriter}</p>
+                        <p><button type="button" class="btn btn-secondary btn-sm" onclick="addConnections('${nconst}')">Expand</button></p>`;
+
+                    $('#details').append(details);
+                    $('#details').css("background","antiquewhite");
+                    highlightedActor = nconst;
+                }
+            }
+        }
+
+        function getAllTitles( nconst ) {
+            var allTitles = [];
+            var crewMember = crew[nconst];
+            for( var tconst of crewMember.actor ) {
+                if( !allTitles.includes(tconst) ){
+                    allTitles.push( tconst );
+                }
+            }
+            for( var tconst of crewMember.director ) {
+                if( !allTitles.includes(tconst) ){
+                    allTitles.push( tconst );
+                }
+            }
+            for( var tconst of crewMember.writer ) {
+                if( !allTitles.includes(tconst) ){
+                    allTitles.push( tconst );
+                }
+            }
+            return allTitles;
+        }
+
+        function getAllCrew( tconst ) {
+            var allCrew = [];
+            var episode = episodes[tconst];
+            for( var nconst of episode.actors ) {
+                if( !allCrew.includes(nconst) ){
+                    allCrew.push( nconst );
+                }
+            }
+            for( var nconst of episode.directors ) {
+                if( !allCrew.includes(nconst) ){
+                    allCrew.push( nconst );
+                }
+            }
+            for( var nconst of episode.writers ) {
+                if( !allCrew.includes(nconst) ){
+                    allCrew.push( nconst );
+                }
+            }
+            return allCrew;
+        }
+
+        function addConnections(nconst){
+            var crewMember = crew[nconst];
+            var allTitles = getAllTitles(nconst);
+            for( var tconst of allTitles ){
+                addNodesFromEpisode(tconst,nconst)
+            }
+        }
+
+        var addedEdges = [];
+
+        function addNodesFromEpisode(tconst,nconst){
+
+            var allCrew = getAllCrew(tconst);
+
+            for( var id of allCrew ) {
+                if( nconst != id ) {
+                    if( nodes.get(id) == null ) {
+                        var crewMember = crew[id];
+                        var node = {
+                            "id": id,
+                            "label": crewMember.name,
+                            "shape": "ellipse",
+                            "color": "lightgray"
+                        }
+                        nodes.add(node);
+                        if( !addedEdges.includes( id+'-'+nconst) ){
+                            var edge = {
+                                "to": id,
+                                "from": nconst
+                            }
+                            edges.add(edge);
+
+                            addedEdges.push( id+'-'+nconst );
+                            addedEdges.push( nconst+'-'+id );
+                        }
+
+                        // now see if this new node has any connections to exisint nodes
+                        var titles = getAllTitles(id);
+                        for( var title of titles ) {
+                            var crewMembers = getAllCrew(title);
+                            for( var cm of crewMembers ) {
+                                if( nodes.get(cm) && cm != id ){
+                                    var edge = {
+                                        "to": id,
+                                        "from": cm
+                                    }
+                                    if( !addedEdges.includes( id+'-'+cm) ){
+                                        var edge = {
+                                            "to": id,
+                                            "from": cm
+                                        }
+                                        edges.add(edge);
+
+                                        addedEdges.push( id+'-'+cm );
+                                        addedEdges.push( cm+'-'+id );
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+
+            }
+        }
+
+
+    </script>
+</body>
+
+</html>
