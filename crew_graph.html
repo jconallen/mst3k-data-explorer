@@ -140,7 +140,7 @@
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asActor += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asActor += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
                             asActor += `<div id="${tconst}" class="collapse">`;
                             // now list the crew
                             var crewMembers = getAllCrew( tconst );
@@ -149,7 +149,7 @@
                                 if( cm.nconst != nconst ){
                                     var name = cm.name;
                                     var id = cm.nconst;
-                                    asActor += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
+                                    asActor += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span> &nbsp; <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="20"></a><br/>`;
                                 }
                             }
                             asActor += "</div>";
@@ -165,7 +165,7 @@
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asDirector += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asDirector += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
                             asDirector += `<div id="${tconst}" class="collapse">`;
 
                             // now list the crew
@@ -175,7 +175,7 @@
                                 if( cm.nconst != nconst ){
                                     var name = cm.name;
                                     var id = cm.nconst;
-                                    asDirector += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
+                                    asDirector += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span> &nbsp; <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="20"></a><br/>`;
                                 }
                             }
                             asDirector += "</div>";
@@ -191,7 +191,7 @@
                             var episode = episodes[tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asWriter += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a>`;
+                            asWriter += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
                             asWriter += `<div id="${tconst}" class="collapse">`;
 
                             // now list the crew
@@ -201,7 +201,7 @@
                                 if( cm.nconst != nconst ){
                                     var name = cm.name;
                                     var id = cm.nconst;
-                                    asWriter += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span><br/>`;
+                                    asWriter += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span> &nbsp; <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="20"></a><br/>`;
                                 }
                             }
                             asWriter += "</div>";
@@ -211,7 +211,7 @@
 
                     var details = 
                         `<h4>${crewMember.name}</h4>
-                        <p><a href="https://www.imdb.com/name/${nconst}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                        <p><a href="https://www.imdb.com/name/${nconst}" target="_blank"><img src="images/imdb.png" width="24"></a></p>
                         ${asActor}${asDirector}${asWriter}
                         <p style="padding-top: 2em;"><button type="button" class="btn btn-secondary btn-sm" onclick="addConnections('${nconst}')">Expand All Connections</button></p>`;
 

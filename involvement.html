@@ -161,7 +161,8 @@
                     asActor = `<p><b>Actor</b></p><ul>`;
                     for(var i=0; i<crew[id].actor.length; i++ ){
                         var title = crew[id].actor[i].title;
-                        asActor += `<li>${title}</li>`
+                        var tconst = crew[id].actor[i].id;
+                        asActor += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asActor += "</ul>";
                 }
@@ -171,7 +172,8 @@
                     asDirector = `<p><b>Director</b></p><ul>`;
                     for(var i=0; i<crew[id].director.length; i++ ){
                         var title = crew[id].director[i].title;
-                        asDirector += `<li>${title}</li>`
+                        var tconst = crew[id].director[i].id;
+                        asDirector += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asDirector += "</ul>";
                 }
@@ -181,14 +183,14 @@
                     asWriter = `<p><b>Writer</b></p><ul>`;
                     for(var i=0; i<crew[id].writer.length; i++ ){
                         var title = crew[id].writer[i].title;
-                        asWriter += `<li>${title}</li>`
+                        var tconst = crew[id].writer[i].id;
+                        asWriter += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asWriter += "</ul>";
                 }
 
                 var details = 
-                    `<h4>${name}</h4>
-                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    `<h4>${name} <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                     <p>${asActor}${asDirector}${asWriter}</p>
                     <p><button type="button" class="btn btn-secondary btn-sm" onclick="graph('${id}')">Explore in Graph</button></p>`;
 
@@ -259,8 +261,7 @@
                 }
 
                 var details = 
-                    `<h4>${name}</h4>
-                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    `<h4>${name} <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                     <p>${asActor}${asDirector}${asWriter}</p>
                     <p><button type="button" class="btn btn-secondary btn-sm" onclick="graph('${id}')">Explore in Graph</button></p>`;
 
@@ -325,8 +326,7 @@
                 }
 
                 var details = 
-                    `<h4>${name}</h4>
-                    <p><a href="https://www.imdb.com/name/${id}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                    `<h4>${name} <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                     <p>${asActor}${asDirector}${asWriter}</p>
                     <p><button type="button" class="btn btn-secondary btn-sm" onclick="graph('${id}')">Explore in Graph</button></p>`;
 
