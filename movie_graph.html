@@ -256,8 +256,7 @@
                             }
 
                             var detailsElm = 
-                                `<h4>${title} (${label})</h4>
-                                <p><a href="https://www.imdb.com/title/${titleId}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                                `<h4>${title} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                                 Connected to
                                 <ul>${lineItems}</ul>`;
 
@@ -265,8 +264,7 @@
                             $('#details').css("background","antiquewhite");
                         } else {
                             var detailsElm = 
-                                `<h4>${title} (${label})</h4>
-                                <p><a href="https://www.imdb.com/title/${titleId}" target="_blank">imdb</a> &nbsp;<img src="images/extlink.png" width="14"></p>
+                                `<h4>${title} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                                 <p>No connections</p>`;
 
                             $('#details').append(detailsElm);
