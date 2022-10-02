@@ -7,3 +7,5 @@ Just a fun little HTML app to explore data sround MSTK riffed movies
 
 
 [Graph uses the vis-network](https://github.com/visjs/vis-network) JavaScript library.
+
+[The charts rely on Apache ECharts](https://echarts.apache.org)

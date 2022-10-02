@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>MST3K Riffed Movie Connections</title>
+
+    <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
+
+    <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.0/dist/echarts.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <div class="container" style="border-style: solid; border-width: 1px;">
+        <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | top movie connections </p>
+
+        <h1>MST3K Riffed Movie Conncections</h1>
+        <p>
+            This page shows the topmost highly connected movies.  The value for each movie represents the 
+            total number of connections to another movie via a shared actor, writer or director.  It seems 
+            that <b>Beginning of the End (517)</b> is ground zero when it comes to connections.
+        </p>
+
+        <div class="container">
+
+            <div id="main" style="width: 600px;height: 1200px;"></div>
+
+        </div>
+
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+                $.ajax({
+                    url: "data/all_data.json",
+                    dataType: 'json',
+                    success: process,
+                    crossDomain: true
+                });
+            });
+
+            var episodes;
+            var crew;
+
+            var xAxisData = [];
+            var yAxisData = [];
+
+            function getAllTitles(nconst) {
+                var allTitles = [];
+                var crewMember = crew[nconst];
+                for (var tconst of crewMember.actor) {
+                    if (!allTitles.includes(tconst)) {
+                        allTitles.push(tconst);
+                    }
+                }
+                for (var tconst of crewMember.director) {
+                    if (!allTitles.includes(tconst)) {
+                        allTitles.push(tconst);
+                    }
+                }
+                for (var tconst of crewMember.writer) {
+                    if (!allTitles.includes(tconst)) {
+                        allTitles.push(tconst);
+                    }
+                }
+                return allTitles;
+            }
+
+            function getAllCrew(tconst) {
+                var allCrew = [];
+                var episode = episodes[tconst];
+                for (var nconst of episode.actors) {
+                    if (!allCrew.includes(nconst)) {
+                        allCrew.push(nconst);
+                    }
+                }
+                for (var nconst of episode.directors) {
+                    if (!allCrew.includes(nconst)) {
+                        allCrew.push(nconst);
+                    }
+                }
+                for (var nconst of episode.writers) {
+                    if (!allCrew.includes(nconst)) {
+                        allCrew.push(nconst);
+                    }
+                }
+                return allCrew;
+            }
+
+            function process(data) {
+                episodes = data.episodes;
+                crew = data.crew;
+
+                connectedEpisodes = [];
+                
+                var tconst = "tt0145529";
+                for( tconst in episodes ){
+                    var allConnectionTitles = [];
+                    var episode = episodes[tconst];
+                    var allCrew = getAllCrew(tconst);
+                    for( var nconst of allCrew ) {
+                        var connectedTitles = getAllTitles(nconst);
+                        for( var t of connectedTitles ){
+                            if( !allConnectionTitles.includes(t) ) allConnectionTitles.push(t);
+                        }
+                    }
+                    connectedEpisodes.push( 
+                        { "tconst":tconst, "connections": allConnectionTitles.length }
+                    );
+                }
+
+                connectedEpisodes.sort((a, b) => {
+                    return b.connections - a.connections;
+                });
+                
+                for( var i=0; i<15; i++) {
+                    var connectedEpisode = connectedEpisodes[i];
+                    xAxisData.push( connectedEpisode.connections );
+                    var episode = episodes[connectedEpisode.tconst];
+                    var name = episode.title;
+                    if( name.length > 20 ) {
+                        name = name.substring(0,20) + "...";
+                    }
+                    name += " ("+episode.episode+")";
+                    yAxisData.push( name );
+                }
+
+                xAxisData = xAxisData.reverse();
+                yAxisData = yAxisData.reverse();
+
+                buildBarChart();
+            }
+
+            function buildBarChart(){
+                var chartDom = document.getElementById('main');
+                var myChart = echarts.init(chartDom);
+                var option;
+
+                option = {
+                    title: {
+                        text: 'Number of connections to between movies'
+                    },
+                    tooltip: {
+                        trigger: 'axis',
+                        axisPointer: {
+                            type: 'shadow'
+                        }
+                    },
+                    legend: {},
+                    grid: {
+                        left: '3%',
+                        right: '4%',
+                        bottom: '3%',
+                        containLabel: true
+                    },
+                    xAxis: {
+                        type: 'value',
+                        boundaryGap: [0, 0.01]
+                    },
+                    yAxis: {
+                        type: 'category',
+                        data: yAxisData
+                    },
+                    series: [
+                        {
+                            type: 'bar',
+                            data: xAxisData
+                        }
+                    ]
+                };
+
+                myChart.setOption(option);
+            }
+
+
+
+        </script>
+
+</body>
+
+</html>
