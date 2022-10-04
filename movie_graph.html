@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
     <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
 
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 
     <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js" type="text/javascript"></script>
 
@@ -22,23 +23,69 @@
 <body>
 
     <div class="container">
-        <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | movie graph | <a href="movie_connections.html">top movie connections</a> </p>
+        <div class="row">
+            <p><a href="index.html">home</a> | <a href="involvement.html">involvement</a> | movie graph | <a
+                    href="movie_connections.html">top movie connections</a> </p>
+        </div>
 
-        <h1>MST3K Riffed Movie Graph</h1>
-        <p>
-            This is a graph of riffed movies.  Each yello block represents a movie.  If an actor, director 
-            or writer in that movie worked on another riffed movie then a black line is drawn connecting 
-            the two movies. The big wad in the middle shows the significant interconnectiveness of those
-            making bad movies.  The small separated graph is the set of imported Japanese movies, where it
-            is reasonable to not see much of a cross over.  The small clump just outside the main one is
-            the set of Italian movies (Hercules, Diabolik, Devil Fish, ... ).  Finally the 
-            outer rim of disconnected movies are those movies whose cast and crew were fortunately enough 
-            to just have that one mistake.
-        </p>
-        <p>
-            This graph is big so it will take some time to build out.  Be patient, especially if you have
-            a small computer.
-        </p>
+        <div class="row">
+            <h1>MST3K Riffed Movie Graph</h1>
+            <p>
+                This is a graph of riffed movies. Each yello block represents a movie. If an actor, director
+                or writer in that movie worked on another riffed movie then a black line is drawn connecting
+                the two movies. The big wad in the middle shows the significant interconnectiveness of those
+                making bad movies. The small separated graph is the set of imported Japanese movies, where it
+                is reasonable to not see much of a cross over. The small clump just outside the main one is
+                the set of Italian movies (Hercules, Diabolik, Devil Fish, ... ). Finally the
+                outer rim of disconnected movies are those movies whose cast and crew were fortunately enough
+                to just have that one mistake.
+            </p>
+            <p>
+                This graph is big so it will take some time to build out. Be patient, especially if you have
+                a small computer.
+            </p>
+        </div>
+
+        <div class="row" style="padding: 1em;">
+            <span>Filter (inclusive) <img src="images/chevron-down.png"/></span>
+            <div id="filter" style="padding: 1em; border: solid black 1px;">
+                <div class="row">
+                    <span> Host: 
+                        <input class="form-check-input" type="checkbox" id="joel"> Joel  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="mike"> Mike
+                    </span>
+                </div>
+                <div class="row" style="padding-top:5px;">
+                    <span> Season: 
+                        <input class="form-check-input" type="checkbox" id="ktma"> KTMA &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s01"> 1 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s02"> 2 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s03"> 3 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s04"> 4 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s05"> 5 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s06"> 6 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s07"> 7 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s08"> 8 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s09"> 9 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="s10"> 10 &nbsp;
+                        <input class="form-check-input" type="checkbox" id="movie"> Movie 
+                    </span>
+                </div>
+                <div class="row" style="padding-top:5px;">
+                    <span> Movie release: 
+                        <input class="form-check-input" type="checkbox" id="40s"> 1940s  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="50s"> 1950s  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="60s"> 1960s  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="70s"> 1970s  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="80s"> 1980s  &nbsp;
+                        <input class="form-check-input" type="checkbox" id="90s"> 1990s  
+                    </span>
+                </div>
+                <div class="row" style="padding-top:5px;">
+                    <button type="button" class="btn btn-success btn-sm" style="width: 10em;" onclick="generateGraph()">Generate graph</button>
+                </div>
+            </div>
+        </div>
 
         <div class="row">
             <div id="progress" class="container">
@@ -76,130 +123,200 @@
 
         var currentHighlight = null;
 
-        function filterEpisodes(data){
-            _episodes = {};
-            for( var episodeId in data ) {
-                var episode = data[episodeId];
-                if( typeof _episodes[episode.tconst] != 'undefined ') {
+        function useEpisode( tconst ) {
+            var filtered = [];
+            var episode = _episodes[tconst];
+            var joel = $('#joel').is(":checked");
+            var mike = $('#mike').is(":checked");
+            if( joel && episode.host=='Joel' ){
+                return true;
+            }
+            if( mike && episode.host=='Mike' ){
+                return true;
+            }
+            if( $('#ktma').is(":checked") && episode.season=="0" ) return true;
+            if( $('#s01').is(":checked") && episode.season=="1" ) return true;
+            if( $('#s02').is(":checked") && episode.season=="2" ) return true;
+            if( $('#s03').is(":checked") && episode.season=="3" ) return true;
+            if( $('#s04').is(":checked") && episode.season=="4" ) return true;
+            if( $('#s05').is(":checked") && episode.season=="5" ) return true;
+            if( $('#s06').is(":checked") && episode.season=="6" ) return true;
+            if( $('#s07').is(":checked") && episode.season=="7" ) return true;
+            if( $('#s08').is(":checked") && episode.season=="8" ) return true;
+            if( $('#s09').is(":checked") && episode.season=="9" ) return true;
+            if( $('#s10').is(":checked") && episode.season=="10" ) return true;
+            if( $('#movie').is(":checked") && episode.season=="M" ) return true;
+
+            if( $('#40s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1940 && year < 1950 ) return true;
+            }
+            if( $('#50s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1950 && year < 1960 ) return true;
+            }
+            if( $('#60s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1960 && year < 1970 ) return true;
+            }
+            if( $('#70s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1970 && year < 1980 ) return true;
+            }
+            if( $('#80s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1980 && year < 1990 ) return true;
+            }
+            if( $('#90s').is(":checked") ) {
+                var year = parseInt(episode.year);
+                if( year >= 1990 && year < 2000 ) return true;
+            }
+
+            return false;
+        }
+
+
+        function generateGraph(){
+
+            var tedges = [];
+            var tnodes = [];
+
+            var dups = [];
+
+            for( var tconst in _episodes ) {
+                if( useEpisode(tconst) ) {
+                    var episode = _episodes[tconst];
                     var node = {
-                        "id": episode.tconst,
+                        "id": tconst,
                         "label": episode.episode,
                         "title": episode.title,
                         "shape": "box",
                         "color": "gold",
                         "host": episode.host
                     }
-                    _episodes[episode.tconst] = node;
-                } else {
-                    _episodes[episode.tconst].label += ","+episode.episode;
-                    if( _episodes[episode.tconst].host != episode.host ) {
-                        _episodes[episode.tconst].host += ","+episode.host;
-                    }
-                }
-            }
-            
-            $.ajax({
-		       url: "data/crew_data.json",
-		       dataType: 'json',
-		       success: filterCrew,
-		       crossDomain:true
-		    });
-        }
+                    tnodes.push( node );
 
-
-        function filterCrew(data){
-            _crew = {};
-            for( var crewId in data ) {
-                _crew[crewId] = data[crewId];
-                for( var i in data[crewId].titles ) {
-                    var titleId = data[crewId].titles[i];
-                    if( typeof _episodes[titleId].count == 'undefined' ){
-                        _episodes[titleId].count = 1;
-                    } else {
-                        _episodes[titleId].count++;
-                    }
-                }
-            }
-            dataAdded();
-        }
-
-        $( document ).ready(function() {
-
-            $.ajax({
-		       url: "data/mst3k_episodes.json",
-		       dataType: 'json',
-		       success: filterEpisodes,
-		       crossDomain:true
-		    });
-            
-        });
-
-        function dataAdded(){
-            if( _episodes != null && _crew != null ){
-
-                var tedges = [];
-                var tnodes = [];
-                for( var episodeId in _episodes ) {
-                    var episode = _episodes[episodeId];
-                    // filter
-                    if( typeof episode.count != 'undefined' ) {
-                        _episodes[episodeId].connections=[];
-                        tnodes.push( _episodes[episodeId] );
-                    }
-                }
-
-                var dups = [];
-                for( var crewId in _crew ) {
-                    var crewMember = _crew[crewId];
-                    if( crewMember.titles.length > 1 ) {
-
-                        for( var i=0; i<crewMember.titles.length; i++ ) {
-                            for( var j=i+1; j<crewMember.titles.length; j++ ) {
-                                var key1 = crewMember.titles[i]  + "-" + crewMember.titles[j];
-                                var key2 = crewMember.titles[j]  + "-" + crewMember.titles[i];
-                                if( !dups.includes(key1) && !dups.includes(key2) ){
-                                    var edge = {
-                                        "from": crewMember.titles[i],
-                                        "to": crewMember.titles[j],
-                                        "color": "black"
-                                    }
-                                    tedges.push(edge);
-                                    dups.push(key1);
-                                    dups.push(key2);
-
-                                    var connection = {
-                                        "title": _episodes[crewMember.titles[i]].title,
-                                        "through": crewMember.name
-                                    }
-                                    var episode = _episodes[crewMember.titles[j]];
-                                    episode.connections.push(connection);
-
-                                    connection = {
-                                        "title": _episodes[crewMember.titles[j]].title,
-                                        "through": crewMember.name
-                                    }
-                                    episode = _episodes[crewMember.titles[i]];
-                                    episode.connections.push(connection);
-
+                    var connections = _episodes[tconst].connections;
+                    if( typeof connections != 'undefined' ){
+                        for( var connection of connections ) {
+                            var k1 = tconst+'-'+connection.tconst;
+                            var k2 = connection.tconst+'-'+tconst;
+                            if( !dups.includes(k1) && !dups.includes(k2) ) {
+                                var edge = {
+                                    "from": tconst,
+                                    "to": connection.tconst,
+                                    "color": "black"
                                 }
+                                tedges.push(edge);
+                                dups.push(k1);
+                                dups.push(k2);
                             }
                         }
                     }
-                } 
-                nodes = new vis.DataSet(tnodes);
-                edges = new vis.DataSet(tedges);
+                }
+            }
 
-                // arcs
+            // now that all episodes are 
 
-                var data = {
-                    "nodes": nodes,
-                    "edges": edges,
-                };
-                buildGraph(data)
+            nodes = new vis.DataSet(tnodes);
+            edges = new vis.DataSet(tedges);
+
+            var data = {
+                "nodes": nodes,
+                "edges": edges,
+            };
+            buildGraph(data)
+        }
+
+        function getRelatedTitles(nconst) {
+            var allTitles = [];
+            var crewMember = _crew[nconst];
+            for (var tconst of crewMember.actor) {
+                if (!allTitles.includes(tconst) ) {
+                    allTitles.push(tconst);
+                }
+            }
+            for (var tconst of crewMember.director) {
+                if (!allTitles.includes(tconst)) {
+                    allTitles.push(tconst);
+                }
+            }
+            for (var tconst of crewMember.writer) {
+                if (!allTitles.includes(tconst) ) {
+                    allTitles.push(tconst);
+                }
+            }
+            return allTitles;
+        }
+
+        function getRelatedCrew(tconst) {
+            var allCrew = [];
+            var episode = _episodes[tconst];
+            for (var nconst of episode.actors) {
+                if (!allCrew.includes(nconst)) {
+                    allCrew.push(nconst);
+                }
+            }
+            for (var nconst of episode.directors) {
+                if (!allCrew.includes(nconst)) {
+                    allCrew.push(nconst);
+                }
+            }
+            for (var nconst of episode.writers) {
+                if (!allCrew.includes(nconst)) {
+                    allCrew.push(nconst);
+                }
+            }
+            return allCrew;
+        }
+
+        function getConnections( tconst ) {
+            var connections = [];
+            var rcrew = getRelatedCrew(tconst);
+            for( var nconst of rcrew ) {
+                var rtitles = getRelatedTitles(nconst);
+                for( var rtitle of rtitles ) {
+                    if( tconst != rtitle ){
+                        var connection = {
+                            "tconst": rtitle,
+                            "title": _episodes[rtitle].title,
+                            "through": _crew[nconst].name
+                        }
+                        connections.push(connection);
+                    }
+                }
+            }
+            return connections;
+        }
+
+        $(document).ready(function () {
+
+            $.ajax({
+                url: "data/all_data.json",
+                dataType: 'json',
+                success: processData,
+                crossDomain: true
+            });
+
+        });
+
+        function processData(data){
+            _episodes = data.episodes;
+            _crew = data.crew;
+
+            // now lets create compute the connections
+            var dups = [];
+            for( var tconst in _episodes ) {
+                var connections = getConnections( tconst );
+                for( var connection of connections ){
+                    if( typeof _episodes[tconst].connections == 'undefined' ) _episodes[tconst].connections = [];
+                    _episodes[tconst].connections.push( connection );
+                }
+                //console.log( JSON.stringify(_episodes[tconst],null,4) );
             }
         }
 
-        function buildGraph(data){
+        function buildGraph(data) {
             var container = document.getElementById("mst3kgraph");
             var options = {
                 interaction: { hover: true },
@@ -208,8 +325,12 @@
 
             var network = new vis.Network(container, data, options);
 
+            $('#progress').removeClass('d-none');
+            $('#details').empty();
+            $('#details').css("background", "");
+
             network.on("stabilizationProgress", function (params) {
-                var widthFactor = parseInt( params.iterations / params.total * 100 );
+                var widthFactor = parseInt(params.iterations / params.total * 100);
 
                 $("#progressBar")
                     .css("width", widthFactor + "%")
@@ -229,47 +350,64 @@
             });
 
             network.on("click", function (params) {
-                
-                if( params.nodes.length > 0 ){
-                    $('#details').empty();
-                    $('#details').css("background","");
 
-                    if( currentHighlight == params.nodes[0] ){
+                if (params.nodes.length > 0) {
+                    $('#details').empty();
+                    $('#details').css("background", "");
+
+                    if (currentHighlight == params.nodes[0]) {
                         // toggle off
                         currentHighlight = null;
                     } else {
                         $('#details').empty();
-                        $('#details').css("background","");
+                        $('#details').css("background", "");
 
                         var titleId = params.nodes[0];
                         var episode = _episodes[titleId];
                         var title = episode.title;
-                        var label = episode.label;
+                        var label = episode.episode;
+                        var year = episode.year;
 
-                        if( episode.connections.length > 0 ) {
+                        if (Array.isArray(episode.connections) && episode.connections.length > 0) {
+
+                            var connectionSet = {};
+
+                            for (var i = 0; i < episode.connections.length; i++) {
+                                var connection = episode.connections[i];
+                                if( useEpisode(connection.tconst) ) {
+                                    if( typeof connectionSet[connection.tconst] == 'undefined'  ){
+                                    connectionSet[connection.tconst] = 
+                                        {
+                                            "title": connection.title,
+                                            "through": connection.through
+                                        };
+                                    } else {
+                                        connectionSet[connection.tconst].through += ", "+connection.through;
+                                    }
+                                }
+                            }
 
                             var lineItems = ""; //JSON.stringify(episode);
-
-                            for( var i=0; i<episode.connections.length; i++){
-                                var connection = episode.connections[i];
+                            for( var tconst in connectionSet ){
+                                var connection = connectionSet[tconst];
                                 lineItems += `<li><b>${connection.title}</b> <i>via ${connection.through}</i></li>`;
                             }
 
-                            var detailsElm = 
-                                `<h4>${title} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
+                            var detailsElm =
+                                `<h4>${title}, ${year} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                                 Connected to
                                 <ul>${lineItems}</ul>`;
 
                             $('#details').append(detailsElm);
-                            $('#details').css("background","antiquewhite");
+                            $('#details').css("background", "antiquewhite");
                         } else {
-                            var detailsElm = 
-                                `<h4>${title} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
+                            var detailsElm =
+                                `<h4>${title}, ${year}  (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
                                 <p>No connections</p>`;
 
                             $('#details').append(detailsElm);
-                            $('#details').css("background","antiquewhite");
-                            
+                            $('#details').css("background", "antiquewhite");
+
                         }
                         currentHighlight = titleId;
                     }
