@@ -290,11 +290,17 @@
             for( var nconst of rcrew ) {
                 var rtitles = getRelatedTitles(nconst);
                 for( var rtitle of rtitles ) {
-                    if( tconst != rtitle ){
+                    if( tconst != rtitle.tconst ){
+                        var role = "";
+                        if( typeof rtitle.role == 'undefined' ) {
+                            // check if writer or director
+                            console.log("undefined")
+                        }
                         var connection = {
-                            "tconst": rtitle,
-                            "title": _episodes[rtitle].title,
-                            "through": _crew[nconst].name
+                            "tconst": rtitle.tconst,
+                            "title": _episodes[rtitle.tconst].title,
+                            "through": _crew[nconst].name,
+                            "role": rtitle.role
                         }
                         connections.push(connection);
                     }
@@ -389,14 +395,18 @@
                             for (var i = 0; i < episode.connections.length; i++) {
                                 var connection = episode.connections[i];
                                 if( useEpisode(connection.tconst) ) {
+                                    var role = "";
+                                    if( typeof connection.role != 'undefined' ) {
+                                        role = " [" + connection.role + "]";
+                                    }
                                     if( typeof connectionSet[connection.tconst] == 'undefined'  ){
                                     connectionSet[connection.tconst] = 
                                         {
                                             "title": connection.title,
-                                            "through": connection.through
+                                            "through": connection.through + role
                                         };
                                     } else {
-                                        connectionSet[connection.tconst].through += ", "+connection.through;
+                                        connectionSet[connection.tconst].through += ", "+connection.through + role;
                                     }
                                 }
                             }
