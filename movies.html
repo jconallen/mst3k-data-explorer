@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MST3K Riffed Movies Listing</title>
+
+    <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
+
+    <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+
+
+
+    <div class="container" style="border-style: solid; border-width: 1px;">
+        <p><a href="index.html">home</a> | listing | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
+
+        <h1>MST3K Riffed Movies Listing</h1>
+        <p>Listing of all riffed movies</p>
+
+        <div id="listing" class="container">
+
+
+              
+        </div>
+
+
+
+    </div>
+
+    <script type="text/javascript">
+
+        $( document ).ready(function() {
+            $.ajax({
+		       url: "data/all_data.json",
+		       dataType: 'json',
+		       success: getData,
+		       crossDomain:true
+		    });
+        });
+
+        var episodes = {};
+        var episodesBySeason = {};
+
+        function getData(data){
+
+            episodes = data.episodes;
+
+            for( var tconst in episodes ) {
+                var episode = episodes[tconst];
+                var eps = episode.episode.split(",");
+                for( var epCode of eps ) {
+
+                    if( epCode.startsWith("K") ) {
+                        if( typeof episodesBySeason["KTMA"] == "undefined" ) {
+                            episodesBySeason["KTMA"] = []
+                        }
+                        var clone = JSON.parse(JSON.stringify(episode));
+                        clone.episode = epCode;
+                        episodesBySeason["KTMA"].push( clone );
+                    } else if( epCode.startsWith("M") ) {
+                        if( typeof episodesBySeason["Movie"] == "undefined" ) {
+                            episodesBySeason["Movie"] = []
+                        }
+                        var clone = JSON.parse(JSON.stringify(episode));
+                        clone.episode = epCode;
+                        episodesBySeason["Movie"].push( clone );
+                    } else {
+
+                        var i = parseInt( epCode );
+                        if( Number.isInteger(i) ) {
+                            var season = Math.floor( i / 100 );
+                            var seasonStr = ""+season;
+                            if( i == 304 ) {
+                                console.log( "K");
+                            }
+                            if( typeof episodesBySeason[seasonStr] == "undefined" ) {
+                                episodesBySeason[seasonStr] = []
+                            }
+                            var clone = JSON.parse(JSON.stringify(episode));
+                            clone.episode = epCode;
+                            episodesBySeason[seasonStr].push( clone );
+                        }
+                    }
+                }
+            }
+
+            // now sort by episode number 
+            for( var s in episodesBySeason ) {
+                var season = episodesBySeason[s];
+                season.sort((a, b) => {
+                    let fa = a.episode.toLowerCase(),
+                    fb = b.episode.toLowerCase();
+
+                    if (fa < fb) {
+                        return -1;
+                    }
+                    if (fa > fb) {
+                        return 1;
+                    }
+                    return 0;
+                });
+                // console.log( "============================");
+                // console.log( JSON.stringify(season,null,4) );
+            }
+
+            appendSeason( episodesBySeason["KTMA"] );
+            appendSeason( episodesBySeason["1"] );
+            appendSeason( episodesBySeason["2"] );
+            appendSeason( episodesBySeason["3"] );
+            appendSeason( episodesBySeason["4"] );
+            appendSeason( episodesBySeason["5"] );
+            appendSeason( episodesBySeason["6"] );
+            appendSeason( episodesBySeason["7"] );
+            appendSeason( episodesBySeason["Movie"] );
+            appendSeason( episodesBySeason["8"] );
+            appendSeason( episodesBySeason["9"] );
+            appendSeason( episodesBySeason["10"] );
+
+        }
+
+        function appendSeason( season ) {
+            var html = `<div class="row">
+                    <div class="col-sm-10">==============</div>
+                </div>`;
+            $('#listing').append(html);
+
+            for( var e of season ) {
+                var episode = e.episode;
+                var title = e.title;
+                var tconst = e.tconst;
+                var html = `<div class="row">
+                    <div class="col-sm-1"><a href="movie2_graph.html?tconst=${tconst}">${episode}</a></div>
+                    <div class="col-sm-10">${title}</div>
+                </div>`;
+                $('#listing').append(html);
+            }
+
+
+        }
+
+
+    </script>
+</body>
+
+</html>

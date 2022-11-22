@@ -1,2 +1,3 @@
-data/.DS_Store
 z_*
+.DS_Store/**
+.DS_Store
