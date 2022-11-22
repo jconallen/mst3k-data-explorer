@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>MST3K Cast and Crew Connections</title>
+    <title>MST3K Riffed Movie Cast and Crew Connections</title>
 
     <link rel="stylesheet" href="https://cdn.usebootstrap.com/bootstrap/latest/css/bootstrap.min.css">
     <script src="https://cdn.usebootstrap.com/bootstrap/latest/js/bootstrap.min.js"></script>
@@ -136,14 +136,15 @@
                     if( crew[nconst].actor.length > 0 ){
                         asActor = `<b>As Actor</b>`;
                         for(var i=0; i<crew[nconst].actor.length; i++ ){
-                            var tconst = crew[nconst].actor[i];
-                            var episode = episodes[tconst];
+                            var t = crew[nconst].actor[i];
+                            var episode = episodes[t.tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asActor += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
-                            asActor += `<div id="${tconst}" class="collapse">`;
+                            // comment
+                            asActor += `<br/>- <a data-bs-toggle="collapse" href="#${t.tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${t.tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
+                            asActor += `<div id="${t.tconst}" class="collapse">`;
                             // now list the crew
-                            var crewMembers = getAllCrew( tconst );
+                            var crewMembers = getAllCrew( t.tconst );
                             for( var j in crewMembers ) {
                                 var cm = crew[crewMembers[j]];
                                 if( cm.nconst != nconst ){
@@ -161,15 +162,15 @@
                     if( crew[nconst].director.length > 0 ){
                         asDirector = `<br/><br/><b>As Director</b>`;
                         for(var i=0; i<crew[nconst].director.length; i++ ){
-                            var tconst = crew[nconst].director[i];
-                            var episode = episodes[tconst];
+                            var t = crew[nconst].director[i];
+                            var episode = episodes[t.tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asDirector += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
-                            asDirector += `<div id="${tconst}" class="collapse">`;
+                            asDirector += `<br/>- <a data-bs-toggle="collapse" href="#${t.tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${t.tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
+                            asDirector += `<div id="${t.tconst}" class="collapse">`;
 
                             // now list the crew
-                            var crewMembers = getAllCrew( tconst );
+                            var crewMembers = getAllCrew( t.tconst );
                             for( var j in crewMembers ) {
                                 var cm = crew[crewMembers[j]];
                                 if( cm.nconst != nconst ){
@@ -187,15 +188,15 @@
                     if( crew[nconst].writer.length > 0 ){
                         asWriter = `<br/><br/><b>As Writer</b>`;
                         for(var i=0; i<crew[nconst].writer.length; i++ ){
-                            var tconst = crew[nconst].writer[i];
-                            var episode = episodes[tconst];
+                            var t = crew[nconst].writer[i];
+                            var episode = episodes[t.tconst];
                             var title = episode.title;
                             var ep = episode.episode;
-                            asWriter += `<br/>- <a data-bs-toggle="collapse" href="#${tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
-                            asWriter += `<div id="${tconst}" class="collapse">`;
+                            asWriter += `<br/>- <a data-bs-toggle="collapse" href="#${t.tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${t.tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
+                            asWriter += `<div id="${t.tconst}" class="collapse">`;
 
                             // now list the crew
-                            var crewMembers = getAllCrew( tconst );
+                            var crewMembers = getAllCrew( t.tconst );
                             for( var j in crewMembers ) {
                                 var cm = crew[crewMembers[j]];
                                 if( cm.nconst != nconst ){
@@ -286,8 +287,8 @@
                 nodes.add(node);
 
                 var titles = getAllTitles(id);
-                for( var tconst of titles ) {
-                    var crewMembers = getAllCrew(tconst);
+                for( var t of titles ) {
+                    var crewMembers = getAllCrew(t.tconst);
                     for( var cm of crewMembers ) {
                         if( nodes.get(cm) && cm != id ){
                             var edge = {
