@@ -130,26 +130,30 @@
                 } else {
                     var nconst = params.nodes[0];
                     var crewMember = crew[nconst];
-
                     var name = crew[nconst].name;
+
+                    
                     var asActor = "";
                     if( crew[nconst].actor.length > 0 ){
                         asActor = `<b>As Actor</b>`;
                         for(var i=0; i<crew[nconst].actor.length; i++ ){
                             var t = crew[nconst].actor[i];
                             var episode = episodes[t.tconst];
-                            var title = episode.title;
+                            var title = episode.mst3kTitle;
                             var ep = episode.episode;
                             // comment
                             asActor += `<br/>- <a data-bs-toggle="collapse" href="#${t.tconst}" aria-expanded="false" aria-controls="collapseExample">${title} (${ep})</a> &nbsp; <a href="https://www.imdb.com/title/${t.tconst}" target="_blank"><img src="images/imdb.png" width="20"></a>`;
                             asActor += `<div id="${t.tconst}" class="collapse">`;
                             // now list the crew
                             var crewMembers = getAllCrew( t.tconst );
+                            if( ! Array.isArray(crewMembers) ) {
+                                console.log(cm.nconst );
+                            }
                             for( var j in crewMembers ) {
-                                var cm = crew[crewMembers[j]];
+                                var cm = crewMembers[j];
                                 if( cm.nconst != nconst ){
-                                    var name = cm.name;
                                     var id = cm.nconst;
+                                    var name = crew[cm.nconst].name;
                                     asActor += `&nbsp;&nbsp; <span onclick="addCrewMember('${id}','${nconst}')"><img src="images/add.png" width="16"> ${name}</span> &nbsp; <a href="https://www.imdb.com/name/${id}" target="_blank"><img src="images/imdb.png" width="20"></a><br/>`;
                                 }
                             }
@@ -254,12 +258,12 @@
             }
             for( var nconst of episode.directors ) {
                 if( !allCrew.includes(nconst) ){
-                    allCrew.push( nconst );
+                    allCrew.push( { "nconst": nconst } );
                 }
             }
             for( var nconst of episode.writers ) {
                 if( !allCrew.includes(nconst) ){
-                    allCrew.push( nconst );
+                    allCrew.push( { "nconst": nconst } );
                 }
             }
             return allCrew;
@@ -290,20 +294,21 @@
                 for( var t of titles ) {
                     var crewMembers = getAllCrew(t.tconst);
                     for( var cm of crewMembers ) {
-                        if( nodes.get(cm) && cm != id ){
+                        if( nodes.get(cm.nconst) && cm.nconst != id ){
                             var edge = {
                                 "to": id,
                                 "from": cm
                             }
-                            if( !addedEdges.includes( id+'-'+cm) ){
+                            if( !addedEdges.includes( id+'-'+cm.nconst) ){
                                 var edge = {
                                     "to": id,
-                                    "from": cm
+                                    "from": cm.nconst,
+                                    "color": "darkgreen"
                                 }
                                 edges.add(edge);
 
-                                addedEdges.push( id+'-'+cm );
-                                addedEdges.push( cm+'-'+id );
+                                addedEdges.push( id+'-'+cm.nconst );
+                                addedEdges.push( cm.nconst+'-'+id );
                             }
                         }
                     }
