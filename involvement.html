@@ -18,7 +18,7 @@
 
 
     <div class="container" style="border-style: solid; border-width: 1px;">
-        <p><a href="index.html">home</a> | <a href="movies.html">listing</a> | involvement | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
+        <p><a href="index.html">home</a> | <a href="listing.html">listing</a> | involvement | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
 
         <h1>MST3K Riffed Movie Involvements</h1>
         <p>This page shows those individuals who have been involved with at least two classic MST3K riffed movies.</p>
@@ -79,8 +79,9 @@
 
     <script type="text/javascript">
 
-        // cache of all crew information
+        var episodes = {};
         var crew = {};
+
         var crewActorElms = {};
         var maxActorCount = 0;
         var crewDirectorElms = {};
@@ -90,7 +91,7 @@
 
         $(document).ready(function () {
             $.ajax({
-                url: "data/crew_data.json",
+                url: "data/all_data.json",
                 dataType: 'json',
                 success: processData,
                 crossDomain: true
@@ -98,10 +99,11 @@
         });
 
         function processData(data){
-            // /collect crew data
-            crew = {};
-            for (var crewId in data) {
-                var crewMember = data[crewId];
+            crew = data.crew;
+            episodes = data.episodes;
+
+            for (var crewId in data.crew) {
+                var crewMember = data.crew[crewId];
                 if (crewMember.actor.length > 0) {
                     if( typeof crewActorElms["a"+crewMember.actor.length] == 'undefined' ){
                         crewActorElms["a"+crewMember.actor.length] = {
@@ -160,8 +162,8 @@
                 if( crew[id].actor.length > 0 ){
                     asActor = `<p><b>Actor</b></p><ul>`;
                     for(var i=0; i<crew[id].actor.length; i++ ){
-                        var title = crew[id].actor[i].title;
-                        var tconst = crew[id].actor[i].id;
+                        var tconst = crew[id].actor[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asActor += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asActor += "</ul>";
@@ -171,8 +173,8 @@
                 if( crew[id].director.length > 0 ){
                     asDirector = `<p><b>Director</b></p><ul>`;
                     for(var i=0; i<crew[id].director.length; i++ ){
-                        var title = crew[id].director[i].title;
-                        var tconst = crew[id].director[i].id;
+                        var tconst = crew[id].actor[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asDirector += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asDirector += "</ul>";
@@ -182,8 +184,8 @@
                 if( crew[id].writer.length > 0 ){
                     asWriter = `<p><b>Writer</b></p><ul>`;
                     for(var i=0; i<crew[id].writer.length; i++ ){
-                        var title = crew[id].writer[i].title;
-                        var tconst = crew[id].writer[i].id;
+                        var tconst = crew[id].actor[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asWriter += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a> </li>`
                     }
                     asWriter += "</ul>";
@@ -234,8 +236,8 @@
                 if( crew[id].actor.length > 0 ){
                     asActor = `<p><b>Actor</b></p><ul>`;
                     for(var i=0; i<crew[id].actor.length; i++ ){
-                        var title = crew[id].actor[i].title;
-                        var tconst = crew[id].actor[i].id;
+                        var tconst = crew[id].actor[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asActor += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
                     }
                     asActor += "</ul>";
@@ -245,8 +247,8 @@
                 if( crew[id].director.length > 0 ){
                     asDirector = `<p><b>Director</b></p><ul>`;
                     for(var i=0; i<crew[id].director.length; i++ ){
-                        var title = crew[id].director[i].title;
-                        var tconst = crew[id].director[i].id;
+                        var tconst = crew[id].director[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asDirector += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
                     }
                     asDirector += "</ul>";
@@ -256,8 +258,8 @@
                 if( crew[id].writer.length > 0 ){
                     asWriter = `<p><b>Writer</b></p><ul>`;
                     for(var i=0; i<crew[id].writer.length; i++ ){
-                        var title = crew[id].writer[i].title;
-                        var tconst = crew[id].writer[i].id;
+                        var tconst = crew[id].writer[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asWriter += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
                     }
                     asWriter += "</ul>";
@@ -302,8 +304,8 @@
                 if( crew[id].actor.length > 0 ){
                     asActor = `<p><b>Actor</b></p><ul>`;
                     for(var i=0; i<crew[id].actor.length; i++ ){
-                        var title = crew[id].actor[i].title;
-                        var tconst = crew[id].actor[i].id;
+                        var tconst = crew[id].actor[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asActor += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
                     }
                     asActor += "</ul>";
@@ -313,8 +315,8 @@
                 if( crew[id].director.length > 0 ){
                     asDirector = `<p><b>Director</b></p><ul>`;
                     for(var i=0; i<crew[id].director.length; i++ ){
-                        var title = crew[id].director[i].title;
-                        var tconst = crew[id].director[i].id;
+                        var tconst = crew[id].director[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asDirector += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
                     }
                     asDirector += "</ul>";
@@ -324,8 +326,8 @@
                 if( crew[id].writer.length > 0 ){
                     asWriter = `<p><b>Writer</b></p><ul>`;
                     for(var i=0; i<crew[id].writer.length; i++ ){
-                        var title = crew[id].writer[i].title;
-                        var tconst = crew[id].writer[i].id;
+                        var tconst = crew[id].writer[i].tconst;
+                        var title = episodes[tconst].mst3kTitle;
                         asWriter += `<li>${title} &nbsp; <a href="https://www.imdb.com/title/${tconst}" target="_blank"><img src="images/imdb.png" width="20"></a></li>`
 
                     }

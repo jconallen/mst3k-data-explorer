@@ -15,21 +15,16 @@
 
 <body>
 
-
-
     <div class="container" style="border-style: solid; border-width: 1px;">
         <p><a href="index.html">home</a> | listing | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
 
         <h1>MST3K Riffed Movies Listing</h1>
         <p>Listing of all riffed movies</p>
+        <p>TODO add information to each entry, use twisty</p>
 
         <div id="listing" class="container">
-
-
-              
+ 
         </div>
-
-
 
     </div>
 
@@ -122,6 +117,16 @@
             appendSeason( episodesBySeason["9"] );
             appendSeason( episodesBySeason["10"] );
 
+            var queryParams = new URLSearchParams(window.location.search);
+            var tconst = queryParams.get("tconst"); 
+            if( typeof tconst != 'undefined' && tconst != null ) {
+                $([document.documentElement, document.body]).animate({
+                    scrollTop: $("#"+tconst).offset().top
+                }, 1000);
+
+            }
+
+
         }
 
         function appendSeason( season ) {
@@ -132,16 +137,19 @@
 
             for( var e of season ) {
                 var episode = e.episode;
-                var title = e.title;
+                var imdbTitle = e.imdbTitle;
+                var mst3kTitle = e.mst3kTitle;
+                var title = mst3kTitle;
+                if( imdbTitle != "" && imdbTitle != mst3kTitle ) {
+                    title += " <i>(" + imdbTitle + ")</i>";
+                }
                 var tconst = e.tconst;
                 var html = `<div class="row">
                     <div class="col-sm-1"><a href="movie2_graph.html?tconst=${tconst}">${episode}</a></div>
-                    <div class="col-sm-10">${title}</div>
+                    <div id="${tconst}" class="col-sm-10">${title}</div>
                 </div>`;
                 $('#listing').append(html);
             }
-
-
         }
 
 

@@ -18,7 +18,7 @@
 <body>
 
     <div class="container" style="border-style: solid; border-width: 1px;">
-        <p><a href="index.html">home</a> | <a href="movies.html">listing</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | top movie connections </p>
+        <p><a href="index.html">home</a> | <a href="listing.html">listing</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | top movie connections </p>
 
         <h1>MST3K Riffed Movie Connections</h1>
         <p>
@@ -33,153 +33,144 @@
 
         </div>
 
-        <script type="text/javascript">
+<script type="text/javascript">
 
-            $(document).ready(function () {
-                $.ajax({
-                    url: "data/all_data.json",
-                    dataType: 'json',
-                    success: process,
-                    crossDomain: true
-                });
-            });
+    var episodes;
+    var crew;
 
-            var episodes;
-            var crew;
+    var xAxisData = [];
+    var yAxisData = [];
 
-            var xAxisData = [];
-            var yAxisData = [];
-
-            function getAllTitles(nconst) {
-                var allTitles = [];
-                var crewMember = crew[nconst];
-                for (var tconst of crewMember.actor) {
-                    if (!allTitles.includes(tconst)) {
-                        allTitles.push(tconst);
+    function getMovieConnections(tconst){
+        var episode = episodes[tconst];
+        var connections = {};
+        // actors
+        var actors = episode.actors;
+        for( var actor of actors ) {
+            var nconst = actor.nconst;
+            var crewMember = crew[nconst];
+            for( var relatedActor of crewMember.actor ) {
+                if( tconst != relatedActor.tconst ) {
+                    if( typeof connections[relatedActor.tconst] == 'undefined' ){
+                        connections[relatedActor.tconst] = {
+                            "title": episodes[relatedActor.tconst].mst3kTitle,
+                            "crew": []
+                        };
                     }
+                    var cc = { "nconst": nconst, "name": crewMember.name, "role": relatedActor.role };
+                    connections[relatedActor.tconst].crew.push(cc);
                 }
-                for (var tconst of crewMember.director) {
-                    if (!allTitles.includes(tconst)) {
-                        allTitles.push(tconst);
-                    }
-                }
-                for (var tconst of crewMember.writer) {
-                    if (!allTitles.includes(tconst)) {
-                        allTitles.push(tconst);
-                    }
-                }
-                return allTitles;
             }
+        }
+        return connections;
+    }
 
-            function getAllCrew(tconst) {
-                var allCrew = [];
-                var episode = episodes[tconst];
-                for (var nconst of episode.actors) {
-                    if (!allCrew.includes(nconst)) {
-                        allCrew.push(nconst);
-                    }
-                }
-                for (var nconst of episode.directors) {
-                    if (!allCrew.includes(nconst)) {
-                        allCrew.push(nconst);
-                    }
-                }
-                for (var nconst of episode.writers) {
-                    if (!allCrew.includes(nconst)) {
-                        allCrew.push(nconst);
-                    }
-                }
-                return allCrew;
+    var tconstMap = [];
+
+    function process(data) {
+        episodes = data.episodes;
+        crew = data.crew;
+
+        connectedEpisodes = [];
+        var episodeTconsts = Object.keys(episodes);
+        for( tconst of episodeTconsts ){
+            var connections = getMovieConnections(tconst);
+            var size = Object.keys(connections);
+            connectedEpisodes.push( 
+                { "tconst":tconst, "connections": size}
+            );
+        }
+
+        connectedEpisodes.sort((a, b) => {
+            return b.connections.length - a.connections.length;
+        });
+        
+        var max = 20;
+        for( var i=0; i<max; i++) {
+            var connectedEpisode = connectedEpisodes[i];
+            xAxisData.push( connectedEpisode.connections.length );
+            var episode = episodes[connectedEpisode.tconst];
+            var name = episode.mst3kTitle;
+            if( name.length > 20 ) {
+                name = name.substring(0,20) + "...";
             }
+            name += " ("+episode.episode+")";
+            yAxisData.push( name );
+            tconstMap[max-i-1] = connectedEpisode.tconst;
+        }
 
-            function process(data) {
-                episodes = data.episodes;
-                crew = data.crew;
+        xAxisData = xAxisData.reverse();
+        yAxisData = yAxisData.reverse();
 
-                connectedEpisodes = [];
-                
-                var tconst = "tt0145529";
-                for( tconst in episodes ){
-                    var allConnectionTitles = [];
-                    var episode = episodes[tconst];
-                    var allCrew = getAllCrew(tconst);
-                    for( var nconst of allCrew ) {
-                        var connectedTitles = getAllTitles(nconst);
-                        for( var t of connectedTitles ){
-                            if( !allConnectionTitles.includes(t) ) allConnectionTitles.push(t);
-                        }
-                    }
-                    connectedEpisodes.push( 
-                        { "tconst":tconst, "connections": allConnectionTitles.length }
-                    );
+        buildBarChart();
+    }
+
+    function buildBarChart(){
+        var chartDom = document.getElementById('main');
+        var myChart = echarts.init(chartDom);
+
+        myChart.on("click", function (event) {    
+            var tconst = tconstMap[event.dataIndex]
+            window.location.href=`listing.html?tconst=${tconst}`;
+        });
+
+        var option;
+
+        option = {
+            title: {
+                text: 'Number of connections to between movies'
+            },
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: {
+                    type: 'shadow'
                 }
-
-                connectedEpisodes.sort((a, b) => {
-                    return b.connections - a.connections;
-                });
-                
-                for( var i=0; i<15; i++) {
-                    var connectedEpisode = connectedEpisodes[i];
-                    xAxisData.push( connectedEpisode.connections );
-                    var episode = episodes[connectedEpisode.tconst];
-                    var name = episode.title;
-                    if( name.length > 20 ) {
-                        name = name.substring(0,20) + "...";
-                    }
-                    name += " ("+episode.episode+")";
-                    yAxisData.push( name );
+            },
+            legend: {},
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            xAxis: {
+                type: 'value',
+                boundaryGap: [0, 0.01]
+            },
+            yAxis: {
+                type: 'category',
+                data: yAxisData
+            },
+            series: [
+                {
+                    type: 'bar',
+                    data: xAxisData
                 }
+            ]
+        };
 
-                xAxisData = xAxisData.reverse();
-                yAxisData = yAxisData.reverse();
+        myChart.setOption(option);
+    }
 
-                buildBarChart();
-            }
 
-            function buildBarChart(){
-                var chartDom = document.getElementById('main');
-                var myChart = echarts.init(chartDom);
-                var option;
+    $(document).ready(function () {
+        $.ajax({
+            url: "data/all_data.json",
+            dataType: 'json',
+            success: process,
+            crossDomain: true
+        });
+    });
 
-                option = {
-                    title: {
-                        text: 'Number of connections to between movies'
-                    },
-                    tooltip: {
-                        trigger: 'axis',
-                        axisPointer: {
-                            type: 'shadow'
-                        }
-                    },
-                    legend: {},
-                    grid: {
-                        left: '3%',
-                        right: '4%',
-                        bottom: '3%',
-                        containLabel: true
-                    },
-                    xAxis: {
-                        type: 'value',
-                        boundaryGap: [0, 0.01]
-                    },
-                    yAxis: {
-                        type: 'category',
-                        data: yAxisData
-                    },
-                    series: [
-                        {
-                            type: 'bar',
-                            data: xAxisData
-                        }
-                    ]
-                };
-
-                myChart.setOption(option);
-            }
+    function processData(data){
+        _episodes = data.episodes;
+        _crew = data.crew;
+    }
 
 
 
-        </script>
+
+</script>
 
 </body>
 

@@ -26,7 +26,7 @@
 <body>
 
     <div class="container">
-        <p><a href="index.html">home</a> | <a href="movies.html">listing</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
+        <p><a href="index.html">home</a> | <a href="listing.html">listing</a> | <a href="involvement.html">involvement</a> | <a href="movie_graph.html">movie graph</a> | <a href="movie_connections.html">top movie connections</a> </p>
 
         <h1>MST3K Riffed Movie Explorer</h1>
         <p>
@@ -80,15 +80,15 @@
             episodes = data.episodes;
 
             // now lets create compute the connections
-            var dups = [];
-            for( var tconst in episodes ) {
-                var connections = getConnections( tconst );
-                for( var connection of connections ){
-                    if( typeof episodes[tconst].connections == 'undefined' ) episodes[tconst].connections = [];
-                    episodes[tconst].connections.push( connection );
-                }
-                //console.log( JSON.stringify(episodes[tconst],null,4) );
-            }
+            // var dups = [];
+            // for( var tconst in episodes ) {
+            //     var connections = getConnections( tconst );
+            //     for( var connection of connections ){
+            //         if( typeof episodes[tconst].connections == 'undefined' ) episodes[tconst].connections = [];
+            //         episodes[tconst].connections.push( connection );
+            //     }
+            //     //console.log( JSON.stringify(episodes[tconst],null,4) );
+            // }
 
             buildGraph();
 
@@ -111,24 +111,29 @@
         }
 
 
-        function getRelatedTitles(nconst) {
+        function getRelatedTitles(ref) {
             var allTitles = [];
-            var crewMember = crew[nconst];
-            for (var tconst of crewMember.actor) {
-                if (!allTitles.includes(tconst) ) {
-                    allTitles.push(tconst);
+            var crewMember = crew[ref.nconst];
+
+            if( typeof crewMember != 'undefined' ) {
+                for (var cm of crewMember.actor) {
+                    if (!allTitles.includes(cm.tconst) ) {
+                        allTitles.push(cm.tconst);
+                    }
                 }
-            }
-            for (var tconst of crewMember.director) {
-                if (!allTitles.includes(tconst)) {
-                    allTitles.push(tconst);
+                for (var tconst of crewMember.director) {
+                    if (!allTitles.includes(tconst)) {
+                        allTitles.push(tconst);
+                    }
                 }
-            }
-            for (var tconst of crewMember.writer) {
-                if (!allTitles.includes(tconst) ) {
-                    allTitles.push(tconst);
+                for (var tconst of crewMember.writer) {
+                    if (!allTitles.includes(tconst) ) {
+                        allTitles.push(tconst);
+                    }
                 }
+
             }
+
             return allTitles;
         }
 
@@ -156,15 +161,15 @@
         function getConnections( tconst ) {
             var connections = [];
             var rcrew = getRelatedCrew(tconst);
-            for( var nconst of rcrew ) {
-                var rtitles = getRelatedTitles(nconst);
+            for( var ref of rcrew ) {
+                var rtitles = getRelatedTitles(ref);
                 for( var rtitle of rtitles ) {
-                    if( tconst != rtitle.tconst ){
-                        var t = episodes[rtitle.tconst].title;
+                    if( tconst != rtitle ){
+                        var t = episodes[tconst].mst3kTitle;
                         var connection = {
-                            "tconst": rtitle.tconst,
-                            "title": episodes[rtitle.tconst].title,
-                            "through": crew[nconst].name
+                            "tconst": rtitle,
+                            "title": episodes[tconst].mst3kTitle,
+                            "through": crew[ref.nconst].name
                         }
                         connections.push(connection);
                     }
@@ -187,6 +192,29 @@
 
         }
 
+        function getMovieConnections(tconst){
+            var episode = episodes[tconst];
+            var connections = {};
+            // actors
+            var actors = episode.actors;
+            for( var actor of actors ) {
+                var nconst = actor.nconst;
+                var crewMember = crew[nconst];
+                for( var relatedActor of crewMember.actor ) {
+                    if( tconst != relatedActor.tconst ) {
+                        if( typeof connections[relatedActor.tconst] == 'undefined' ){
+                            connections[relatedActor.tconst] = {
+                                "title": episodes[relatedActor.tconst].mst3kTitle,
+                                "crew": []
+                            };
+                        }
+                        var cc = { "nconst": nconst, "name": crewMember.name, "role": relatedActor.role };
+                        connections[relatedActor.tconst].crew.push(cc);
+                    }
+                }
+            }
+            return connections;
+        }
 
         var highlightedEpisode = null;
         function highlightEpisode(params){
@@ -200,55 +228,46 @@
                     currentHighlight = null;
                 } else {
                     var titleId = params.nodes[0];
-                        var episode = episodes[titleId];
-                        var title = episode.title;
-                        var label = episode.episode;
-                        var year = episode.year;
 
-                        if (Array.isArray(episode.connections) && episode.connections.length > 0) {
-
-                            var connectionSet = {};
-
-                            for (var i = 0; i < episode.connections.length; i++) {
-                                var connection = episode.connections[i];
-                                // if( useEpisode(connection.tconst) ) {
-                                    if( typeof connectionSet[connection.tconst] == 'undefined'  ){
-                                    connectionSet[connection.tconst] = 
-                                        {
-                                            "title": connection.title,
-                                            "through": connection.through
-                                        };
-                                    } else {
-                                        connectionSet[connection.tconst].through += ", "+connection.through;
-                                    }
-                                // }
+                    var episode = episodes[titleId];
+                    var title = episode.mst3kTitle;
+                    var label = episode.episode;
+                    var year = episode.year;
+                    
+                    var connections = getMovieConnections(titleId);
+                    var tconsts = Object.keys(connections);
+                    if ( tconsts.length > 0) {
+                        var lineItems = ""; 
+                        var tconsts = Object.keys(connections);
+                        for( var tconst of tconsts ){
+                            var connection = connections[tconst];
+                            var through = "";
+                            for( var c of connection.crew ) {
+                                if( through != "" ) through += ", ";
+                                through += c.name;
                             }
-
-                            var lineItems = ""; //JSON.stringify(episode);
-                            for( var tconst in connectionSet ){
-                                var connection = connectionSet[tconst];
-                                lineItems += `<li onclick="addTitle('${tconst}')"><b>${connection.title}</b> <i>via ${connection.through}</i></li>`;
-                            }
-
-                            var detailsElm =
-                                `<h4>${title}, ${year} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
-                                Connected to
-                                <ul>${lineItems}</ul>`;
-
-                            $('#details').append(detailsElm);
-                            $('#details').css("background", "antiquewhite");
-                        } else {
-                            var detailsElm =
-                                `<h4>${title}, ${year}  (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
-                                <p>No connections</p>`;
-
-                            $('#details').append(detailsElm);
-                            $('#details').css("background", "antiquewhite");
-
+                            lineItems += `<li onclick="addTitle('${tconst}')"><b>${connection.title}</b> <i>via ${through}</i></li>`;
                         }
-                        currentHighlight = titleId;
+
+                        var detailsElm =
+                            `<h4>${title}, ${year} (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
+                            Connected to
+                            <ul>${lineItems}</ul>`;
+
+                        $('#details').append(detailsElm);
+                        $('#details').css("background", "antiquewhite");
+                    } else {
+                        var detailsElm =
+                            `<h4>${title}, ${year}  (${label}) &nbsp; <a href="https://www.imdb.com/title/${titleId}" target="_blank"><img src="images/imdb.png" width="24"></a></h4>
+                            <p>No connections</p>`;
+
+                        $('#details').append(detailsElm);
+                        $('#details').css("background", "antiquewhite");
+
                     }
+                    currentHighlight = titleId;
                 }
+            }
         }
 
         function getAllTitles( nconst ) {
@@ -315,7 +334,7 @@
                 var node = {
                         "id": tconst,
                         "label": episode.episode,
-                        "title": episode.title,
+                        "title": episode.mst3kTitle,
                         "shape": "box",
                         "color": "gold",
                         "host": episode.host
@@ -328,8 +347,9 @@
                 // nodes
                 var connections = getConnections( tconst );
 
-                for( var connection of connections ) {
-                    if( !addedEdges.includes( connection.tconst+'-'+tconst) ){
+                for( var c in connections ) {
+                    var connection = connections[c];
+                    if( connection.tconst != tconst && !addedEdges.includes( connection.tconst+'-'+tconst) ){
                         var edge = {
                             "to": connection.tconst,
                             "from": tconst
